@@ -49,3 +49,6 @@ settings:
     subscribe_enabled: true
     version_enabled: true
     theme_selector_enabled: true
+logo:
+  logo_image: /logo-light.png
+  logo_image_dark: /logo-dark.png
