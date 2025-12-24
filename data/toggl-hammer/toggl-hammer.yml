@@ -1,0 +1,12 @@
+name: toggl-hammer
+description: An efficient Python command-line interface for quickly entering
+  time-insensitive Toggl entries, streamlining bulk or approximate time tracking
+  from the terminal.
+source_url: https://github.com/david-cako/toggl-hammer
+featured: false
+brand_logo_url: null
+images: null
+category: others
+tags: []
+markdown: ""
+updated_at: 2025-12-24 14:43

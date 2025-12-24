@@ -1,0 +1,12 @@
+name: togglv8
+description: A Ruby wrapper for the Toggl API v8 that enables Ruby applications
+  and scripts to interact with Toggl time tracking (e.g., managing time entries,
+  projects, and clients).
+source_url: https://github.com/kanet77/togglv8
+featured: false
+brand_logo_url: null
+images: null
+category: others
+tags: []
+markdown: ""
+updated_at: 2025-12-24 14:43

@@ -1,0 +1,42 @@
+name: Morning Train Toggl API (PHP classes)
+description: A set of PHP classes for interacting with the Toggl API v8, based
+  on Guzzle 6, providing a structured way to integrate Toggl time-tracking into
+  PHP projects.
+source_url: https://en.wikipedia.org/wiki/Morning
+featured: false
+brand: morning-train
+brand_logo_url: /
+images: null
+category: others
+tags: []
+markdown: >-
+  ## Morning Train Toggl API (PHP classes)
+
+
+  **Category:** Others  
+
+  **Brand:** morning-train
+
+
+  ### Overview
+
+  Morning Train Toggl API is a set of PHP classes built to interact with the
+  Toggl API v8. It provides a structured way to integrate Toggl’s time-tracking
+  capabilities into PHP-based projects.
+
+
+  ### Features
+
+  - Set of PHP classes for working with the Toggl API v8
+
+  - Based on Guzzle 6 for HTTP requests
+
+  - Structured integration of Toggl time-tracking into PHP applications
+
+  - Object-oriented approach for organizing API interactions
+
+
+  ### Pricing
+
+  Pricing information is not specified in the provided content.
+updated_at: 2025-12-24 14:43
