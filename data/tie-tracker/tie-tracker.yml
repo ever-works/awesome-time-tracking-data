@@ -1,0 +1,61 @@
+name: Tie Tracker
+description: Tie Tracker is a free, open-source time tracking application that
+  lets users record and manage working hours across projects, track productivity
+  and billable time, and generate simple reports, with a clean, minimal UX
+  suitable for personal or lightweight professional workflows.
+source_url: https://tietracker.com
+featured: false
+brand: tie-tracker
+brand_logo_url: https://raw.githubusercontent.com/peterpeterparker/tietracker/main/public/assets/icon/logo.svg
+images:
+  - https://raw.githubusercontent.com/peterpeterparker/tietracker/main/public/assets/icon/logo.svg
+  - https://camo.githubusercontent.com/558a72ca9c7a9fe205c61302e906055437d22e3d52d2c2442b882e7af2558fe8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d41707025323053746f7265266d6573736167653d446f776e6c6f616426636f6c6f723d666636396234
+  - https://camo.githubusercontent.com/82704a0feb2303b9d3776dadacda9e73dbc303211f60d714346112c2899184c2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d476f6f676c65253230506c6179266d6573736167653d446f776e6c6f616426636f6c6f723d666636396234
+category: time-tracking-cli-tools
+tags: []
+markdown: >
+  ## Tie Tracker
+
+
+  ### Description
+
+  Tie Tracker is a free, open-source time tracking application for recording and
+  managing working hours across clients and projects. It focuses on a clean,
+  minimal interface suitable for personal or lightweight professional use,
+  including basic reporting and billing support.
+
+
+  ### Features
+
+  - **Time tracking**
+    - Simple work hours tracking
+    - Track time across multiple projects
+    - Assign time entries to specific clients and projects
+    - Track productivity and billable vs. non-billable time
+
+  - **Billing & invoicing**
+    - Mark individual time entries as billed or unbilled
+    - Export open (unbilled) invoices to XLSX timesheets (compatible with Excel, LibreOffice, Numbers, etc.)
+    - Export timesheets and invoices to PDF
+
+  - **Views & summaries**
+    - Weekly work summary
+    - Daily list of activities and time entries
+    - Simple, minimal reports for tracked time
+
+  - **General**
+    - Free and open-source
+    - Clean, minimal UX optimized for straightforward time logging
+
+  ### Pricing
+
+  - **Free**
+    - Entire application is free to use
+    - Open-source project with no paid plans listed
+
+  ### Links
+
+  - **Website:** https://tietracker.com
+
+  - **Source / Logo:** https://github.com/peterpeterparker/tietracker
+updated_at: 2025-12-24 12:06

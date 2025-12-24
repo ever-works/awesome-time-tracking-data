@@ -1,0 +1,25 @@
+name: PayClock
+description: PayClock is Lathem’s cloud-based employee time tracking and
+  attendance system that lets staff clock in and out via web browser, mobile
+  app, PCs, or connected Lathem time clocks. It centralizes timecard data for
+  on-demand viewing, automates overtime and attendance calculations, and
+  integrates with payroll platforms such as QuickBooks, ADP, Paychex, Gusto, and
+  Sage. PayClock helps reduce time theft, control unauthorized overtime, and
+  support ACA and wage/hour compliance for both on-site and remote teams.
+source_url: https://www.getapp.com/all-software/a/payclock-online/
+featured: false
+brand: lathem
+brand_logo_url: https://www.lathem.com/Portals/0/logo-lathem.png?ver=ob_JFwMbStIUCUUATRfthw%3d%3d
+images:
+  - https://www.lathem.com/Portals/0/images/home/homepage-pco-pcface-hero-fg2.webp
+  - https://www.lathem.com/portals/0/images/home/cta-timeclocks-image.jpg
+  - https://www.lathem.com/portals/0/images/home/cta-pc-demo-image.jpg
+  - https://www.lathem.com/portals/0/images/home/cta-15-days-image.jpg
+  - https://www.lathem.com/portals/0/images/home/cta-quote-image-2.jpg
+  - https://www.lathem.com/portals/0/images/home/home-payclock-cut-payroll.webp
+  - https://www.lathem.com/portals/0/images/home/home-pco-pcprox-exports.webp
+  - https://www.lathem.com/Portals/0/logo-lathem.png?ver=ob_JFwMbStIUCUUATRfthw%3d%3d
+category: time-tracking-cli-tools
+tags: []
+markdown: ""
+updated_at: 2025-12-24 12:06
