@@ -1,0 +1,43 @@
+name: node-toggl-api
+description: A Node.js library for the Toggl API v8 that provides a programmatic
+  interface for integrating Toggl time tracking into JavaScript/Node
+  applications.
+source_url: https://zenodo.org/records/15048694/files/RQ2_1_DiD_data.csv?download=1
+featured: false
+brand_logo_url: null
+images: null
+category: others
+tags: []
+markdown: >-
+  ## node-toggl-api
+
+
+  ### Description
+
+  `node-toggl-api` is a Node.js library for the Toggl API v8, providing a
+  programmatic interface to integrate Toggl time tracking capabilities into
+  JavaScript/Node.js applications.
+
+
+  ### Features
+
+  - Programmatic access to Toggl API v8
+
+  - Designed for use in Node.js and JavaScript applications
+
+  - Enables integration of Toggl time tracking into custom software solutions
+
+
+  ### Use Cases
+
+  - Building custom time tracking tools on top of Toggl
+
+  - Integrating Toggl time tracking into internal dashboards or workflows
+
+  - Automating time entry interactions with Toggl from Node.js services
+
+
+  ### Pricing
+
+  Pricing details are not provided in the available information.
+updated_at: 2025-12-24 14:43

@@ -264,3 +264,7 @@
   name: absence-planning
 - id: timesheets
   name: timesheets
+- id: construction
+  name: construction
+- id: job-costing
+  name: job-costing

@@ -1,5 +1,5 @@
 - id: time-tracking-cli-tools
-  name: Time Tracking CLI Tools
+  name: Time Tracking Cli Tools
 - id: automated-time-tracking
   name: Automated Time Tracking
 - id: desktop-time-tracking-applications
@@ -13,7 +13,7 @@
 - id: mobile-time-tracking
   name: Mobile Time Tracking
 - id: web-based-time-tracking
-  name: Web-Based Time Tracking
+  name: Web Based Time Tracking
 - id: time-tracking-overview-resources
   name: Time Tracking Overview & Resources
 - id: countdown-interval-timers
@@ -32,3 +32,15 @@
   name: Productivity Tools
 - id: resource-scheduling
   name: Resource Scheduling
+- id: equipment-fleet-time-tracking
+  name: Equipment & Fleet Time Tracking
+- id: time-tracking-utilities-calculators
+  name: Time Tracking Utilities & Calculators
+- id: time-tracking-apis-integrations
+  name: Time Tracking Apis & Integrations
+- id: others
+  name: Others
+- id: practices
+  name: Practices
+- id: developer-time-tracking
+  name: Developer Time Tracking
