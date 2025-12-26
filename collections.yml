@@ -1,0 +1,436 @@
+- id: ai-tools
+  slug: ai-tools
+  name: AI & Machine Learning Tools
+  description: Discover powerful AI and machine learning tools to enhance your
+    projects. From neural networks to natural language processing, find the best
+    open source solutions.
+  icon_url: 🤖
+  isActive: true
+  item_count: 24
+  created_at: 2025-12-23T11:53:49.973Z
+  updated_at: 2025-12-23T22:12:17.599Z
+  items:
+    - timesolv
+    - minder
+    - productivity-tracker
+    - screen-time-tracker
+    - timetracker
+    - time-tracker-valb3r
+    - billwarrior
+    - time-tracking-software
+    - busybusy-field-employee-tracking-app-gps
+    - tems
+    - timetiger
+    - trak
+    - kimai
+    - ultimate-time-tracker
+    - clockdiary
+    - wakatime
+    - timeclockmts
+    - time-analytics
+    - workclock
+    - timetrex
+    - litt
+    - zoho-projects
+    - chrono
+    - activitywatch
+- id: dev-tools
+  slug: dev-tools
+  name: Developer Tools
+  description: Essential tools every developer needs. IDEs, version control,
+    debugging tools, and productivity enhancers to streamline your development
+    workflow.
+  icon_url: 🛠️
+  isActive: true
+  item_count: 42
+  created_at: 2025-12-23T11:55:12.159Z
+  updated_at: 2025-12-23T12:02:33.158Z
+  items:
+    - avaza
+    - ktimetracker
+    - openproject
+    - ha-toggl-track
+    - clickup
+    - goodday
+    - busybusy-mobile-time-clock-app
+    - memtime
+    - time-clock-wizard
+    - teamboard-timeplanner
+    - hamster
+    - timely
+    - hourglass
+    - busybusy-equipment-time-tracking-app
+    - timing
+    - insightful
+    - pendulums
+    - free-time-clock-calculator
+    - rescuetime
+    - watcher
+    - toggl-plan
+    - wakatime
+    - deputy
+    - easy-projects
+    - django-timepiece
+    - liquidplanner
+    - invoice-ninja
+    - time-analytics
+    - project-open
+    - trax
+    - toggl-cli
+    - collabtive
+    - desktime
+    - billwarrior
+    - trakker
+    - hourstack
+    - redmine
+    - notomato-task-timer
+    - hubstaff
+    - functionfox
+    - play-timer
+    - charm
+- id: web-frameworks
+  slug: web-frameworks
+  name: Web Frameworks
+  description: Modern web frameworks for building scalable applications. From
+    frontend libraries to full-stack solutions, explore frameworks that power
+    the web.
+  icon_url: 🌐
+  isActive: true
+  item_count: 18
+  created_at: 2025-12-23T11:57:21.324Z
+  updated_at: 2025-12-23T12:03:27.879Z
+  items:
+    - timelog
+    - insightful
+    - xbar-rescuetime-activities
+    - wage-labor-record
+    - anuko
+    - opentimetool
+    - comparison-of-time-tracking-software
+    - timey
+    - time-analytics
+    - pytm
+    - timeular
+    - timeslottracker
+    - clicktime
+    - timesolv
+    - timesheet-apps
+    - proofhub
+    - functionfox
+    - andco
+- id: data-science
+  slug: data-science
+  name: Data Science & Analytics
+  description: Tools and libraries for data analysis, visualization, and
+    scientific computing. Transform raw data into actionable insights with these
+    powerful solutions.
+  icon_url: 📊
+  isActive: true
+  item_count: 31
+  created_at: 2025-12-23T12:03:29.027Z
+  updated_at: 2025-12-23T12:05:17.198Z
+  items:
+    - time-tracker-gnome-linux
+    - hubstaff
+    - toggl-cli
+    - time-clock-wizard
+    - busybusy-job-costing-app
+    - rtw
+    - workclock
+    - justworks
+    - pururu-bot
+    - group-office
+    - apploye
+    - time-card-calculator
+    - task-coach
+    - deputy
+    - wakatime
+    - api-integrations-for-time-tracking-software
+    - titra
+    - all-hours
+    - timeular
+    - when-i-work
+    - awesome-time-tracking
+    - activitywatch
+    - timeclockmts
+    - furtherance
+    - muino-time-management
+    - overtime-calculator
+    - aitrackwork
+    - twproject
+    - khronos
+    - super-productivity
+    - solidtime
+- id: cloud-native
+  slug: cloud-native
+  name: Cloud Native Tools
+  description: Build, deploy, and manage cloud-native applications. Container
+    orchestration, service mesh, monitoring, and other tools for modern cloud
+    infrastructure.
+  icon_url: ☁️
+  isActive: true
+  item_count: 27
+  created_at: 2025-12-23T12:05:18.148Z
+  updated_at: 2025-12-23T12:06:52.628Z
+  items:
+    - ehour
+    - atracker
+    - timeit
+    - clicktime
+    - xbar-rescuetime-activities
+    - overtime-calculator
+    - desktop-wakatime
+    - solidtime
+    - taskford
+    - workclock
+    - activecollab
+    - timetrace
+    - tiny-time-tracker
+    - charm
+    - tick
+    - ever-gauzy-desktop-timer
+    - goodday
+    - ha-toggl-track
+    - quickbooks-time
+    - officetime
+    - beebole
+    - gtimer
+    - time-clock-wizard
+    - easy-redmine
+    - toggl-desktop
+    - tsheets
+    - freelancy
+- id: security
+  slug: security
+  name: Security & Privacy
+  description: Protect your applications and data with these security tools. From
+    encryption libraries to vulnerability scanners, stay secure with open source
+    solutions.
+  icon_url: 🔒
+  isActive: true
+  item_count: 19
+  created_at: 2025-12-23T12:06:54.255Z
+  updated_at: 2025-12-23T12:07:53.894Z
+  items:
+    - bitrix24
+    - tijd
+    - timetrace
+    - trackingtime
+    - baralga
+    - productiveio
+    - tems
+    - pytm
+    - watson
+    - deep-pomo
+    - registro-trabajo
+    - sunsama
+    - clockshark
+    - tmetric
+    - quickbooks-time-tracking
+    - tracklater
+    - timetrap
+    - timetrack
+    - anuko
+- id: mobile-dev
+  slug: mobile-dev
+  name: Mobile Development
+  description: Cross-platform and native mobile development frameworks. Build
+    stunning iOS and Android apps with React Native, Flutter, and other modern
+    tools.
+  icon_url: 📱
+  isActive: true
+  item_count: 35
+  created_at: 2025-12-23T12:07:55.675Z
+  updated_at: 2025-12-23T12:10:00.084Z
+  items:
+    - openproject
+    - hourglass
+    - opentimetool
+    - sunsama
+    - time-limit
+    - instant
+    - tasktime
+    - plandora
+    - desktop-wakatime
+    - watson
+    - timesheetscom
+    - manictime
+    - andco
+    - timetrack
+    - trak
+    - rtw
+    - work-snapshots
+    - kimai
+    - task-coach
+    - justworks
+    - taskford
+    - timeit
+    - tijd
+    - busybusy-construction-timesheet-app
+    - quidlo-timesheets
+    - pururu-bot
+    - clockly
+    - timed
+    - anuko-time-tracker
+    - bigtime
+    - activecollab
+    - fleetwatcher
+    - buddy-punch
+    - officetime
+    - productivity-tracker
+- id: devops
+  slug: devops
+  name: DevOps & CI/CD
+  description: Automate your deployment pipeline with CI/CD tools, infrastructure
+    as code, and DevOps best practices for faster, more reliable releases.
+  icon_url: 🚀
+  isActive: true
+  item_count: 29
+  created_at: 2025-12-23T12:10:03.242Z
+  updated_at: 2025-12-23T12:12:03.981Z
+  items:
+    - wage-labor-record
+    - quickbooks-time-tracking
+    - gtimer
+    - rescuetime
+    - timetracker
+    - busybusy-landscaping-time-tracking-software
+    - clockify
+    - trackingtime
+    - chrono
+    - replicon
+    - ktimetracker
+    - manictime
+    - homebase
+    - task-coach
+    - quidlo-timesheets
+    - fogbugz
+    - attendance-tracker
+    - busybusy-time-tracking-features
+    - fleetwatcher
+    - wakapi
+    - pendulums
+    - hourstack
+    - charm
+    - clockify-cli
+    - project-time-tracking-platform
+    - clockly
+    - doug
+    - beebole
+    - time-cop
+- id: databases
+  slug: databases
+  name: Databases & Storage.
+  description: Relational, NoSQL, and distributed databases. From PostgreSQL to
+    MongoDB, find the right data storage solution for your application.
+  icon_url: 💾
+  isActive: true
+  item_count: 22
+  created_at: 2025-12-23T12:12:05.273Z
+  updated_at: 2025-12-23T21:43:17.580Z
+  items:
+    - pendulums
+    - miru
+    - project-time-tracking-platform
+    - hubstaff
+    - play-timer
+    - ultimate-time-tracker
+    - solidtime
+    - tracktime
+    - activtrak
+    - twproject
+    - deep-pomo
+    - timetrace
+    - manictime
+    - lasius
+    - rtrackr
+    - all-hours
+    - clicktime
+    - trello
+    - ktimetracker
+    - taskford
+    - zoho-projects
+    - cattr
+- id: testing
+  slug: testing
+  name: Testing & QA
+  description: Unit testing, integration testing, and end-to-end testing
+    frameworks. Ensure code quality with comprehensive testing tools.
+  icon_url: 🧪
+  isActive: true
+  item_count: 19
+  created_at: 2025-12-23T22:40:18.833Z
+  updated_at: 2025-12-23T23:57:01.303Z
+  items:
+    - busybusy-job-costing-app
+    - busybusy-job-site-time-clock-app
+    - busybusy-landscaping-time-tracking-software
+    - busybusy-mobile-time-clock-app
+    - busybusy-mobile-time-tracking-app
+    - busybusy-time-tracking-features
+    - california-overtime-calculator
+    - timesheetscom
+    - atracker
+    - actitime
+    - all-hours
+    - clockshark
+    - timer-5
+    - timely
+    - timetagger
+    - timetrack
+    - tracktime
+    - trak
+    - fleetwatcher
+- id: component-libraries
+  slug: component-libraries
+  name: UI Component Libraries
+  description: Pre-built UI components and design systems. Speed up development
+    with beautiful, accessible component libraries for React, Vue, and more.
+  icon_url: 🎨
+  isActive: true
+  item_count: 8
+  created_at: 2025-12-24T12:01:52.584Z
+  updated_at: 2025-12-25T12:37:27.119Z
+  items:
+    - asana-time-tracking-trackingtime-integration
+    - basecamp-time-tracking-trackingtime-integration
+    - bartib
+    - apploye
+    - chronicl
+    - gtoggl
+    - duefocus
+    - timenotes
+- id: api-development
+  slug: api-development
+  name: API Development
+  description: REST, GraphQL, and gRPC tools for building robust APIs.
+    Documentation generators, testing tools, and API gateways for modern
+    backends.
+  icon_url: 🔌
+  isActive: true
+  item_count: 6
+  created_at: 2025-12-24T12:56:09.254Z
+  updated_at: 2025-12-24T22:08:03.257Z
+  items:
+    - gitlab
+    - apploye
+    - beebole
+    - bartib
+    - chronicl
+    - gtoggl
+- id: monitoring-observability
+  slug: monitoring-observability
+  name: Monitoring & Observability
+  description: Application performance monitoring, logging, and tracing tools.
+    Keep your systems healthy with real-time insights and alerts.
+  icon_url: 📈
+  isActive: true
+  item_count: 5
+  created_at: 2025-12-25T12:44:18.542Z
+  updated_at: 2025-12-25T14:46:40.793Z
+  items:
+    - ixudra-toggl-laravel-php-library
+    - morning-train-toggl-api-php-classes
+    - linear-time-tracking-trackingtime-integration
+    - jira-time-tracking-trackingtime-integration
+    - timenotes
