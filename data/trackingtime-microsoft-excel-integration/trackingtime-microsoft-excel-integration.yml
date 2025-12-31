@@ -1,0 +1,68 @@
+name: TrackingTime – Microsoft Excel Integration
+description: A Zapier workflow template that connects TrackingTime with
+  Microsoft Excel to automatically add a new row in a chosen Excel spreadsheet
+  whenever a time entry is created or updated in TrackingTime, enabling
+  organized, automated time tracking records without manual data entry.
+source_url: https://zapier.com/apps/excel/integrations/trackingtime
+featured: false
+brand: zapier
+brand_logo_url: https://zapier.com/favicon.ico
+images:
+  - https://zapier-images.imgix.net/storage/services/4dd3492d68f53fc4ac381c565173dbea.png?auto=format&ixlib=react-9.8.1&q=50&fit=crop&h=120&w=120
+  - https://zapier-images.imgix.net/storage/services/14c14cc1f134a43c0931a7373b9d6a12.png?auto=format&ixlib=react-9.8.1&q=50&fit=crop&h=120&w=120
+category: time-tracking-apis-integrations
+tags:
+  - integration
+  - export
+  - automation
+markdown: >-
+  # TrackingTime – Microsoft Excel Integration
+
+
+  **Provider:** Zapier  
+
+  **Category:** Time Tracking APIs & Integrations  
+
+  **Type:** No-code automation template (Zapier workflow)
+
+
+  ## Overview
+
+  This Zapier template connects TrackingTime with Microsoft Excel so that time
+  entries from TrackingTime are automatically recorded into an Excel
+  spreadsheet. It helps keep time tracking data organized in Excel without
+  manual copying or data entry.
+
+
+  ## Features
+
+  - **Automated row creation in Excel**
+    - Automatically add a new row to a specified Microsoft Excel worksheet when a new time entry is created in TrackingTime.
+
+  - **Sync updated time entries**
+    - Create or update rows in Excel when an existing TrackingTime time entry is updated, keeping the spreadsheet aligned with current time data.
+
+  - **Template-based setup**
+    - Start from a prebuilt Zapier template specifically designed to connect TrackingTime and Microsoft Excel.
+    - Configure the target spreadsheet and worksheet, and map TrackingTime fields (e.g., project, task, duration, date) to Excel columns.
+
+  - **No-code automation**
+    - Build and deploy the workflow without coding, using Zapier’s visual automation builder.
+
+  ## Typical Use Cases
+
+  - Maintain a structured timesheet or log of all TrackingTime entries in Excel.
+
+  - Support reporting, billing, or payroll processes that rely on Excel-based
+  data.
+
+  - Centralize time tracking records from TrackingTime into an Excel workbook
+  for further analysis or sharing.
+
+
+  ## Pricing
+
+  The content provided does not list specific pricing or plans for this
+  integration. Usage typically depends on your Zapier subscription and any
+  applicable TrackingTime and Microsoft 365/Excel licensing.
+updated_at: 2025-12-31 19:06

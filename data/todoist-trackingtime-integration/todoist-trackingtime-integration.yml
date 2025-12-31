@@ -1,0 +1,95 @@
+name: Todoist – TrackingTime Integration
+description: A Zapier workflow template that syncs task management and time
+  tracking by creating a corresponding TrackingTime task whenever a new
+  incomplete task is added in Todoist, centralizing tasks for easier tracking
+  and improved productivity.
+source_url: https://zapier.com/apps/todoist/integrations/trackingtime
+featured: false
+brand: zapier
+brand_logo_url: https://zapier.com/favicon.ico
+images:
+  - https://zapier-images.imgix.net/storage/developer/965784dd0a38a1e338b61b8b89ceaf78.png?auto=format&ixlib=react-9.8.1&q=50&fit=crop&h=120&w=120
+  - https://zapier-images.imgix.net/storage/services/4dd3492d68f53fc4ac381c565173dbea.png?auto=format&ixlib=react-9.8.1&q=50&fit=crop&h=120&w=120
+category: time-tracking-apis-integrations
+tags:
+  - integration
+  - task-management
+  - automation
+markdown: >-
+  # Todoist – TrackingTime Integration
+
+
+  **Category:** Time Tracking APIs & Integrations  
+
+  **Provider:** Zapier  
+
+  **Integration Type:** No-code automation template (Zapier workflow)
+
+
+  Sync Todoist task management with TrackingTime so that every new incomplete
+  Todoist task automatically gets a corresponding TrackingTime task, keeping
+  time tracking aligned with your task list.
+
+
+  ---
+
+
+  ## Features
+
+
+  - **Automatic task sync**  
+    - Creates a new task in TrackingTime whenever a new incomplete task is created in Todoist.
+    - Keeps your time-tracking workspace in sync with your to-do list without manual data entry.
+
+  - **Trigger-based automation**  
+    - Trigger: New incomplete task added in Todoist.  
+    - Action: Create corresponding task in TrackingTime.
+
+  - **No-code setup**  
+    - Implemented as a Zapier template—configure and activate without writing code.
+    - Can be used as a starting point and further customized within Zapier (e.g., filters, additional steps).
+
+  - **Centralized task tracking**  
+    - Ensures all Todoist tasks that are still open are represented in TrackingTime for accurate time logging and reporting.
+
+  ---
+
+
+  ## Use Cases
+
+
+  - Automatically generate time-tracking entries for every new Todoist task that
+  still needs to be completed.
+
+  - Maintain consistent project/task structures between Todoist and
+  TrackingTime.
+
+  - Reduce manual copying of tasks from a to-do app into a time-tracking tool.
+
+
+  ---
+
+
+  ## Pricing
+
+
+  - This is a **Zapier workflow template**.  
+
+  - Usage and limitations depend on your **Zapier plan** and the **Todoist** and
+  **TrackingTime** accounts you connect.  
+
+  - No specific plan/pricing details are provided in the available content;
+  refer to each product’s pricing page for current information.
+
+
+  ---
+
+
+  ## Links
+
+
+  - **Integration page:**
+  https://zapier.com/apps/todoist/integrations/trackingtime
+
+  - **Provider:** https://zapier.com/
+updated_at: 2025-12-31 19:06
