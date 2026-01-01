@@ -1,3 +1,6 @@
+pagination:
+  type: standard
+  itemsPerPage: 12
 company_name: Ever
 content_table: true
 item_name: Item
@@ -11,9 +14,6 @@ relevance_threshold_content: 0.75
 min_content_length_for_extraction: 300
 ai_first_generation_enabled: true
 prompt_comparison_confidence_threshold: 0.5
-pagination:
-  type: standard
-  itemsPerPage: 12
 auth:
   credentials: true
   google: true
@@ -74,3 +74,6 @@ metadata:
     priority_categories: []
     target_keywords: []
   initial_prompt: Time Tracking - Software, Methodologies and Practices
+custom_footer:
+  - label: footer.PRIVACY_POLICY
+    path: '/pages/privacy-policy '
