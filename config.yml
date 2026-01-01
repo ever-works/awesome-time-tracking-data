@@ -79,3 +79,5 @@ custom_footer:
     path: /pages/privacy-policy
   - label: footer.TERMS_OF_SERVICE
     path: /pages/terms-of-service
+  - label: footer.COOKIES
+    path: /pages/cookies
