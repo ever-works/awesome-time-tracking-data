@@ -52,6 +52,9 @@ settings:
 logo:
   logo_image: /logo-light.png
   logo_image_dark: /logo-dark.png
+custom_hero:
+  enabled: false
+  source: /blocks/hero.md
 metadata:
   last_request_data:
     source_urls: []
