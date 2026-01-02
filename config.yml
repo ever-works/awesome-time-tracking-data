@@ -51,7 +51,7 @@ settings:
     theme_selector_enabled: true
 logo:
   logo_image: /logo-light.png
-  logo_image_dark: /logo-dark.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-time-tracking-data/master/pages/logo-dark.png
 metadata:
   last_request_data:
     source_urls: []
