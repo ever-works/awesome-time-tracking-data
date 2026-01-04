@@ -59,7 +59,7 @@ logo:
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-time-tracking-data/master/pages/logo-dark.png
 custom_hero:
   enabled: false
-  source: /blocks/hero.md
+  source: /pages/blocks/hero.md
 metadata:
   last_request_data:
     source_urls: []
