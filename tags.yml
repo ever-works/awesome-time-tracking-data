@@ -1,5 +1,5 @@
 - id: open-source
-  name: open-source
+  name: Open Source
 - id: command-line
   name: command-line
 - id: ruby
@@ -7,19 +7,19 @@
 - id: personal-use
   name: personal-use
 - id: productivity
-  name: productivity
+  name: Productivity
 - id: automatic-tracking
-  name: automatic-tracking
+  name: Automatic Tracking
 - id: analytics
-  name: analytics
+  name: Analytics
 - id: cross-platform
-  name: cross-platform
+  name: Cross Platform
 - id: kde
   name: kde
 - id: linux
   name: linux
 - id: task-management
-  name: task-management
+  name: Task Management
 - id: gnome
   name: gnome
 - id: minimalist
@@ -31,15 +31,15 @@
 - id: lightweight
   name: lightweight
 - id: pomodoro
-  name: pomodoro
+  name: Pomodoro
 - id: api
   name: api
 - id: reporting
-  name: reporting
+  name: Reporting
 - id: self-hosted
-  name: self-hosted
+  name: Self Hosted
 - id: project-management
-  name: project-management
+  name: Project Management
 - id: csv-export
   name: csv-export
 - id: simple-ui
@@ -65,25 +65,25 @@
 - id: usage-monitoring
   name: usage-monitoring
 - id: web-based
-  name: web-based
+  name: Web Based
 - id: nfc
   name: nfc
 - id: dash
   name: dash
 - id: ai
-  name: ai
+  name: Ai
 - id: jira
   name: jira
 - id: integration
-  name: integration
+  name: Integration
 - id: collaborative
   name: collaborative
 - id: offline
-  name: offline
+  name: Offline
 - id: billable-hours
-  name: billable-hours
+  name: Billable Hours
 - id: freelancers
-  name: freelancers
+  name: Freelancers
 - id: overview
   name: overview
 - id: reference
@@ -91,7 +91,7 @@
 - id: timesheet
   name: timesheet
 - id: invoicing
-  name: invoicing
+  name: Invoicing
 - id: expense-tracking
   name: expense-tracking
 - id: approval-workflows
@@ -101,7 +101,7 @@
 - id: real-time
   name: real-time
 - id: privacy
-  name: privacy
+  name: Privacy
 - id: countdown
   name: countdown
 - id: presentation
@@ -111,33 +111,33 @@
 - id: shell-extension
   name: shell-extension
 - id: enterprise
-  name: enterprise
+  name: Enterprise
 - id: user-management
   name: user-management
 - id: resource-management
-  name: resource-management
+  name: Resource Management
 - id: attendance
   name: attendance
 - id: small-business
   name: small-business
 - id: activity-monitoring
-  name: activity-monitoring
+  name: Activity Monitoring
 - id: automation
-  name: automation
+  name: Automation
 - id: planning
-  name: planning
+  name: Planning
 - id: visualization
-  name: visualization
+  name: Visualization
 - id: java
   name: java
 - id: teams
-  name: teams
+  name: Teams
 - id: effort-tracking
   name: effort-tracking
 - id: export
   name: export
 - id: payroll
-  name: payroll
+  name: Payroll
 - id: device
   name: device
 - id: leave-tracking
@@ -155,33 +155,33 @@
 - id: rust
   name: rust
 - id: go
-  name: go
+  name: Go
 - id: timeline
   name: timeline
 - id: chatops
   name: chatops
 - id: screenshot
-  name: screenshot
+  name: Screenshot
 - id: time-management
-  name: time-management
+  name: Time Management
 - id: analysis
   name: analysis
 - id: gps
-  name: gps
+  name: Gps
 - id: billing
   name: billing
 - id: scheduling
-  name: scheduling
+  name: Scheduling
 - id: macos
   name: macos
 - id: team
   name: team
 - id: employee-monitoring
-  name: employee-monitoring
+  name: Employee Monitoring
 - id: punch-clock
   name: punch-clock
 - id: professionals
-  name: professionals
+  name: Professionals
 - id: agile
   name: agile
 - id: contractors
@@ -189,11 +189,11 @@
 - id: reminders
   name: reminders
 - id: developers
-  name: developers
+  name: Developers
 - id: firebase
   name: firebase
 - id: plugin
-  name: plugin
+  name: Plugin
 - id: discord
   name: discord
 - id: extension
@@ -201,13 +201,13 @@
 - id: record-keeping
   name: record-keeping
 - id: budgeting
-  name: budgeting
+  name: Budgeting
 - id: kanban
   name: kanban
 - id: hr
   name: hr
 - id: compliance
-  name: compliance
+  name: Compliance
 - id: remote-teams
   name: remote-teams
 - id: agpl-30
@@ -223,7 +223,7 @@
 - id: events
   name: events
 - id: comparison
-  name: comparison
+  name: Comparison
 - id: software-list
   name: software-list
 - id: evaluation
@@ -249,7 +249,7 @@
 - id: ios
   name: ios
 - id: accounting
-  name: accounting
+  name: Accounting
 - id: commerce
   name: commerce
 - id: directory
@@ -259,14 +259,94 @@
 - id: calculation
   name: calculation
 - id: geofencing
-  name: geofencing
+  name: Geofencing
 - id: absence-planning
   name: absence-planning
 - id: timesheets
-  name: timesheets
+  name: Timesheets
 - id: construction
-  name: construction
+  name: Construction
 - id: job-costing
-  name: job-costing
+  name: Job Costing
 - id: calendar
-  name: calendar
+  name: Calendar
+- id: breaks
+  name: Breaks
+- id: research-based
+  name: Research Based
+- id: focus
+  name: Focus
+- id: prioritization
+  name: Prioritization
+- id: decision-making
+  name: Decision Making
+- id: time-blocking
+  name: Time Blocking
+- id: contract
+  name: Contract
+- id: concentration
+  name: Concentration
+- id: learning
+  name: Learning
+- id: habits
+  name: Habits
+- id: consistency
+  name: Consistency
+- id: motivation
+  name: Motivation
+- id: methodology
+  name: Methodology
+- id: procrastination
+  name: Procrastination
+- id: apple
+  name: Apple
+- id: flowmodoro
+  name: Flowmodoro
+- id: flow-state
+  name: Flow State
+- id: flexibility
+  name: Flexibility
+- id: deep-work
+  name: Deep Work
+- id: adhd
+  name: Adhd
+- id: organization
+  name: Organization
+- id: gtd
+  name: Gtd
+- id: reflection
+  name: Reflection
+- id: review
+  name: Review
+- id: six-tasks
+  name: Six Tasks
+- id: morning
+  name: Morning
+- id: impact
+  name: Impact
+- id: music
+  name: Music
+- id: efficiency
+  name: Efficiency
+- id: deadlines
+  name: Deadlines
+- id: capacity-planning
+  name: Capacity Planning
+- id: security
+  name: Security
+- id: mileage
+  name: Mileage
+- id: tag-based
+  name: Tag Based
+- id: science-based
+  name: Science Based
+- id: cycles
+  name: Cycles
+- id: timeboxing
+  name: Timeboxing
+- id: goals
+  name: Goals
+- id: elimination
+  name: Elimination
+- id: facial-recognition
+  name: Facial Recognition

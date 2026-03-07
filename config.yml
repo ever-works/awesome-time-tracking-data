@@ -81,6 +81,12 @@ metadata:
     initial_categories: []
     priority_categories: []
     target_keywords: []
+    providers:
+      pipeline: claude-code
+    pluginConfig:
+      target_items: 50
+      capture_screenshots: false
+    _processedPluginConfig: {}
   initial_prompt: Time Tracking - Software, Methodologies and Practices
 custom_footer:
   - label: footer.TERMS_OF_SERVICE
@@ -89,3 +95,4 @@ custom_footer:
     path: /pages/privacy-policy
   - label: footer.COOKIES
     path: /pages/cookies
+version: 0.1.0
