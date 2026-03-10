@@ -183,7 +183,7 @@
 - id: professionals
   name: Professionals
 - id: agile
-  name: agile
+  name: Agile
 - id: contractors
   name: contractors
 - id: reminders
@@ -229,7 +229,7 @@
 - id: evaluation
   name: evaluation
 - id: workflow
-  name: workflow
+  name: Workflow
 - id: development
   name: development
 - id: milestones
@@ -350,3 +350,97 @@
   name: Elimination
 - id: facial-recognition
   name: Facial Recognition
+- id: restaurant
+  name: Restaurant
+- id: hospitality
+  name: Hospitality
+- id: neuroscience
+  name: Neuroscience
+- id: estimation
+  name: Estimation
+- id: scrum
+  name: Scrum
+- id: cognitive-science
+  name: Cognitive Science
+- id: energy-management
+  name: Energy Management
+- id: analog
+  name: Analog
+- id: journaling
+  name: Journaling
+- id: cognitive-load
+  name: Cognitive Load
+- id: strategic-planning
+  name: Strategic Planning
+- id: cognitive-health
+  name: Cognitive Health
+- id: management
+  name: Management
+- id: leadership
+  name: Leadership
+- id: productivity-analytics
+  name: Productivity Analytics
+- id: workforce-intelligence
+  name: Workforce Intelligence
+- id: sustainability
+  name: Sustainability
+- id: psychology
+  name: Psychology
+- id: peak-performance
+  name: Peak Performance
+- id: virtual-coworking
+  name: Virtual Coworking
+- id: accountability
+  name: Accountability
+- id: adhd-friendly
+  name: Adhd Friendly
+- id: ai-powered
+  name: Ai Powered
+- id: resource-planning
+  name: Resource Planning
+- id: goal-setting
+  name: Goal Setting
+- id: alignment
+  name: Alignment
+- id: measurement
+  name: Measurement
+- id: email-management
+  name: Email Management
+- id: customer-satisfaction
+  name: Customer Satisfaction
+- id: product-management
+  name: Product Management
+- id: work-styles
+  name: Work Styles
+- id: freelance
+  name: Freelance
+- id: client-management
+  name: Client Management
+- id: workforce-management
+  name: Workforce Management
+- id: shift-scheduling
+  name: Shift Scheduling
+- id: visual-management
+  name: Visual Management
+- id: continuous-improvement
+  name: Continuous Improvement
+- id: framework
+  name: Framework
+- id: shift-management
+  name: Shift Management
+- id: risk-management
+  name: Risk Management
+- id: time-tracking
+  name: Time Tracking
+- id: self-assessment
+  name: Self Assessment
+- id: productivity-analysis
+  name: Productivity Analysis
+- id: recruitment
+  name: Recruitment
+- id: skills-assessment
+  name: Skills Assessment
+- id: hiring
+  name: Hiring
+- id: privacy-focused
+  name: Privacy Focused
