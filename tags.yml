@@ -49,7 +49,7 @@
 - id: docker
   name: docker
 - id: simple
-  name: simple
+  name: Simple
 - id: logging
   name: logging
 - id: electron
@@ -59,7 +59,7 @@
 - id: flutter
   name: flutter
 - id: mobile
-  name: mobile
+  name: Mobile
 - id: python
   name: python
 - id: usage-monitoring
@@ -71,7 +71,7 @@
 - id: dash
   name: dash
 - id: ai
-  name: Ai
+  name: AI
 - id: jira
   name: jira
 - id: integration
@@ -119,7 +119,7 @@
 - id: attendance
   name: attendance
 - id: small-business
-  name: small-business
+  name: Small Business
 - id: activity-monitoring
   name: Activity Monitoring
 - id: automation
@@ -169,11 +169,11 @@
 - id: gps
   name: Gps
 - id: billing
-  name: billing
+  name: Billing
 - id: scheduling
   name: Scheduling
 - id: macos
-  name: macos
+  name: MacOS
 - id: team
   name: team
 - id: employee-monitoring
@@ -213,7 +213,7 @@
 - id: agpl-30
   name: AGPL-3.0
 - id: crm
-  name: crm
+  name: CRM
 - id: gpl-30
   name: GPL-3.0
 - id: customizable
@@ -229,7 +229,7 @@
 - id: evaluation
   name: evaluation
 - id: workflow
-  name: Workflow
+  name: workflow
 - id: development
   name: development
 - id: milestones
@@ -247,7 +247,7 @@
 - id: android
   name: android
 - id: ios
-  name: ios
+  name: IOS
 - id: accounting
   name: Accounting
 - id: commerce
@@ -350,97 +350,91 @@
   name: Elimination
 - id: facial-recognition
   name: Facial Recognition
-- id: restaurant
-  name: Restaurant
-- id: hospitality
-  name: Hospitality
-- id: neuroscience
-  name: Neuroscience
-- id: estimation
-  name: Estimation
-- id: scrum
-  name: Scrum
-- id: cognitive-science
-  name: Cognitive Science
+- id: productivity-method
+  name: Productivity Method
+- id: morning-routine
+  name: Morning Routine
+- id: project-organization
+  name: Project Organization
+- id: legal
+  name: Legal
 - id: energy-management
   name: Energy Management
-- id: analog
-  name: Analog
-- id: journaling
-  name: Journaling
-- id: cognitive-load
-  name: Cognitive Load
-- id: strategic-planning
-  name: Strategic Planning
-- id: cognitive-health
-  name: Cognitive Health
-- id: management
-  name: Management
-- id: leadership
-  name: Leadership
-- id: productivity-analytics
-  name: Productivity Analytics
-- id: workforce-intelligence
-  name: Workforce Intelligence
-- id: sustainability
-  name: Sustainability
-- id: psychology
-  name: Psychology
-- id: peak-performance
-  name: Peak Performance
-- id: virtual-coworking
-  name: Virtual Coworking
-- id: accountability
-  name: Accountability
-- id: adhd-friendly
-  name: Adhd Friendly
-- id: ai-powered
-  name: Ai Powered
-- id: resource-planning
-  name: Resource Planning
-- id: goal-setting
-  name: Goal Setting
-- id: alignment
-  name: Alignment
-- id: measurement
-  name: Measurement
-- id: email-management
-  name: Email Management
-- id: customer-satisfaction
-  name: Customer Satisfaction
-- id: product-management
-  name: Product Management
-- id: work-styles
-  name: Work Styles
-- id: freelance
-  name: Freelance
+- id: circadian-rhythm
+  name: Circadian Rhythm
+- id: break-reminder
+  name: Break Reminder
+- id: practice-management
+  name: Practice Management
+- id: automatic
+  name: Automatic
+- id: individual
+  name: Individual
+- id: intelligent
+  name: Intelligent
+- id: hardware
+  name: Hardware
+- id: physical-device
+  name: Physical Device
+- id: bluetooth
+  name: Bluetooth
+- id: well-being
+  name: Well Being
+- id: work-life-balance
+  name: Work Life Balance
+- id: life-management
+  name: Life Management
+- id: biometric
+  name: Biometric
+- id: workflow-management
+  name: Workflow Management
+- id: visual
+  name: Visual
 - id: client-management
   name: Client Management
-- id: workforce-management
-  name: Workforce Management
+- id: health
+  name: Health
+- id: microsoft
+  name: Microsoft
 - id: shift-scheduling
   name: Shift Scheduling
-- id: visual-management
-  name: Visual Management
-- id: continuous-improvement
-  name: Continuous Improvement
-- id: framework
-  name: Framework
-- id: shift-management
-  name: Shift Management
-- id: risk-management
-  name: Risk Management
-- id: time-tracking
-  name: Time Tracking
-- id: self-assessment
-  name: Self Assessment
-- id: productivity-analysis
-  name: Productivity Analysis
-- id: recruitment
-  name: Recruitment
-- id: skills-assessment
-  name: Skills Assessment
-- id: hiring
-  name: Hiring
+- id: collaboration
+  name: Collaboration
+- id: field-staff
+  name: Field Staff
 - id: privacy-focused
   name: Privacy Focused
+- id: workforce-management
+  name: Workforce Management
+- id: free
+  name: Free
+- id: communication
+  name: Communication
+- id: rugged
+  name: Rugged
+- id: task-breakdown
+  name: Task Breakdown
+- id: native
+  name: Native
+- id: productivity-analysis
+  name: Productivity Analysis
+- id: self-assessment
+  name: Self Assessment
+- id: solo-attorney
+  name: Solo Attorney
+- id: affordable
+  name: Affordable
+- id: accessibility
+  name: Accessibility
+- id: resource-planning
+  name: Resource Planning
+- id: team-management
+  name: Team Management
+- id: strategic
+  name: Strategic
+- id: employee-scheduling
+  name: Employee Scheduling
+- id: hospitality
+  name: Hospitality
+- id: freelancer
+  name: Freelancer
