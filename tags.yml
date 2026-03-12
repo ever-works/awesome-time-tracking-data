@@ -93,7 +93,7 @@
 - id: invoicing
   name: Invoicing
 - id: expense-tracking
-  name: expense-tracking
+  name: Expense Tracking
 - id: approval-workflows
   name: approval-workflows
 - id: workforce-analytics
@@ -117,7 +117,7 @@
 - id: resource-management
   name: Resource Management
 - id: attendance
-  name: attendance
+  name: Attendance
 - id: small-business
   name: Small Business
 - id: activity-monitoring
@@ -217,7 +217,7 @@
 - id: gpl-30
   name: GPL-3.0
 - id: customizable
-  name: customizable
+  name: Customizable
 - id: idle-detection
   name: idle-detection
 - id: events
@@ -524,3 +524,71 @@
   name: Balance
 - id: time-allocation
   name: Time Allocation
+- id: strategic-thinking
+  name: Strategic Thinking
+- id: appointment-scheduling
+  name: Appointment Scheduling
+- id: service-businesses
+  name: Service Businesses
+- id: intuitive-planning
+  name: Intuitive Planning
+- id: flexible
+  name: Flexible
+- id: psa
+  name: Psa
+- id: architecture
+  name: Architecture
+- id: engineering
+  name: Engineering
+- id: focus-music
+  name: Focus Music
+- id: neuroscience
+  name: Neuroscience
+- id: task-batching
+  name: Task Batching
+- id: cognitive-efficiency
+  name: Cognitive Efficiency
+- id: ambient-sounds
+  name: Ambient Sounds
+- id: adaptive-audio
+  name: Adaptive Audio
+- id: gamification
+  name: Gamification
+- id: focus-timer
+  name: Focus Timer
+- id: environmental
+  name: Environmental
+- id: legal-billing
+  name: Legal Billing
+- id: quickbooks-integration
+  name: Quickbooks Integration
+- id: trust-accounting
+  name: Trust Accounting
+- id: professional-services
+  name: Professional Services
+- id: specialized
+  name: Specialized
+- id: white-noise
+  name: White Noise
+- id: self-awareness
+  name: Self Awareness
+- id: productivity-optimization
+  name: Productivity Optimization
+- id: incremental-progress
+  name: Incremental Progress
+- id: psychology
+  name: Psychology
+- id: nature-sounds
+  name: Nature Sounds
+- id: meditation
+  name: Meditation
+- id: calendar-integration
+  name: Calendar Integration
+- id: creative-agencies
+  name: Creative Agencies
+- id: advertising
+  name: Advertising
+- id: flexible-views
+  name: Flexible Views
+- id: gantt-charts
+  name: Gantt Charts
