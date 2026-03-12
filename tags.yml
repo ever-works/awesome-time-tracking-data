@@ -203,7 +203,7 @@
 - id: budgeting
   name: Budgeting
 - id: kanban
-  name: kanban
+  name: Kanban
 - id: hr
   name: hr
 - id: compliance
@@ -229,7 +229,7 @@
 - id: evaluation
   name: evaluation
 - id: workflow
-  name: workflow
+  name: Workflow
 - id: development
   name: development
 - id: milestones
@@ -247,7 +247,7 @@
 - id: android
   name: android
 - id: ios
-  name: IOS
+  name: Ios
 - id: accounting
   name: Accounting
 - id: commerce
@@ -438,3 +438,89 @@
   name: Hospitality
 - id: freelancer
   name: Freelancer
+- id: accountability
+  name: Accountability
+- id: goal-achievement
+  name: Goal Achievement
+- id: estimation
+  name: Estimation
+- id: historical-data
+  name: Historical Data
+- id: field-service
+  name: Field Service
+- id: gps-tracking
+  name: Gps Tracking
+- id: remote-work
+  name: Remote Work
+- id: ai-powered
+  name: Ai Powered
+- id: wellness
+  name: Wellness
+- id: productivity-analytics
+  name: Productivity Analytics
+- id: focus-time
+  name: Focus Time
+- id: focus-management
+  name: Focus Management
+- id: cognitive-science
+  name: Cognitive Science
+- id: scrum
+  name: Scrum
+- id: team-collaboration
+  name: Team Collaboration
+- id: distraction-blocking
+  name: Distraction Blocking
+- id: tracking
+  name: Tracking
+- id: visual-board
+  name: Visual Board
+- id: google-workspace
+  name: Google Workspace
+- id: gantt
+  name: Gantt
+- id: lean
+  name: Lean
+- id: payment-processing
+  name: Payment Processing
+- id: behavior-change
+  name: Behavior Change
+- id: screen-time
+  name: Screen Time
+- id: outcomes
+  name: Outcomes
+- id: performance
+  name: Performance
+- id: data-driven
+  name: Data Driven
+- id: trades
+  name: Trades
+- id: all-in-one
+  name: All In One
+- id: goal-setting
+  name: Goal Setting
+- id: retail
+  name: Retail
+- id: weekly-planning
+  name: Weekly Planning
+- id: healthcare
+  name: Healthcare
+- id: freelance
+  name: Freelance
+- id: contractor-management
+  name: Contractor Management
+- id: regulations
+  name: Regulations
+- id: chrome-extension
+  name: Chrome Extension
+- id: browser
+  name: Browser
+- id: metrics
+  name: Metrics
+- id: forecasting
+  name: Forecasting
+- id: screenshots
+  name: Screenshots
+- id: balance
+  name: Balance
+- id: time-allocation
+  name: Time Allocation
