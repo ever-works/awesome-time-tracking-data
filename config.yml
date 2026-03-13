@@ -92,8 +92,9 @@ metadata:
   comparison_state:
     generated_pairs:
       - abcde-method--covey-time-management-matrix
-    total_generated: 1
-    last_generated_at: 2026-03-13T21:32:07.623Z
+      - abcde-method--deep-work
+    total_generated: 2
+    last_generated_at: 2026-03-13T21:40:24.232Z
 custom_footer:
   - label: footer.TERMS_OF_SERVICE
     path: /pages/terms-of-service
