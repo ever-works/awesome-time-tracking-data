@@ -1,67 +1,73 @@
 name: Smartsheet
-description: Enterprise work management platform with mobile-optimized time
-  tracking capabilities. Combines spreadsheet-like interface with project
-  management, resource planning, and real-time collaboration features for teams.
-source_url: https://www.smartsheet.com
-category: Team & Project Time Tracking
+description: Enterprise work management platform with built-in time tracking
+  capabilities. While primarily known as a collaborative work execution
+  platform, Smartsheet offers time tracking features that integrate seamlessly
+  with project planning, resource management, and reporting workflows.
+source_url: https://www.smartsheet.com/
+category: Business Management
 tags:
   - enterprise
-  - mobile
+  - project-management
   - collaboration
-featured: true
+featured: false
 markdown: >-
   ## Overview
 
 
-  Smartsheet is a cloud-based work execution platform that combines project
-  management, collaboration, and automation features with integrated time
-  tracking capabilities. Recognized as one of the best for mobile time tracking
-  in 2026.
+  Smartsheet is a versatile work management platform that combines
+  spreadsheet-like functionality with powerful collaboration, automation, and
+  time tracking features for teams and enterprises.
 
 
-  ## Features
+  ## Time Tracking Features
 
 
-  - **Mobile Time Tracking**: Industry-leading mobile app for tracking time on
-  the go
+  - **Integrated Time Sheets**: Track time directly within project sheets
 
-  - **Spreadsheet Interface**: Familiar grid-based interface for easy adoption
+  - **Mobile Time Tracking**: Capture hours on-the-go with mobile apps
 
-  - **Project Management**: Gantt charts, card view, calendar view, and
-  dashboards
+  - **Resource Management**: Allocate and track resource time across projects
 
-  - **Resource Management**: Track resource allocation and capacity across
-  projects
+  - **Automated Reminders**: Set up notifications for timesheet submissions
 
-  - **Automation**: Automated workflows and alerts to streamline processes
+  - **Custom Forms**: Create time entry forms tailored to your workflow
 
-  - **Real-Time Collaboration**: Multiple users can work simultaneously with
-  live updates
+  - **Real-Time Reporting**: Generate instant reports on time allocation and
+  utilization
 
-  - **Reporting & Analytics**: Customizable reports and dashboards for insights
+  - **Approval Workflows**: Automated approval processes for submitted time
 
-  - **Integrations**: Connect with tools like Microsoft 365, Google Workspace,
-  Slack, and Salesforce
+  - **Budget Tracking**: Compare actual time against estimated budgets
 
-  - **Portfolio Management**: Track multiple projects and programs across the
-  organization
+  - **Integration**: Connect with thousands of apps via API and pre-built
+  connectors
 
-  - **Proofing & Approval**: Built-in review and approval workflows for creative
-  assets
+
+  ## Additional Capabilities
+
+
+  - Project and portfolio management
+
+  - Gantt charts and calendar views
+
+  - Automated workflows and alerts
+
+  - Dashboard and reporting
+
+  - File attachments and proofing
 
 
   ## Pricing
 
 
-  - **Free**: For individuals, limited features
+  Smartsheet offers several pricing tiers:
 
-  - **Pro**: $9 per user per month (annual billing)
+  - Free plan for individual users (limited features)
 
-  - **Business**: $32 per user per month (annual billing)
+  - Pro: $9/user/month (annual billing)
 
-  - **Enterprise**: Custom pricing with advanced security and controls
+  - Business: $32/user/month (annual billing)
 
-
-  All paid plans include unlimited sheets and users, with increasing feature
-  sets and administrative capabilities.
-updated_at: 2026-03-13 12:44
+  - Enterprise: Custom pricing with advanced features and support
+brand: Smartsheet
+updated_at: 2026-03-13 13:02
