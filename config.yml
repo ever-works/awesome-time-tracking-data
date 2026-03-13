@@ -54,6 +54,7 @@ settings:
       currency: USD
       weekly_price: 300
       monthly_price: 1000
+  comparisons_enabled: true
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-time-tracking-data/master/pages/logo-light.png
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-time-tracking-data/master/pages/logo-dark.png
@@ -88,6 +89,11 @@ metadata:
       capture_screenshots: false
     _processedPluginConfig: {}
   initial_prompt: Time Tracking - Software, Methodologies and Practices
+  comparison_state:
+    generated_pairs:
+      - abcde-method--covey-time-management-matrix
+    total_generated: 1
+    last_generated_at: 2026-03-13T21:32:07.623Z
 custom_footer:
   - label: footer.TERMS_OF_SERVICE
     path: /pages/terms-of-service
