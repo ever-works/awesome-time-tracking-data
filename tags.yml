@@ -73,7 +73,7 @@
 - id: ai
   name: AI
 - id: jira
-  name: jira
+  name: Jira
 - id: integration
   name: Integration
 - id: collaborative
@@ -141,15 +141,15 @@
 - id: device
   name: device
 - id: leave-tracking
-  name: leave-tracking
+  name: Leave Tracking
 - id: timer
   name: timer
 - id: desktop
-  name: desktop
+  name: Desktop
 - id: background
   name: background
 - id: cloud-based
-  name: cloud-based
+  name: Cloud Based
 - id: programmers
   name: programmers
 - id: rust
@@ -173,7 +173,7 @@
 - id: scheduling
   name: Scheduling
 - id: macos
-  name: MacOS
+  name: Macos
 - id: team
   name: team
 - id: employee-monitoring
@@ -205,7 +205,7 @@
 - id: kanban
   name: Kanban
 - id: hr
-  name: hr
+  name: Hr
 - id: compliance
   name: Compliance
 - id: remote-teams
@@ -592,3 +592,9 @@
   name: Flexible Views
 - id: gantt-charts
   name: Gantt Charts
+- id: writing
+  name: Writing
+- id: extreme
+  name: Extreme
+- id: routines
+  name: Routines
