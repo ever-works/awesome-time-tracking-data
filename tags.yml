@@ -73,7 +73,7 @@
 - id: ai
   name: AI
 - id: jira
-  name: Jira
+  name: jira
 - id: integration
   name: Integration
 - id: collaborative
@@ -141,15 +141,15 @@
 - id: device
   name: device
 - id: leave-tracking
-  name: Leave Tracking
+  name: leave-tracking
 - id: timer
   name: timer
 - id: desktop
-  name: Desktop
+  name: desktop
 - id: background
   name: background
 - id: cloud-based
-  name: Cloud Based
+  name: cloud-based
 - id: programmers
   name: programmers
 - id: rust
@@ -173,7 +173,7 @@
 - id: scheduling
   name: Scheduling
 - id: macos
-  name: Macos
+  name: MacOS
 - id: team
   name: team
 - id: employee-monitoring
@@ -213,7 +213,7 @@
 - id: agpl-30
   name: AGPL-3.0
 - id: crm
-  name: CRM
+  name: Crm
 - id: gpl-30
   name: GPL-3.0
 - id: customizable
@@ -592,9 +592,17 @@
   name: Flexible Views
 - id: gantt-charts
   name: Gantt Charts
-- id: writing
-  name: Writing
-- id: extreme
-  name: Extreme
-- id: routines
-  name: Routines
+- id: best-practices
+  name: Best Practices
+- id: habit-tracking
+  name: Habit Tracking
+- id: restaurant
+  name: Restaurant
+- id: fraud-prevention
+  name: Fraud Prevention
+- id: physicians
+  name: Physicians
+- id: financial-management
+  name: Financial Management
+- id: pos
+  name: Pos
