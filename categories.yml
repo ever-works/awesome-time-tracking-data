@@ -46,3 +46,5 @@
   name: Developer Time Tracking
 - id: professional-services
   name: Professional Services
+- id: employee-monitoring
+  name: Employee Monitoring

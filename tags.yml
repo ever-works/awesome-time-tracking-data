@@ -33,7 +33,7 @@
 - id: pomodoro
   name: Pomodoro
 - id: api
-  name: api
+  name: Api
 - id: reporting
   name: Reporting
 - id: self-hosted
@@ -165,7 +165,7 @@
 - id: time-management
   name: Time Management
 - id: analysis
-  name: analysis
+  name: Analysis
 - id: gps
   name: Gps
 - id: billing
@@ -179,7 +179,7 @@
 - id: employee-monitoring
   name: Employee Monitoring
 - id: punch-clock
-  name: punch-clock
+  name: Punch Clock
 - id: professionals
   name: Professionals
 - id: agile
@@ -702,3 +702,33 @@
   name: Sharepoint
 - id: calendar-planning
   name: Calendar Planning
+- id: machine-learning
+  name: Machine Learning
+- id: attention
+  name: Attention
+- id: accuracy
+  name: Accuracy
+- id: profitability
+  name: Profitability
+- id: deskless-workers
+  name: Deskless Workers
+- id: self-control
+  name: Self Control
+- id: data-protection
+  name: Data Protection
+- id: location-verification
+  name: Location Verification
+- id: six-sigma
+  name: Six Sigma
+- id: process-improvement
+  name: Process Improvement
+- id: risk-management
+  name: Risk Management
+- id: okrs
+  name: Okrs
+- id: alignment
+  name: Alignment
+- id: velocity
+  name: Velocity
+- id: approval
+  name: Approval
