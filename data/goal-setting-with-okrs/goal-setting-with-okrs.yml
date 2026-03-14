@@ -1,20 +1,22 @@
 name: Goal Setting with OKRs
-description: Objectives and Key Results framework for setting and tracking
-  goals, popularized by Google, combining ambitious objectives with measurable
-  key results to align teams and drive outcomes.
+description: Objectives and Key Results framework for setting ambitious goals
+  and measurable outcomes, helping align daily time allocation with strategic
+  priorities through quarterly cycles.
 source_url: https://www.whatmatters.com/faqs/okr-meaning-definition-example
 category: Practices
 tags:
   - goal-setting
-  - alignment
-  - measurement
+  - okrs
+  - strategic
 featured: false
 markdown: >-
-  ## What are OKRs?
+  ## Overview
 
 
   OKRs (Objectives and Key Results) is a goal-setting framework that helps
-  organizations define and track objectives and their outcomes.
+  individuals and organizations set ambitious goals and track progress through
+  measurable results. For time management, OKRs provide clarity on what deserves
+  your time and attention.
 
 
   ## Structure
@@ -22,142 +24,90 @@ markdown: >-
 
   **Objective**: What you want to achieve (qualitative, inspirational)
 
+  **Key Results**: How you'll measure success (quantitative, specific)
 
-  **Key Results**: How you'll measure success (quantitative, measurable)
 
+  **Formula**: I will [Objective] as measured by [Key Results]
 
-  ### Formula:
 
+  ## Example OKRs
 
-  I will **[Objective]** as measured by **[Key Results]**.
 
+  **Objective**: Become a recognized expert in my field
 
-  ## Example
+  **Key Results**:
 
+  1. Publish 12 blog posts on industry topics
 
-  **Objective:** Improve customer satisfaction
+  2. Speak at 3 industry conferences
 
+  3. Gain 5,000 LinkedIn followers
 
-  **Key Results:**
+  4. Complete advanced certification
 
-  - Increase NPS score from 45 to 60
 
-  - Reduce support ticket response time to under 2 hours
+  **Objective**: Achieve work-life balance
 
-  - Achieve 90% positive feedback rating
+  **Key Results**:
 
+  1. Leave work by 6 PM 4 days per week
 
-  ## Time Horizons
+  2. Exercise 150 minutes per week
 
+  3. Have 2 device-free family dinners per week
 
-  - **Company OKRs**: Annual
+  4. Take one weekend day completely off work
 
-  - **Team OKRs**: Quarterly
 
-  - **Individual OKRs**: Quarterly
+  ## Time Management Application
 
 
-  ## Characteristics of Good OKRs
+  ### Weekly Planning
 
+  - Review OKRs every Monday
 
-  ### Objectives Should Be:
+  - Identify 3-5 tasks that advance Key Results
 
-  - Aspirational and inspiring
+  - Block time for OKR-aligned work
 
-  - Qualitative
+  - Say no to non-aligned requests
 
-  - Time-bound
 
-  - Actionable by the team
+  ### Daily Prioritization
 
+  - Choose 1-2 Key Result-advancing tasks per day
 
-  ### Key Results Should Be:
+  - Complete these during peak energy hours
 
-  - Measurable and quantifiable
+  - Track progress toward metrics
 
-  - Specific and time-bound
 
-  - Aggressive yet realistic
+  ## Best Practices
 
-  - Verifiable
 
+  - Set quarterly OKRs (review and reset every 3 months)
 
-  ## Benefits
+  - Limit to 3-5 Objectives
 
+  - Each Objective has 3-5 Key Results
 
-  - Alignment across organization
+  - Make Key Results measurable and time-bound
 
-  - Focus on priorities
+  - Shoot for 70% achievement (stretch goals)
 
-  - Transparency
+  - Review progress weekly
 
-  - Measurable outcomes
 
-  - Ambitious goal setting
+  ## Benefits for Time Management
 
-  - Regular check-ins
 
+  - Clear priorities reduce decision fatigue
 
-  ## OKR Cycle
+  - Easy to evaluate if a task is worth your time
 
+  - Regular review prevents drift
 
-  1. **Set**: Define OKRs (quarterly)
+  - Measurable results show what's working
 
-  2. **Track**: Weekly check-ins
-
-  3. **Review**: Mid-quarter review
-
-  4. **Grade**: End-of-quarter scoring
-
-  5. **Reflect**: Learn and improve
-
-
-  ## Grading OKRs
-
-
-  Typical scale: 0.0 to 1.0
-
-  - 0.7-0.8: Strong performance
-
-  - 1.0: May have sandbagged (set too easy)
-
-  - < 0.4: Need to reassess approach
-
-
-  ## Common Mistakes
-
-
-  - Too many OKRs (limit to 3-5 objectives)
-
-  - Key Results not measurable
-
-  - Setting as stretch goals then treating as commitments
-
-  - Not reviewing regularly
-
-  - Top-down only (should include bottom-up)
-
-
-  ## Time Tracking Connection
-
-
-  - Track time spent on activities aligned with OKRs
-
-  - Ensure time allocation matches priorities
-
-  - Identify misalignment between time and goals
-
-  - Adjust schedule to support key results
-
-
-  ## Related Concepts
-
-
-  - SMART Goals
-
-  - KPIs (Key Performance Indicators)
-
-  - Balanced Scorecard
-
-  - MBO (Management by Objectives)
-updated_at: 2026-03-10 12:21
+  - Ambitious targets prevent settling for busy work
+updated_at: 2026-03-14 15:32

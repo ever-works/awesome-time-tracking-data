@@ -1,24 +1,22 @@
 name: Focus Bear
-description: Productivity app designed specifically for individuals with ADHD
-  and those who struggle with focus and routine consistency. Focus Bear combines
-  habit tracking, focus mode blocking, website filtering, and structured
-  morning/evening routines to help users build sustainable productivity habits
-  and maintain deep focus throughout the workday.
-source_url: https://www.focusbear.io/
+description: Productivity app specifically designed for people with ADHD and
+  autism, combining habit tracking, distraction blocking, focus timers, and
+  structured routines to support neurodivergent work styles.
+source_url: https://www.focusbear.io
 category: Productivity Tools
 tags:
   - adhd
   - focus
-  - habit-tracking
+  - habits
 featured: false
 markdown: >-
   ## Overview
 
 
-  Focus Bear is a comprehensive productivity tool created for people with ADHD,
-  combining distraction blocking, habit formation, and focus session management
-  in one integrated platform. The app guides users through morning and evening
-  routines while maintaining focus during work hours.
+  Focus Bear is a productivity application specifically designed for people with
+  ADHD, autism, and other neurodivergent conditions. It combines habit tracking,
+  distraction blocking, and structured routines in a way that works with
+  neurodivergent brains rather than against them.
 
 
   ## Features
@@ -26,131 +24,163 @@ markdown: >-
 
   ### Morning & Evening Routines
 
-  - **Guided Routines**: Step-by-step guidance through customized morning and
-  evening habits
+  - **Guided Habit Sequences**: Step-by-step routine guidance
 
-  - **Habit Prompts**: Visual and audio reminders to complete each habit
+  - **Visual Progress**: See which habits are complete
 
-  - **Routine Templates**: Pre-built routines based on research and best
-  practices
+  - **Flexible Timing**: Adapts to your actual pace
 
-  - **Progress Tracking**: Monitor completion of daily routines
+  - **Habit Streaks**: Track consistency over time
 
-  - **Flexibility**: Skip or modify routines based on daily needs
+  - **Reminders**: Gentle prompts to start routines
 
 
   ### Focus Mode
 
-  - **Distraction Blocking**: Block distracting websites and apps during focus
-  sessions
+  - **Distraction Blocking**: Blocks distracting websites and apps
 
-  - **Customizable Blocklists**: Choose which sites to block during work time
+  - **Focus Timer**: Pomodoro-style or custom intervals
 
-  - **Break Reminders**: Automatic prompts for breaks at appropriate intervals
+  - **Break Reminders**: Structured breaks to prevent burnout
 
-  - **Focus Timer**: Built-in timer for work sessions
+  - **Physical Break Prompts**: Stretch and movement reminders
 
-  - **Gradual Breaks**: Gentle transitions between work and rest periods
-
-
-  ### Habit Building
-
-  - **Habit Stacking**: Link habits together for powerful routines
-
-  - **Consistency Tracking**: Visual progress indicators and streaks
-
-  - **Habit Templates**: Pre-designed habit sequences for common goals
-
-  - **Custom Habits**: Create personalized habits for your specific needs
+  - **Configurable Blocks**: Choose what to block per session
 
 
-  ### Time Awareness
+  ### Time Tracking
 
-  - **Session Tracking**: Record time spent in focus mode
+  - **Automatic Activity Tracking**: See where time actually goes
 
-  - **Productivity Reports**: View daily and weekly focus statistics
+  - **Manual Time Entry**: For offline or non-digital work
 
-  - **Goal Setting**: Set focus time goals and track progress
+  - **Project Categorization**: Organize by client or project
 
-
-  ## ADHD-Specific Features
-
-
-  - **External Structure**: Provides the external scaffolding that ADHD brains
-  need
-
-  - **Dopamine-Friendly**: Designed around ADHD reward systems
-
-  - **Low Friction**: Minimal setup and configuration required
-
-  - **Visual Cues**: Strong visual prompts for task transitions
-
-  - **Gentle Enforcement**: Helps maintain focus without being punitive
+  - **Reports**: Understand productivity patterns
 
 
-  ## Platforms
+  ### ADHD-Specific Features
+
+  - **Body Doubling**: Virtual co-working sessions
+
+  - **Transition Warnings**: Alerts before routine changes
+
+  - **Hyperfocus Protection**: Breaks to prevent exhaustion
+
+  - **Dopamine-Friendly Design**: Rewarding but not overwhelming
+
+  - **Reduce Decision Fatigue**: Automate routine decisions
 
 
-  - macOS desktop app
+  ### Customization
 
-  - Windows desktop app
+  - **Habit Library**: Pre-built habits or create your own
 
-  - iOS mobile app
+  - **Block Lists**: Customize distracting sites/apps
 
-  - Android mobile app
+  - **Schedule Flexibility**: Different routines for different days
 
-  - Cross-device synchronization
-
-
-  ## Use Cases
+  - **Notification Control**: Adjust reminder frequency
 
 
-  - Individuals with ADHD seeking structure
+  ## Why It Works for ADHD
 
-  - Remote workers needing focus assistance
 
-  - Anyone struggling with consistent routines
+  ### Executive Function Support
 
-  - People trying to build better morning/evening habits
+  - Breaks down complex routines into simple steps
 
-  - Teams wanting to reduce context switching
+  - Provides external structure for internal chaos
+
+  - Reduces initiation friction
+
+  - Prevents time blindness
+
+
+  ### Dopamine Management
+
+  - Makes boring tasks more rewarding
+
+  - Provides immediate feedback
+
+  - Builds positive momentum
+
+  - Celebrates small wins
+
+
+  ### Sensory Considerations
+
+  - Non-overwhelming interface
+
+  - Gentle rather than jarring notifications
+
+  - Visual progress indicators
+
+  - Optional sound effects
+
+
+  ## Platform Support
+
+
+  - macOS (full-featured)
+
+  - Windows (full-featured)
+
+  - iOS (mobile companion)
+
+  - Android (coming soon)
+
+
+  ## Typical Workflows
+
+
+  ### Morning Routine Example
+
+  1. Medication reminder
+
+  2. Hydration check
+
+  3. Light physical exercise
+
+  4. Healthy breakfast
+
+  5. Review daily goals
+
+  6. Start focus session
+
+
+  ### Work Session
+
+  1. Choose focus mode duration
+
+  2. Block distractions automatically
+
+  3. Work timer starts
+
+  4. Break reminder at interval
+
+  5. Guided break activities
+
+  6. Return to work
+
+
+  ### Evening Routine
+
+  1. Review day's accomplishments
+
+  2. Plan tomorrow
+
+  3. Tidying reminder
+
+  4. Relaxation activity
+
+  5. Screen time wind-down
+
+  6. Sleep preparation
 
 
   ## Pricing
 
 
-  Focus Bear offers:
-
-  - Free trial period
-
-  - Monthly subscription: Approximately $4.99/month
-
-  - Annual subscription: Discounted annual rate
-
-  - Lifetime license: One-time purchase option
-
-
-  ## Integration
-
-
-  - Calendar integration for automatic scheduling
-
-  - Syncs across all devices
-
-  - Exports focus session data
-
-  - Works with habit tracking systems
-
-
-  ## Community & Support
-
-
-  - Active user community
-
-  - ADHD coaching resources
-
-  - Regular feature updates based on user feedback
-
-  - Responsive customer support
-brand: Focus Bear
-updated_at: 2026-03-13 13:02
+  Starts at $5/month or $50/year with free trial available.
+updated_at: 2026-03-14 15:32
