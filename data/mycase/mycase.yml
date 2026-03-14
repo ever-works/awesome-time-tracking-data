@@ -1,136 +1,57 @@
 name: MyCase
-description: Legal practice management software with Smart Time Finder that
-  generates a list of common billable activities. Customers who used Smart Time
-  Finder in 2023 captured an additional 579,665 hours of billable time.
+description: Legal practice management software with integrated time tracking
+  and billing designed specifically for law firms. MyCase provides legal
+  timekeeping, case management, client communication, and billing in one
+  comprehensive platform.
 source_url: https://www.mycase.com/
-category: Business Management
+category: Professional Services
 tags:
   - legal
   - practice-management
-  - billing
+  - legal-billing
 featured: false
 markdown: >-
   ## Overview
 
 
-  MyCase is a comprehensive legal practice management platform that includes
-  innovative time tracking features like Smart Time Finder, which helps law
-  firms capture billable time they might otherwise miss.
+  MyCase is a comprehensive legal practice management software that integrates
+  time tracking, billing, case management, and client communication specifically
+  for law firms.
 
 
   ## Features
 
 
-  ### Smart Time Finder
+  - **Legal Time Tracking** - Track billable hours with legal-specific features
+  and ABA task codes
 
-  - Automatically generates a list of common billable activities
+  - **Billing & Invoicing** - Generate invoices from tracked time with legal
+  billing formats
 
-  - AI-powered suggestions based on your work patterns
+  - **Case Management** - Manage cases, documents, and deadlines in one place
 
-  - Customers captured an additional 579,665 hours in 2023 using this feature
+  - **Client Portal** - Secure client portal for communication and document
+  sharing
 
-  - Identifies unbilled activities from emails, calls, and documents
+  - **Trust Accounting** - Built-in trust accounting for IOLTA compliance
 
-  - One-click time entry from suggestions
+  - **Mobile Apps** - Track time and manage cases from iOS and Android devices
 
+  - **Document Management** - Organize and store case documents securely
 
-  ### Time Tracking
-
-  - Timer-based time entry
-
-  - Manual time entry
-
-  - Mobile time tracking
-
-  - Bulk time entry options
-
-  - Activity-based time capture
+  - **Calendar Integration** - Sync with Outlook and Google Calendar
 
 
-  ### Practice Management
-
-  - Case and matter management
-
-  - Document management
-
-  - Client intake and CRM
-
-  - Calendar and deadline tracking
-
-  - Task management workflows
-
-  - Secure client portal
+  ## Use Cases
 
 
-  ### Billing & Payments
-
-  - Automated invoice generation
-
-  - Multiple billing arrangements
-
-  - Trust accounting
-
-  - Online payment processing
-
-  - Expense tracking and billing
-
-  - LEDES billing support
-
-
-  ### Client Communication
-
-  - Secure client portal
-
-  - Text messaging
-
-  - Email integration
-
-  - Document sharing
-
-  - Payment requests
-
-
-  ## Platform Support
-
-
-  - Cloud-based web application
-
-  - Mobile apps for iOS and Android
-
-  - Accessible from any device
-
-  - Secure data storage
-
-
-  ## Benefits
-
-
-  - **Capture More Time**: Smart Time Finder helps identify unbilled work
-
-  - **Proven Results**: Users captured 579,665 additional hours in 2023
-
-  - **All-in-One**: Complete practice management solution
-
-  - **Client Experience**: Modern client portal improves satisfaction
-
-  - **Easy to Use**: Intuitive interface requires minimal training
-
-
-  ## Ideal For
-
-
-  - Solo practitioners
-
-  - Small to medium law firms
-
-  - Firms across all practice areas
-
-  - Firms looking to improve time capture and billing efficiency
+  Designed for solo attorneys, small law firms, and mid-sized practices across
+  all legal practice areas requiring integrated practice management.
 
 
   ## Pricing
 
 
-  Multiple pricing tiers available based on features and firm size. Free trial
-  offered.
-updated_at: 2026-03-10 12:25
+  Subscription-based pricing starting at approximately $49 per user per month.
+  Contact MyCase for current pricing and plans.
+updated_at: 2026-03-14 23:32

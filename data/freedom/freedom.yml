@@ -1,233 +1,101 @@
 name: Freedom
-description: Cross-platform distraction blocking app that helps maintain focus
-  by blocking websites, apps, and the entire internet across all devices
-  simultaneously. Supports scheduled sessions and locked mode for deep work.
+description: Website and app blocker that helps eliminate distractions across
+  all your devices. Freedom enables you to block distracting websites, apps, or
+  the entire internet during focus sessions, with scheduling and sync across
+  Mac, Windows, iOS, and Android.
 source_url: https://freedom.to/
 category: Productivity Tools
 tags:
-  - focus-management
   - distraction-blocking
+  - focus
   - cross-platform
 featured: false
 markdown: >-
   ## Overview
 
 
-  Freedom is a comprehensive distraction blocking application that works across
-  Mac, Windows, iOS, Android, and Chrome browsers. It helps users maintain focus
-  and productivity by blocking distracting websites and applications, with the
-  ability to sync blocks across all devices simultaneously.
+  Freedom is a distraction-blocking app that helps you stay focused by blocking
+  distracting websites, apps, and even the entire internet across all your
+  devices simultaneously.
 
 
   ## Features
 
 
-  - Cross-platform blocking (Mac, Windows, iOS, Android, Chrome)
+  - **Cross-Device Sync** - Block distractions on Mac, Windows, iOS, and Android
+  simultaneously
 
-  - Simultaneous device synchronization
+  - **Website Blocking** - Block specific websites or entire categories
 
-  - Website and app blocking
+  - **App Blocking** - Block distracting desktop and mobile applications
 
-  - Full internet blocking option
+  - **Scheduled Sessions** - Schedule recurring focus sessions in advance
 
-  - Scheduled focus sessions
+  - **Locked Mode** - Prevent yourself from bypassing blocks
 
-  - Recurring block schedules
+  - **Block Lists** - Create custom lists of sites/apps to block
 
-  - Locked Mode to prevent bypassing
+  - **Ambient Sounds** - Built-in focus sounds and music
 
-  - Block lists and templates
+  - **Session History** - Track your focus sessions over time
 
-  - Session history and statistics
-
-  - Ambient sound features for focus
-
-
-  ## Blocking Capabilities
+  - **Recurring Schedules** - Set up daily or weekly blocking schedules
 
 
-  - Block specific websites across all browsers
-
-  - Block entire categories of sites (social media, news, etc.)
-
-  - Block individual applications on desktop
-
-  - Block the entire internet for complete focus
-
-  - Custom block lists for different work modes
-
-  - Whitelist exceptions for necessary sites
-
-  - Sync blocks across all connected devices
+  ## Blocking Options
 
 
-  ## Scheduling Features
+  ### Website Blocking
+
+  - Block specific URLs or entire domains
+
+  - Block all websites except a whitelist
+
+  - Schedule blocks for specific times
 
 
-  - Schedule focus sessions in advance
+  ### App Blocking
 
-  - Set recurring daily or weekly blocks
+  - Block desktop applications
 
-  - Create different schedules for different days
+  - Block mobile apps (iOS and Android)
 
-  - Time-based automation (e.g., block social media during work hours)
-
-  - Calendar integration for automatic blocking
-
-  - Flexible start and end times
+  - Sync blocks across devices
 
 
-  ## Locked Mode
+  ### Internet Blocking
 
+  - Block entire internet connection
 
-  - Prevent disabling Freedom during active sessions
+  - Perfect for offline deep work
 
-  - Cannot bypass blocks by quitting the application
-
-  - Enforces commitment to focus periods
-
-  - Optional setting for each session
-
-  - Helps overcome impulsive distraction seeking
-
-  - Removes temptation to "just check quickly"
-
-
-  ## Session Management
-
-
-  - Start sessions instantly or schedule ahead
-
-  - Set session durations from minutes to hours
-
-  - Pause and resume sessions
-
-  - End sessions early when needed (if not locked)
-
-  - View active and upcoming sessions
-
-  - Session templates for common scenarios
-
-
-  ## Analytics and Insights
-
-
-  - Track total focus time
-
-  - View session history
-
-  - Monitor blocked sites attempted
-
-  - Productivity trends over time
-
-  - Daily and weekly statistics
-
-  - Goal tracking and achievement
+  - Scheduled internet-free time
 
 
   ## Use Cases
 
 
-  - Writers and content creators needing uninterrupted focus
+  - Deep work sessions requiring no distractions
 
-  - Students studying for exams
+  - Studying and exam preparation
 
-  - Developers during coding sessions
+  - Writing and creative work
 
-  - Professionals in deep work periods
+  - Breaking social media addiction
 
-  - Anyone struggling with social media addiction
+  - Creating work-life boundaries
 
-  - Remote workers managing home distractions
-
-  - Teams implementing focus time policies
-
-
-  ## Integration and Sync
-
-
-  - Cloud-based sync across all devices
-
-  - Works with multiple browsers simultaneously
-
-  - Calendar integration for automatic scheduling
-
-  - Mobile and desktop coordination
-
-  - Single account manages all devices
-
-
-  ## Ambient Sounds
-
-
-  - Built-in focus sounds and white noise
-
-  - Nature sounds for concentration
-
-  - Coffee shop ambiance
-
-  - Productivity music options
-
-  - Customizable sound mixing
-
-
-  ## Team and Group Features
-
-
-  - Team licenses available
-
-  - Shared block lists
-
-  - Group accountability
-
-  - Organization-wide productivity initiatives
-
-  - Bulk user management
-
-
-  ## Benefits
-
-
-  - Eliminates digital distractions during focus time
-
-  - Increases productivity and concentration
-
-  - Helps break social media and browsing habits
-
-  - Supports deep work practices
-
-  - Reduces context switching
-
-  - Improves time management
-
-  - Increases awareness of distraction patterns
-
-
-  ## Technical Details
-
-
-  - Works at system level for robust blocking
-
-  - Low resource usage
-
-  - Minimal impact on device performance
-
-  - Secure cloud synchronization
-
-  - Privacy-focused design
+  - Improving sleep by blocking devices at night
 
 
   ## Pricing
 
 
-  - Monthly: $8.99/month
+  - **7-day free trial**
 
-  - Annual: $39.99/year (equivalent to $3.33/month)
+  - **Monthly** - $8.99/month
 
-  - Lifetime: One-time payment option available
+  - **Yearly** - $39.99/year
 
-  - Free trial available
-
-  - Team and enterprise pricing available
-brand: Freedom
-updated_at: 2026-03-12 11:52
+  - **Forever** - $199 one-time payment
+updated_at: 2026-03-14 23:32

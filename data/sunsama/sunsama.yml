@@ -1,94 +1,71 @@
 name: Sunsama
-description: Sunsama is a task and time management application based on agile
-  methodology. It provides planning and tracking features, including kanban
-  boards, timelines, start/end dates for tasks, and workload monitoring, making
-  it suitable for personal and professional time tracking needs.
-source_url: https://sunsama.com
-category: team-project-time-tracking
+description: Daily planning and time tracking tool that helps create realistic
+  daily plans by combining calendar integration, task management, and time
+  tracking. Sunsama uses timeboxing and daily rituals to help users focus on
+  what matters most each day.
+source_url: https://www.sunsama.com/
+category: Productivity Tools
 tags:
-  - agile
-  - planning
-  - kanban
-  - task-management
-markdown: >
-  # Sunsama
+  - daily-planning
+  - timeboxing
+  - calendar-integration
+featured: false
+markdown: >-
+  ## Overview
 
 
-  **Category:** Team Project & Time Tracking  
-
-  **Website:** [https://sunsama.com](https://sunsama.com)
-
-
-  ---
-
-
-  ## Description
-
-  Sunsama is a digital daily planner and task/time management application
-  designed for busy professionals. It helps users organize their work one day at
-  a time, supporting personal and professional productivity with features based
-  on agile methodologies.
-
-
-  ---
+  Sunsama is a daily planning and time tracking tool designed to help users
+  create realistic, achievable daily plans through calendar integration, task
+  management, and guided planning rituals.
 
 
   ## Features
 
-  - **Guided Daily Planning:** Step-by-step routines for intentional daily
-  planning.
 
-  - **Unified Daily View:** Aggregates tasks from multiple project management
-  tools (Trello, Asana, ClickUp, Github, Jira, Linear, Monday, Notion, Todoist)
-  and emails (Gmail, Outlook), as well as calendar events.
+  - **Daily Planning Ritual** - Guided start-of-day planning process
 
-  - **Realistic Daily Goals:** Allows users to set expected durations for tasks
-  and plan reasonable workdays.
+  - **Timeboxing** - Drag tasks onto calendar to timebox your day  
 
-  - **Timeboxing:** Schedule tasks directly into your calendar to structure your
-  day.
+  - **Time Tracking** - Track actual time spent on tasks
 
-  - **Drag-and-Drop Integration:** Easily pull tasks from connected tools into
-  the daily plan.
+  - **Calendar Integration** - Unified view with Google Calendar and Outlook
 
-  - **Task Syncing:** Imported tasks stay updated and in sync with their
-  original sources.
+  - **Task Import** - Pull tasks from Asana, Trello, Jira, GitHub, and more
 
-  - **Email Task Management:** Drag important emails into your task list and
-  allocate focused time for them.
+  - **Focus Mode** - Distraction-free mode for current task
 
-  - **Slack and Teams Integration:** Convert messages into tasks and set
-  follow-up reminders.
+  - **Daily Shutdown** - End-of-day reflection and planning for tomorrow
 
-  - **Calendar Sync:** Bi-directional sync with Google, Outlook, and iCloud
-  calendars.
+  - **Weekly Planning** - Review and plan your week
 
-  - **Dark Mode:** Visual theme for comfortable work at any time.
+  - **Mobile Apps** - Full iOS and Android apps
 
-  - **Focus Mode:** Minimize distractions and focus on the most important task.
-
-  - **Auto-scheduling:** Automatically schedule tasks onto your calendar.
-
-  - **Weekly Review and Planning:** Tools for reflecting on and planning weekly
-  objectives.
-
-  - **Keyboard Shortcuts:** Perform actions quickly using keyboard commands.
-
-  - **Analytics:** Track and analyze how you spend your work time.
+  - **Analytics** - Insights into planned vs. actual time
 
 
-  ---
+  ## Daily Workflow
 
 
-  ## Tags
+  1. **Morning Planning** - Review calendar, add tasks, timebox your day
 
-  agile, planning, kanban, task-management
+  2. **Work** - Track time on tasks with built-in timer
+
+  3. **Evening Shutdown** - Review what was accomplished, plan tomorrow
 
 
-  ---
+  ## Use Cases
+
+
+  Perfect for knowledge workers, managers, and professionals who want to combine
+  calendar management with daily task planning and time tracking.
 
 
   ## Pricing
 
-  *No pricing information was provided in the available content.*
-updated_at: 2025-05-13 22:52
+
+  - **14-day free trial**
+
+  - **Monthly** - $20/month
+
+  - **Annual** - $16/month (billed annually)
+updated_at: 2026-03-14 23:32

@@ -1,75 +1,62 @@
 name: Timing
-description: Timing is a macOS-only time tracking app that automatically tracks
-  activity on your Mac, categorizes time by app, file, and domain, and provides
-  a visual timeline. It's designed for solo macOS developers seeking fully
-  automatic tracking.
+description: Automatic time tracking app exclusively for Mac that tracks
+  everything you do without manual timers. Timing automatically records which
+  apps and documents you use, providing comprehensive productivity insights and
+  accurate timesheets for macOS users.
 source_url: https://timingapp.com/
-category: automated-time-tracking
+category: Automated Time Tracking
 tags:
   - macos
-  - automatic-tracking
-  - timeline
-  - visualization
-  - personal-use
+  - automatic
+  - productivity-analytics
+featured: false
 markdown: >-
-  # Timing
+  ## Overview
 
 
-  [Timing](https://timingapp.com/) is a macOS-only automated time tracking app
-  that records activity across your Mac, categorizes time by app, file, and
-  domain, and provides a visual timeline. It is designed for users who want
-  fully automatic tracking without the need for manual timers.
+  Timing is an automatic time tracking app designed exclusively for Mac that
+  tracks everything you do on your computer without requiring manual timers or
+  start/stop buttons.
 
 
   ## Features
 
-  - **Automatic Time Tracking:** Tracks your time in all apps without requiring
-  manual timers.
 
-  - **Comprehensive App Support:** Monitors activity in a wide range of
-  applications, including:
-    - Web browsers (Safari, Chrome, Arc, Firefox, Brave, Edge, Orion, etc.)
-    - Remote work tools (Slack, Microsoft Teams, Zoom, Gmail, Apple Mail, Outlook, Google Meet, Skype)
-    - Office apps (OpenAI ChatGPT, Microsoft Word, Excel, PowerPoint, Apple Pages, Google Docs, Google Sheets, Anthropic Claude)
-    - Note-taking apps (Apple Notes, Notion, Obsidian, Drafts, DEVONthink, Evernote, Sublime Text, BBEdit)
-    - Development tools (VSCode, Cursor IDE, Xcode, GitHub, Windsurf IDE, iTerm, OpenAI ChatGPT, Anthropic Claude)
-    - Video and audio production (Final Cut Pro, Premiere Pro, After Effects, DaVinci Resolve, Cinema 4D, Logic Pro, Audition, Motion)
-  - **Visual Timeline:** Presents a detailed visual timeline showing when you
-  worked on what, allowing you to easily review your day.
+  - **Automatic Tracking** - Automatically records which apps and documents you
+  use
 
-  - **AI-Powered Insights:** Provides AI summaries that group related
-  activities, highlight key topics, and spot work patterns for better
-  understanding and more accurate time entries.
+  - **No Manual Timers** - Never forget to start or stop a timer again
 
-  - **Smart Automation:** Allows creation of custom rules (e.g., via
-  drag-and-drop) to automate project assignment and categorization.
+  - **Productivity Insights** - Analyze your productivity patterns and time
+  allocation
 
-  - **Effortless Assignment:** Enables drag-and-drop assignment of time blocks,
-  and automatically combines related activities for a clear overview.
+  - **Timeline View** - Visual timeline showing your entire day's activities
 
-  - **Flexible Organization:** Categorizes time by app, file, and domain, and
-  provides smart suggestions to reduce manual effort.
+  - **Project Categorization** - Automatically or manually categorize activities
+  into projects
 
-  - **Compatible with a wide range of apps:** Extensive compatibility with
-  productivity, development, communication, and creative software on macOS.
+  - **Offline Support** - Works completely offline with no cloud dependency
+
+  - **Privacy-Focused** - All data stored locally on your Mac
+
+  - **Reporting** - Export detailed reports for billing and analysis
+
+  - **Mac Native** - Built specifically for macOS with native performance
 
 
-  ## Category
-
-  - Automated Time Tracking
+  ## Use Cases
 
 
-  ## Tags
-
-  macos, automatic-tracking, timeline, visualization, personal-use
-
-
-  ## Source
-
-  [https://timingapp.com/](https://timingapp.com/)
+  Perfect for Mac-using freelancers, consultants, developers, and professionals
+  who bill by the hour and want automatic time tracking.
 
 
   ## Pricing
 
-  No specific pricing information was provided in the available content.
-updated_at: 2025-06-07 13:57
+
+  - **14-day free trial**
+
+  - **Subscription** - $10/month or $79/year
+
+  - **One-time purchase** - Available for long-term users
+updated_at: 2026-03-14 23:32
