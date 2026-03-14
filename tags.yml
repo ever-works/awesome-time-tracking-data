@@ -606,3 +606,15 @@
   name: Financial Management
 - id: pos
   name: Pos
+- id: verification
+  name: Verification
+- id: meeting-scheduling
+  name: Meeting Scheduling
+- id: okrs
+  name: Okrs
+- id: routines
+  name: Routines
+- id: manual
+  name: Manual
+- id: risk-management
+  name: Risk Management
