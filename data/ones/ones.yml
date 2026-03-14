@@ -1,0 +1,84 @@
+name: Ones
+description: A project management platform with integrated time tracking
+  capabilities, offering tools for agile teams to manage tasks, track progress,
+  and monitor time spent on projects. Provides comprehensive project planning
+  and execution features with built-in time management.
+source_url: https://ones.com/
+category: Team & Project Time Tracking
+tags:
+  - project-management
+  - agile
+  - team-collaboration
+markdown: >-
+  ## Overview
+
+
+  Ones is a project management platform that combines task management, agile
+  methodologies, and time tracking in a unified workspace. It provides teams
+  with tools to plan, execute, and track projects while monitoring time
+  investment across initiatives.
+
+
+  ## Time Tracking Features
+
+
+  - Task-level time tracking
+
+  - Project time budgets
+
+  - Time reports and analytics
+
+  - Billable vs. non-billable hours
+
+  - Team time visibility
+
+
+  ## Project Management Capabilities
+
+
+  - Agile board views (Scrum, Kanban)
+
+  - Sprint planning
+
+  - Backlog management
+
+  - Issue tracking
+
+  - Roadmap visualization
+
+
+  ## Collaboration Tools
+
+
+  - Team workspaces
+
+  - Real-time updates
+
+  - Comments and discussions
+
+  - File sharing
+
+  - @mentions and notifications
+
+
+  ## Reporting & Analytics
+
+
+  - Time utilization reports
+
+  - Project velocity metrics
+
+  - Burndown charts
+
+  - Resource allocation
+
+  - Custom dashboards
+
+
+  ## Target Users
+
+
+  Agile development teams, product managers, and project-based organizations
+  needing integrated time tracking within their project management workflow.
+brand: Ones
+updated_at: 2026-03-14 20:34
