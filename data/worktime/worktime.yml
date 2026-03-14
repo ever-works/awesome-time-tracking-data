@@ -1,166 +1,79 @@
 name: WorkTime
-description: Non-invasive employee monitoring software with built-in HIPAA,
-  GDPR, and GLBA compliance modes. Focuses on productivity metrics without
-  recording screenshots, keystrokes, or sensitive data, making it ideal for
-  healthcare and regulated industries.
+description: Non-invasive employee monitoring software tracking productivity
+  without capturing screenshots or personal content, offering GDPR, HIPAA, and
+  GLBA compliance for privacy-conscious organizations.
 source_url: https://www.worktime.com/
-category: Automated Time Tracking
+category: Employee Monitoring
 tags:
   - employee-monitoring
-  - privacy
+  - privacy-focused
   - compliance
-featured: false
 markdown: >-
   ## Overview
 
 
-  WorkTime is the best employee time tracking app for non-invasive productivity
-  monitoring. It features built-in HIPAA, GDPR, and GLBA compliance modes,
-  making it particularly suitable for healthcare, medical teams, and other
-  regulated industries.
+  WorkTime is described as the only unique non-invasive, pure productivity
+  monitoring software on the market, focusing exclusively on productivity
+  metrics while respecting employee privacy.
 
 
-  ## Features
+  ## Key Features
 
 
   ### Non-Invasive Monitoring
 
-  - Does NOT record screenshots
+  - NO screenshots
 
-  - Does NOT log keystrokes
+  - NO keystroke content  
 
-  - Does NOT monitor clipboard activity
+  - NO email or chat data
 
-  - Does NOT capture sensitive data
+  - NO camera tracking
 
-  - Window title monitoring is optional (can expose PHI if enabled)
 
-  - Focuses solely on employee productivity metrics
+  ### What It Tracks
 
+  - Active and idle time
 
-  ### Compliance Features
+  - Login/logout times
 
-  - HIPAA-exempt design (does not process, store, or transmit healthcare/patient
-  data)
+  - Application and website usage
 
-  - GDPR compliant
+  - Attendance
 
-  - PIPEDA compliant
+  - 80+ productivity reports
 
-  - POPIA compliant
 
-  - GLBA compliant
+  ## Compliance
 
-  - PHI-safe mode available (Enterprise plan)
 
-  - No Business Associate Agreement (BAA) required
+  - HIPAA compliance mode
 
+  - GDPR compliance mode
 
-  ### Productivity Tracking
+  - GLBA compliance mode
 
-  - Application and website usage monitoring
+  - Suitable for regulated industries
 
-  - Active vs. idle time tracking
 
-  - Project and task time allocation
+  ## Deployment
 
-  - Productivity metrics and analytics
 
-  - Team performance insights
+  - Cloud-based (WorkTime Cloud)
 
+  - On-premises installation
 
-  ### Data Security
-
-  - AES-256 encryption
-
-  - Full data protection
-
-  - Secure data storage
-
-  - Privacy-focused architecture
-
-  - No telemetry or unnecessary data collection
-
-
-  ## Why WorkTime is HIPAA-Exempt
-
-
-  WorkTime does not:
-
-  - Access Electronic Health Records (EHR) systems
-
-  - Process or store patient-related data
-
-  - Transmit healthcare information
-
-  - Function as a Business Associate under HIPAA
-
-  - Collect Protected Health Information (PHI)
-
-
-  ## Platform Support
-
-
-  - Windows
-
-  - macOS
-
-  - Linux
-
-  - Cloud and On-Premise deployment options
-
-
-  ## Benefits
-
-
-  - **Privacy First**: Non-invasive approach respects employee privacy
-
-  - **Compliance Ready**: Built-in modes for major regulations
-
-  - **Healthcare Safe**: Specifically designed to avoid HIPAA violations
-
-  - **Trust Building**: Transparent monitoring builds employee trust
-
-  - **Secure**: Enterprise-grade encryption and security
-
-
-  ## Ideal For
-
-
-  - Healthcare organizations (hospitals, clinics, medical practices)
-
-  - Financial institutions requiring GLBA compliance
-
-  - European companies needing GDPR compliance
-
-  - Organizations in regulated industries
-
-  - Companies prioritizing employee privacy
-
-  - Remote teams needing non-invasive monitoring
-
-
-  ## PHI-Safe Mode
-
-
-  Available as part of the Enterprise plan in both Cloud and On-Premise
-  solutions, this mode prevents any potential indirect collection of PHI through
-  features like window title monitoring.
-
-
-  ## What Makes WorkTime Different
-
-
-  Unlike invasive monitoring tools that capture screenshots and keystrokes,
-  WorkTime focuses exclusively on productivity patterns without collecting
-  sensitive information. This approach makes it compliant with healthcare and
-  privacy regulations while still providing valuable insights.
+  - Works for remote and on-site teams
 
 
   ## Pricing
 
 
-  Contact WorkTime for pricing information. Enterprise plan required for
-  PHI-safe mode and advanced compliance features.
-brand: WorkTime
-updated_at: 2026-03-10 12:25
+  $6.99/employee/month:
+
+  - Free for up to 3 employees
+
+  - 14-day free trial (all features)
+
+  - No credit card required
+updated_at: 2026-03-14 18:50
