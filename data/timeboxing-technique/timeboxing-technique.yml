@@ -1,167 +1,62 @@
 name: Timeboxing Technique
-description: Time management method that allocates fixed, predetermined time
-  slots to activities and commits to stopping when time expires, ranked as the
-  most useful productivity technique in surveys of 100+ methods.
-source_url: https://clockify.me/timeboxing
+description: Time management method allocating fixed time periods (boxes) to
+  planned activities. Unlike to-do lists, timeboxing assigns specific time slots
+  to tasks, creating structure and preventing work from expanding indefinitely.
+source_url: https://todoist.com/productivity-methods/timeboxing
 category: Practices
 tags:
-  - timeboxing
-  - productivity
+  - scheduling
   - time-blocking
-markdown: >-
-  ## Overview
+  - structure
+featured: false
+markdown: |-
+  ## Definition
 
-
-  Timeboxing allocates a fixed, pre-determined amount of time to a task and
-  commits to stopping when time is up, regardless of completion status. Marc
-  Zao-Sanders reported in Harvard Business Review (2018) that timeboxing ranked
-  as the most useful technique in a survey of 100 productivity methods.
-
+  Allocating a fixed time period to each planned activity.
 
   ## How It Works
 
+  Instead of "Write report", schedule "9-11am: Write report".
 
-  ### Core Concept
+  ### Key Elements
 
-  - Set specific time limit for each task
-
-  - Work during allocated period
-
-  - Stop when time expires (even if incomplete)
-
-  - Review progress and decide next steps
-
-
-  ### Recommended Durations
-
-  - **15-30 minutes**: Quick, focused tasks (emails, short paragraph)
-
-  - **30-60 minutes**: Moderate attention tasks (brainstorming, team check-in)
-
-  - **60-90 minutes**: Deep-focus tasks (project roadmap, data analysis)
-
+  1. Identify task
+  2. Estimate time needed
+  3. Allocate specific slot
+  4. Work only during that slot
+  5. Stop when time expires
 
   ## Benefits
 
-
-  ### Reduces Procrastination
-
-  - Fixed time limit creates urgency
-
-  - Starting becomes less intimidating
-
-  - Removes open-ended anxiety
-
-  - Forces engagement
-
-
-  ### Prevents Perfectionism
-
-  - Time constraint prevents over-polishing
-
-  - Focus on progress over perfection
-
-  - Encourages good-enough completion
-
-  - Reduces analysis paralysis
-
-
-  ### Improves Prioritization
-
-  - Must decide what fits in available time
-
-  - Forces focus on important over urgent
-
-  - Creates intentional time allocation
-
-  - Prevents task expansion
-
-
-  ### Increases Productivity
-
-  - Can increase productivity by up to 25%
-
-  - Executives at Google and LinkedIn use this technique
-
-  - Creates consistent, predictable work blocks
-
-  - Enhances focus and efficiency
-
-
-  ## Implementation
-
-
-  ### Tools
-
-  - Google Calendar: Manual scheduling, versatile
-
-  - Sunsama: Drag-and-drop timeboxing interface
-
-  - Motion: AI-powered optimal scheduling
-
-  - Timeboxing Planner: Specialized notebook
-
-
-  ### Best Practices
-
-  1. Leave 20% of day unplanned for unexpected issues
-
-  2. Progress over perfection
-
-  3. Review weekly and adjust estimates
-
-  4. Start with loose timeboxes, refine over time
-
-  5. Include breaks and transitions
-
-
-  ## vs. Time Blocking
-
-
-  ### Time Blocking
-
-  - Reserves time for activity type
-
-  - Flexible on completion
-
-  - Focuses on when work happens
-
-  - More general time allocation
-
-
-  ### Timeboxing
-
-  - Fixed duration with hard stop
-
-  - Includes completion limit
-
-  - Focuses on how long work takes
-
-  - Specific time constraint
-
-
-  ## Common Challenges
-
-
-  - Tasks taking longer than estimated
-
-  - Difficulty stopping when time expires
-
-  - Over-optimizing time allocation
-
-  - Not accounting for context switching
-
-
-  ## Success Tips
-
-
-  - Track actual vs. estimated time
-
-  - Build buffers between boxes
-
-  - Group similar task types
-
-  - Be realistic about capacity
-
-  - Adjust based on experience
-updated_at: 2026-03-14 18:50
+  - Prevents perfectionism
+  - Creates urgency
+  - Improves time estimation
+  - Prevents work expansion (Parkinson's Law)
+  - Makes commitments visible
+  - Reduces multitasking
+
+  ## Best Practices
+
+  - Schedule breaks between boxes
+  - Build in buffer time (25%)
+  - Group similar tasks
+  - Protect focus boxes
+  - Be realistic about durations
+  - Review and adjust regularly
+
+  ## Tools
+
+  - Google Calendar
+  - Outlook Calendar
+  - Notion
+  - Sunsama
+  - TimeBloc
+
+  ## Common Mistakes
+
+  - No buffer time
+  - Back-to-back boxes
+  - Unrealistic estimates
+  - Too rigid
+  - Not accounting for energy levels
+updated_at: 2026-03-14 20:12

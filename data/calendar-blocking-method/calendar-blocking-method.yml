@@ -1,90 +1,100 @@
 name: Calendar Blocking Method
-description: Proactive scheduling technique of reserving calendar blocks for
-  specific activities in advance, transforming to-do lists into committed time
-  allocations for better follow-through.
-source_url: https://www.usemotion.com/blog/best-time-blocking-apps
+description: Time management technique where you schedule specific blocks of
+  time for different activities, tasks, or types of work directly on your
+  calendar. Transforms to-do lists into time-bound commitments for improved
+  focus and accountability.
+source_url: https://reclaim.ai/blog/time-blocking-guide
 category: Practices
 tags:
-  - calendar
-  - planning
+  - calendar-management
   - scheduling
+  - time-blocking
+featured: false
 markdown: >-
-  ## Overview
+  ## What is Calendar Blocking?
 
 
-  Calendar blocking (also called time blocking) involves scheduling specific
-  blocks of time on your calendar for focused work on particular tasks or types
-  of activities.
+  Calendar blocking is the practice of scheduling specific time blocks on your
+  calendar for different types of work, tasks, meetings, and personal
+  activities. Instead of keeping a to-do list, you assign each task a specific
+  time slot.
 
 
-  ## Core Principles
+  ## Types of Calendar Blocks
 
 
-  - Treat tasks like appointments
+  - **Task Blocks**: Dedicated time for specific tasks or projects
 
-  - Reserve time in advance
+  - **Meeting Blocks**: Scheduled time for appointments and meetings
 
-  - Protect blocked time from interruptions
+  - **Focus Blocks**: Protected deep work time with no interruptions
 
-  - Include buffer time between blocks
+  - **Break Blocks**: Scheduled rest and recovery time
 
-  - Review and adjust weekly
+  - **Buffer Blocks**: Transition time between activities
 
-
-  ## Types of Blocks
-
-
-  ### Focus Blocks
-
-  - Deep work on important projects
-
-  - 2-4 hour uninterrupted sessions
-
-  - Morning typically best
-
-
-  ### Theme Blocks
-
-  - Similar tasks grouped together
-
-  - Context switching minimized
-
-  - Batch processing
-
-
-  ### Buffer Blocks
-
-  - Catch-up time
-
-  - Unexpected issues
-
-  - 20% of schedule
+  - **Theme Blocks**: Time allocated to broad categories (admin, creative,
+  strategic)
 
 
   ## Benefits
 
 
-  - Transforms intentions into commitments
+  - Makes time commitments visible and concrete
 
-  - Visual overview of time allocation
+  - Prevents overcommitment
 
-  - Reduces decision fatigue
+  - Protects focus time from meetings
 
-  - Prevents over-commitment
+  - Creates accountability for task completion
 
-  - Increases accountability
+  - Helps maintain work-life balance
+
+  - Reduces decision fatigue about what to work on
 
 
   ## Best Practices
 
 
-  1. Block most important tasks first
+  - Color code different types of blocks
 
-  2. Include realistic buffers
+  - Include buffer time between blocks
 
-  3. Color-code for clarity
+  - Be realistic about how long tasks take
 
-  4. Review weekly and adjust
+  - Review and adjust blocks weekly
 
-  5. Protect blocks from meetings
-updated_at: 2026-03-14 18:50
+  - Protect at least 2-3 hour focus blocks daily
+
+  - Build in flexibility for unexpected items
+
+
+  ## Common Mistakes
+
+
+  - Scheduling every minute (leave white space)
+
+  - Not accounting for transition time
+
+  - Forgetting to schedule breaks
+
+  - Being too rigid (allow flexibility)
+
+  - Scheduling focus work during low-energy times
+
+
+  ## Tools
+
+
+  - Google Calendar
+
+  - Outlook Calendar
+
+  - Notion
+
+  - Reclaim.ai (automated calendar blocking)
+
+  - TimeBloc
+
+  - SkedPal
+updated_at: 2026-03-14 20:12

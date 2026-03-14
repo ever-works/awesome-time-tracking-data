@@ -1,0 +1,54 @@
+name: Monday.com Time Tracking
+description: Built-in time tracking features for monday.com including Time
+  Tracking Column for logging hours and Time Tracking Widget for consolidated
+  reporting across boards. Available on Pro and Enterprise plans.
+source_url: https://support.monday.com/hc/en-us/articles/360013805639-The-Time-Tracking-Widget
+category: Time Tracking Apis & Integrations
+tags:
+  - project-management
+  - integration
+  - reporting
+featured: false
+markdown: >-
+  ## Time Tracking Column
+
+
+  The Time Tracking Column is available for Pro and Enterprise plans. Click play
+  to start the timer, pause anytime, or add time manually by clicking into a
+  cell and selecting 'Add session manually'.
+
+
+  ## Time Tracking Widget
+
+
+  The Time Tracking Widget provides a consolidated view of time spent across
+  multiple tasks and projects, gathering data from individual Time Tracking
+  Columns on various boards.
+
+
+  ### Widget Settings
+
+
+  - Choose up to 5 boards to display
+
+  - Pick which groups to show data from
+
+  - Group tracked time by any Column on your boards
+
+  - Completely customizable settings
+
+
+  ## Limitations
+
+
+  The widget is basic and is the only report widget that works with the Time
+  Tracking Column, resulting in basic reporting that shows total numbers based
+  on selected boards and filters.
+
+
+  ## Pricing
+
+
+  Time tracking available on Pro plan ($12/user/month) and Enterprise plans.
+brand: monday.com
+updated_at: 2026-03-14 20:12
