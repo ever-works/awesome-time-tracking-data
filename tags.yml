@@ -149,7 +149,7 @@
 - id: background
   name: background
 - id: cloud-based
-  name: cloud-based
+  name: Cloud Based
 - id: programmers
   name: programmers
 - id: rust
@@ -616,3 +616,89 @@
   name: Government
 - id: github
   name: Github
+- id: quarterly
+  name: Quarterly
+- id: async
+  name: Async
+- id: distributed-teams
+  name: Distributed Teams
+- id: workflow-automation
+  name: Workflow Automation
+- id: meetings
+  name: Meetings
+- id: optimization
+  name: Optimization
+- id: consulting
+  name: Consulting
+- id: biology
+  name: Biology
+- id: personalization
+  name: Personalization
+- id: fingerprint
+  name: Fingerprint
+- id: business-management
+  name: Business Management
+- id: field-work
+  name: Field Work
+- id: contact-centers
+  name: Contact Centers
+- id: restaurants
+  name: Restaurants
+- id: templates
+  name: Templates
+- id: forms
+  name: Forms
+- id: no-code
+  name: No Code
+- id: cognitive-performance
+  name: Cognitive Performance
+- id: mindfulness
+  name: Mindfulness
+- id: intentional
+  name: Intentional
+- id: minimal
+  name: Minimal
+- id: policies
+  name: Policies
+- id: results-oriented
+  name: Results Oriented
+- id: creative-teams
+  name: Creative Teams
+- id: calendar-blocking
+  name: Calendar Blocking
+- id: proactive
+  name: Proactive
+- id: agencies
+  name: Agencies
+- id: priorities
+  name: Priorities
+- id: nurse-scheduling
+  name: Nurse Scheduling
+- id: monotasking
+  name: Monotasking
+- id: batching
+  name: Batching
+- id: context-switching
+  name: Context Switching
+- id: virtual-assistant
+  name: Virtual Assistant
+- id: delegation
+  name: Delegation
+- id: outsourcing
+  name: Outsourcing
+- id: leverage
+  name: Leverage
+- id: productivity-monitoring
+  name: Productivity Monitoring
+- id: hiring
+  name: Hiring
+- id: assessments
+  name: Assessments
+- id: testing
+  name: Testing
+- id: microsoft-365
+  name: Microsoft 365
+- id: sharepoint
+  name: Sharepoint
+- id: calendar-planning
+  name: Calendar Planning
