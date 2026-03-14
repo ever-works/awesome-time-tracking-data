@@ -732,3 +732,113 @@
   name: Velocity
 - id: approval
   name: Approval
+- id: effectiveness
+  name: Effectiveness
+- id: resource-allocation
+  name: Resource Allocation
+- id: cognitive-resources
+  name: Cognitive Resources
+- id: task-switching
+  name: Task Switching
+- id: routine
+  name: Routine
+- id: decision-fatigue
+  name: Decision Fatigue
+- id: goal-tracking
+  name: Goal Tracking
+- id: commitment-device
+  name: Commitment Device
+- id: employee-tracking
+  name: Employee Tracking
+- id: time-clock
+  name: Time Clock
+- id: payroll-integration
+  name: Payroll Integration
+- id: calendar-management
+  name: Calendar Management
+- id: time-estimates
+  name: Time Estimates
+- id: family-organization
+  name: Family Organization
+- id: shared-calendar
+  name: Shared Calendar
+- id: mobile-app
+  name: Mobile App
+- id: urgency
+  name: Urgency
+- id: task-completion
+  name: Task Completion
+- id: cognitive-load
+  name: Cognitive Load
+- id: chronobiology
+  name: Chronobiology
+- id: task-scheduling
+  name: Task Scheduling
+- id: philosophy
+  name: Philosophy
+- id: gratitude
+  name: Gratitude
+- id: focus-enhancement
+  name: Focus Enhancement
+- id: task-triage
+  name: Task Triage
+- id: habit-formation
+  name: Habit Formation
+- id: routines
+  name: Routines
+- id: behavioral-psychology
+  name: Behavioral Psychology
+- id: recovery
+  name: Recovery
+- id: burnout-prevention
+  name: Burnout Prevention
+- id: daily-planning
+  name: Daily Planning
+- id: momentum
+  name: Momentum
+- id: starting
+  name: Starting
+- id: self-care
+  name: Self Care
+- id: notion
+  name: Notion
+- id: quick-tasks
+  name: Quick Tasks
+- id: task-organization
+  name: Task Organization
+- id: meeting-management
+  name: Meeting Management
+- id: metaphor
+  name: Metaphor
+- id: mindset
+  name: Mindset
+- id: perfectionism
+  name: Perfectionism
+- id: iteration
+  name: Iteration
+- id: ai-scheduling
+  name: Ai Scheduling
+- id: calendar-automation
+  name: Calendar Automation
+- id: stress-reduction
+  name: Stress Reduction
+- id: closure
+  name: Closure
+- id: process-management
+  name: Process Management
+- id: behavior-design
+  name: Behavior Design
+- id: productivity-multipliers
+  name: Productivity Multipliers
+- id: strategic-focus
+  name: Strategic Focus
+- id: structure
+  name: Structure
+- id: law-firms
+  name: Law Firms
+- id: email-management
+  name: Email Management
+- id: goal-alignment
+  name: Goal Alignment
+- id: memory
+  name: Memory
