@@ -52,3 +52,7 @@
   name: Project Management
 - id: freelancers
   name: Freelancers
+- id: construction
+  name: Construction
+- id: employee-scheduling
+  name: Employee Scheduling

@@ -313,7 +313,7 @@
 - id: organization
   name: Organization
 - id: gtd
-  name: GTD
+  name: Gtd
 - id: reflection
   name: Reflection
 - id: review
@@ -453,7 +453,7 @@
 - id: remote-work
   name: Remote Work
 - id: ai-powered
-  name: AI Powered
+  name: Ai Powered
 - id: wellness
   name: Wellness
 - id: productivity-analytics
@@ -814,3 +814,25 @@
   name: Quick Wins
 - id: xero-integration
   name: Xero Integration
+- id: databases
+  name: Databases
+- id: paper-based
+  name: Paper Based
+- id: unlimited-users
+  name: Unlimited Users
+- id: calendar-optimization
+  name: Calendar Optimization
+- id: virtual-coworking
+  name: Virtual Coworking
+- id: heavy-equipment
+  name: Heavy Equipment
+- id: demand-driven
+  name: Demand Driven
+- id: access-control
+  name: Access Control
+- id: employee-management
+  name: Employee Management
+- id: barcode
+  name: Barcode
+- id: outliner
+  name: Outliner
