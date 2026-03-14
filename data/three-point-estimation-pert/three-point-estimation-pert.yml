@@ -1,446 +1,385 @@
 name: Three-Point Estimation (PERT)
-description: A time estimation technique using optimistic, most likely, and
-  pessimistic scenarios to calculate expected task duration, providing more
-  accurate estimates that account for uncertainty and risk.
+description: "Project time estimation technique using three values: optimistic
+  (best case), most likely (realistic), and pessimistic (worst case) scenarios
+  to calculate weighted average. Originally developed for the US Navy's Polaris
+  program, now widely used in project management for more accurate time and cost
+  predictions."
 source_url: https://pmstudycircle.com/three-point-estimation/
 category: Practices
 tags:
   - estimation
   - project-management
-  - risk-management
-featured: false
+  - agile
+  - forecasting
 markdown: >-
   ## Overview
 
 
-  The Program Evaluation and Review Technique (PERT) is used to find the
-  estimated time for activities to be completed when there are many unknown
-  factors. PERT was originally developed by the U.S. Navy in the 1950s to
-  support the Polaris submarine project.
-
-
-  Instead of assuming a single fixed value, this method uses optimistic, most
-  likely, and pessimistic estimates to reflect a full range of potential
-  scenarios for each task or activity.
+  Three-Point Estimation, also called PERT (Program Evaluation and Review
+  Technique) estimation, is a method for estimating task duration using three
+  scenarios to account for uncertainty and provide more realistic project
+  timelines.
 
 
   ## The Three Estimates
 
 
-  The three-point estimation technique involves three values:
+  ### Optimistic (O)
 
+  **Definition**: Best-case scenario time
 
-  ### 1. Optimistic (O)
+  **Assumptions**:
 
-
-  This is the "happy path" where everything goes right and the task takes the
-  minimum amount of time that it could take.
-
-
-  **Characteristics:**
-
-  - Best-case scenario
-
-  - All conditions favorable
+  - Everything goes perfectly
 
   - No obstacles or delays
 
-  - Team performing at peak
+  - Ideal conditions
 
-  - All resources immediately available
-
-
-  ### 2. Most Likely (M)
+  - Maximum efficiency
 
 
-  This is the best guess that you have, if all proceeds somewhat normally and
-  there are a few bumps in the road, the task will take this long.
+  **Question**: "What's the fastest this could possibly be done?"
 
 
-  **Characteristics:**
+  ### Most Likely (M)
 
-  - Realistic middle ground
+  **Definition**: Realistic scenario time
+
+  **Assumptions**:
 
   - Normal working conditions
 
-  - Expected minor issues
+  - Expected challenges accounted for
 
-  - Typical resource availability
+  - Based on experience
 
-  - Standard team performance
+  - Most probable outcome
 
 
-  ### 3. Pessimistic (P)
+  **Question**: "Given normal conditions, how long will this take?"
 
 
-  The worst-case scenario where delays, risks, or issues result in higher time
-  or cost.
+  ### Pessimistic (P)
 
+  **Definition**: Worst-case scenario time
 
-  **Characteristics:**
+  **Assumptions**:
 
-  - Everything that can go wrong does
+  - Significant obstacles encountered
 
-  - Maximum delays and obstacles
+  - Multiple setbacks
 
-  - Resource constraints
+  - Unfavorable conditions
 
-  - Technical difficulties
+  - Still completable (not catastrophic)
 
-  - External dependencies fail
 
+  **Question**: "If things go badly, what's the maximum reasonable time?"
 
-  ## PERT Formula
 
+  ## Calculation Methods
 
-  **Expected Time = (Optimistic + 4 × Most Likely + Pessimistic) / 6**
 
+  ### Triangular Distribution
 
-  Or: **(O + 4M + P) / 6**
+  **Formula**: (O + M + P) / 3
 
 
-  ### Why Weight the Most Likely by 4?
+  **When to Use**:
 
+  - Equal weight to all three estimates
 
-  The M value, Most Likely, is given 4 weights as the PERT formula is based on
-  probability theory and statistics, specifically Beta Distribution. This
-  weighting reflects that the most likely scenario is more probable than the
-  extremes.
+  - Simpler calculation
 
+  - Less historical data available
 
-  ## Example Calculation
 
+  **Example**:
 
-  **Task:** Develop a new feature
+  - Optimistic: 4 days
 
+  - Most Likely: 6 days
 
-  - **Optimistic (O)**: 3 days
+  - Pessimistic: 10 days
 
-  - **Most Likely (M)**: 5 days  
+  - **Estimate**: (4 + 6 + 10) / 3 = 6.67 days
 
-  - **Pessimistic (P)**: 10 days
 
+  ### Beta Distribution (PERT Formula)
 
-  **Expected Time** = (3 + 4(5) + 10) / 6 = (3 + 20 + 10) / 6 = 33 / 6 = **5.5
-  days**
+  **Formula**: (O + 4M + P) / 6
 
 
-  ## Standard Deviation
+  **When to Use**:
 
+  - Weight most likely estimate more heavily
 
-  PERT also allows calculation of standard deviation:
+  - More accurate with experienced estimators
 
+  - Industry standard for project management
 
-  **Standard Deviation = (P - O) / 6**
 
+  **Example**:
 
-  In our example: (10 - 3) / 6 = 7 / 6 = **1.17 days**
+  - Optimistic: 4 days
 
+  - Most Likely: 6 days  
 
-  This tells you the likely variance from the expected time.
+  - Pessimistic: 10 days
 
+  - **Estimate**: (4 + 4×6 + 10) / 6 = 6.33 days
 
-  ## PERT vs. Triangular Distribution
 
+  ### Standard Deviation
 
-  ### PERT Distribution:
+  **Formula**: (P - O) / 6
 
 
-  - More bell-shaped curve
+  **Purpose**: Measures uncertainty
 
-  - Higher peak at most likely estimate
+  - Higher SD = more uncertainty
 
-  - Assumes values closer to most likely are more probable
+  - Lower SD = more confidence
 
-  - Uses weighted formula
+  - Helps assess risk
 
-  - Better for complex tasks with uncertainty
 
+  **Confidence Intervals**:
 
-  ### Triangular Distribution:
+  - 68% confidence: Estimate ± 1 SD
 
+  - 95% confidence: Estimate ± 2 SD
 
-  - Simple average of three points
+  - 99.7% confidence: Estimate ± 3 SD
 
-  - Formula: (O + M + P) / 3
 
-  - All three values weighted equally
+  ## Benefits
 
-  - Simpler to calculate
 
-  - Better for tasks with limited historical data
+  ### More Realistic Estimates
 
+  - Accounts for uncertainty
 
-  ## Key Benefits
+  - Balances optimism and pessimism
 
+  - Based on range rather than single point
 
-  ### 1. More Realistic Estimates
+  - Reflects real-world variability
 
 
-  By considering multiple scenarios, estimates are less prone to bias and
-  provide a realistic average.
+  ### Risk Assessment
 
+  - Standard deviation shows uncertainty level
 
-  ### 2. Risk Visibility
+  - Identifies high-risk tasks
 
+  - Supports contingency planning
 
-  The process forces teams to identify optimistic and pessimistic outcomes,
-  making hidden risks visible.
+  - Improves decision-making
 
 
-  ### 3. Stakeholder Trust
+  ### Better Than Single-Point
 
+  - Single estimates tend toward optimism
 
-  Presenting a range of values builds trust and helps stakeholders understand
-  variability.
+  - Doesn't account for unknowns
 
+  - Three-point captures range of outcomes
 
-  ### 4. Better Planning
+  - More defendable to stakeholders
 
 
-  Understanding potential variance helps with buffer planning and resource
-  allocation.
+  ## How to Apply
 
 
-  ### 5. Accounts for Uncertainty
+  ### Step 1: Break Down Work
 
+  - Divide project into tasks
 
-  Recognizes that not all tasks have predictable durations.
+  - Make tasks estimable (not too large)
 
+  - Identify dependencies
 
-  ## When to Use PERT
 
+  ### Step 2: Gather Team Input
 
-  The technique is widely used in project management, particularly for:
+  - Involve people who'll do the work
 
+  - Discuss assumptions
 
-  - Complex, high-risk tasks
+  - Consider historical data
 
-  - High-cost activities
+  - Account for known risks
 
-  - Tasks where historical data is limited
 
-  - Projects where risk is a major concern
+  ### Step 3: Create Three Estimates
 
-  - Novel or innovative work
 
-  - Tasks with significant uncertainty
+  For each task:
 
-  - Critical path activities
+  1. **Optimistic**: What if everything goes right?
 
+  2. **Most Likely**: What's our realistic estimate?
 
-  ## How to Implement
+  3. **Pessimistic**: What if we hit obstacles?
 
 
-  ### Step 1: Identify Tasks
+  ### Step 4: Calculate
 
+  - Apply formula (usually PERT: (O+4M+P)/6)
 
-  List all project tasks requiring estimation.
+  - Calculate standard deviation
 
+  - Sum estimates for total project time
 
-  ### Step 2: Gather Input
+  - Add buffer based on uncertainty
 
 
-  For each task, ask:
+  ### Step 5: Review and Refine
 
-  - "What's the best-case duration?" (O)
+  - Sanity check results
 
-  - "What's the most realistic duration?" (M)
+  - Compare to historical projects
 
-  - "What's the worst-case duration?" (P)
+  - Adjust for unique factors
 
+  - Get team buy-in
 
-  ### Step 3: Calculate Expected Time
 
+  ## Common Mistakes
 
-  Apply the PERT formula: (O + 4M + P) / 6
 
+  ### Too Optimistic Across Board
 
-  ### Step 4: Calculate Standard Deviation (Optional)
+  - All three estimates are optimistic
 
+  - Doesn't truly represent worst case
 
-  Use: (P - O) / 6 to understand variance
+  - Solution: Challenge assumptions
 
 
-  ### Step 5: Sum for Project Duration
+  ### Pessimistic = Catastrophic
 
+  - Worst case includes disasters
 
-  Add expected times for all tasks on critical path.
+  - Not realistic for planning
 
+  - Solution: Pessimistic should be bad but plausible
 
-  ### Step 6: Include Buffers
 
+  ### Anchor Bias
 
-  Consider adding buffer time based on standard deviations.
+  - First estimate influences others
 
+  - All three cluster too closely
 
-  ## Best Practices
+  - Solution: Estimate independently or use ranges
 
 
-  ### Involve the Right People
+  ### Forgetting Dependencies
 
+  - Estimates assume parallel work
 
-  - Get estimates from those doing the work
+  - Ignore sequential constraints
 
-  - Include subject matter experts
+  - Solution: Consider critical path
 
-  - Consider multiple perspectives
 
-  - Avoid estimating in isolation
+  ## Use in Agile
 
 
-  ### Be Realistic
+  ### Story Point Estimation
 
+  Can use three-point for complexity:
 
-  - Optimistic doesn't mean "impossible but theoretically possible"
+  - Optimistic: 3 points
 
-  - Pessimistic isn't "the project fails entirely"
+  - Most Likely: 5 points
 
-  - Most likely should be genuinely likely, not aspirational
+  - Pessimistic: 8 points
 
+  - Weighted estimate: ~5 points
 
-  ### Document Assumptions
 
+  ### Sprint Planning
 
-  - Record what each estimate assumes
+  - Estimate capacity with three scenarios
 
-  - Note dependencies and constraints
+  - Plan for most likely
 
-  - Document risk factors considered
+  - Understand risk with pessimistic
 
-  - Explain pessimistic scenarios
 
+  ### Release Planning
 
-  ### Review and Refine
+  - Project completion dates
 
+  - Account for velocity variance
 
-  - Update estimates as you learn more
+  - Communicate uncertainty to stakeholders
 
-  - Compare actuals to estimates
 
-  - Improve estimation accuracy over time
+  ## Tools and Techniques
 
-  - Track which assumptions held true
 
+  ### Planning Poker Variant
 
-  ## Common Pitfalls
+  1. Team estimates optimistic
 
+  2. Team estimates most likely
 
-  ### 1. Overly Optimistic "Optimistic"
+  3. Team estimates pessimistic
 
+  4. Calculate using PERT formula
 
-  Avoid best-case estimates that assume perfection. Be realistic about what
-  "best case" means.
 
+  ### Monte Carlo Simulation
 
-  ### 2. Ignoring Pessimistic Scenarios
+  - Run thousands of simulations
 
+  - Use three-point estimates as inputs
 
-  Don't dismiss worst-case estimates as "too negative." They're essential for
-  risk planning.
+  - Generate probability distributions
 
+  - More sophisticated analysis
 
-  ### 3. Single Person Estimating
 
+  ## When to Use
 
-  Estimates from one person are prone to bias. Get team input.
 
+  **Good For**:
 
-  ### 4. Not Updating Estimates
+  - Complex, uncertain projects
 
+  - High-stakes deliverables
 
-  As projects progress, update estimates based on actual performance.
+  - Projects with significant unknowns
 
+  - First-time initiatives
 
-  ### 5. Confusing PERT with Fixed Commitment
+  - Communicating risk to stakeholders
 
 
-  PERT provides expected duration, not a guarantee.
+  **Less Useful For**:
 
+  - Routine, well-understood tasks
 
-  ## Integration with Project Management
+  - Very short tasks (overhead not worth it)
 
+  - When single estimate is accurate enough
 
-  ### Critical Path Method (CPM)
 
+  ## Ideal For
 
-  Combine PERT estimates with CPM to identify:
 
-  - Critical path duration
+  - Project managers
 
-  - Project completion probability
+  - Agile teams doing estimation
 
-  - Buffer requirements
+  - Anyone planning complex work
 
-  - Risk hotspots
+  - Organizations needing realistic timelines
 
-
-  ### Risk Management
-
-
-  Use pessimistic estimates to:
-
-  - Identify high-risk activities
-
-  - Plan mitigation strategies
-
-  - Allocate contingency budgets
-
-  - Prioritize risk monitoring
-
-
-  ### Resource Planning
-
-
-  Expected times help:
-
-  - Allocate resources realistically
-
-  - Identify resource conflicts
-
-  - Plan for variable durations
-
-  - Optimize resource utilization
-
-
-  ## Tools Supporting PERT
-
-
-  - Microsoft Project
-
-  - Primavera P6
-
-  - Smartsheet
-
-  - Project Management calculators
-
-  - Custom Excel templates
-
-  - Online PERT calculators
-
-
-  ## Measuring Success
-
-
-  - Estimates closer to actuals over time
-
-  - Better risk identification
-
-  - Fewer schedule surprises
-
-  - Improved stakeholder communication
-
-  - More accurate project forecasts
-
-
-  ## Related Techniques
-
-
-  - **Monte Carlo Simulation**: Uses PERT data for probabilistic analysis
-
-  - **Delphi Technique**: Consensus-based estimation method
-
-  - **Analogous Estimating**: Based on similar past projects
-
-  - **Parametric Estimating**: Using statistical relationships
-updated_at: 2026-03-10 12:21
+  - Teams learning to estimate better
+updated_at: 2026-03-14 15:50
