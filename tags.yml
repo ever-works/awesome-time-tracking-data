@@ -23,7 +23,7 @@
 - id: gnome
   name: gnome
 - id: minimalist
-  name: minimalist
+  name: Minimalist
 - id: wxwidgets
   name: wxwidgets
 - id: sqlite
@@ -231,7 +231,7 @@
 - id: workflow
   name: Workflow
 - id: development
-  name: development
+  name: Development
 - id: milestones
   name: milestones
 - id: windows
@@ -732,113 +732,77 @@
   name: Velocity
 - id: approval
   name: Approval
-- id: effectiveness
-  name: Effectiveness
-- id: resource-allocation
-  name: Resource Allocation
-- id: cognitive-resources
-  name: Cognitive Resources
-- id: task-switching
-  name: Task Switching
-- id: routine
-  name: Routine
-- id: decision-fatigue
-  name: Decision Fatigue
-- id: goal-tracking
-  name: Goal Tracking
-- id: commitment-device
-  name: Commitment Device
-- id: employee-tracking
-  name: Employee Tracking
-- id: time-clock
-  name: Time Clock
+- id: mac
+  name: Mac
+- id: mobile-apps
+  name: Mobile Apps
+- id: reviews
+  name: Reviews
 - id: payroll-integration
   name: Payroll Integration
-- id: calendar-management
-  name: Calendar Management
-- id: time-estimates
-  name: Time Estimates
-- id: family-organization
-  name: Family Organization
-- id: shared-calendar
-  name: Shared Calendar
-- id: mobile-app
-  name: Mobile App
-- id: urgency
-  name: Urgency
-- id: task-completion
-  name: Task Completion
-- id: cognitive-load
-  name: Cognitive Load
-- id: chronobiology
-  name: Chronobiology
-- id: task-scheduling
-  name: Task Scheduling
-- id: philosophy
-  name: Philosophy
-- id: gratitude
-  name: Gratitude
-- id: focus-enhancement
-  name: Focus Enhancement
-- id: task-triage
-  name: Task Triage
-- id: habit-formation
-  name: Habit Formation
-- id: routines
-  name: Routines
-- id: behavioral-psychology
-  name: Behavioral Psychology
-- id: recovery
-  name: Recovery
-- id: burnout-prevention
-  name: Burnout Prevention
-- id: daily-planning
-  name: Daily Planning
-- id: momentum
-  name: Momentum
-- id: starting
-  name: Starting
-- id: self-care
-  name: Self Care
-- id: notion
-  name: Notion
-- id: quick-tasks
-  name: Quick Tasks
-- id: task-organization
-  name: Task Organization
-- id: meeting-management
-  name: Meeting Management
-- id: metaphor
-  name: Metaphor
-- id: mindset
-  name: Mindset
-- id: perfectionism
-  name: Perfectionism
-- id: iteration
-  name: Iteration
-- id: ai-scheduling
-  name: Ai Scheduling
-- id: calendar-automation
-  name: Calendar Automation
-- id: stress-reduction
-  name: Stress Reduction
-- id: closure
-  name: Closure
-- id: process-management
-  name: Process Management
-- id: behavior-design
-  name: Behavior Design
-- id: productivity-multipliers
-  name: Productivity Multipliers
-- id: strategic-focus
-  name: Strategic Focus
-- id: structure
-  name: Structure
-- id: law-firms
-  name: Law Firms
-- id: email-management
-  name: Email Management
-- id: goal-alignment
-  name: Goal Alignment
-- id: memory
-  name: Memory
+- id: eat-the-frog
+  name: Eat The Frog
+- id: hr-platform
+  name: Hr Platform
+- id: education
+  name: Education
+- id: nonprofit
+  name: Nonprofit
+- id: volunteer-management
+  name: Volunteer Management
+- id: impact-measurement
+  name: Impact Measurement
+- id: expense-management
+  name: Expense Management
+- id: product-management
+  name: Product Management
+- id: frameworks
+  name: Frameworks
+- id: student-productivity
+  name: Student Productivity
+- id: receipt-management
+  name: Receipt Management
+- id: outlook
+  name: Outlook
+- id: workflow-visualization
+  name: Workflow Visualization
+- id: sales
+  name: Sales
+- id: activity-tracking
+  name: Activity Tracking
+- id: mileage-tracking
+  name: Mileage Tracking
+- id: tax-deductions
+  name: Tax Deductions
+- id: tax-compliance
+  name: Tax Compliance
+- id: mental-models
+  name: Mental Models
+- id: sprint-tracking
+  name: Sprint Tracking
+- id: mid-market
+  name: Mid Market
+- id: time-clock
+  name: Time Clock
+- id: methodologies
+  name: Methodologies
+- id: seinfeld-strategy
+  name: Seinfeld Strategy
+- id: task-visualization
+  name: Task Visualization
+- id: team-tracking
+  name: Team Tracking
+- id: peo
+  name: Peo
+- id: sync
+  name: Sync
+- id: automated
+  name: Automated
+- id: hcm
+  name: Hcm
+- id: help-desk
+  name: Help Desk
+- id: customer-support
+  name: Customer Support
+- id: ticket-tracking
+  name: Ticket Tracking
