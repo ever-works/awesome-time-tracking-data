@@ -173,7 +173,7 @@
 - id: scheduling
   name: Scheduling
 - id: macos
-  name: MacOS
+  name: Macos
 - id: team
   name: team
 - id: employee-monitoring
@@ -187,7 +187,7 @@
 - id: contractors
   name: contractors
 - id: reminders
-  name: reminders
+  name: Reminders
 - id: developers
   name: Developers
 - id: firebase
@@ -606,15 +606,13 @@
   name: Financial Management
 - id: pos
   name: Pos
-- id: verification
-  name: Verification
-- id: meeting-scheduling
-  name: Meeting Scheduling
-- id: okrs
-  name: Okrs
-- id: routines
-  name: Routines
+- id: analog
+  name: Analog
 - id: manual
   name: Manual
-- id: risk-management
-  name: Risk Management
+- id: ide
+  name: Ide
+- id: government
+  name: Government
+- id: github
+  name: Github
