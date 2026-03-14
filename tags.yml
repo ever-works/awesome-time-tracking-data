@@ -167,7 +167,7 @@
 - id: analysis
   name: Analysis
 - id: gps
-  name: Gps
+  name: GPS
 - id: billing
   name: Billing
 - id: scheduling
@@ -205,7 +205,7 @@
 - id: kanban
   name: Kanban
 - id: hr
-  name: Hr
+  name: HR
 - id: compliance
   name: Compliance
 - id: remote-teams
@@ -313,7 +313,7 @@
 - id: organization
   name: Organization
 - id: gtd
-  name: Gtd
+  name: GTD
 - id: reflection
   name: Reflection
 - id: review
@@ -453,7 +453,7 @@
 - id: remote-work
   name: Remote Work
 - id: ai-powered
-  name: Ai Powered
+  name: AI Powered
 - id: wellness
   name: Wellness
 - id: productivity-analytics
@@ -806,3 +806,11 @@
   name: Customer Support
 - id: ticket-tracking
   name: Ticket Tracking
+- id: daily-planning
+  name: Daily Planning
+- id: leave-management
+  name: Leave Management
+- id: quick-wins
+  name: Quick Wins
+- id: xero-integration
+  name: Xero Integration

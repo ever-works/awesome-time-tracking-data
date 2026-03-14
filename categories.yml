@@ -48,3 +48,7 @@
   name: Professional Services
 - id: employee-monitoring
   name: Employee Monitoring
+- id: project-management
+  name: Project Management
+- id: freelancers
+  name: Freelancers
