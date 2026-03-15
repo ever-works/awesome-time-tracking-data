@@ -97,7 +97,7 @@
 - id: approval-workflows
   name: approval-workflows
 - id: workforce-analytics
-  name: workforce-analytics
+  name: Workforce Analytics
 - id: real-time
   name: Real Time
 - id: privacy
@@ -1188,3 +1188,25 @@
   name: Authentication
 - id: contactless
   name: Contactless
+- id: digital-wellbeing
+  name: Digital Wellbeing
+- id: workplace-analytics
+  name: Workplace Analytics
+- id: wellbeing
+  name: Wellbeing
+- id: digital-organization
+  name: Digital Organization
+- id: project-accounting
+  name: Project Accounting
+- id: audit-trail
+  name: Audit Trail
+- id: operations-enablement
+  name: Operations Enablement
+- id: productivity-insights
+  name: Productivity Insights
+- id: process-optimization
+  name: Process Optimization
+- id: collaboration-insights
+  name: Collaboration Insights
+- id: anonymized
+  name: Anonymized
