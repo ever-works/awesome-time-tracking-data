@@ -143,7 +143,7 @@
 - id: leave-tracking
   name: leave-tracking
 - id: timer
-  name: timer
+  name: Timer
 - id: desktop
   name: Desktop
 - id: background
@@ -209,7 +209,7 @@
 - id: compliance
   name: Compliance
 - id: remote-teams
-  name: remote-teams
+  name: Remote Teams
 - id: agpl-30
   name: AGPL-3.0
 - id: crm
@@ -952,3 +952,15 @@
   name: Employee Self Service
 - id: canada
   name: Canada
+- id: text-expander
+  name: Text Expander
+- id: sleep-tracking
+  name: Sleep Tracking
+- id: brain-dump
+  name: Brain Dump
+- id: autism
+  name: Autism
+- id: neurodivergent
+  name: Neurodivergent
+- id: keyboard-shortcuts
+  name: Keyboard Shortcuts
