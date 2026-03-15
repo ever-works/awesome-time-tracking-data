@@ -1,101 +1,170 @@
 name: Freedom
-description: Website and app blocker that helps eliminate distractions across
-  all your devices. Freedom enables you to block distracting websites, apps, or
-  the entire internet during focus sessions, with scheduling and sync across
-  Mac, Windows, iOS, and Android.
+description: Cross-platform website and app blocker that empowers over 3 million
+  users to limit screen time, reduce distractions, and improve focus. Syncs
+  across all devices with advanced and recurring schedules, helping users gain
+  an average of 2.5 hours of productive time daily.
 source_url: https://freedom.to/
 category: Productivity Tools
 tags:
-  - distraction-blocking
-  - focus
+  - website-blocker
   - cross-platform
+  - focus
 featured: false
 markdown: >-
   ## Overview
 
 
-  Freedom is a distraction-blocking app that helps you stay focused by blocking
-  distracting websites, apps, and even the entire internet across all your
-  devices simultaneously.
+  Freedom is a comprehensive website and app blocker designed to help users
+  limit screen time, reduce distractions, and improve focus for online learning
+  and work. Used by over 3 million people worldwide, it's one of the most
+  popular productivity tools for managing digital distractions.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Cross-Device Sync** - Block distractions on Mac, Windows, iOS, and Android
-  simultaneously
+  ### Unlimited Blocking
 
-  - **Website Blocking** - Block specific websites or entire categories
+  - Block unlimited distracting apps and websites
 
-  - **App Blocking** - Block distracting desktop and mobile applications
+  - Target specific platforms: Instagram, TikTok, ESPN, YouTube, etc.
 
-  - **Scheduled Sessions** - Schedule recurring focus sessions in advance
+  - Create custom blocklists tailored to your needs
 
-  - **Locked Mode** - Prevent yourself from bypassing blocks
+  - Block the entire internet if needed
 
-  - **Block Lists** - Create custom lists of sites/apps to block
-
-  - **Ambient Sounds** - Built-in focus sounds and music
-
-  - **Session History** - Track your focus sessions over time
-
-  - **Recurring Schedules** - Set up daily or weekly blocking schedules
+  - Device-specific or synchronized blocking
 
 
-  ## Blocking Options
+  ### Cross-Platform Syncing
+
+  - Syncs across all your devices seamlessly
+
+  - Simultaneous blocking on phone, tablet, and laptop
+
+  - One account for all platforms
+
+  - Consistent blocking rules everywhere
 
 
-  ### Website Blocking
+  ### Advanced Scheduling
 
-  - Block specific URLs or entire domains
+  - Recurring schedules: set it and forget it
 
-  - Block all websites except a whitelist
+  - Advance scheduling for planned focus sessions
 
-  - Schedule blocks for specific times
+  - Automatic start based on your schedule
 
+  - Flexible timing options
 
-  ### App Blocking
-
-  - Block desktop applications
-
-  - Block mobile apps (iOS and Android)
-
-  - Sync blocks across devices
+  - Different schedules for different days
 
 
-  ### Internet Blocking
+  ### Locked Mode
 
-  - Block entire internet connection
+  - Prevents premature session ending
 
-  - Perfect for offline deep work
+  - Keeps you accountable to your commitments
 
-  - Scheduled internet-free time
+  - Can't be bypassed during locked sessions
+
+  - Optional feature for extra discipline
+
+
+  ## Platform Availability
+
+
+  - Mac (macOS)
+
+  - Windows
+
+  - Android
+
+  - iOS (iPhone/iPad)
+
+  - Chrome browser extension
+
+
+  ## Privacy & Security
+
+
+  Freedom doesn't track your browsing, app usage, or personal activity. Your
+  attention and data stay private.
+
+
+  ## Proven Results
+
+
+  Freedom users report gaining an average of **2.5 hours of productive time
+  every day**, demonstrating significant ROI for knowledge workers and students.
+
+
+  ## Pricing (2026)
+
+
+  - **Free Version**: Available on Windows with basic features
+
+  - **Premium Trial**: 7-day free trial
+
+  - **Freedom Forever**: $199.00 one-time purchase for lifetime access
+
+  - Subscription options also available
 
 
   ## Use Cases
 
 
-  - Deep work sessions requiring no distractions
+  - Students eliminating social media during study sessions
 
-  - Studying and exam preparation
+  - Writers protecting creative time from online distractions
 
-  - Writing and creative work
+  - Developers maintaining focus during coding
 
-  - Breaking social media addiction
+  - Professionals reducing email/Slack checking during deep work
 
-  - Creating work-life boundaries
-
-  - Improving sleep by blocking devices at night
+  - Anyone building healthier digital habits
 
 
-  ## Pricing
+  ## Comparison to Alternatives
 
 
-  - **7-day free trial**
+  Freedom stands out for its:
 
-  - **Monthly** - $8.99/month
+  - True cross-platform support (most blockers are single-platform)
 
-  - **Yearly** - $39.99/year
+  - Locked Mode for unbreakable accountability
 
-  - **Forever** - $199 one-time payment
-updated_at: 2026-03-14 23:32
+  - Large user base and proven track record
+
+  - Privacy-first approach (no activity tracking)
+
+  - Flexible scheduling options
+
+
+  ## Integration with Time Management
+
+
+  Freedom complements time tracking and time blocking methodologies by:
+
+  - Protecting scheduled focus blocks from digital interruptions
+
+  - Enforcing planned deep work sessions
+
+  - Creating distraction-free environments for Pomodoro sessions
+
+  - Supporting calendar time blocking strategies
+
+
+  ## Best Practices
+
+
+  1. Start with recurring schedules for consistent daily focus blocks
+
+  2. Use Locked Mode for critical deadlines or deep work
+
+  3. Create different blocklists for different work contexts
+
+  4. Sync across all devices to prevent "device switching"
+
+  5. Review and adjust blocklists regularly as needed
+updated_at: 2026-03-15 12:55
