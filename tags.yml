@@ -77,7 +77,7 @@
 - id: integration
   name: Integration
 - id: collaborative
-  name: collaborative
+  name: Collaborative
 - id: offline
   name: Offline
 - id: billable-hours
@@ -99,7 +99,7 @@
 - id: workforce-analytics
   name: workforce-analytics
 - id: real-time
-  name: real-time
+  name: Real Time
 - id: privacy
   name: Privacy
 - id: countdown
@@ -241,13 +241,13 @@
 - id: portable
   name: portable
 - id: health-integration
-  name: health-integration
+  name: Health Integration
 - id: mit
   name: MIT
 - id: android
   name: Android
 - id: ios
-  name: Ios
+  name: IOS
 - id: accounting
   name: Accounting
 - id: commerce
@@ -964,3 +964,33 @@
   name: Neurodivergent
 - id: keyboard-shortcuts
   name: Keyboard Shortcuts
+- id: early-rising
+  name: Early Rising
+- id: personal-development
+  name: Personal Development
+- id: mind-mapping
+  name: Mind Mapping
+- id: positive-psychology
+  name: Positive Psychology
+- id: technology
+  name: Technology
+- id: minimalism
+  name: Minimalism
+- id: accomplishment
+  name: Accomplishment
+- id: note-taking
+  name: Note Taking
+- id: shortcuts
+  name: Shortcuts
+- id: framework
+  name: Framework
+- id: rhythm
+  name: Rhythm
+- id: knowledge-management
+  name: Knowledge Management
+- id: networked-thought
+  name: Networked Thought
+- id: bidirectional-links
+  name: Bidirectional Links
+- id: habit-formation
+  name: Habit Formation

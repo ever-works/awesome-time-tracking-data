@@ -56,3 +56,5 @@
   name: Construction
 - id: employee-scheduling
   name: Employee Scheduling
+- id: time-blocking-interval-timers
+  name: Time Blocking & Interval Timers
