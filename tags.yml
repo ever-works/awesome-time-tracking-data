@@ -157,7 +157,7 @@
 - id: go
   name: Go
 - id: timeline
-  name: timeline
+  name: Timeline
 - id: chatops
   name: chatops
 - id: screenshot
@@ -245,7 +245,7 @@
 - id: mit
   name: MIT
 - id: android
-  name: android
+  name: Android
 - id: ios
   name: Ios
 - id: accounting
@@ -924,3 +924,31 @@
   name: Bim
 - id: preparation
   name: Preparation
+- id: rule-based
+  name: Rule Based
+- id: haskell
+  name: Haskell
+- id: calendar-view
+  name: Calendar View
+- id: deadline-driven
+  name: Deadline Driven
+- id: backward-planning
+  name: Backward Planning
+- id: location-based
+  name: Location Based
+- id: multi-platform
+  name: Multi Platform
+- id: hashtags
+  name: Hashtags
+- id: apple-watch
+  name: Apple Watch
+- id: widgets
+  name: Widgets
+- id: reverse-psychology
+  name: Reverse Psychology
+- id: guilt-free
+  name: Guilt Free
+- id: employee-self-service
+  name: Employee Self Service
+- id: canada
+  name: Canada
