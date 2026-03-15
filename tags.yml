@@ -167,7 +167,7 @@
 - id: analysis
   name: Analysis
 - id: gps
-  name: GPS
+  name: Gps
 - id: billing
   name: Billing
 - id: scheduling
@@ -1176,3 +1176,15 @@
   name: Tab Management
 - id: routines
   name: Routines
+- id: chronotype
+  name: Chronotype
+- id: ceo-productivity
+  name: Ceo Productivity
+- id: kiosk
+  name: Kiosk
+- id: shared-device
+  name: Shared Device
+- id: authentication
+  name: Authentication
+- id: contactless
+  name: Contactless
