@@ -449,11 +449,11 @@
 - id: field-service
   name: Field Service
 - id: gps-tracking
-  name: Gps Tracking
+  name: GPS Tracking
 - id: remote-work
   name: Remote Work
 - id: ai-powered
-  name: Ai Powered
+  name: AI Powered
 - id: wellness
   name: Wellness
 - id: productivity-analytics
@@ -1054,3 +1054,5 @@
   name: Statistics
 - id: excel
   name: Excel
+- id: photography
+  name: Photography
