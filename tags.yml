@@ -1056,3 +1056,13 @@
   name: Excel
 - id: photography
   name: Photography
+- id: work-rest-cycle
+  name: Work Rest Cycle
+- id: isolation
+  name: Isolation
+- id: peak-performance
+  name: Peak Performance
+- id: social-media
+  name: Social Media
+- id: content-scheduling
+  name: Content Scheduling
