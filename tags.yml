@@ -449,7 +449,7 @@
 - id: field-service
   name: Field Service
 - id: gps-tracking
-  name: GPS Tracking
+  name: Gps Tracking
 - id: remote-work
   name: Remote Work
 - id: ai-powered
@@ -1096,3 +1096,7 @@
   name: Project Scheduling
 - id: payments
   name: Payments
+- id: dcaa-compliance
+  name: Dcaa Compliance
+- id: government-contractors
+  name: Government Contractors
