@@ -743,7 +743,7 @@
 - id: eat-the-frog
   name: Eat The Frog
 - id: hr-platform
-  name: Hr Platform
+  name: HR Platform
 - id: education
   name: Education
 - id: nonprofit
@@ -1116,3 +1116,47 @@
   name: Inbox Zero
 - id: time-perception
   name: Time Perception
+- id: revenue-intelligence
+  name: Revenue Intelligence
+- id: conversation-intelligence
+  name: Conversation Intelligence
+- id: async-video
+  name: Async Video
+- id: real-time-transcription
+  name: Real Time Transcription
+- id: sales-coaching
+  name: Sales Coaching
+- id: inclusion
+  name: Inclusion
+- id: dei
+  name: DEI
+- id: transcription
+  name: Transcription
+- id: collaborative-agendas
+  name: Collaborative Agendas
+- id: video-clips
+  name: Video Clips
+- id: privacy-first
+  name: Privacy First
+- id: gdpr
+  name: GDPR
+- id: noise-cancellation
+  name: Noise Cancellation
+- id: multilingual
+  name: Multilingual
+- id: meeting-intelligence
+  name: Meeting Intelligence
+- id: video-hub
+  name: Video Hub
+- id: process-documentation
+  name: Process Documentation
+- id: team-intelligence
+  name: Team Intelligence
+- id: client-work
+  name: Client Work
+- id: meeting-recording
+  name: Meeting Recording
+- id: chatgpt
+  name: ChatGPT
+- id: personalized
+  name: Personalized
