@@ -1,125 +1,63 @@
-name: busybusy
-description: busybusy is a construction-focused time tracking and job costing
-  platform that helps field and remote teams track hours, locations, and project
-  activity via mobile and web apps, including GPS-enabled clock-in/out and
-  reporting for payroll and project management.
+name: BusyBusy
+description: Free construction timekeeping app offering unlimited users, time
+  tracking, job codes, and equipment location tracking on its no-cost plan,
+  making it the only time-tracking app to promise effective equipment management
+  tools.
 source_url: https://busybusy.com/
-featured: false
-brand: busybusy
-brand_logo_url: null
-images: null
-category: field-team-management
+category: Construction
 tags:
-  - gps
-  - mobile
   - construction
+  - free
+  - equipment-tracking
+featured: false
 markdown: >-
-  # busybusy
-
-
   ## Overview
 
-  busybusy is a construction-focused time tracking and job costing platform for
-  field and remote teams. It runs on mobile and web apps and supports
-  GPS-enabled clock-in/out, helping track employee hours, locations, equipment
-  usage, and project activity for payroll and project management.
 
-
-  **Category:** Field Team Management  
-
-  **Tags:** GPS, Mobile, Construction  
-
-  **Website:** https://busybusy.com/
+  BusyBusy is a construction time tracking and equipment management solution
+  that stands out by offering a genuinely free plan with unlimited users, making
+  it accessible to contractors and construction companies of all sizes.
 
 
   ## Features
 
 
-  ### Time Tracking & Attendance
+  - **Free Unlimited Users**: No per-user charges on the basic plan
 
-  - Mobile time tracking app for field employees.
+  - **Time Tracking**: GPS-enabled clock-in/out for field workers
 
-  - Web-based time tracking and timesheet management.
+  - **Job Codes**: Track time against specific jobs, phases, and cost codes
 
-  - GPS-enabled clock-in/clock-out.
+  - **Equipment Tracking**: Monitor equipment location, usage hours, and
+  maintenance schedules
 
-  - Job site time clock app for shared devices on site.
+  - **Mobile App**: iOS and Android apps for on-the-go time tracking
 
-  - Timesheet app tailored for construction and trades.
+  - **Geofencing**: Automatic alerts when workers enter or leave job sites
 
-  - Equipment time tracking app for recording time against equipment.
+  - **Reporting**: Labor and equipment reports for job costing analysis
 
+  - **Payroll Integration**: Export timesheet data to payroll systems
 
-  ### Job Costing & Project Activity
-
-  - Job costing app to associate labor and time with specific jobs/projects.
-
-  - Progress tracking features for monitoring work completed.
-
-  - Construction daily reports for recording daily jobsite activity.
+  - **Photo Documentation**: Attach photos to time entries for job documentation
 
 
-  ### Safety Management
-
-  - Safety module with multiple sub-apps:
-    - **Observations app** for capturing safety observations in the field.
-    - **Inspections app** for conducting and recording safety inspections.
-    - **Job Safety Analyses (JSA) app** for documenting JSAs.
-    - **Training app** for tracking and managing safety training activities.
-    - **Incidents reporting** for logging and managing incident reports.
-
-  ### Operations & Compliance
-
-  - Operations module for managing operational data.
-
-  - Certifications & Licenses tracking within the Operations module.
+  ## Unique Value
 
 
-  ### Communication & Coordination
-
-  - Scheduling features to plan and assign work.
-
-  - Team messaging features for in-app communication.
-
-
-  ### Documents & Reporting
-
-  - Document management features for storing and accessing project-related
-  documents.
-
-  - Daily reports for summarizing jobsite activities, labor, and project notes.
-
-
-  ### Payroll & Benefits (Add-ons/Modules)
-
-  - **BusyPayroll** for payroll-related processes (integrated with time
-  tracking).
-
-  - **BusyBenefits** for managing or connecting benefits-related information.
-
-
-  ### Integrations & Ecosystem
-
-  - Integrations with external systems (details available on the busybusy
-  integrations page; specific tools not listed in the provided content).
-
-
-  ### Training & Resources
-
-  - Onsite training offering for implementation or user training.
-
-  - Resource content tailored to multiple construction trades (e.g., concrete,
-  electrical, excavation, field services, landscaping, painting, restoration,
-  snow removal).
-
-  - Industry-focused configurations or guidance for sectors such as
-  construction, mining & natural resources, fire protection, property
-  management, restoration, material suppliers, janitorial services, capital
-  improvements & remodeling, and installation & moving.
+  BusyBusy is the only time-tracking app that promises comprehensive equipment
+  management tools alongside worker time tracking, making it particularly
+  valuable for construction firms that need to track both labor and equipment
+  costs.
 
 
   ## Pricing
 
-  Pricing information and plan details are not provided in the supplied content.
-  Refer to the busybusy website for current pricing and plan options.
-updated_at: 2025-12-22 12:59
+
+  - **Free Plan**: Unlimited users with core time tracking, job codes, and
+  equipment location tracking
+
+  - **Paid Plans**: Additional features available at competitive per-user
+  pricing
+brand: BusyBusy
+updated_at: 2026-03-15 01:56

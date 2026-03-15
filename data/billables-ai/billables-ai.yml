@@ -1,77 +1,57 @@
 name: Billables AI
-description: AI-powered automatic time tracking software designed specifically
-  for lawyers and legal professionals. Uses artificial intelligence to capture
-  billable hours, match activities to client matters, and generate narrative
-  descriptions without manual tracking.
+description: Automated legal time-tracking platform powered by artificial
+  intelligence, designed to help law firms recover more billable time by
+  automatically capturing and organizing time entries from emails, documents,
+  and calendar events.
 source_url: https://billables.ai/
-category: Automated Time Tracking
+category: Professional Services
 tags:
   - ai-powered
   - legal
-  - automatic
+  - automation
 featured: false
 markdown: >-
   ## Overview
 
 
-  Billables AI is an automated legal time tracking solution that operates
-  passively in the background, using artificial intelligence to accurately
-  capture and categorize billable time for attorneys and law firms.
+  Billables AI is an automated time-tracking platform specifically designed for
+  legal professionals, using artificial intelligence to help firms recover
+  billable hours that would otherwise be lost to manual tracking errors.
 
 
   ## Features
 
 
-  - Automatic time capture without manual timers
+  - **AI-Powered Time Capture**: Automatically reviews emails, calendar events,
+  and documents to identify billable activities
 
-  - AI-powered activity matching to client matters
+  - **Intelligent Categorization**: Uses machine learning to assign time entries
+  to the correct client and matter
 
-  - Multi-tasking activity harmonization
+  - **Narrative Generation**: Automatically generates time entry descriptions
+  based on activity context
 
-  - Automatic narrative description generation
+  - **Integration**: Works with common legal practice management systems and
+  email platforms
 
-  - Integration with legal practice management software
+  - **Compliance**: Ensures entries meet client billing guidelines and ABA
+  requirements
 
-  - Billable hours optimization
-
-  - Privacy-focused design
-
-  - Desktop activity monitoring
-
-  - Email and document tracking
-
-  - Meeting time capture
+  - **Recovery Analytics**: Provides insights into time leakage and recovery
+  rates
 
 
   ## Benefits
 
 
-  - Eliminates manual time entry and timer management
-
-  - Recovers lost billable hours through automatic tracking
-
-  - Reduces administrative burden on attorneys
-
-  - Improves billing accuracy and completeness
-
-  - Generates detailed time entries with AI-written descriptions
-
-
-  ## Target Users
-
-
-  - Solo practitioners and small law firms
-
-  - Large legal departments
-
-  - Attorneys billing by the hour
-
-  - Legal professionals seeking to maximize billable hours
+  The ABA estimates that legal professionals lose up to 10% of billable hours to
+  time tracking errors. Billables AI helps firms recover this lost revenue
+  through automated, accurate time capture.
 
 
   ## Pricing
 
 
-  Contact Billables AI for pricing information tailored to firm size and needs.
+  Pricing information is available upon request from the vendor.
 brand: Billables AI
-updated_at: 2026-03-12 11:52
+updated_at: 2026-03-15 01:56

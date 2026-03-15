@@ -1,129 +1,67 @@
 name: Timeero
-description: Cloud-based workforce management tool combining GPS time tracking,
-  mileage logging, and geofencing for field services and construction teams.
-  Features offline tracking and facial recognition security.
-source_url: https://timeero.com
+description: GPS time tracking app that recognizes driving speeds and
+  automatically begins tracking mileage, providing total mileage and estimated
+  reimbursement amounts while continuing to track accurately even when crews are
+  offline.
+source_url: https://timeero.com/
 category: Field Team Management
 tags:
-  - gps
-  - geofencing
-  - construction
-  - mileage
+  - gps-tracking
+  - mileage-tracking
+  - mobile
 featured: false
 markdown: >-
   ## Overview
 
 
-  Timeero is a cloud-based workforce management tool that tracks employee hours,
-  mileage, and location with a GPS time tracking app. The platform is the
-  preferred choice for companies in field services, construction, real estate,
-  home healthcare, sales, and more.
+  Timeero is an intelligent GPS time tracking and mileage tracking solution
+  designed for mobile teams, with automatic detection of driving activity and
+  robust offline capabilities for field workers in areas with poor cellular
+  coverage.
 
 
   ## Features
 
 
-  ### GPS Tracking & Location Monitoring
+  - **Automatic Mileage Tracking**: Recognizes when employees are driving and
+  automatically begins tracking mileage
 
-  - Employee location tracking system with breadcrumb trail
+  - **Mileage Reimbursement**: Calculates estimated reimbursement amounts based
+  on IRS rates or custom rates
 
-  - Shows where everyone is or has been
+  - **GPS Breadcrumbs**: Records detailed location trails throughout the workday
 
-  - Works seamlessly offline for remote job sites
+  - **Offline Mode**: Continues tracking time and location even without cellular
+  or internet connection
 
-  - 77% of construction businesses use GPS tracking systems
+  - **Geofencing**: Set up virtual boundaries around job sites with automatic
+  alerts
 
+  - **Segmented Tracking**: Separate personal and business mileage automatically
 
-  ### Time Tracking
+  - **Who's Working Map**: Real-time map view showing all active employees and
+  their locations
 
-  - Capture regular hours, breaks, and overtime with precision
+  - **PTO Management**: Request and approve time off within the app
 
-  - Sign off on hours worked
+  - **Facial Recognition**: Optional face verification to prevent buddy punching
 
-  - Take photos of completed work
-
-  - Add project notes
-
-  - Collect client signatures - all within the app
-
-
-  ### Geofencing
-
-  - Restrict clock-in to specific locations
-
-  - Automatic clock-in/out reminders when employees arrive or leave geofenced
-  locations
-
-  - Location-based workflow automation
+  - **Integrations**: Connect with QuickBooks, ADP, Paychex, and other
+  payroll/accounting systems
 
 
-  ### Mileage Tracking
-
-  - Automatic business mileage tracking
-
-  - For reimbursement purposes
-
-  - Tax deduction documentation
-
-  - IRS-compliant mileage logs
+  ## Use Cases
 
 
-  ### Security Features
-
-  - Facial Recognition on any iPad
-
-  - Job site deployment ready
-
-  - Prevent buddy punching
-
-  - Time theft prevention
-
-
-  ### Offline Capability
-
-  - Continue tracking without internet connection
-
-  - Data syncs when back online
-
-  - Ideal for remote construction sites
-
-
-  ## Industries Served
-
-
-  - Construction
-
-  - Field Services
-
-  - Real Estate
-
-  - Home Healthcare
-
-  - Sales Teams
-
-  - Any mobile workforce
+  Ideal for construction crews, field service technicians, sales teams, delivery
+  drivers, and any mobile workforce that needs accurate time and mileage
+  tracking with offline reliability.
 
 
   ## Pricing
 
 
-  - **$4/user/month**
-
-  - No monthly base fee
-
-  - 14-day free trial
-
-  - No credit card required for trial
-
-
-  ## Platform Availability
-
-
-  - iOS
-
-  - Android
-
-  - Web dashboard
-
-  - iPad support for facial recognition
-updated_at: 2026-03-07 18:00
+  Pricing starts at competitive per-user monthly rates with different tiers
+  based on features needed.
+brand: Timeero
+updated_at: 2026-03-15 01:56
