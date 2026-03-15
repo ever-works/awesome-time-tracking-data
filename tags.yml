@@ -453,7 +453,7 @@
 - id: remote-work
   name: Remote Work
 - id: ai-powered
-  name: AI Powered
+  name: Ai Powered
 - id: wellness
   name: Wellness
 - id: productivity-analytics
@@ -1078,3 +1078,21 @@
   name: Small Wins
 - id: extreme-productivity
   name: Extreme Productivity
+- id: dental
+  name: Dental
+- id: veterinary
+  name: Veterinary
+- id: cloud-native
+  name: Cloud Native
+- id: group-scheduling
+  name: Group Scheduling
+- id: polling
+  name: Polling
+- id: time-clocks
+  name: Time Clocks
+- id: capacity-management
+  name: Capacity Management
+- id: project-scheduling
+  name: Project Scheduling
+- id: payments
+  name: Payments
