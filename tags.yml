@@ -17,7 +17,7 @@
 - id: kde
   name: kde
 - id: linux
-  name: linux
+  name: Linux
 - id: task-management
   name: Task Management
 - id: gnome
@@ -71,7 +71,7 @@
 - id: dash
   name: dash
 - id: ai
-  name: AI
+  name: Ai
 - id: jira
   name: Jira
 - id: integration
@@ -235,7 +235,7 @@
 - id: milestones
   name: milestones
 - id: windows
-  name: windows
+  name: Windows
 - id: stopwatch
   name: stopwatch
 - id: portable
@@ -743,7 +743,7 @@
 - id: eat-the-frog
   name: Eat The Frog
 - id: hr-platform
-  name: HR Platform
+  name: Hr Platform
 - id: education
   name: Education
 - id: nonprofit
@@ -1160,3 +1160,19 @@
   name: ChatGPT
 - id: personalized
   name: Personalized
+- id: icloud
+  name: Icloud
+- id: rsi-prevention
+  name: Rsi Prevention
+- id: mobile-app
+  name: Mobile App
+- id: time-off-tracking
+  name: Time Off Tracking
+- id: call-tracking
+  name: Call Tracking
+- id: crm-integration
+  name: Crm Integration
+- id: tab-management
+  name: Tab Management
+- id: routines
+  name: Routines

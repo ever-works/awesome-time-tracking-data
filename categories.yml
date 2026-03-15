@@ -64,3 +64,11 @@
   name: Meeting & Team Time Tracking
 - id: productivity-process-documentation
   name: Productivity & Process Documentation
+- id: health-break-reminders
+  name: Health & Break Reminders
+- id: hr-payroll-integration
+  name: HR & Payroll Integration
+- id: project-time-tracking
+  name: Project Time Tracking
+- id: browser-extensions
+  name: Browser Extensions
