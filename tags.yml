@@ -145,7 +145,7 @@
 - id: timer
   name: timer
 - id: desktop
-  name: desktop
+  name: Desktop
 - id: background
   name: background
 - id: cloud-based
@@ -888,3 +888,39 @@
   name: Chrome
 - id: issue-tracking
   name: Issue Tracking
+- id: ocr
+  name: Ocr
+- id: meeting-management
+  name: Meeting Management
+- id: task-automation
+  name: Task Automation
+- id: coworking
+  name: Coworking
+- id: sprints
+  name: Sprints
+- id: finance
+  name: Finance
+- id: menu-bar
+  name: Menu Bar
+- id: project-tracking
+  name: Project Tracking
+- id: body-doubling
+  name: Body Doubling
+- id: nonprofits
+  name: Nonprofits
+- id: impact-tracking
+  name: Impact Tracking
+- id: visual-tracking
+  name: Visual Tracking
+- id: email-management
+  name: Email Management
+- id: commitment
+  name: Commitment
+- id: behavioral-economics
+  name: Behavioral Economics
+- id: cad-integration
+  name: Cad Integration
+- id: bim
+  name: Bim
+- id: preparation
+  name: Preparation
