@@ -73,7 +73,7 @@
 - id: ai
   name: AI
 - id: jira
-  name: jira
+  name: Jira
 - id: integration
   name: Integration
 - id: collaborative
@@ -846,3 +846,45 @@
   name: Asana
 - id: website-blocker
   name: Website Blocker
+- id: equipment-tracking
+  name: Equipment Tracking
+- id: shift-management
+  name: Shift Management
+- id: adaptability
+  name: Adaptability
+- id: pos-integration
+  name: Pos Integration
+- id: shopify
+  name: Shopify
+- id: manufacturing
+  name: Manufacturing
+- id: job-tracking
+  name: Job Tracking
+- id: production
+  name: Production
+- id: devops
+  name: Devops
+- id: shop-floor
+  name: Shop Floor
+- id: simplicity
+  name: Simplicity
+- id: visual-management
+  name: Visual Management
+- id: erp
+  name: Erp
+- id: multi-location
+  name: Multi Location
+- id: hybrid
+  name: Hybrid
+- id: case-management
+  name: Case Management
+- id: atlassian
+  name: Atlassian
+- id: modern
+  name: Modern
+- id: browser-extension
+  name: Browser Extension
+- id: chrome
+  name: Chrome
+- id: issue-tracking
+  name: Issue Tracking
