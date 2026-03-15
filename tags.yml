@@ -1100,3 +1100,17 @@
   name: Dcaa Compliance
 - id: government-contractors
   name: Government Contractors
+- id: screen-recording
+  name: Screen Recording
+- id: contracts
+  name: Contracts
+- id: intentions
+  name: Intentions
+- id: decision-tracking
+  name: Decision Tracking
+- id: browser-based
+  name: Browser Based
+- id: team-analytics
+  name: Team Analytics
+- id: inbox-zero
+  name: Inbox Zero
