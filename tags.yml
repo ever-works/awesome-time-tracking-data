@@ -227,7 +227,7 @@
 - id: software-list
   name: software-list
 - id: evaluation
-  name: evaluation
+  name: Evaluation
 - id: workflow
   name: Workflow
 - id: development
@@ -247,7 +247,7 @@
 - id: android
   name: Android
 - id: ios
-  name: IOS
+  name: Ios
 - id: accounting
   name: Accounting
 - id: commerce
@@ -1066,3 +1066,15 @@
   name: Social Media
 - id: content-scheduling
   name: Content Scheduling
+- id: mood-tracking
+  name: Mood Tracking
+- id: productivity-philosophy
+  name: Productivity Philosophy
+- id: app-blocker
+  name: App Blocker
+- id: clarity
+  name: Clarity
+- id: small-wins
+  name: Small Wins
+- id: extreme-productivity
+  name: Extreme Productivity
