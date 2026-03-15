@@ -67,7 +67,7 @@
 - id: web-based
   name: Web Based
 - id: nfc
-  name: nfc
+  name: Nfc
 - id: dash
   name: dash
 - id: ai
@@ -175,7 +175,7 @@
 - id: macos
   name: Macos
 - id: team
-  name: team
+  name: Team
 - id: employee-monitoring
   name: Employee Monitoring
 - id: punch-clock
@@ -836,3 +836,13 @@
   name: Barcode
 - id: outliner
   name: Outliner
+- id: speed-reading
+  name: Speed Reading
+- id: time-tracking
+  name: Time Tracking
+- id: formulas
+  name: Formulas
+- id: asana
+  name: Asana
+- id: website-blocker
+  name: Website Blocker
