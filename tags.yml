@@ -1210,3 +1210,17 @@
   name: Collaboration Insights
 - id: anonymized
   name: Anonymized
+- id: buffer-time
+  name: Buffer Time
+- id: intention-tracking
+  name: Intention Tracking
+- id: achievement-tracking
+  name: Achievement Tracking
+- id: multi-device
+  name: Multi Device
+- id: creativity
+  name: Creativity
+- id: one-click-tracking
+  name: One Click Tracking
+- id: scientific
+  name: Scientific
