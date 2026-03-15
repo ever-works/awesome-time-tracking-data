@@ -89,7 +89,7 @@
 - id: reference
   name: reference
 - id: timesheet
-  name: timesheet
+  name: Timesheet
 - id: invoicing
   name: Invoicing
 - id: expense-tracking
@@ -185,7 +185,7 @@
 - id: agile
   name: Agile
 - id: contractors
-  name: contractors
+  name: Contractors
 - id: reminders
   name: Reminders
 - id: developers
@@ -257,7 +257,7 @@
 - id: work-management
   name: work-management
 - id: calculation
-  name: calculation
+  name: Calculation
 - id: geofencing
   name: Geofencing
 - id: absence-planning
@@ -994,3 +994,63 @@
   name: Bidirectional Links
 - id: habit-formation
   name: Habit Formation
+- id: pricing
+  name: Pricing
+- id: content
+  name: Content
+- id: writing
+  name: Writing
+- id: uk
+  name: UK
+- id: multi-currency
+  name: Multi Currency
+- id: international
+  name: International
+- id: crowdsourced
+  name: Crowdsourced
+- id: aesthetic
+  name: Aesthetic
+- id: project-based
+  name: Project Based
+- id: day-rate
+  name: Day Rate
+- id: hourly-rate
+  name: Hourly Rate
+- id: tax
+  name: Tax
+- id: marketing
+  name: Marketing
+- id: world-clock
+  name: World Clock
+- id: time-zones
+  name: Time Zones
+- id: meeting-scheduler
+  name: Meeting Scheduler
+- id: designers
+  name: Designers
+- id: professional
+  name: Professional
+- id: ad-free
+  name: Ad Free
+- id: currency
+  name: Currency
+- id: cat-theme
+  name: Cat Theme
+- id: cute
+  name: Cute
+- id: creative-professionals
+  name: Creative Professionals
+- id: no-login
+  name: No Login
+- id: students
+  name: Students
+- id: study-groups
+  name: Study Groups
+- id: multi-format
+  name: Multi Format
+- id: task-tracking
+  name: Task Tracking
+- id: statistics
+  name: Statistics
+- id: excel
+  name: Excel
