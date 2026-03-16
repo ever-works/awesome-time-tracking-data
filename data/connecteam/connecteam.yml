@@ -1,113 +1,86 @@
 name: Connecteam
-description: All-in-one employee management platform for remote and deskless
-  teams, combining time tracking, shift scheduling, task assignment, and
-  communication tools in a mobile-first solution.
+description: Mobile-first time tracking and workforce management platform
+  designed for deskless workers and field teams. Features GPS tracking, kiosk
+  mode, job site management, and seamless payroll integration.
 source_url: https://connecteam.com/
-category: Team & Project Time Tracking
+category: Field Team Management
 tags:
-  - mobile
-  - all-in-one
+  - mobile-app
   - deskless-workers
+  - gps-tracking
+featured: false
 markdown: >-
   ## Overview
 
 
-  Connecteam is an all-in-one employee management platform designed specifically
-  to support remote and deskless teams with precise time tracking, scheduling,
-  and real-time communication.
+  Connecteam is a comprehensive workforce management platform built specifically
+  for businesses with deskless workforces, providing time tracking, scheduling,
+  and team communication tools through intuitive mobile apps.
 
 
-  ## Core Features
+  ## Features
 
 
-  ### Time Tracking
+  ### Time & Attendance
 
-  - GPS-enabled time clock
+  - **GPS Time Clock**: Location-verified clock-ins with GPS tracking
 
-  - Geofencing for location verification
+  - **Geofencing**: Restrict clock-ins to designated work locations
 
-  - Real-time monitoring
+  - **Mobile Apps**: Native iOS and Android apps for field workers
 
-  - Break and overtime tracking
+  - **Kiosk Mode**: Shared device clock-in for teams without personal devices
 
-  - Attendance management
+  - **Multiple Punch Methods**: PIN, QR code, or biometric authentication
 
+  - **Break Tracking**: Automatic paid and unpaid break management
 
-  ### Scheduling
-
-  - Shift scheduling
-
-  - Drag-and-drop calendar
-
-  - Availability management
-
-  - Shift swapping
-
-  - Schedule templates
+  - **Offline Mode**: Works without internet connection, syncs when available
 
 
-  ### Communication
+  ### Workforce Management
 
-  - In-app messaging
+  - **Shift Scheduling**: Create and manage employee schedules with
+  drag-and-drop interface
 
-  - Team updates
+  - **Job Site Management**: Track time across multiple locations and job sites
 
-  - Announcements
+  - **Team Communication**: Built-in chat and messaging for field teams
 
-  - Document sharing
+  - **Task Management**: Assign and track tasks for field workers
 
-  - Real-time notifications
+  - **Digital Forms**: Checklists, reports, and documentation on mobile devices
 
 
-  ### Task Management
+  ### Reporting & Integration
 
-  - Task assignment
+  - **Payroll Integration**: Export timesheets to payroll systems
 
-  - Progress tracking
+  - **Real-Time Reports**: Live attendance and productivity dashboards
 
-  - Checklists
+  - **Overtime Tracking**: Automatic overtime calculation and alerts
 
-  - Job forms
-
-  - Photo documentation
+  - **Customizable Reports**: Generate reports for specific needs
 
 
   ## Target Users
 
 
-  - Field service teams
+  - Construction companies
 
-  - Construction crews
+  - Field service businesses
 
-  - Retail workers
+  - Retail and hospitality
 
-  - Healthcare staff
+  - Healthcare facilities
 
-  - Hospitality teams
-
-  - Remote workforces
-
-
-  ## Platform
-
-
-  - iOS and Android apps
-
-  - Web dashboard for managers
-
-  - Time clock kiosk mode
-
-  - Offline capabilities
+  - Any business with deskless or mobile workers
 
 
   ## Pricing
 
 
-  Free plan available:
+  - **Free Plan**: Available for small teams
 
-  - Includes time clock kiosk
-
-  - Up to 10 users
-
-  - Paid plans from $29/month for first 30 users
-updated_at: 2026-03-14 18:50
+  - **Paid Plans**: Tiered pricing based on features and number of employees
+updated_at: 2026-03-16 04:51

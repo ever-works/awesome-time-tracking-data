@@ -1,172 +1,58 @@
 name: Parim
-description: Staff time tracking and shift scheduling software designed for
-  businesses managing shift workers, field staff, and large-scale events.
-  Features geofencing clock-in, SMS/phone call clock-in options, and automatic
-  payroll calculations.
+description: Time tracking app for mobile workers managing multiple job sites
+  with user-friendly interface featuring simple clock-in and break management.
+  Designed specifically for Android and field service teams.
 source_url: https://www.parim.co/
-category: Attendance & Payroll Management
+category: Mobile Time Tracking
 tags:
-  - shift-scheduling
-  - field-staff
-  - geofencing
+  - android
+  - field-service
+  - mobile-app
 featured: false
 markdown: >-
   ## Overview
 
 
-  Parim is staff time tracking and shift scheduling software that allows you to
-  track every shift down to the minute in real time and get full visibility of
-  your team's work in only one place. It's particularly suited for businesses
-  managing shift workers, field staff, and large-scale event staffing
-  operations.
+  Parim is a time tracking application optimized for mobile workers,
+  particularly those managing multiple job sites who need straightforward
+  clock-in functionality on Android devices.
 
 
   ## Features
 
 
-  ### Time Tracking
+  - **Simple Clock-In**: User-friendly interface with one-touch
+  clock-in/clock-out
 
-  - Monitor employee work hours and attendance in real time
+  - **Break Management**: Easy tracking of paid and unpaid breaks
 
-  - Track every shift down to the minute
+  - **Multi-Site Support**: Manage time across different job locations
 
-  - Multiple clock-in methods:
-    - Mobile app
-    - SMS
-    - Phone calls (for field workers without internet)
-  - Full visibility of team work in one place
+  - **Android Optimized**: Native Android app designed for field workers
 
+  - **Mobile-First Design**: Built specifically for on-the-go time tracking
 
-  ### Geofencing Clock-In
+  - **Timesheet Generation**: Automatic compilation of work hours
 
-  - Ensures team starts shifts at the right place
+  - **GPS Verification**: Location tracking for job site verification
 
-  - Optional automatic shift start when employees reach the site
 
-  - Location verification for field workers
+  ## Target Users
 
-  - Prevents time theft with location-based validation
 
+  - Mobile workers
 
-  ### Payroll & Compliance
+  - Field service technicians
 
-  - Set up hourly pay rates to shifts
+  - Construction crews
 
-  - Automatic salary calculation based on worked hours
+  - Maintenance teams
 
-  - Export timesheets in seconds
-
-  - Achieve compliance and accuracy
-
-  - Efficient payroll management
-
-
-  ### Shift Scheduling
-
-  - Organize employee work schedules
-
-  - Track staff availability
-
-  - Prevent scheduling conflicts
-
-  - Assign staff with right skills and qualifications to right shifts
-
-  - Manage thousands of employees for large events
-
-
-  ### Team Management
-
-  - Monitor shift coverage
-
-  - Find replacements quickly
-
-  - Track attendance
-
-  - Ensure proper staffing levels
-
-  - Skills and qualifications matching
-
-
-  ## Platform Support
-
-
-  - Mobile apps (iOS and Android)
-
-  - Web-based administration
-
-  - SMS and phone integration
-
-  - Offline capabilities
-
-
-  ## Benefits
-
-
-  - **Real-Time Visibility**: See all staff activity and attendance instantly
-
-  - **Flexible Clock-In**: Multiple methods accommodate different work
-  situations
-
-  - **Automatic Payroll**: Saves time with automatic salary calculations
-
-  - **Large-Scale Support**: Can manage thousands of employees
-
-  - **Field Worker Friendly**: SMS and phone options for areas without internet
-
-  - **Compliance Ready**: Export timesheets for regulatory compliance
-
-
-  ## Ideal For
-
-
-  - Businesses managing shift workers
-
-  - Field service companies
-
-  - Large event staffing operations
-
-  - Organizations with distributed workforce
-
-  - Companies needing geofencing verification
-
-  - Businesses with hourly employees
-
-  - Operations requiring precise time tracking
-
-
-  ## Key Use Cases
-
-
-  - Shift-based workforce management
-
-  - Field staff time tracking
-
-  - Event staffing and management
-
-  - Hourly employee payroll
-
-  - Multi-location operations
-
-  - Mobile workforce tracking
-
-
-  ## What Makes Parim Unique
-
-
-  - **No Internet Required**: SMS and phone call clock-in options
-
-  - **Geofencing**: Location-based shift verification
-
-  - **Event Scale**: Can manage thousands of employees for large events
-
-  - **Integrated Payroll**: Direct hourly rate to salary calculation
-
-  - **Real-Time Monitoring**: Instant visibility of all staffing operations
+  - Multi-site employees
 
 
   ## Pricing
 
 
-  Contact Parim for pricing based on organization size and needs.
-brand: Parim
-updated_at: 2026-03-10 12:25
+  Check website for current pricing plans based on team size.
+updated_at: 2026-03-16 04:51

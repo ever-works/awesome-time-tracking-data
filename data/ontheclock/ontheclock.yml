@@ -1,159 +1,99 @@
 name: OnTheClock
-description: Simple time tracking software for construction firms and small
-  businesses with GPS verification, geofencing, and automated timesheet
-  management. Affordable solution focused on ease of use and accurate time
-  tracking for field teams.
+description: Budget-friendly web-based employee time clock software with simple
+  interface, GPS tracking, and payroll integration. Designed for small teams
+  needing reliable digital time tracking without complexity.
 source_url: https://www.ontheclock.com/
-category: Field Team Management
+category: Attendance & Payroll Management
 tags:
-  - construction
-  - gps-tracking
-  - simple
+  - web-based
+  - affordable
+  - small-business
 featured: false
 markdown: >-
   ## Overview
 
 
-  OnTheClock is a straightforward time tracking solution designed for small to
-  medium-sized businesses, with particular strength in construction and field
-  service industries. It prioritizes simplicity while offering robust GPS and
-  geofencing capabilities.
+  OnTheClock is a simple, easy-to-use employee time clock and scheduling
+  software designed as the best budget-friendly choice for small teams that need
+  reliable digital time tracking.
 
 
-  ## Key Features
+  ## Features
 
 
-  - GPS-enabled time tracking
+  ### Time Clock
 
-  - Geofencing with location restrictions
+  - **Web-Based Access**: Clock in from any device with internet connection
 
-  - Mobile app and web-based clock
+  - **Mobile Apps**: iOS and Android apps for remote workers
 
-  - Photo verification on clock-in/out
+  - **Multiple Clock-In Methods**: Web portal, phone app, SMS, or phone call
 
-  - Job and task tracking
+  - **GPS Tracking**: Automatic location capture at clock-in/out
 
-  - Overtime calculations
+  - **Photo Verification**: Optional photo capture to prevent buddy punching
 
-  - PTO and absence management
 
-  - Timesheet editing and approvals
+  ### Scheduling
 
-  - Scheduling
+  - **Employee Scheduling**: Create and publish work schedules
 
+  - **Shift Reminders**: Automatic notifications for upcoming shifts
 
-  ## GPS & Geofencing
+  - **Schedule Templates**: Save and reuse common scheduling patterns
 
 
-  - Track employee location on clock-in/out
+  ### Payroll & Reporting
 
-  - Set geofence boundaries around job sites
+  - **Payroll Integration**: Export time data to various payroll systems
 
-  - Prevent clock-ins outside designated areas
+  - **Overtime Tracking**: Automatic overtime calculation based on configurable
+  rules
 
-  - View GPS location history
+  - **PTO Management**: Track vacation, sick days, and other time off
 
-  - Breadcrumb trail during shifts
+  - **Detailed Reports**: Generate reports on hours worked, labor costs, and
+  attendance
 
-  - Multiple location support
 
+  ### Administration
 
-  ## Time Tracking Methods
+  - **Timesheet Approval**: Managers can review and approve timesheets
 
+  - **Department Tracking**: Organize employees by department or location
 
-  - Mobile app (iOS and Android)
-
-  - Web browser
-
-  - Kiosk mode for shared devices
-
-  - SMS/text message clock-in
-
-  - Phone call time clock
-
-  - Physical time clock integration
-
-
-  ## Timesheet Management
-
-
-  - Automatic timesheet generation
-
-  - Manager review and approval
-
-  - Edit capability with audit trail
-
-  - Break time deductions
-
-  - Rounding rules configuration
-
-  - Department and job code allocation
-
-
-  ## Reporting
-
-
-  - Daily attendance reports
-
-  - Timesheet summaries
-
-  - GPS location reports
-
-  - Labor cost by job/department
-
-  - Hours worked analysis
-
-  - Export to Excel, CSV, PDF
-
-
-  ## Integrations
-
-
-  - Payroll: QuickBooks, Paychex, ADP, Gusto
-
-  - Accounting software
-
-  - Project management tools
-
-  - API for custom integrations
-
-
-  ## Use Cases
-
-
-  - Construction companies
-
-  - Landscaping services
-
-  - HVAC and plumbing
-
-  - Cleaning services
-
-  - Property management
-
-  - Small business with hourly employees
+  - **Job Code Tracking**: Track time spent on different job codes or projects
 
 
   ## Benefits
 
 
-  - Easy to set up and use
+  - Simple setup with minimal training required
 
-  - Affordable pricing
+  - Affordable pricing for small businesses
 
-  - Eliminates paper timesheets
+  - Reliable uptime and performance
 
-  - Reduces payroll processing time
+  - No long-term contracts
 
-  - Prevents time theft
+  - Responsive customer support
 
-  - Accurate job costing
+
+  ## Target Users
+
+
+  - Small businesses with 5-50 employees
+
+  - Companies seeking budget-friendly solutions
+
+  - Teams needing basic time tracking without complexity
+
+  - Businesses with remote or mobile workers
 
 
   ## Pricing
 
 
-  Starts at $3.50 per user per month (billed annually) with no setup fees. Free
-  30-day trial available. All features included in base price.
-brand: OnTheClock
-updated_at: 2026-03-12 12:31
+  Low monthly per-employee pricing with free trial available. No setup fees or
+  long-term contracts required.
+updated_at: 2026-03-16 04:51
