@@ -1,136 +1,125 @@
 name: awork
-description: Project management tool built for agencies with integrated time
-  tracking, budget control, and AI reporting. Features capacity planning and
-  team utilization monitoring for client projects.
-source_url: https://www.awork.com/
-category: Team & Project Time Tracking
+description: Work management platform with comprehensive time tracking and time
+  entry features, offering both manual time entry and timer-based tracking
+  integrated with project management capabilities.
+source_url: https://www.awork.com
+category: Project Time Tracking
 tags:
   - project-management
-  - teams
-  - ai
-  - budgeting
+  - time-tracking
+  - team-collaboration
 featured: false
 markdown: >-
   ## Overview
 
 
-  awork is a project management tool built specifically for agency workflows,
-  managing complex client projects across internal teams and external
-  collaborators with planning, scheduling, collaboration, and time tracking all
-  in one place.
+  awork is a work management platform that combines project management with
+  comprehensive time tracking capabilities. The platform offers both manual time
+  entry and timer-based tracking, fully integrated with project planning and
+  team collaboration features.
 
 
-  ## Features
+  ## Time Tracking Features
 
 
-  ### Time Tracking
+  ### Time Entry Methods
 
-  - Integrated time tracking directly in project workflow
+  - **Timer Mode**: Start/stop timer for real-time tracking
 
-  - Real-time budget control
+  - **Manual Entry**: Add time entries after work is completed
 
-  - Fully automatic time tracking option
+  - **Bulk Entry**: Log multiple time entries at once
 
-  - Manual time entry support
-
-  - Time entries created for specific projects and tasks
-
-  - Assigned to specific users
+  - **Mobile Tracking**: Track time on iOS and Android apps
 
 
-  ### Agency-Specific Features
+  ### Time Management
 
-  - Monitor agency utilization
+  - **Task-Based Tracking**: Link time entries to specific tasks
 
-  - Plan team capacity
+  - **Project Time Budgets**: Set and monitor time budgets per project
 
-  - Multi-project planning visibility
+  - **Billable vs. Non-Billable**: Categorize time for accurate client billing
 
-  - Work with clients and freelancers at no extra cost
+  - **Time Reports**: Detailed reports on time allocation and productivity
 
-  - Manage complex client projects
-
-  - Internal and external collaboration
+  - **Timesheet Approval**: Manager review and approval workflows
 
 
-  ### Reporting & Analytics
-
-  - AI-powered reporting
-
-  - Budget tracking and control
-
-  - Utilization reports
-
-  - Time tracking quote monitoring (users report 95% tracking rates)
-
-  - Project profitability analysis
+  ## Project Management Integration
 
 
-  ### Invoicing Integration
+  - **Task Management**: Create and assign tasks with time estimates
 
-  - Transform awork times to invoices with a click
+  - **Project Planning**: Timeline and Gantt chart views
 
-  - Automated billing from tracked time
+  - **Team Workload**: Visualize team capacity and allocation
 
-  - Client invoicing workflow
+  - **Kanban Boards**: Organize work in customizable boards
 
-
-  ### API & Integrations
-
-  - Time Tracking API available
-
-  - Developer documentation
-
-  - Webhook support
-
-  - Third-party integrations
+  - **Project Templates**: Reusable project structures
 
 
-  ## Technical Details
+  ## API & Webhooks
 
 
-  - ISO 27001 certified
+  awork provides a comprehensive API with webhook support, documented at
+  https://developers.awork.com/timetracking, allowing developers to:
 
-  - GDPR compliant
+  - Create and retrieve time entries programmatically
 
-  - Hosted on ISO 27001 certified servers in Europe
+  - Integrate with third-party systems
 
-  - European data hosting
+  - Automate time tracking workflows
 
-
-  ## Who It's For
-
-
-  - Agencies
-
-  - Creative teams
-
-  - Consulting firms
-
-  - Professional services
-
-  - Teams managing multiple client projects
-
-  - Organizations with external collaborators
+  - Build custom reporting tools
 
 
-  ## Benefits
+  ## Collaboration Features
 
 
-  - Integration of time tracking within project organization
+  - Team chat and comments
 
-  - High time tracking adoption rates
+  - File sharing and document management
 
-  - Real-time visibility into project budgets
+  - Calendar integration
 
-  - Streamlined client and freelancer collaboration
+  - Notifications and reminders
 
-  - Centralized project and time management
+  - Client portal for external stakeholders
+
+
+  ## Reporting & Analytics
+
+
+  - Time tracking reports by project, team, or individual
+
+  - Profitability analysis
+
+  - Utilization rates
+
+  - Budget vs. actual comparisons
+
+  - Export to CSV and Excel
+
+
+  ## Integrations
+
+
+  awork integrates with popular tools including:
+
+  - Slack for communication
+
+  - Google Calendar and Outlook
+
+  - Zapier for workflow automation
+
+  - DATEV for accounting (German market)
 
 
   ## Pricing
 
 
-  Pricing tiers available on website. Includes capacity for clients and
-  freelancers at no additional cost.
-updated_at: 2026-03-07 18:00
+  Subscription-based pricing per user per month. Free trial available to test
+  all features.
+updated_at: 2026-03-16 19:07
