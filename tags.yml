@@ -1410,3 +1410,25 @@
   name: Portfolio Management
 - id: social
   name: Social
+- id: website-blocking
+  name: Website Blocking
+- id: app-blocking
+  name: App Blocking
+- id: gentle-blocking
+  name: Gentle Blocking
+- id: awareness
+  name: Awareness
+- id: new-tab
+  name: New Tab
+- id: daily-planner
+  name: Daily Planner
+- id: memory-saving
+  name: Memory Saving
+- id: session-saving
+  name: Session Saving
+- id: crash-recovery
+  name: Crash Recovery
+- id: project-planning
+  name: Project Planning
+- id: workspace-organization
+  name: Workspace Organization
