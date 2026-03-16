@@ -1316,3 +1316,11 @@
   name: Jet Lag
 - id: sleep
   name: Sleep
+- id: community
+  name: Community
+- id: eisenhower-matrix
+  name: Eisenhower Matrix
+- id: advanced
+  name: Advanced
+- id: volunteers
+  name: Volunteers

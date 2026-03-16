@@ -80,3 +80,5 @@
   name: Time Tracking Features
 - id: freelance-consulting
   name: Freelance & Consulting
+- id: hardware-physical-time-clocks
+  name: Hardware & Physical Time Clocks
