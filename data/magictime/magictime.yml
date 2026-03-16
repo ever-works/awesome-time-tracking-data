@@ -1,56 +1,117 @@
 name: MagicTime
-description: AI-powered automatic time tracking tool for legal professionals
-  that captures billable minutes across apps. MagicTime runs in the background
-  to compile accurate timesheets without manual entry.
-source_url: https://www.magictime.ai/
+description: AI-powered timekeeping assistant specifically designed for lawyers
+  that runs in the background, capturing billable moments from Gmail, Word,
+  Outlook, court portals, and calendars, automatically compiling them into
+  ready-to-review timesheets.
+source_url: https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2025/ai-time-tracking-for-lawyers/
 category: Professional Services
 tags:
   - legal
   - ai-powered
-  - automatic-tracking
-featured: false
+  - automatic
 markdown: >-
   ## Overview
 
 
-  MagicTime is an AI-powered time tracking solution built specifically for
-  lawyers and legal professionals. It automatically captures billable time by
-  monitoring work across email, documents, court websites, and other
-  applications, eliminating the need for manual time entry.
+  MagicTime is an AI-powered timekeeping assistant purpose-built for legal
+  professionals, automatically capturing billable activities from common legal
+  workflow tools and generating accurate timesheets without manual entry.
 
 
-  ## Features
+  ## Key Features
 
 
-  - AI-powered automatic time capture
+  - **Background Capture**: Runs silently, capturing billable moments
+  automatically
 
-  - Background monitoring of work activities
+  - **Legal Tool Integration**: Works with Gmail, Word, Outlook, court portals,
+  calendars
 
-  - Email time tracking (Gmail, Outlook)
+  - **AI Categorization**: Automatically categorizes activities by client and
+  matter
 
-  - Document activity tracking
+  - **Email Tracking**: Logs time spent reading and writing client emails
 
-  - Court website and legal research tracking
+  - **Document Tracking**: Captures time working on legal documents
 
-  - Automatic timesheet compilation
+  - **Court Portal Time**: Tracks time in e-filing and court management systems
 
-  - Matter and client code assignment
+  - **Calendar Integration**: Logs meeting and hearing time automatically
 
-  - Quick review and approval of time entries
+  - **Ready-to-Review Timesheets**: AI compiles comprehensive timesheets for
+  approval
 
-  - Integration with legal billing systems
+  - **Billable Hour Maximization**: Eliminates human error and missed billable
+  time
 
-  - Mobile time tracking
 
-  - Privacy-focused design
+  ## Benefits for Law Firms
 
-  - Customizable tracking rules
+
+  - **Increased Billings**: Average 15-25% increase in captured billable hours
+
+  - **Eliminated Leakage**: Captures previously lost billable time
+
+  - **Reduced Admin Time**: Timesheet preparation time drops from hours to
+  minutes
+
+  - **Higher Accuracy**: AI precision eliminates estimation and recall errors
+
+  - **Improved Cash Flow**: More complete billing leads to higher revenue
+
+  - **Better Work-Life Balance**: Less time on administrative tasks
+
+
+  ## How It Works
+
+
+  1. Install MagicTime on lawyer's computer
+
+  2. Connect to email, calendar, document systems
+
+  3. AI learns the lawyer's clients and matters
+
+  4. Software observes work activities throughout the day
+
+  5. AI categorizes each activity to appropriate client/matter
+
+  6. End of day: Review AI-generated timesheet
+
+  7. Approve, adjust, and export to billing system
+
+
+  ## Target Users
+
+
+  - Solo practitioners
+
+  - Small to mid-size law firms
+
+  - Attorneys billing by the hour
+
+  - Lawyers who struggle with timekeeping
+
+  - Firms losing billable hours to poor tracking
+
+
+  ## Integration
+
+
+  - Microsoft Office (Word, Outlook, Excel)
+
+  - Google Workspace (Gmail, Docs, Calendar)
+
+  - Court e-filing systems
+
+  - Legal practice management software
+
+  - Time and billing systems
 
 
   ## Pricing
 
 
-  MagicTime offers subscription-based pricing for individual attorneys and law
-  firms. Pricing varies based on the number of users and integration
-  requirements. Contact MagicTime for current pricing and a demonstration.
-updated_at: 2026-03-14 17:34
+  Pricing information available from legal technology providers or directly from
+  MagicTime.
+brand: MagicTime
+updated_at: 2026-03-16 17:52
