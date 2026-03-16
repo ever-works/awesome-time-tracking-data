@@ -1,0 +1,52 @@
+name: Timebox Timer
+description: A Firefox extension that provides customizable timebox timers for
+  focused work sessions, helping users implement time boxing methodology
+  directly in their browser with visual and audio notifications.
+source_url: https://addons.mozilla.org/en-US/firefox/addon/timebox-timer/
+category: Browser Extensions
+tags:
+  - firefox-extension
+  - timeboxing
+  - timer
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Timebox Timer is a Firefox browser extension designed to help users implement
+  time boxing methodology for focused work sessions.
+
+
+  ## Key Features
+
+
+  - **Customizable Timers**: Set custom durations for work sessions
+
+  - **Browser Integration**: Access timer controls directly from Firefox
+
+  - **Notifications**: Visual and audio alerts when timebox ends
+
+  - **Quick Access**: Start timers without leaving the browser
+
+  - **Focus Support**: Helps maintain concentration during web-based work
+
+
+  ## Use Cases
+
+
+  - Time boxing research sessions
+
+  - Limiting time on specific websites
+
+  - Structured study sessions
+
+  - Focused reading and learning
+
+  - Managing browser-based workflows
+
+
+  ## Platform
+
+
+  Available exclusively as a Firefox browser extension from Mozilla Add-ons.
+updated_at: 2026-03-16 16:32
