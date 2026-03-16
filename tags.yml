@@ -173,7 +173,7 @@
 - id: scheduling
   name: Scheduling
 - id: macos
-  name: MacOS
+  name: Macos
 - id: team
   name: Team
 - id: employee-monitoring
@@ -1360,3 +1360,53 @@
   name: Audit
 - id: financial-reporting
   name: Financial Reporting
+- id: time-budgeting
+  name: Time Budgeting
+- id: cloud
+  name: Cloud
+- id: ci-cd
+  name: Ci Cd
+- id: git
+  name: Git
+- id: portfolio
+  name: Portfolio
+- id: financial
+  name: Financial
+- id: quantified-self
+  name: Quantified Self
+- id: energy
+  name: Energy
+- id: developer
+  name: Developer
+- id: hrv
+  name: Hrv
+- id: fitness
+  name: Fitness
+- id: recovery
+  name: Recovery
+- id: sprint-planning
+  name: Sprint Planning
+- id: lifelogging
+  name: Lifelogging
+- id: volunteer
+  name: Volunteer
+- id: academic
+  name: Academic
+- id: software-development
+  name: Software Development
+- id: menubar
+  name: Menubar
+- id: planner
+  name: Planner
+- id: rules-based
+  name: Rules Based
+- id: visual-planning
+  name: Visual Planning
+- id: team-scheduling
+  name: Team Scheduling
+- id: capacity
+  name: Capacity
+- id: portfolio-management
+  name: Portfolio Management
+- id: social
+  name: Social
