@@ -15,7 +15,7 @@
 - id: cross-platform
   name: Cross Platform
 - id: kde
-  name: kde
+  name: Kde
 - id: linux
   name: Linux
 - id: task-management
@@ -247,7 +247,7 @@
 - id: android
   name: Android
 - id: ios
-  name: IOS
+  name: Ios
 - id: accounting
   name: Accounting
 - id: commerce
@@ -1568,3 +1568,21 @@
   name: Time Card
 - id: recovery-tracking
   name: Recovery Tracking
+- id: eye-care
+  name: Eye Care
+- id: sap-integration
+  name: Sap Integration
+- id: desktop-management
+  name: Desktop Management
+- id: window-highlighting
+  name: Window Highlighting
+- id: web-design
+  name: Web Design
+- id: forced-breaks
+  name: Forced Breaks
+- id: window-management
+  name: Window Management
+- id: personal
+  name: Personal
+- id: earnings
+  name: Earnings
