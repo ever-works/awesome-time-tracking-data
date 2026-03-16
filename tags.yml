@@ -95,7 +95,7 @@
 - id: expense-tracking
   name: Expense Tracking
 - id: approval-workflows
-  name: approval-workflows
+  name: Approval Workflows
 - id: workforce-analytics
   name: Workforce Analytics
 - id: real-time
@@ -219,7 +219,7 @@
 - id: customizable
   name: Customizable
 - id: idle-detection
-  name: idle-detection
+  name: Idle Detection
 - id: events
   name: events
 - id: comparison
@@ -1276,3 +1276,43 @@
   name: Monitoring
 - id: integrations
   name: Integrations
+- id: annual-hours
+  name: Annual Hours
+- id: flexible-contracts
+  name: Flexible Contracts
+- id: passive-monitoring
+  name: Passive Monitoring
+- id: reading
+  name: Reading
+- id: typography
+  name: Typography
+- id: client-communication
+  name: Client Communication
+- id: expenses
+  name: Expenses
+- id: project-costs
+  name: Project Costs
+- id: rituals
+  name: Rituals
+- id: field-workers
+  name: Field Workers
+- id: overtime
+  name: Overtime
+- id: variations
+  name: Variations
+- id: kpis
+  name: Kpis
+- id: ethics
+  name: Ethics
+- id: employee-rights
+  name: Employee Rights
+- id: workplace-dignity
+  name: Workplace Dignity
+- id: engagement
+  name: Engagement
+- id: time-waste
+  name: Time Waste
+- id: jet-lag
+  name: Jet Lag
+- id: sleep
+  name: Sleep

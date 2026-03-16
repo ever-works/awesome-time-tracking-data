@@ -74,3 +74,9 @@
   name: Browser Extensions
 - id: government
   name: Government
+- id: client-reporting
+  name: Client Reporting
+- id: time-tracking-features
+  name: Time Tracking Features
+- id: freelance-consulting
+  name: Freelance & Consulting
