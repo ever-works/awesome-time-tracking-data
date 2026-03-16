@@ -1,7 +1,7 @@
 - id: open-source
   name: Open Source
 - id: command-line
-  name: command-line
+  name: Command Line
 - id: ruby
   name: ruby
 - id: personal-use
@@ -103,7 +103,7 @@
 - id: privacy
   name: Privacy
 - id: countdown
-  name: countdown
+  name: Countdown
 - id: presentation
   name: presentation
 - id: customization
@@ -1224,3 +1224,55 @@
   name: One Click Tracking
 - id: scientific
   name: Scientific
+- id: student
+  name: Student
+- id: study-timer
+  name: Study Timer
+- id: slack
+  name: Slack
+- id: bot
+  name: Bot
+- id: approval-workflow
+  name: Approval Workflow
+- id: calculator
+  name: Calculator
+- id: aec-industry
+  name: Aec Industry
+- id: inventory
+  name: Inventory
+- id: kpi-dashboard
+  name: Kpi Dashboard
+- id: chatbot
+  name: Chatbot
+- id: meeting-efficiency
+  name: Meeting Efficiency
+- id: sustainability
+  name: Sustainability
+- id: trello
+  name: Trello
+- id: microbreaks
+  name: Microbreaks
+- id: rfid
+  name: Rfid
+- id: touchless
+  name: Touchless
+- id: study-planner
+  name: Study Planner
+- id: kpi-tracking
+  name: Kpi Tracking
+- id: dashboards
+  name: Dashboards
+- id: timezone
+  name: Timezone
+- id: meeting-planner
+  name: Meeting Planner
+- id: meeting-timer
+  name: Meeting Timer
+- id: visual-timer
+  name: Visual Timer
+- id: ergonomics
+  name: Ergonomics
+- id: monitoring
+  name: Monitoring
+- id: integrations
+  name: Integrations
