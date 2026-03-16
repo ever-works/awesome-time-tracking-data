@@ -173,7 +173,7 @@
 - id: scheduling
   name: Scheduling
 - id: macos
-  name: Macos
+  name: MacOS
 - id: team
   name: Team
 - id: employee-monitoring
@@ -1354,3 +1354,9 @@
   name: Screenshot Tracking
 - id: hourly-billing
   name: Hourly Billing
+- id: policy
+  name: Policy
+- id: audit
+  name: Audit
+- id: financial-reporting
+  name: Financial Reporting
