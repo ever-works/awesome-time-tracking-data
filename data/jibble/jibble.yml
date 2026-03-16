@@ -1,97 +1,186 @@
 name: Jibble
-description: Jibble is a free and open-source time tracking solution featuring
-  instant face recognition, GPS tracking, offline clock-ins, activity and
-  project tracking, and timesheet management, tailored for teams and
-  organizations.
+description: Completely free time tracking software with unlimited users that
+  includes AI-powered facial recognition, geofencing, and mobile time clock
+  capabilities.
 source_url: https://www.jibble.io/
-category: team-project-time-tracking
+category: Time Tracking Software
 tags:
-  - open-source
-  - teams
-  - gps
-  - timesheet
+  - free
+  - facial-recognition
+  - unlimited-users
 markdown: >-
-  # Jibble
+  ## Overview
 
 
-  [Jibble](https://www.jibble.io/) is a free and open-source time tracking
-  solution designed for teams and organizations. It offers a range of features
-  for managing work hours, attendance, projects, and productivity.
+  Jibble is a completely free time tracking and attendance solution with
+  unlimited users. It combines AI-powered facial recognition with geofencing and
+  GPS tracking to prevent buddy punching and verify employee locations, making
+  it particularly valuable for teams with field workers or distributed
+  workforces.
 
 
-  ## Features
+  ## Key Features
 
-  - **Time Tracking**: Track work hours via desktop, mobile, web, and Chrome
-  extension.
 
-  - **Attendance Tracking**: Monitor real-time attendance, including
-  clock-in/clock-out.
+  - **100% free** - Unlimited users, unlimited time tracking, forever
 
-  - **Timesheet Management**: Automatic timesheet generation, review, and export
-  for payroll and attendance.
+  - **AI facial recognition** - Confirms both who is clocking in and their
+  identity
 
-  - **Face Recognition**: Use facial recognition for secure and accurate
-  attendance.
+  - **Geofencing** - Verifies employee locations at clock-in/out
 
-  - **GPS Tracking**: Track clock-ins/outs with location data for on-site
-  verification.
+  - **GPS tracking** - Location verification for field workers
 
-  - **Offline Clock-ins**: Record attendance without an internet connection.
+  - **Mobile time clock** - Track time from smartphones
 
-  - **Project and Activity Tracking**: Log hours to specific projects and
-  activities for accurate billing and resource allocation.
+  - **Kiosk mode** - Shared device for team clock-in/out
 
-  - **Employee Monitoring**: Track employee activity, including screenshot
-  capture and productivity measurement.
+  - **Timesheet management** - Automatic timesheet generation
 
-  - **Overtime Tracking**: Monitor and manage overtime hours.
+  - **Activity tracking** - Monitor worked hours and attendance
 
-  - **PTO Tracking**: Manage leave balances, accruals, and requests.
+  - **Project time tracking** - Assign time to projects and clients
 
-  - **NFC and Biometric Attendance**: Support for NFC and biometric-based
-  attendance tracking.
+  - **Overtime tracking** - Automatic overtime calculation
 
-  - **Attendance Kiosk**: Shared clock-in/out device option.
 
-  - **Reporting & Analytics**: Generate detailed reports and actionable insights
-  on productivity and resource allocation.
+  ## Anti-Time Theft Features
 
-  - **Time Billing**: Track billable hours for clients and projects.
 
-  - **Integrations**: Connect with tools like QuickBooks, Xero, Slack, Microsoft
-  Teams, Zapier, Asana, Trello, Notion, Jira, GitHub, and more.
+  Jibble prevents common time theft issues:
 
-  - **Templates and Utilities**: Includes timesheet templates, a timesheet
-  calculator, and a Pomodoro timer.
+  - **Buddy punching prevention** - AI facial recognition ensures the right
+  person is clocking in
 
-  - **Multi-language Support**: Available in English, French, Spanish,
-  Portuguese (Brazil), Italian, German, and more.
+  - **Location verification** - Geofencing confirms employees are at designated
+  work sites
 
-  - **API Access**: For custom integrations.
+  - **Photo capture** - Visual record of clock-in events
+
+  - **GPS validation** - Real-time location data with timestamps
+
+
+  ## AI-Powered Technology
+
+
+  - Facial recognition technology verifies employee identity
+
+  - Machine learning improves accuracy over time
+
+  - Biometric authentication without expensive hardware
+
+  - Works through standard smartphone cameras
+
+
+  ## Attendance Management
+
+
+  - Real-time attendance dashboard
+
+  - Late/early clock-in tracking
+
+  - Absence management
+
+  - Leave request and approval
+
+  - Attendance reports and analytics
+
+  - PTO tracking
+
+
+  ## Reporting
+
+
+  - Timesheet exports for payroll
+
+  - Attendance summaries
+
+  - Project time reports
+
+  - Location-based reports
+
+  - Custom report filtering
+
+
+  ## Integrations
+
+
+  Jibble integrates with:
+
+  - Payroll systems
+
+  - Project management tools
+
+  - Accounting software
+
+  - Calendar applications
+
+
+  ## Use Cases
+
+
+  - Remote teams needing attendance verification
+
+  - Field service businesses with mobile workers
+
+  - Retail and hospitality with shift workers
+
+  - Construction companies with multiple job sites
+
+  - Any business wanting to prevent time theft
+
+  - Organizations needing free unlimited time tracking
+
+
+  ## Platform Support
+
+
+  - Web browser access
+
+  - iOS mobile app
+
+  - Android mobile app
+
+  - Kiosk mode for shared devices
+
+  - API for custom integrations
+
+
+  ## Why Free?
+
+
+  Jibble offers its core platform completely free with the goal of making time
+  tracking accessible to all businesses, monetizing through premium add-ons and
+  services rather than per-user fees.
 
 
   ## Pricing
 
-  - **Free Plan**: 100% free forever for unlimited users, with no time or
-  employee limits.
 
-  - **Paid Upgrades**: Optional upgrade plans available for larger SMEs and
-  enterprises, with additional features. (Specific details on paid plans are not
-  provided in the provided content.)
+  **Free Forever**: Unlimited users, unlimited time tracking, AI facial
+  recognition, geofencing, GPS tracking, timesheets, attendance tracking, and
+  mobile apps.
 
 
-  ## Category
-
-  - Team Project Time Tracking
+  Optional premium features may be available for advanced needs.
 
 
-  ## Tags
+  ## Best For
 
-  - open-source
 
-  - teams
+  - Businesses wanting to eliminate per-user costs
 
-  - gps
+  - Teams with distributed or field-based workers
 
-  - timesheet
-updated_at: 2025-05-13 22:52
+  - Organizations concerned about time theft and buddy punching
+
+  - Companies needing biometric verification without hardware investment
+
+  - Growing teams that don't want to worry about user limits
+
+
+  Jibble stands out by offering enterprise-grade features like AI facial
+  recognition and geofencing completely free with unlimited users, making
+  sophisticated time tracking accessible to businesses of all sizes.
+brand: Jibble
+updated_at: 2026-03-16 23:57

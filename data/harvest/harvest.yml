@@ -1,59 +1,75 @@
 name: Harvest
-description: Simple time tracking and invoicing software for teams and
-  freelancers with browser extensions, mobile apps, and integrations with
-  popular project management tools.
+description: Time tracking software with integrated invoicing and expense
+  management designed for teams that need to track billable hours and streamline
+  client billing processes.
 source_url: https://www.getharvest.com/
-category: Freelance & Consulting
+category: Time Tracking Software
 tags:
-  - time-tracking
   - invoicing
-  - integration
-featured: false
+  - expenses
+  - billable-hours
+featured: true
 markdown: >-
   ## Overview
 
 
-  Harvest is a straightforward time tracking and invoicing platform designed for
-  freelancers, consultants, and agencies to track billable hours, monitor
-  project budgets, and get paid faster with integrated invoicing.
+  Harvest is a comprehensive time tracking and invoicing platform designed for
+  teams and businesses that bill clients for their time. It combines flexible
+  time tracking with powerful invoicing capabilities, expense management, and
+  financial reporting to streamline the entire billing workflow.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Time Tracking**: Track time with browser-based timers, desktop apps, or
-  mobile apps
+  - **Flexible time tracking** - Track time via desktop (Mac/PC), mobile
+  (iOS/Android), or web browser with timer or manual entry
 
-  - **Browser Extensions**: Chrome, Firefox, and Edge extensions to track time
-  from any web app
+  - **One-click invoicing** - Generate and send invoices for tracked time in
+  seconds
 
-  - **Project Budgets**: Set budgets by hours or fees and get alerts when
-  approaching limits
+  - **Client payments** - Clients can pay directly from invoices via integrated
+  payment processing
 
-  - **Team Timesheets**: View and approve team timesheets with detailed
-  breakdowns
+  - **Automated reminders** - Automatic follow-up emails for overdue invoices
 
-  - **Expense Tracking**: Log expenses and attach receipts for client
-  reimbursement
+  - **Expense tracking** - Track billable and non-billable expenses including
+  materials, supplies, travel costs with receipt uploads
 
-  - **Invoicing**: Create professional invoices from tracked time and expenses
+  - **Budget management** - Set hourly or fixed-fee budgets with instant alerts
+  when limits are reached
 
-  - **Online Payments**: Accept credit card and PayPal payments through invoices
+  - **Comprehensive reporting** - Instant reports covering budgets, time spent,
+  team capacity, expenses, and profitability
 
-  - **Reporting**: Visual reports on time, expenses, team capacity, and project
-  profitability
+  - **Integrations** - Connect with Xero, QuickBooks, Asana, Trello, Slack, and
+  100+ other tools
 
-  - **Integrations**: Native integrations with Asana, Trello, Basecamp, Jira,
-  Slack, and 100+ tools
+  - **Accounting integration** - Seamless sync with Xero and QuickBooks for
+  streamlined bookkeeping
 
-  - **Forecasting**: Plan team capacity and forecast project timelines
+  - **Payment processing** - Accept payments via Stripe and PayPal
+
+
+  ## Advanced Features (2026)
+
+
+  - **Profitability Reporting** - Enterprise tier shows internal costs vs.
+  billable revenue for better financial insights
+
+  - **Team reporting** - Track team performance and capacity across all projects
 
 
   ## Pricing
 
 
-  Free plan for 1 user with 2 projects. Pro plan at $12 per user per month with
-  unlimited projects, invoicing, and integrations. All plans include unlimited
-  time tracking.
+  - **Pro Plan**: $10.80/user/month (annual billing) - includes unlimited seats
+  and projects, team reporting, accounting and payment integrations (QuickBooks
+  Online, Xero, Stripe, PayPal), and scheduled phone support
+
+
+  Harvest is particularly well-suited for professional services firms, agencies,
+  and consultancies that need integrated time tracking and invoicing with strong
+  financial reporting capabilities.
 brand: Harvest
-updated_at: 2026-03-16 08:22
+updated_at: 2026-03-16 23:57

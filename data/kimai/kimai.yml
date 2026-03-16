@@ -1,115 +1,102 @@
 name: Kimai
-description: Kimai is a free, open-source time tracking software supporting
-  unlimited users and timesheet entries. It offers a responsive design, plugin
-  support, and multi-language capabilities, making it highly suitable for teams
-  and individuals needing flexible, extensible time tracking.
+description: Open-source time tracking application available for self-hosting or
+  SaaS that handles use cases from freelancers to large enterprises with
+  hundreds of users.
 source_url: https://www.kimai.org/
-category: web-based-time-tracking
+category: Open Source
 tags:
   - open-source
-  - web-based
-  - multi-user
-  - timesheet
-markdown: >
-  # Kimai
+  - self-hosted
+  - free
+featured: true
+markdown: >-
+  ## Overview
 
 
-  **Category:** Web-based Time Tracking  
-
-  **Website:** [https://www.kimai.org/](https://www.kimai.org/)
-
-
-  ## Description
-
-  Kimai is a free, open-source time tracking software designed for
-  project-driven teams and individuals. It supports unlimited users and
-  timesheet entries, and can be deployed as self-hosted or SaaS (cloud)
-  solution. Kimai features a responsive web interface and is suitable for
-  businesses of all sizes.
+  Kimai is a professional-grade, open-source time tracking application that can
+  be self-hosted or used as a SaaS solution. It's designed to handle diverse use
+  cases from individual freelancers to companies with dozens or hundreds of
+  users, offering enterprise features without enterprise costs.
 
 
-  ## Features
+  ## Key Features
 
-  - **Open Source:** Free to use and modify, with source code available.
 
-  - **Self-hosted & SaaS:** Available as both on-premise (self-hosted) and cloud
-  (SaaS) versions.
+  - **Open source** - Free and open-source software with full access to source
+  code
 
-  - **Unlimited Users:** Supports unlimited users with different roles and
-  permissions.
+  - **Self-hosting option** - Deploy on your own infrastructure for complete
+  data control
 
-  - **Multi-language:** Translated into over 30 languages.
+  - **Multi-user support** - Handles from single users to hundreds of team
+  members
 
-  - **Multi-user & Teams:** Organize users into teams for logical grouping and
-  access control.
+  - **JSON API** - RESTful API for integrations and custom applications
 
-  - **Time Tracking:** Track work time by customer, project, and activity.
-  Supports daily, monthly, yearly, and custom periods.
+  - **Invoicing** - Generate professional invoices based on tracked time
 
-  - **Responsive Design:** Browser-based interface works cross-platform,
-  including mobile devices.
+  - **Data exports** - Export time data in multiple formats for reporting and
+  analysis
 
-  - **Timesheet Exports:** Export timesheet data in XLSX, PDF, CSV, and HTML
-  formats. Option to lock exported records.
+  - **Multi-language** - Available in over 30 languages with complete
+  translations
 
-  - **Invoicing:** Customizable invoice templates, entry grouping, configurable
-  invoice numbers, export to PDF/DOCX.
+  - **Project management** - Organize time tracking by projects, customers, and
+  activities
 
-  - **Expense Management:** Track expenses based on customer, project, and
-  activity (via plugin; extra purchase).
+  - **Reporting** - Comprehensive reports for time analysis and billing
 
-  - **Reports & Analysis:** Analyze recorded times by users, customers,
-  projects, activities, tags, and time periods.
+  - **User permissions** - Granular role-based access control
 
-  - **Customer & Project Management:** Manage customer data, projects, order
-  numbers, budgets, visibility, etc.
+  - **Customization** - Highly customizable to fit specific workflow
+  requirements
 
-  - **Plugins & Extensibility:** Extend functionality via plugins;
-  developer-friendly with many extension points.
 
-  - **Authentication & Security:** Supports LDAP, SAML, external identity
-  providers (Google Workspace, Azure AD, Authentik), and two-factor
-  authentication via TOTP.
+  ## Deployment Options
 
-  - **JSON API:** Extensive API for integration with external apps and custom
-  tools.
 
-  - **Statistics Dashboard:** Visualize recorded times and data statistics on
-  the dashboard.
+  - **Self-hosted** - Install on your own servers for complete control and
+  privacy
 
-  - **Docker Support:** Official Docker images and Compose setups for
-  development and production.
+  - **SaaS** - Cloud-hosted option for teams that prefer managed infrastructure
 
-  - **Time-clock Mode:** Option to restrict users to punch-in/punch-out records
-  only.
 
-  - **Customer Portal:** Share client/project statistics and timesheets via
-  secret or password-protected URLs.
+  ## Use Cases
 
-  - **GDPR Compliant:** Designed to comply with European data protection
-  regulations.
 
-  - **Audit Trail Logs:** Track changes and activity in the system (Cloud
-  version).
+  - Freelancers tracking client work independently
 
-  - **Working Hours & Leave Tracking:** Manage working hours, vacation,
-  sickness, and public holidays (Cloud version).
+  - Small businesses needing affordable time tracking
 
-  - **Backups:** Automated backups (Cloud version).
+  - Enterprises requiring self-hosted solutions for data sovereignty
+
+  - Organizations with specific compliance or privacy requirements
+
+  - Development teams wanting to customize their time tracking tool
+
+
+  ## Technical Details
+
+
+  - Built with modern web technologies
+
+  - Active open-source community and regular updates
+
+  - Extensive documentation for installation and customization
+
+  - Plugin system for extending functionality
 
 
   ## Pricing
 
-  - **Self-Hosted (Open Source):** Free to download and install on your own
-  server.
 
-  - **Kimai Cloud (SaaS):** Pricing details are not specified in the provided
-  content, but includes features such as hosting, updates, SSL, backups, and
-  additional business features. A free trial or free start option is available.
+  - **Open Source**: Free to download and self-host
+
+  - **SaaS**: Paid plans available for cloud-hosted instances
 
 
-  ## Tags
-
-  open-source, web-based, multi-user, timesheet, SaaS, self-hosted, extensible,
-  multi-language, invoicing, plugins
-updated_at: 2025-05-13 22:52
+  Kimai is described as the #1 open-source time tracking application, making it
+  ideal for organizations that value data ownership, customization, and the
+  transparency of open-source software.
+brand: Kimai
+updated_at: 2026-03-16 23:57

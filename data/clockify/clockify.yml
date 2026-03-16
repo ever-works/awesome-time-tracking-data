@@ -1,100 +1,82 @@
 name: Clockify
-description: Free time tracking software for teams with unlimited users and
-  projects. Clockify offers time tracking, timesheets, reporting, and project
-  management features without limitations on the free plan, making it ideal for
-  budget-conscious teams.
+description: Free time tracker and timesheet app for unlimited users and
+  projects. Track productivity, attendance, and billable hours with a simple
+  interface and powerful reporting features.
 source_url: https://clockify.me/
-category: Team & Project Time Tracking
+category: Time Tracking Software
 tags:
   - free
   - unlimited-users
-  - reporting
+  - timesheets
 featured: true
 markdown: >-
   ## Overview
 
 
   Clockify is a completely free time tracking software that allows unlimited
-  users, unlimited projects, and unlimited tracking, making it one of the most
-  generous free time tracking solutions available.
+  users and projects. It's designed to help teams track work hours across
+  projects, monitor productivity, and generate comprehensive timesheets for
+  billing and payroll purposes.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Free Forever Plan** - Truly unlimited users, projects, and time tracking
+  - **Unlimited users and projects** - Free forever plan with no restrictions on
+  team size
 
-  - **Time Tracker** - Start/stop timer or add time manually
+  - **Time tracking methods** - Manual time entry, timer-based tracking, or
+  automatic tracking
 
-  - **Timesheet** - Weekly timesheet view for quick time entry
+  - **Timesheet reports** - Track productivity, attendance, and billable hours
+  with detailed reporting
 
-  - **Calendar** - Visual calendar view of tracked time
+  - **Calendar view** - Visualize time entries across weeks and months
 
-  - **Dashboard** - Overview of time and activity
+  - **Project budgeting** - Set time and cost estimates for projects
 
-  - **Reports** - Detailed, exportable, and shareable reports
+  - **GPS time clock** - Mobile app with location tracking for field workers
+  (paid plans)
 
-  - **Projects** - Organize work by projects and clients
+  - **Kiosk mode** - Shared device clock-in/out for teams
 
-  - **Tags** - Categorize time entries with tags
+  - **Integrations** - Connect with 80+ tools including Asana, Trello, Jira, and
+  Google Calendar
 
-  - **Billable Rates** - Set hourly rates for billing
-
-  - **Invoicing** - Generate invoices from tracked time (paid plans)
-
-  - **Kiosk** - Shared device clock in/out (paid plans)
-
-  - **Scheduling** - Plan and schedule team time (paid plans)
-
-  - **Time Off** - Track vacation and PTO (paid plans)
-
-  - **GPS Tracking** - Location-based tracking (paid plans)
-
-  - **Integrations** - 80+ integrations with project management and productivity
-  tools
-
-
-  ## Platform Availability
-
-
-  - Web app
-
-  - Desktop apps (Windows, Mac, Linux)
-
-  - Mobile apps (iOS, Android)
-
-  - Browser extensions (Chrome, Firefox, Edge)
-
-  - Kiosk app for shared devices
+  - **Invoice generation** - Create invoices based on tracked time
 
 
   ## Use Cases
 
 
-  Perfect for:
+  - Track time across multiple projects and clients
 
-  - Startups and small businesses on tight budgets
+  - Generate timesheets for payroll processing
 
-  - Freelancers tracking billable hours
+  - Monitor team productivity and capacity
 
-  - Remote teams needing time tracking
+  - Bill clients based on tracked hours
 
-  - Agencies managing client projects
-
-  - Anyone wanting full-featured time tracking without cost
+  - Analyze where time is being spent
 
 
   ## Pricing
 
 
-  - **Free** - Unlimited everything: users, projects, clients, reports
+  - **Free**: Unlimited users, unlimited projects, basic time tracking and
+  reporting
 
-  - **Basic** - $3.99/user/month
+  - **Basic**: $3.99/user/month - adds timesheet approvals and reminders
 
-  - **Standard** - $5.49/user/month  
+  - **Standard**: $5.49/user/month - adds invoicing and project templates
 
-  - **Pro** - $7.99/user/month
+  - **Pro**: $7.99/user/month - adds scheduling, time off, and expenses
 
-  - **Enterprise** - $11.99/user/month
-brand: Clockify
-updated_at: 2026-03-14 23:32
+  - **Enterprise**: $11.99/user/month - adds custom features and priority
+  support
+
+
+  Clockify is particularly popular among freelancers, agencies, and growing
+  teams looking for a cost-effective time tracking solution.
+brand: CAKE.com Inc.
+updated_at: 2026-03-16 23:57

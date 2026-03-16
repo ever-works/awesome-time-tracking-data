@@ -1,73 +1,99 @@
 name: TimeCamp
-description: Automatic time tracking software with integrations for Xero,
-  QuickBooks, and 50+ project management tools. Converts tracked hours into
-  invoices automatically with detailed reporting and billable rates.
+description: Automatic time tracking software with optional screenshot
+  monitoring that uses keyword-based automation to categorize work activities
+  and generate timesheets effortlessly.
 source_url: https://www.timecamp.com/
-category: Web Based Time Tracking
+category: Automatic Time Tracking
 tags:
-  - automatic-tracking
-  - invoicing
-  - integration
-featured: false
+  - automatic
+  - screenshots
+  - keyword-tracking
 markdown: >-
   ## Overview
 
 
-  TimeCamp is an automatic time tracking solution that integrates with
-  accounting software and project management tools to streamline billing and
-  invoicing workflows.
+  TimeCamp is a fully automated time tracking platform that captures work
+  activities, tracks project progress, and optionally takes screenshots for
+  accountability. The software uses keyword-based automation to categorize time
+  entries, reducing manual input and improving accuracy.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Automatic Time Tracking**: Tracks time spent on tasks automatically
-  without manual timer starts
+  - **Automatic time tracking** - Desktop app records all online and offline
+  activities without manual timer starts/stops
 
-  - **Xero Integration**: Enables integration with Xero accounts to
-  automatically turn tracked data into invoices
+  - **Keyword automation** - Define keywords to automatically log time to
+  corresponding tasks and projects
 
-  - **QuickBooks Integration**: Syncs time data with QuickBooks for seamless
-  accounting
+  - **Screenshot monitoring** - Optional screenshots every 10 minutes during
+  active tracking (requires Ultimate plan)
 
-  - **50+ Integrations**: Connects with popular project management tools
-  including Asana, Trello, Jira, and more
+  - **Private time mode** - Allows employees to take breaks without monitoring
+  during designated private time
 
-  - **Billable Hours**: Calculates billable amounts based on hourly rates set
-  for clients or projects
+  - **Timesheets** - Automated timesheet generation from tracked activities
 
-  - **Invoicing**: Automatically generates invoices from tracked time with
-  hours, descriptions, and totals pre-filled
+  - **Productivity tracking** - Monitor app and website usage to identify
+  productive and unproductive time
 
-  - **Detailed Reporting**: Creates comprehensive reports showing time
-  allocation across projects and clients
+  - **Budgeting** - Track time and costs against project budgets
 
-  - **Timesheet Approvals**: Workflow for reviewing and approving employee
-  timesheets
+  - **Invoicing** - Generate invoices based on tracked billable hours
 
-  - **Budget Tracking**: Monitors project budgets and alerts when approaching
-  limits
+  - **Attendance tracking** - Monitor employee attendance and work schedules
 
-  - **Desktop & Mobile Apps**: Track time across devices with automatic
-  synchronization
+  - **Integrations** - Connect with project management tools, calendars, and
+  business applications
+
+
+  ## Tracking Methods
+
+
+  TimeCamp offers multiple ways to track time:
+
+  - Automatic background tracking via desktop app
+
+  - Manual time entry for past activities
+
+  - Timer-based tracking for real-time logging
+
+  - Calendar integration for meeting time capture
+
+
+  ## Privacy Features
+
+
+  Screenshots are optional and must be enabled in settings. The private time
+  feature allows employees to mark breaks and personal browsing without
+  monitoring or screenshot capture.
 
 
   ## Use Cases
 
 
-  - Freelancers who bill by the hour
+  - Teams needing automatic time categorization
 
-  - Consultants managing multiple clients
+  - Organizations requiring optional screenshot accountability
 
-  - Agencies tracking billable client work
+  - Businesses tracking billable hours across multiple clients
 
-  - Teams needing automated time capture
+  - Remote teams balancing productivity monitoring with privacy
 
 
   ## Pricing
 
 
-  - **Free Version**: Available with basic features and Xero time tracker sync
+  - **Free Forever Plan**: Basic time tracking for unlimited users (no
+  screenshots)
 
-  - **Paid Plans**: Premium features for teams and advanced integrations
-updated_at: 2026-03-16 04:51
+  - **Ultimate Plan**: $7.99/user/month (billed annually) - includes
+  screenshots, advanced reporting, and all premium features
+
+
+  TimeCamp strikes a balance between automatic tracking convenience and optional
+  monitoring features, making it suitable for organizations seeking both
+  efficiency and accountability.
+brand: TimeCamp
+updated_at: 2026-03-16 23:57
