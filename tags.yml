@@ -1332,3 +1332,25 @@
   name: Hourly Workers
 - id: mobile-first
   name: Mobile First
+- id: coaching
+  name: Coaching
+- id: uk-based
+  name: Uk Based
+- id: smart-home
+  name: Smart Home
+- id: ehr
+  name: Ehr
+- id: self-improvement
+  name: Self Improvement
+- id: mental-health
+  name: Mental Health
+- id: telehealth
+  name: Telehealth
+- id: appointments
+  name: Appointments
+- id: design
+  name: Design
+- id: screenshot-tracking
+  name: Screenshot Tracking
+- id: hourly-billing
+  name: Hourly Billing
