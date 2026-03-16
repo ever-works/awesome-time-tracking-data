@@ -1324,3 +1324,11 @@
   name: Advanced
 - id: volunteers
   name: Volunteers
+- id: user-friendly
+  name: User Friendly
+- id: full-service
+  name: Full Service
+- id: hourly-workers
+  name: Hourly Workers
+- id: mobile-first
+  name: Mobile First
