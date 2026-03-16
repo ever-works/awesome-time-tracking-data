@@ -33,7 +33,7 @@
 - id: pomodoro
   name: Pomodoro
 - id: api
-  name: Api
+  name: API
 - id: reporting
   name: Reporting
 - id: self-hosted
@@ -449,11 +449,11 @@
 - id: field-service
   name: Field Service
 - id: gps-tracking
-  name: Gps Tracking
+  name: GPS Tracking
 - id: remote-work
   name: Remote Work
 - id: ai-powered
-  name: Ai Powered
+  name: AI Powered
 - id: wellness
   name: Wellness
 - id: productivity-analytics
@@ -561,7 +561,7 @@
 - id: legal-billing
   name: Legal Billing
 - id: quickbooks-integration
-  name: Quickbooks Integration
+  name: QuickBooks Integration
 - id: trust-accounting
   name: Trust Accounting
 - id: professional-services
@@ -1486,3 +1486,57 @@
   name: Monday.com
 - id: embedded
   name: Embedded
+- id: billing-practice
+  name: Billing Practice
+- id: cost-accounting
+  name: Cost Accounting
+- id: labor-law
+  name: Labor Law
+- id: employee-welfare
+  name: Employee Welfare
+- id: transparency
+  name: Transparency
+- id: portal
+  name: Portal
+- id: webhooks
+  name: Webhooks
+- id: developer-tools
+  name: Developer Tools
+- id: ide-extension
+  name: IDE Extension
+- id: data-analysis
+  name: Data Analysis
+- id: improvement
+  name: Improvement
+- id: law-practice
+  name: Law Practice
+- id: microsoft-dynamics
+  name: Microsoft Dynamics
+- id: erp-integration
+  name: ERP Integration
+- id: pto
+  name: PTO
+- id: time-entry
+  name: Time Entry
+- id: budget-control
+  name: Budget Control
+- id: best-practice
+  name: Best Practice
+- id: team-communication
+  name: Team Communication
+- id: law-firms
+  name: Law Firms
+- id: jira-integration
+  name: Jira Integration
+- id: documentation
+  name: Documentation
+- id: solo-lawyers
+  name: Solo Lawyers
+- id: mobile-workforce
+  name: Mobile Workforce
+- id: memory-aid
+  name: Memory Aid
+- id: approval-process
+  name: Approval Process
+- id: kpi
+  name: KPI
