@@ -82,3 +82,19 @@
   name: Freelance & Consulting
 - id: hardware-physical-time-clocks
   name: Hardware & Physical Time Clocks
+- id: ai-scheduling
+  name: AI Scheduling
+- id: construction-time-tracking
+  name: Construction Time Tracking
+- id: legal-time-tracking
+  name: Legal Time Tracking
+- id: health-wellness
+  name: Health & Wellness
+- id: time-management-methodology
+  name: Time Management Methodology
+- id: productivity-software
+  name: Productivity Software
+- id: field-service-time-tracking
+  name: Field Service Time Tracking
+- id: pomodoro-technique
+  name: Pomodoro Technique

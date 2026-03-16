@@ -247,7 +247,7 @@
 - id: android
   name: Android
 - id: ios
-  name: Ios
+  name: IOS
 - id: accounting
   name: Accounting
 - id: commerce
@@ -261,7 +261,7 @@
 - id: geofencing
   name: Geofencing
 - id: absence-planning
-  name: absence-planning
+  name: Absence Planning
 - id: timesheets
   name: Timesheets
 - id: construction
@@ -743,7 +743,7 @@
 - id: eat-the-frog
   name: Eat The Frog
 - id: hr-platform
-  name: Hr Platform
+  name: HR Platform
 - id: education
   name: Education
 - id: nonprofit
@@ -1540,3 +1540,31 @@
   name: Approval Process
 - id: kpi
   name: KPI
+- id: assessment
+  name: Assessment
+- id: legal-software
+  name: Legal Software
+- id: eye-health
+  name: Eye Health
+- id: book
+  name: Book
+- id: philosophy
+  name: Philosophy
+- id: life-balance
+  name: Life Balance
+- id: small-teams
+  name: Small Teams
+- id: overnight-shifts
+  name: Overnight Shifts
+- id: wearable
+  name: Wearable
+- id: hr-software
+  name: HR Software
+- id: attendance-tracking
+  name: Attendance Tracking
+- id: mid-sized-firms
+  name: Mid Sized Firms
+- id: time-card
+  name: Time Card
+- id: recovery-tracking
+  name: Recovery Tracking
