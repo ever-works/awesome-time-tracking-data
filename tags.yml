@@ -29,7 +29,7 @@
 - id: sqlite
   name: sqlite
 - id: lightweight
-  name: lightweight
+  name: Lightweight
 - id: pomodoro
   name: Pomodoro
 - id: api
