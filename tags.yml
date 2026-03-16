@@ -1456,3 +1456,27 @@
   name: Anti Fraud
 - id: adhd-friendly
   name: Adhd Friendly
+- id: text-based
+  name: Text Based
+- id: task-switching
+  name: Task Switching
+- id: biological-rhythms
+  name: Biological Rhythms
+- id: manual-tracking
+  name: Manual Tracking
+- id: projects
+  name: Projects
+- id: kimai-integration
+  name: Kimai Integration
+- id: data-visualization
+  name: Data Visualization
+- id: research
+  name: Research
+- id: markdown
+  name: Markdown
+- id: notes
+  name: Notes
+- id: firefox-extension
+  name: Firefox Extension
+- id: environmental-cues
+  name: Environmental Cues
