@@ -1480,3 +1480,9 @@
   name: Firefox Extension
 - id: environmental-cues
   name: Environmental Cues
+- id: verification
+  name: Verification
+- id: mondaycom
+  name: Monday.com
+- id: embedded
+  name: Embedded
