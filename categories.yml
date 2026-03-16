@@ -1,100 +1,24 @@
-- id: time-tracking-cli-tools
-  name: Time Tracking CLI Tools
-- id: automated-time-tracking
-  name: Automated Time Tracking
-- id: desktop-time-tracking-applications
-  name: Desktop Time Tracking Applications
-- id: personal-time-tracking
-  name: Personal Time Tracking
-- id: cross-platform-time-tracking
-  name: Cross Platform Time Tracking
-- id: team-project-time-tracking
-  name: Team & Project Time Tracking
-- id: mobile-time-tracking
-  name: Mobile Time Tracking
-- id: web-based-time-tracking
-  name: Web Based Time Tracking
-- id: time-tracking-overview-resources
-  name: Time Tracking Overview & Resources
-- id: countdown-interval-timers
-  name: Countdown & Interval Timers
-- id: commerce
-  name: Commerce
-- id: open-sources
-  name: Open Sources
-- id: attendance-payroll-management
-  name: Attendance & Payroll Management
-- id: business-management
-  name: Business Management
-- id: field-team-management
-  name: Field Team Management
-- id: productivity-tools
-  name: Productivity Tools
-- id: resource-scheduling
-  name: Resource Scheduling
-- id: equipment-fleet-time-tracking
-  name: Equipment & Fleet Time Tracking
-- id: time-tracking-utilities-calculators
-  name: Time Tracking Utilities & Calculators
-- id: time-tracking-apis-integrations
-  name: Time Tracking APIs & Integrations
-- id: others
-  name: Others
-- id: practices
-  name: Practices
-- id: developer-time-tracking
-  name: Developer Time Tracking
-- id: professional-services
-  name: Professional Services
-- id: employee-monitoring
-  name: Employee Monitoring
+- id: open-source
+  name: Open Source
 - id: project-management
   name: Project Management
-- id: freelancers
-  name: Freelancers
-- id: construction
-  name: Construction
-- id: employee-scheduling
-  name: Employee Scheduling
-- id: time-blocking-interval-timers
-  name: Time Blocking & Interval Timers
-- id: creative-agencies
-  name: Creative Agencies
-- id: meeting-team-time-tracking
-  name: Meeting & Team Time Tracking
-- id: productivity-process-documentation
-  name: Productivity & Process Documentation
-- id: health-break-reminders
-  name: Health & Break Reminders
-- id: hr-payroll-integration
-  name: HR & Payroll Integration
-- id: project-time-tracking
-  name: Project Time Tracking
-- id: browser-extensions
-  name: Browser Extensions
-- id: government
-  name: Government
-- id: client-reporting
-  name: Client Reporting
-- id: time-tracking-features
-  name: Time Tracking Features
-- id: freelance-consulting
-  name: Freelance & Consulting
-- id: hardware-physical-time-clocks
-  name: Hardware & Physical Time Clocks
-- id: ai-scheduling
-  name: AI Scheduling
-- id: construction-time-tracking
-  name: Construction Time Tracking
-- id: legal-time-tracking
-  name: Legal Time Tracking
-- id: health-wellness
-  name: Health & Wellness
+- id: time-tracking-practice
+  name: Time Tracking Practice
+- id: time-tracking-software
+  name: Time Tracking Software
+- id: mobile-time-tracking
+  name: Mobile Time Tracking
 - id: time-management-methodology
   name: Time Management Methodology
-- id: productivity-software
-  name: Productivity Software
-- id: field-service-time-tracking
-  name: Field Service Time Tracking
-- id: pomodoro-technique
-  name: Pomodoro Technique
+- id: employee-monitoring
+  name: Employee Monitoring
+- id: productivity-tool
+  name: Productivity Tool
+- id: accounting-software
+  name: Accounting Software
+- id: automatic-time-tracking
+  name: Automatic Time Tracking
+- id: business-management
+  name: Business Management
+- id: time-management-practice
+  name: Time Management Practice
