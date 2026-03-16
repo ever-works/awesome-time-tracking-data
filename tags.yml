@@ -1440,3 +1440,19 @@
   name: Strengths Based
 - id: mindset
   name: Mindset
+- id: high-performance
+  name: High Performance
+- id: category-based
+  name: Category Based
+- id: personal-productivity
+  name: Personal Productivity
+- id: life-tracking
+  name: Life Tracking
+- id: evening-routine
+  name: Evening Routine
+- id: sleep-optimization
+  name: Sleep Optimization
+- id: anti-fraud
+  name: Anti Fraud
+- id: adhd-friendly
+  name: Adhd Friendly
