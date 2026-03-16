@@ -1,90 +1,57 @@
 name: Wrike
-description: Wrike is an enterprise-level project management solution with
-  built-in time-tracking capabilities, enabling teams to manage projects and
-  monitor time spent on tasks efficiently.
+description: Versatile project management platform with built-in time tracking,
+  Gantt charts, workload management, and collaboration features for teams of all
+  sizes.
 source_url: https://www.wrike.com/
-category: team-project-time-tracking
+category: Project Management
 tags:
-  - project-management
+  - collaboration
+  - gantt
   - enterprise
-  - teams
-  - web-based
+featured: false
 markdown: >-
-  # Wrike
+  ## Overview
 
 
-  [Wrike](https://www.wrike.com/) is an enterprise-level project management
-  platform designed for teams to manage projects, track time, and streamline
-  workflows efficiently. It offers a robust set of features for collaboration,
-  automation, and visibility across teams and departments.
+  Wrike is a comprehensive project management and collaboration platform that
+  includes time tracking, resource management, and workflow automation, designed
+  to help teams streamline work and improve productivity.
 
 
   ## Features
 
-  - **Project Management**: Plan, track, and manage projects with tools like
-  Gantt charts, Kanban boards, calendars, tables, and custom project views.
 
-  - **Time Tracking**: Built-in tools for tracking time spent on tasks and
-  projects, including billable hours and budget monitoring.
+  - **Time Tracking**: Built-in time tracking on tasks with timesheets and
+  reporting
 
-  - **Dashboards & Analytics**: Real-time dashboards, analytics, and reporting
-  for data-driven decision-making and performance tracking.
+  - **Gantt Charts**: Interactive Gantt charts for project planning and
+  dependency management
 
-  - **Automation & AI**: Automate workflows, approvals, request forms, and
-  repetitive tasks. AI-powered Work Intelligence® features for recommendations
-  and productivity.
+  - **Kanban Boards**: Customizable kanban boards for agile workflow
+  visualization
 
-  - **Proofing & Approvals**: Streamlined proofing tools for documents and
-  videos, enabling side-by-side comparisons and real-time feedback. Automated
-  approval processes.
+  - **Workload View**: Visual workload management to balance team capacity
 
-  - **Custom Workflows**: Create templates, blueprints, and custom item types to
-  tailor workflows to your team's needs.
+  - **Custom Workflows**: Create custom workflows with automation rules
 
-  - **Resource & Workload Management**: Visualize team workloads, plan
-  allocations, and avoid burnout with workload balancing features.
+  - **Proofing & Approvals**: Built-in file proofing with markup and approval
+  workflows
 
-  - **Request Forms**: Dynamic, customizable forms to gather information and
-  automate project/task creation.
+  - **Forms & Requests**: Intake forms for standardizing project requests
 
-  - **Integrations**: Integrates with a wide range of apps including Slack,
-  Microsoft, Google, Adobe, Salesforce, Zoom, Tableau, MS Teams, Dropbox, Jira,
-  HubSpot, and more.
+  - **Dashboards**: Customizable dashboards with real-time project metrics
 
-  - **Mobile & Desktop Apps**: Full-featured mobile applications for iOS and
-  Android, as well as desktop access.
+  - **Integrations**: 400+ integrations including Slack, Microsoft Teams,
+  Salesforce, Adobe
 
-  - **Enterprise-Grade Security**: Double encryption, role-based access, user
-  authentication, privacy checks, and optional Wrike Lock for key management.
-
-  - **Collaboration Tools**: Visual collaboration with Klaxoon integration
-  (infinite whiteboard and more), file sharing, and centralized communication.
-
-  - **Templates**: Pre-built and customizable templates for marketing, project
-  management, creative, Agile, IT, and more.
-
-  - **Custom Fields & Statuses**: Personalize workspaces with custom fields,
-  statuses, and workflows.
-
-  - **Scalability**: Platform supports seamless scaling for teams and
-  organizations of any size.
+  - **Mobile Apps**: Full-featured iOS and Android apps
 
 
   ## Pricing
 
-  - Wrike offers a free two-week trial. Specific pricing plans are not detailed
-  in the provided content. For detailed pricing, visit their [pricing
-  page](https://www.wrike.com/).
 
-
-  ## Categories & Tags
-
-  - **Category:** Team Project Time Tracking
-
-  - **Tags:** project-management, enterprise, teams, web-based
-
-
-  ---
-
-  For more information, visit [wrike.com](https://www.wrike.com/).
-updated_at: 2025-05-13 22:52
+  Free plan for unlimited users with basic features. Professional at $9.80 per
+  user per month includes Gantt charts and custom workflows. Business at $24.80
+  per user per month adds time tracking and advanced reporting.
+brand: Wrike
+updated_at: 2026-03-16 08:22

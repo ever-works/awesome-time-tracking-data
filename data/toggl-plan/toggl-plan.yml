@@ -1,70 +1,56 @@
 name: Toggl Plan
-description: Toggl Plan is a visual project management tool that integrates
-  seamlessly with Toggl Track, enabling intuitive planning, scheduling, and
-  direct time tracking from within the platform. It is ideal for teams looking
-  for an easy project planner with robust time-tracking integration.
+description: Visual project planning and team scheduling tool with drag-and-drop
+  timelines, capacity planning, and integration with Toggl Track for
+  comprehensive time management.
 source_url: https://toggl.com/plan/
-category: team-project-time-tracking
+category: Resource Scheduling
 tags:
-  - project-management
-  - integration
-  - web-based
-  - planning
+  - visual-planning
+  - team-scheduling
+  - capacity
+featured: false
 markdown: >-
-  # Toggl Plan
+  ## Overview
 
 
-  [Visit Website](https://toggl.com/plan/)
-
-
-  ## Description
-
-  Toggl Plan is a visual project management tool designed for small and
-  mid-sized teams, both remote and in-office. It provides intuitive planning,
-  scheduling, and workload management with seamless integration to Toggl Track
-  for time tracking and project insights.
+  Toggl Plan (formerly Teamweek) is a visual project planning and team
+  scheduling tool that helps teams plan projects, allocate resources, and manage
+  capacity with an intuitive drag-and-drop timeline interface.
 
 
   ## Features
 
-  - **Visual Planning**: Organize projects and team tasks with drag-and-drop
-  timelines.
 
-  - **Workload Management**: Visualize team capacity, balance workloads, and
-  prevent burnout by understanding work hours and availability at a glance.
+  - **Visual Timeline**: Color-coded drag-and-drop timeline for project planning
 
-  - **Conflict-Free Scheduling**: Alerts for scheduling conflicts, including
-  integration with Google Calendar to reflect true team availability.
+  - **Team Scheduling**: See who's working on what at a glance
 
-  - **Multiple Views**: Bird's-eye views for stakeholders and focused,
-  task-specific views for team members.
+  - **Capacity Planning**: Monitor team workload and availability
 
-  - **Kanban Boards**: Manage and track project progress in real time.
+  - **Project Templates**: Reusable project templates for recurring workflows
 
-  - **Time Tracking Integration**: Two-way integration with Toggl Track to start
-  timers from tasks and sync tracked time back to Toggl Plan.
+  - **Task Management**: Break down projects into tasks with assignments and
+  estimates
 
-  - **Reporting**: Compare estimated vs. actual hours, generate time reports for
-  project profitability, billing, and payroll.
+  - **Time Estimates**: Plan with time estimates and track against actuals
 
-  - **Shareable Timelines**: Share project timelines with clients for
-  transparency and automatic milestone updates.
+  - **Team Calendar**: Shared calendar showing all team members' schedules
 
-  - **Remote and In-Office Team Support**: Suitable for various team setups,
-  including agencies, consultancies, and implementation teams.
+  - **Milestones**: Set project milestones and track progress
 
+  - **Toggl Track Integration**: Seamlessly integrates with Toggl Track for time
+  tracking
 
-  ## Category
+  - **Collaboration**: Share plans with clients and stakeholders
 
-  team-project-time-tracking
-
-
-  ## Tags
-
-  project-management, integration, web-based, planning
+  - **Mobile Apps**: iOS and Android apps for on-the-go planning
 
 
   ## Pricing
 
-  *No pricing information provided in the available content.*
-updated_at: 2025-05-13 22:52
+
+  Free plan for up to 5 team members with basic features. Team plan at $8 per
+  user per month with unlimited projects and tasks. Business plan at $13.35 per
+  user per month adds billable rates and advanced features.
+brand: Toggl
+updated_at: 2026-03-16 08:22

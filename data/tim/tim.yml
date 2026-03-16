@@ -1,100 +1,53 @@
 name: Tim
-description: Native macOS time tracker with a fully native UI, light & dark mode
-  support, and familiar UX. Performance-minded with low memory footprint and
-  battery life respect, featuring integration with AppleScript, Shortcuts,
-  Spotlight, deep links, and x-callback-url.
-source_url: https://tim.neat.software
+description: Lightweight Mac menubar time tracker designed for simplicity with
+  keyboard shortcuts, native macOS interface, and low memory footprint for
+  effortless manual time tracking.
+source_url: https://tim.neat.software/
 category: Desktop Time Tracking Applications
 tags:
-  - macOS
-  - native
-  - automation
+  - mac
+  - menubar
+  - minimal
 featured: false
 markdown: >-
   ## Overview
 
 
-  Tim is a native macOS time tracker designed with performance and user
-  experience in mind. It features a fully native macOS UI with support for
-  system features and extensive automation capabilities.
+  Tim is a minimalist time tracking app for macOS that lives in your menu bar,
+  offering a clean and efficient way to track time on tasks and projects with
+  keyboard-first controls.
 
 
   ## Features
 
 
-  ### Native macOS Experience
+  - **Menu Bar Timer**: Displays current task and time directly in the macOS
+  menu bar
 
-  - Fully native macOS UI
+  - **Keyboard Shortcuts**: Control everything with customizable keyboard
+  shortcuts
 
-  - Light & dark mode support
+  - **Multiple Tasks**: Switch between tasks quickly without leaving your
+  keyboard
 
-  - Familiar macOS user experience
+  - **Native UI**: Fully native macOS design with light and dark mode support
 
-  - System integration
+  - **Low Overhead**: Minimal memory footprint and CPU usage
 
+  - **Simple Reports**: Basic reporting on time spent per task and project
 
-  ### Performance Optimized
+  - **CSV Export**: Export time entries for billing or analysis
 
-  - Low memory footprint
+  - **Offline First**: All data stored locally, no cloud sync required
 
-  - Respects battery life
+  - **Privacy**: No tracking, analytics, or data collection
 
-  - Efficient resource usage
-
-  - Fast and responsive
-
-
-  ### Automation & Integration
-
-  - AppleScript support for scripting
-
-  - Shortcuts integration
-
-  - Spotlight search integration
-
-  - Deep links support
-
-  - x-callback-url for custom automations
+  - **Task History**: Quick access to recently used tasks
 
 
-  ## Benefits
+  ## Pricing
 
 
-  - **True Mac App**: Built specifically for macOS with native technologies
-
-  - **Automation Ready**: Extensive automation support for power users
-
-  - **Battery Friendly**: Optimized to minimize battery drain
-
-  - **Fast & Light**: Minimal resource usage keeps your Mac running smoothly
-
-
-  ## Platform
-
-
-  - macOS only
-
-  - Native Swift/Cocoa application
-
-
-  ## Ideal For
-
-
-  Mac users who value native app experience, want automation capabilities, and
-  need a performance-optimized time tracker that doesn't drain system resources
-  or battery life.
-
-
-  ## Automation Examples
-
-
-  With AppleScript and Shortcuts support, you can:
-
-  - Start/stop timers from custom scripts
-
-  - Integrate with other automation workflows
-
-  - Create keyboard shortcuts for common tasks
-
-  - Build custom integrations with other apps
-updated_at: 2026-03-10 12:25
+  One-time purchase of $5 for lifetime access. Free trial available to test
+  features before purchase.
+updated_at: 2026-03-16 08:22

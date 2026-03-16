@@ -1,90 +1,54 @@
 name: Timemator
-description: Automatic time tracking app for Mac that lets you automatically
-  record your working time by tracking your project files, applications, or
-  websites. Designed specifically for the Apple ecosystem with native apps for
-  macOS, iOS, and watchOS.
+description: Automatic time tracking app for macOS that uses rules and triggers
+  to automatically track time based on applications, documents, and websites
+  being used, minimizing manual input.
 source_url: https://timemator.com/
 category: Automated Time Tracking
 tags:
-  - macOS
-  - iOS
+  - macos
   - automatic
+  - rules-based
 featured: false
 markdown: >-
   ## Overview
 
 
-  Timemator is an automatic time tracking app designed specifically for the
-  Apple ecosystem that lets you automatically record your working time by
-  tracking your project files, applications, or websites. Forget about the timer
-  forever with intelligent automation.
+  Timemator is an intelligent automatic time tracking application for macOS that
+  learns your work patterns and uses customizable rules to automatically
+  categorize and track time without constant manual intervention.
 
 
   ## Features
 
 
-  ### Automatic Tracking
+  - **Automatic Time Tracking**: Monitors applications, documents, and websites
+  automatically
 
-  - Automatically tracks project files, applications, and websites
+  - **Smart Rules**: Create rules to automatically assign time to projects based
+  on context
 
-  - Rules-based automation for hands-free time tracking
+  - **Document Detection**: Tracks which documents and files you're working on
 
-  - No manual timer starting/stopping required
+  - **Memory Feature**: Remembers previous time entries and suggests projects
 
-  - Intelligent activity detection
+  - **Manual Override**: Easily edit or adjust automatically tracked time
 
+  - **Calendar Integration**: Integrates with macOS Calendar to track meetings
 
-  ### Apple Ecosystem Integration
+  - **Invoicing**: Generate invoices from tracked time with customizable
+  templates
 
-  - Native apps for macOS, iOS, and watchOS
+  - **Reports**: Detailed reports with filtering by project, client, or date
+  range
 
-  - iCloud sync seamlessly syncs data across all devices
+  - **Export**: Export to CSV, Excel, PDF, and popular accounting software
 
-  - Leverages native Apple capabilities for optimal performance
-
-  - Apple Watch support for quick time tracking on the go
-
-
-  ### Timesheet Creation
-
-  - Easily create timesheets from tracked time
-
-  - Export capabilities for billing and reporting
-
-  - Project and task organization
-
-  - Detailed time reports
+  - **Privacy**: All data stored locally with optional encrypted cloud backup
 
 
-  ## Platform Support
+  ## Pricing
 
 
-  - macOS (native app)
-
-  - iOS (iPhone and iPad)
-
-  - watchOS (Apple Watch)
-
-  - iCloud sync across all devices
-
-
-  ## Benefits
-
-
-  - **Truly Automatic**: Set up rules once and let Timemator track automatically
-
-  - **Ecosystem Integration**: Designed specifically for Apple devices with deep
-  system integration
-
-  - **Privacy**: All data synced via iCloud, keeping your information private
-
-  - **No Manual Input**: Forget about starting and stopping timers
-
-
-  ## Ideal For
-
-
-  Mac and iOS users who want automatic time tracking that integrates seamlessly
-  with their Apple devices and leverages iCloud for secure, private data
-  synchronization.
-updated_at: 2026-03-10 12:25
+  Free 14-day trial. Standard license: $7.99 one-time. Professional license:
+  $49.99 one-time with team features and advanced automation.
+updated_at: 2026-03-16 08:22

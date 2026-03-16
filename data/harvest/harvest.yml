@@ -1,65 +1,59 @@
 name: Harvest
-description: A robust time tracking and invoicing software designed for
-  businesses, enabling users to track time, manage expenses, and streamline
-  workflow.
+description: Simple time tracking and invoicing software for teams and
+  freelancers with browser extensions, mobile apps, and integrations with
+  popular project management tools.
 source_url: https://www.getharvest.com/
-category: team-project-time-tracking
+category: Freelance & Consulting
 tags:
+  - time-tracking
   - invoicing
-  - expense-tracking
-  - team
-  - web-based
+  - integration
+featured: false
 markdown: >-
-  # Harvest
+  ## Overview
 
 
-  [Harvest](https://www.getharvest.com/) is a robust web-based time tracking and
-  invoicing software designed for businesses to track time, manage expenses, and
-  streamline workflow for teams of all sizes.
+  Harvest is a straightforward time tracking and invoicing platform designed for
+  freelancers, consultants, and agencies to track billable hours, monitor
+  project budgets, and get paid faster with integrated invoicing.
 
 
   ## Features
 
-  - **Time Tracking**: Simple, 1-click time tracking for projects and tasks.
-  Available on desktop (Mac/PC), mobile (iOS/Android), and web browser. Offers
-  reminders to track time.
 
-  - **Project Setup**: Add projects, tasks, and team members manually or import
-  from project management tools.
+  - **Time Tracking**: Track time with browser-based timers, desktop apps, or
+  mobile apps
 
-  - **Reporting & Analysis**: Generate instant reports on budgets, time spent,
-  team capacity, expenses, and more. Drill down into detailed data for insights.
+  - **Browser Extensions**: Chrome, Firefox, and Edge extensions to track time
+  from any web app
 
-  - **Invoicing & Payments**: Create and send invoices for tracked time and
-  expenses with just a few clicks. Clients can pay directly from the invoice.
-  Includes automated follow-up and reminders. Integrates with Xero and
-  QuickBooks.
+  - **Project Budgets**: Set budgets by hours or fees and get alerts when
+  approaching limits
 
-  - **Budget Monitoring**: Set hourly or fixed-fee budgets for projects. Monitor
-  and receive alerts as budgets are approached or reached.
+  - **Team Timesheets**: View and approve team timesheets with detailed
+  breakdowns
 
-  - **Cost Tracking**: Track billable and non-billable hours, materials,
-  supplies, travel costs, etc. Upload receipts and attach them to invoices.
+  - **Expense Tracking**: Log expenses and attach receipts for client
+  reimbursement
 
-  - **Expense Management**: Manage expenses for every client and project.
+  - **Invoicing**: Create professional invoices from tracked time and expenses
 
-  - **Integrations**: Over 50 integrations with popular tools to fit into your
-  existing workflow.
+  - **Online Payments**: Accept credit card and PayPal payments through invoices
 
-  - **Team Management**: Manage team utilization and monitor workload.
+  - **Reporting**: Visual reports on time, expenses, team capacity, and project
+  profitability
 
+  - **Integrations**: Native integrations with Asana, Trello, Basecamp, Jira,
+  Slack, and 100+ tools
 
-  ## Category
-
-  team-project-time-tracking
-
-
-  ## Tags
-
-  invoicing, expense-tracking, team, web-based
+  - **Forecasting**: Plan team capacity and forecast project timelines
 
 
   ## Pricing
 
-  *No pricing details were found in the provided content.*
-updated_at: 2025-05-13 22:52
+
+  Free plan for 1 user with 2 projects. Pro plan at $12 per user per month with
+  unlimited projects, invoicing, and integrations. All plans include unlimited
+  time tracking.
+brand: Harvest
+updated_at: 2026-03-16 08:22
