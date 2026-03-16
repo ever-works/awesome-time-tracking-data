@@ -33,7 +33,7 @@
 - id: pomodoro
   name: Pomodoro
 - id: api
-  name: API
+  name: Api
 - id: reporting
   name: Reporting
 - id: self-hosted
@@ -453,7 +453,7 @@
 - id: remote-work
   name: Remote Work
 - id: ai-powered
-  name: AI Powered
+  name: Ai Powered
 - id: wellness
   name: Wellness
 - id: productivity-analytics
@@ -1586,3 +1586,15 @@
   name: Personal
 - id: earnings
   name: Earnings
+- id: predictive-analytics
+  name: Predictive Analytics
+- id: multitasking
+  name: Multitasking
+- id: skill-tracking
+  name: Skill Tracking
+- id: notion
+  name: Notion
+- id: guidelines
+  name: Guidelines
+- id: implementation
+  name: Implementation
