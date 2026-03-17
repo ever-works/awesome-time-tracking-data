@@ -604,3 +604,39 @@
   name: Principles
 - id: flowtime
   name: Flowtime
+- id: client-intake
+  name: Client Intake
+- id: shift-swapping
+  name: Shift Swapping
+- id: mobile-scheduling
+  name: Mobile Scheduling
+- id: self-service
+  name: Self Service
+- id: timesheet
+  name: Timesheet
+- id: attention-management
+  name: Attention Management
+- id: distraction-control
+  name: Distraction Control
+- id: online-calculator
+  name: Online Calculator
+- id: erp
+  name: Erp
+- id: photography
+  name: Photography
+- id: creative-studios
+  name: Creative Studios
+- id: white-label
+  name: White Label
+- id: client-portal
+  name: Client Portal
+- id: interruptions
+  name: Interruptions
+- id: productivity-research
+  name: Productivity Research
+- id: seamless
+  name: Seamless
+- id: recruitment
+  name: Recruitment
+- id: expense-tracking
+  name: Expense Tracking
