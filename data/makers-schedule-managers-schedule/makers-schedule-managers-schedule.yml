@@ -1,454 +1,156 @@
 name: Maker's Schedule, Manager's Schedule
-description: Paul Graham's framework describing two fundamentally different ways
-  of using time—managers work in hour-long blocks while makers need half-day
-  chunks—and the conflicts that arise when they intersect.
-source_url: https://www.paulgraham.com/makersschedule.html
-category: Practices
+description: Concept by Paul Graham distinguishing between maker-oriented work
+  requiring long uninterrupted blocks versus manager-oriented work organized in
+  hour-long meeting slots, highlighting scheduling conflicts between modes.
+source_url: http://www.paulgraham.com/makersschedule.html
+category: Time Management Practice
 tags:
+  - deep-work
   - scheduling
-  - productivity
-  - work-styles
-featured: false
+  - knowledge-work
 markdown: >-
   ## Overview
 
 
-  Paul Graham identifies two types of schedule: the manager's schedule and the
-  maker's schedule. Understanding these different approaches to time is crucial
-  for productivity and avoiding conflicts.
+  Paul Graham's essay describes two fundamentally different ways of using time:
+  the Maker's Schedule and the Manager's Schedule, highlighting why meetings are
+  so disruptive to certain types of work.
 
 
-  ## Manager's Schedule
+  ## The Two Schedules
 
 
-  The manager's schedule is for bosses and is embodied in the traditional
-  appointment book, with each day cut into one hour intervals.
+  **Manager's Schedule**
 
+  - Day divided into one-hour intervals
 
-  ### Characteristics:
+  - Meetings scheduled throughout
 
+  - Context switches expected
 
-  - **Time Units**: One-hour blocks
+  - Reactive to demands
 
-  - **Flexibility**: Easy to slot in meetings
+  - Coordinating and communicating
 
-  - **Approach**: Time as fungible resource
+  - Natural for traditional management
 
-  - **Primary Activities**: Meetings, calls, reviews, decisions
 
-  - **Context Switching**: Frequent and expected
+  **Maker's Schedule**
 
+  - Requires half-day or full-day blocks
 
-  ### How It Works:
+  - Single meeting can blow entire afternoon
 
+  - Context switches costly
 
-  When you use time that way, it's merely a practical problem to meet with
-  someone - find an open slot in your schedule, book them, and you're done.
+  - Proactive, creative work
 
+  - Writing, programming, designing
 
-  ### Who Uses It:
+  - Natural for creators and builders
 
 
-  - Managers and executives
+  ## The Core Problem
 
-  - Sales professionals
 
-  - Customer-facing roles
+  A single meeting on the maker's schedule has a qualitatively different effect
+  than on the manager's schedule. For a maker, a meeting splits their day into
+  pieces too small for serious work.
 
-  - Coordinators
 
-  - People whose job is connecting others
+  ## Impact of Meetings on Makers
 
 
-  ## Maker's Schedule
+  **Morning Meeting at 10am:**
 
+  - Can't start major project at 9am
 
-  There's another way of using time that's common among people who make things,
-  like programmers and writers, who generally prefer to use time in units of
-  half a day at least.
+  - Morning becomes "pre-meeting limbo"
 
+  - Afternoon feels disrupted
 
-  ### Characteristics:
+  - Entire day feels broken
 
 
-  - **Time Units**: Half-day (4+ hours) minimum
+  **Afternoon Meeting at 2pm:**
 
-  - **Need**: Extended, uninterrupted blocks
+  - Morning rushes to finish before meeting
 
-  - **Approach**: Time as scarce, precious resource
+  - Post-meeting time feels insufficient
 
-  - **Primary Activities**: Writing, coding, designing, creating
+  - Hard to re-enter deep work
 
-  - **Context Switching**: Disruptive and costly
+  - Day split in half
 
 
-  ### Why Makers Need Long Blocks:
+  ## Solutions for Makers
 
 
-  **"You can't write or program well in units of an hour - that's barely enough
-  time to get started."**
+  **Protect Maker Time:**
 
+  - Block full days or half-days for deep work
 
-  ### Who Uses It:
+  - Batch meetings on specific days
 
+  - Schedule meetings at day boundaries (start/end)
 
-  - Programmers and developers
+  - Create "office hours" for collaboration
 
-  - Writers and authors
+  - Say no to unnecessary meetings
 
-  - Designers
 
-  - Researchers
+  **Communication:**
 
-  - Artists
+  - Explain your schedule needs
 
-  - Deep thinkers
+  - Educate managers about maker time
 
-  - Anyone doing complex creative work
+  - Negotiate meeting-free days
 
+  - Use async communication when possible
 
-  ## The Conflict
 
+  ## Solutions for Managers
 
-  When you're operating on the maker's schedule, meetings are a disaster - **a
-  single meeting can blow a whole afternoon**, by breaking it into two pieces
-  each too small to do anything hard in.
 
+  **Respect Maker Schedules:**
 
-  ### Why One Meeting Ruins a Day:
+  - Batch meetings when possible
 
+  - Schedule at edges of day
 
-  **Example:** Meeting at 2 PM
+  - Question meeting necessity
 
+  - Use async alternatives
 
-  - **Morning (9 AM - 12 PM)**: 3 hours
-    - Too short to start major work
-    - Anticipating the meeting creates mental drag
-    - Can't fully engage knowing interruption is coming
+  - Protect team's maker time
 
-  - **Meeting (2 PM - 3 PM)**: 1 hour lost
 
+  ## Hybrid Schedules
 
-  - **Afternoon (3 PM - 5 PM)**: 2 hours
-    - Too short to restart deep work
-    - Mental fatigue from context switch
-    - Day feels fragmented
 
-  ### The Power Dynamic:
+  Many people need both modes:
 
+  - Morning: Maker mode
 
-  Each type of schedule works fine by itself, but problems arise when they meet.
-  **Since most powerful people operate on the manager's schedule, they're in a
-  position to make everyone resonate at their frequency if they want to.**
+  - Afternoon: Manager mode
 
+  - Or specific days for each
 
-  ## Paul Graham's Solution: Office Hours
+  - Clear boundaries between modes
 
 
-  Graham manages to advise many startups on the maker's schedule by using office
-  hours.
+  ## Modern Context
 
 
-  ### How It Works:
+  In remote work era:
 
+  - Even more critical to protect maker time
 
-  - Set aside chunks of time at the end of working day
+  - Easy to fill calendar with video calls
 
-  - Meet founders during these specific windows
+  - Need explicit boundaries
 
-  - Use signup program to cluster all appointments
-
-  - Protects maker time earlier in day
-
-
-  ### Benefits:
-
-
-  - Preserves morning/afternoon blocks for deep work
-
-  - Batches all meetings together
-
-  - Creates predictable, protected time
-
-  - Maintains maker schedule while still being accessible
-
-
-  ## Strategies for Makers
-
-
-  ### 1. Batch All Meetings
-
-
-  Cluster meetings on specific days or times.
-
-
-  **Examples:**
-
-  - "Meeting Mondays" - all meetings one day
-
-  - "Office Hours" - 2-4 PM daily for meetings
-
-  - "Tuesday/Thursday only" - no meetings other days
-
-
-  ### 2. Protect Morning Blocks
-
-
-  For most people, mornings are peak creative time. Never schedule meetings
-  before noon if possible.
-
-
-  ### 3. Set Clear Boundaries
-
-
-  Communicate your maker schedule needs:
-
-  - "I'm available for meetings Tue/Thu 2-5 PM"
-
-  - "I don't take meetings before 1 PM"
-
-  - Block calendar to show unavailability
-
-
-  ### 4. Create "No Meeting" Days
-
-
-  Dedicate entire days to maker work with zero meetings.
-
-
-  ### 5. Use Async Communication
-
-
-  Prefer email, Slack, or other async methods over synchronous meetings when
-  possible.
-
-
-  ## Strategies for Managers
-
-
-  ### 1. Recognize Maker Needs
-
-
-  Understand that makers need different time blocks than you do.
-
-
-  ### 2. Batch Your Meetings with Makers
-
-
-  Schedule multiple maker meetings consecutively rather than spreading
-  throughout their day.
-
-
-  ### 3. Respect No-Meeting Blocks
-
-
-  Don't book over protected maker time unless truly urgent.
-
-
-  ### 4. Default to End of Day
-
-
-  When possible, schedule maker meetings late in their day.
-
-
-  ### 5. Question Meeting Necessity
-
-
-  Ask if a sync meeting is really needed or if async communication would
-  suffice.
-
-
-  ## For Mixed Roles
-
-
-  Many people need both types of schedules.
-
-
-  ### Strategies:
-
-
-  **Theme Days:**
-
-  - Maker days (Mon, Wed, Fri)
-
-  - Manager days (Tue, Thu)
-
-
-  **Split Days:**
-
-  - Morning: Maker mode (8 AM - 12 PM)
-
-  - Afternoon: Manager mode (1 PM - 5 PM)
-
-
-  **Seasonal Approach:**
-
-  - Maker months (deep project work)
-
-  - Manager months (meetings, reviews, planning)
-
-
-  ## Cultural Implications
-
-
-  ### For Companies:
-
-
-  **Maker-Friendly Policies:**
-
-  - No-meeting Wednesdays
-
-  - No meetings before 10 AM
-
-  - Default 25/50-minute meetings (not 30/60)
-
-  - Async-first communication
-
-  - Respect for blocked calendar time
-
-
-  **Signs of Manager-Schedule Culture:**
-
-  - Meetings any time, any day
-
-  - Expectation of instant availability
-
-  - Open office layouts
-
-  - Frequent interruptions normalized
-
-
-  ## Real-World Applications
-
-
-  ### Tech Companies:
-
-
-  Many successful tech companies implement:
-
-  - No-meeting days (GitHub, Asana, etc.)
-
-  - Maker time protection policies
-
-  - Async-first communication
-
-  - Flexible work hours
-
-
-  ### Individual Level:
-
-
-  Successful makers:
-
-  - Block calendar aggressively
-
-  - Batch meetings strategically
-
-  - Communicate boundaries clearly
-
-  - Protect mornings religiously
-
-
-  ## Common Challenges
-
-
-  ### Challenge 1: "But I Need to Be Available"
-
-
-  **Solution:** Set specific availability windows. Being available 2-4 PM is
-  different from being available always.
-
-
-  ### Challenge 2: "Meetings Get Scheduled Anyway"
-
-
-  **Solution:** Block calendar, decline proactively, suggest alternative times.
-
-
-  ### Challenge 3: "I Have Both Responsibilities"
-
-
-  **Solution:** Theme days or split days to accommodate both needs.
-
-
-  ## Measuring Impact
-
-
-  ### For Makers:
-
-
-  - Hours of uninterrupted work per week
-
-  - Quality of output during maker blocks
-
-  - Project completion rates
-
-  - Stress levels
-
-  - Job satisfaction
-
-
-  ### For Organizations:
-
-
-  - Developer/maker productivity
-
-  - Time to ship features
-
-  - Code quality metrics
-
-  - Employee retention
-
-  - Innovation output
-
-
-  ## Integration with Other Methods
-
-
-  Maker's Schedule concept aligns with:
-
-
-  - **Deep Work**: Requires maker-schedule blocks
-
-  - **Time Blocking**: Tool for protecting maker time
-
-  - **No-Meeting Days**: Implementation of maker schedule
-
-  - **Context Switching Costs**: Explains why meeting breaks hurt
-
-  - **Flow State**: Requires maker-schedule conditions
-
-
-  ## Who Benefits Most
-
-
-  Understanding this framework benefits:
-
-  - Programmers and developers
-
-  - Writers and content creators
-
-  - Designers
-
-  - Researchers
-
-  - Managers of creative teams
-
-  - Anyone doing complex cognitive work
-
-  - Organizations wanting to optimize productivity
-
-
-  ## Related Concepts
-
-
-  - **Deep Work**: Requires maker-schedule time
-
-  - **Flow State**: Enabled by maker blocks
-
-  - **Context Switching**: Why manager interruptions hurt makers
-
-  - **Time Blocking**: Method for protecting maker time
-
-  - **Async Communication**: Alternative to manager-schedule meetings
-updated_at: 2026-03-10 12:21
+  - Async-first communication helps
+brand: Paul Graham
+updated_at: 2026-03-17 08:54

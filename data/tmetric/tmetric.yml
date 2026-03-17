@@ -1,96 +1,108 @@
 name: TMetric
-description: TMetric is a time tracking tool that provides features like task
-  and project tracking, reporting, billing, invoicing, team management, and
-  integrations with popular project management and accounting platforms.
-source_url: https://tmetric.com/
-category: team-project-time-tracking
+description: Automated time tracker that runs in the background, auto-logging
+  app switches and idle gaps to build a complete timeline and boost productivity
+  for small and mid-size teams.
+source_url: https://tmetric.com
+category: Automatic Time Tracking
 tags:
-  - cloud-based
-  - reporting
-  - invoicing
-  - integration
+  - automatic
+  - productivity-monitoring
+  - teams
 markdown: >-
-  # TMetric
+  ## Overview
 
 
-  [TMetric](https://tmetric.com/) is a cloud-based time tracking tool designed
-  to help individuals and teams manage work hours, tasks, and projects, as well
-  as streamline billing, invoicing, and payroll processes. It integrates with
-  over 50 popular services and is suitable for various industries and team
-  sizes.
+  TMetric is an automatic time tracking software that quietly runs in the
+  background, capturing every app switch and idle period to create a flawless
+  timeline of your work activities.
 
 
-  ## Features
-
-  - **Time Tracking:** Track work hours online with desktop, mobile, and browser
-  extension apps.
-
-  - **Task Management:** Create, assign, and monitor tasks; manage task progress
-  and deadlines.
-
-  - **Project Tracking:** Organize work by projects, track project hours, and
-  measure progress.
-
-  - **Team Management:** Organize staff into teams, manage members, and
-  visualize team performance with dashboards.
-
-  - **Timesheets:** Automate and manage team timesheets for accurate
-  record-keeping.
-
-  - **Attendance Tracking:** Monitor employee attendance.
-
-  - **PTO (Paid Time Off) Tracking:** Manage and track vacation requests and
-  time off.
-
-  - **Overtime Tracking:** Automate calculation and management of overtime.
-
-  - **Employee Monitoring:** Monitor activity levels, app and website usage.
-
-  - **Reporting:** Generate detailed, customizable reports on time usage,
-  productivity, and project status.
-
-  - **Billing & Invoicing:** Generate invoices from logged hours; automate
-  billing for clients and employees.
-
-  - **Payroll:** Automate payroll processing, integrate with payroll systems,
-  ensure timely and accurate payments.
-
-  - **Scheduling:** Plan and optimize employee shifts and schedules.
-
-  - **Integrations:** Connect with over 50 popular project management,
-  productivity, and accounting tools.
-
-  - **Multi-language Support:** Available in English, German, Spanish, and
-  Portuguese.
-
-  - **Industry Use Cases:** Suitable for software developers, marketing
-  agencies, designers, consultants, lawyers, accountants, contractors,
-  non-profits, freelancers, and small teams.
+  ## Automatic Tracking
 
 
-  ## Platforms
+  - Passive background tracking
 
-  - **Web app**
+  - App and website monitoring
 
-  - **Desktop app** (Windows, Mac)
+  - Idle time detection
 
-  - **Mobile app** (iOS, Android)
+  - Automatic timeline construction
 
-  - **Browser extensions**
+  - Smart categorization
 
-
-  ## Tags
-
-  cloud-based, reporting, invoicing, integration
+  - Manual override available
 
 
-  ## Category
+  ## Key Features
 
-  team-project-time-tracking
+
+  **Time Management:**
+
+  - Start/stop timers
+
+  - Manual time entry
+
+  - Time estimates
+
+  - Billable vs. non-billable
+
+  - Project and task tracking
+
+  - Calendar integration
+
+
+  **Team Features:**
+
+  - Team dashboards
+
+  - Activity monitoring
+
+  - Productivity reports
+
+  - Time approval workflows
+
+  - Rate management
+
+  - Capacity planning
+
+
+  **Integrations:**
+
+  - Jira, Trello, Asana
+
+  - GitHub, GitLab, Bitbucket
+
+  - Basecamp, Wrike
+
+  - Slack, Microsoft Teams
+
+  - 50+ integrations
+
+
+  ## Reporting
+
+
+  - Time reports
+
+  - Productivity analytics
+
+  - Billable hours reports
+
+  - Client reports
+
+  - Project profitability
+
+  - Custom reports
 
 
   ## Pricing
 
-  *No specific pricing information was included in the provided content. For
-  details, visit the [TMetric pricing page](https://tmetric.com/).*
-updated_at: 2025-05-13 22:52
+
+  Free plan: Basic features, unlimited users
+
+  Professional: $5/user/month
+
+  Business: $7/user/month
+
+  15-day free trial on paid plans
+updated_at: 2026-03-17 08:54

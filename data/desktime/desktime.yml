@@ -1,118 +1,117 @@
 name: DeskTime
-description: Employee productivity monitoring and time tracking software that
-  automatically calculates productive vs. unproductive time with optional
-  screenshot capabilities.
-source_url: https://desktime.com/
-category: Employee Monitoring
+description: Automatic time tracking software that discovered the 52/17
+  productivity rule through analysis of employee work patterns, offering
+  productivity monitoring and detailed analytics.
+source_url: https://desktime.com
+category: Automatic Time Tracking
 tags:
-  - productivity-monitoring
-  - screenshots
   - automatic
+  - productivity-monitoring
+  - analytics
 markdown: >-
   ## Overview
 
 
-  DeskTime is an automatic time tracking and employee productivity monitoring
-  platform that provides detailed insights into how work time is spent. It
-  automatically tracks arrival/departure times, calculates daily productivity,
-  and offers optional screenshot monitoring for accountability.
+  DeskTime is an automatic time tracking and productivity monitoring software,
+  famous for discovering the 52/17 rule by analyzing the work patterns of its
+  most productive users.
 
 
-  ## Key Features
+  ## Automatic Time Tracking
 
 
-  - **Automatic time tracking** - Tracks timestamps for employee arrival and
-  departure automatically
+  - Fully automatic desktop tracking
 
-  - **Productivity calculation** - Automatically calculates total time spent on
-  work-related tasks and divides workday into productive and unproductive time
+  - Application and website monitoring
 
-  - **Application and URL tracking** - Monitors which applications and websites
-  employees use during work hours
+  - Idle time detection
 
-  - **Productivity categorization** - Employees indicate which apps and URLs are
-  productive or unproductive for their role
+  - Offline time tracking
 
-  - **Screenshots** - Optional screenshot capture every 5, 10, 15, or 30 minutes
+  - Manual time entry option
 
-  - **Project time tracking** - Monitor individual projects and tasks with
-  activity rate tracking
-
-  - **Customizable reports** - Share, print, or export reports to .xlsx files
-
-  - **Team comparison** - Compare effectiveness between team members or
-  departments over time
+  - Calendar integration
 
 
-  ## Productivity Insights
+  ## Productivity Features
 
 
-  DeskTime creates detailed reports showing:
+  **Productivity Analysis:**
 
-  - Productive vs. unproductive time breakdown
+  - Categorizes apps/sites as productive, unproductive, or neutral
 
-  - Application and website usage patterns
+  - Real-time productivity percentage
 
-  - Project status and time estimates
+  - Daily productivity reports
 
-  - Team and individual productivity trends
+  - Individual and team analytics
 
-  - Data for accurate client billing
-
-
-  ## Privacy & Ethics
+  - Custom productivity rules
 
 
-  DeskTime emphasizes that productivity monitoring should not be about
-  surveillance. The platform is positioned as a productivity tool rather than a
-  spy or surveillance system, focusing on helping teams improve efficiency.
+  **The 52/17 Discovery:**
+
+  DeskTime's analysis revealed that the most productive employees worked in
+  52-minute focused bursts followed by 17-minute breaks, leading to the
+  popularization of this method.
 
 
-  ## Use Cases
+  ## Team Management
 
 
-  - Remote teams needing productivity accountability
+  - Employee time tracking
 
-  - Managers monitoring distributed workforce performance
+  - Project time allocation
 
-  - Organizations tracking project time and costs
+  - Task management
 
-  - Companies wanting to identify productivity bottlenecks
+  - Attendance tracking
 
-  - Agencies billing clients based on tracked time
+  - Shift scheduling
+
+  - Screenshots (optional)
+
+  - URL and app tracking
 
 
   ## Reporting
 
 
-  - Export data for payroll and billing
+  - Productivity reports
 
-  - Compare productivity across time periods
+  - Time utilization
 
-  - Analyze team vs. individual performance
+  - Project reports
 
-  - Track project profitability and time estimates
+  - Absence calendar
 
-  - Generate client-ready time reports
+  - Custom reports
+
+  - Export capabilities
+
+
+  ## Integrations
+
+
+  - Google Calendar
+
+  - Outlook Calendar
+
+  - Jira, Trello, Asana
+
+  - Basecamp
+
+  - API access
 
 
   ## Pricing
 
 
-  DeskTime offers tiered pricing based on team size and required features, with
-  different levels providing varying screenshot frequencies and reporting
-  capabilities.
+  Pro: $7/user/month
 
+  Premium: $10/user/month
 
-  ## Platform Availability
+  Enterprise: $20/user/month
 
-
-  Available as desktop applications for Windows and macOS, as well as mobile
-  apps for on-the-go time tracking.
-
-
-  DeskTime is designed for organizations that want automatic time tracking
-  combined with productivity monitoring to improve team performance while
-  maintaining employee awareness and transparency about tracking policies.
-brand: DeskTime
-updated_at: 2026-03-16 23:57
+  14-day free trial
+updated_at: 2026-03-17 08:54

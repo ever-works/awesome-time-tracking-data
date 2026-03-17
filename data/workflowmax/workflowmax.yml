@@ -1,111 +1,89 @@
 name: WorkflowMax
-description: All-in-one job and profitability management software with
-  integrated time tracking, calendar sync, and automated timesheet approvals for
-  service firms.
-source_url: https://workflowmax.com/
-category: Professional Services
+description: Job management software with integrated time tracking for
+  accounting and professional services firms, now part of Xero's ecosystem for
+  seamless financial management.
+source_url: https://www.workflowmax.com
+category: Accounting Software
 tags:
-  - Project Management
-  - Xero Integration
-  - Profitability
+  - accounting
+  - professional-services
+  - job-management
 markdown: >-
   ## Overview
 
 
-  WorkflowMAX is a job and profitability management software solution designed
-  to assist service firms in optimizing their operations. The platform provides
-  comprehensive control over time management, team collaboration, and profit
-  tracking in a single interface.
+  WorkflowMax is a cloud-based job management solution with comprehensive time
+  tracking, designed for professional services firms and businesses using Xero
+  accounting software.
 
 
-  ## Key Features (2026 Updates)
+  ## Time Tracking
 
 
-  **Integrated Calendar:**
+  - Timer and manual time entry
 
-  - Syncs directly with Microsoft Outlook and Google Calendar
+  - Mobile time tracking
 
-  - Meetings, appointments, and events appear automatically
+  - Job-level time allocation
 
-  - Convert to timesheet entries with a few clicks
+  - Billable vs. non-billable tracking
 
-  - Eliminates double-entry between calendar and timesheets
+  - Time approvals
 
-
-  **Timesheet Approvals & Reminders:**
-
-  - Automated reminder workflows
-
-  - Approval chains for timesheet review
-
-  - System chases employees until submission
-
-  - Escalating reminders
-
-  - Reduces administrative burden
+  - Timesheets
 
 
-  **Eight Ways to Track Time:**
-
-  - Mobile app tracking
-
-  - Desktop timer
-
-  - Web-based entry
-
-  - Calendar integration
-
-  - Multiple entry methods for flexibility
-
-  - Capture every billable second
+  ## Job Management
 
 
-  **Timesheet Management:**
+  - Job creation and tracking
 
-  - Simplifies logging hours worked
+  - Task management
 
-  - Accurate time reporting for all team members
+  - Document management
 
-  - Integrated with job costing
+  - Job templates
 
-  - Real-time profitability insights
+  - Client portals
 
-
-  ## Industry Recognition
-
-
-  - **2026 Xero App Store Power List Favourite**
-
-  - Named in Top Time Tracking Apps list
-
-  - Most popular apps based on new customer connections in 2025
+  - Purchase orders
 
 
-  ## Target Industries
+  ## Financial Features
 
 
-  Particularly suited for:
+  - Quoting and estimates
 
-  - Architects
+  - Invoicing from time
 
-  - Engineers
+  - Expense tracking
 
-  - Professional services firms
+  - Job costing
 
-  - Service-based businesses
+  - Profitability tracking
 
-  - Consulting firms
+  - Budget management
+
+  - Xero integration
 
 
-  ## Integration
+  ## Reporting
 
 
-  Deep integration with Xero accounting software for seamless financial
-  management.
+  - Time reports
+
+  - Job profitability
+
+  - Staff utilization
+
+  - WIP reports
+
+  - Custom reports
 
 
   ## Pricing
 
 
-  Contact vendor for pricing tailored to business size and needs.
-updated_at: 2026-03-14 22:18
+  Contact for pricing. Integrated with Xero subscriptions.
+brand: Xero
+updated_at: 2026-03-17 08:54

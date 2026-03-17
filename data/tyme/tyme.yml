@@ -1,53 +1,48 @@
 name: Tyme
-description: Beautiful time tracking app for Mac and iOS with visual timeline
-  interface, project categorization, and automatic syncing designed for
-  freelancers and small teams.
-source_url: https://tyme-app.com/
-category: Cross-Platform Time Tracking
+description: Time tracking application available across all Apple platforms with
+  over 20 Shortcuts app actions for macOS and iOS, offering seamless integration
+  throughout the Apple ecosystem.
+source_url: https://www.tyme-app.com
+category: Time Tracking Software
 tags:
-  - macos
   - ios
-  - visual
-featured: false
+  - mac
+  - integrations
 markdown: >-
   ## Overview
 
 
-  Tyme is an elegantly designed time tracking application for Mac and iOS that
-  emphasizes visual organization and ease of use, making it simple to track
-  billable hours and manage projects across devices.
+  Tyme is a comprehensive time tracking and billing app available on all Apple
+  platforms (Mac, iPhone, iPad, Apple Watch) with deep system integration.
 
 
   ## Features
 
 
-  - **Visual Timeline**: Unique timeline view showing your day's activities at a
-  glance
+  - Available on all Apple platforms with sync
 
-  - **Project Hierarchy**: Organize work with projects, tasks, and subtasks
+  - Over 20 actions for Shortcuts app
 
-  - **Live Tracking**: Start and stop timers with one click from menu bar or
-  widget
+  - Project and task time tracking
 
-  - **Categories**: Color-coded categories for better visual organization
+  - Automatic time tracking options
 
-  - **Automatic Sync**: Seamless sync between Mac and iOS devices via iCloud
+  - Invoicing and billing
 
-  - **Invoicing**: Generate invoices directly from tracked time
+  - Detailed reports and exports
 
-  - **Budget Tracking**: Set project budgets and track time against them
+  - Budget tracking
 
-  - **Reports**: Detailed reports with export to PDF, CSV, and Excel
+  - Calendar integration
 
-  - **Keyboard Shortcuts**: Fast navigation and control with keyboard
+  - Team collaboration features
 
-  - **Widgets**: iOS home screen widgets for quick time tracking
+  - Apple Watch support
 
 
   ## Pricing
 
 
-  One-time purchase: $29.99 for Mac, $14.99 for iOS, or $39.99 for bundle. Tyme
-  3 offers subscription option at $2.99/month or $19.99/year with cloud sync and
-  team features.
-updated_at: 2026-03-16 08:22
+  One-time purchase or subscription options available. Free version with limited
+  features.
+updated_at: 2026-03-17 08:54

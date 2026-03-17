@@ -1,109 +1,89 @@
 name: Deputy
-description: Workforce management platform combining time tracking, scheduling,
-  task management, and communication. Features AI-powered scheduling, compliance
-  management, and integration with major payroll and POS systems.
-source_url: https://www.deputy.com/
-category: Employee Scheduling
+description: Workforce management platform combining employee scheduling with
+  time tracking and attendance, particularly strong for retail, hospitality, and
+  shift-based businesses.
+source_url: https://www.deputy.com
+category: Workforce Management
 tags:
   - scheduling
-  - workforce-management
-  - ai-powered
-featured: false
+  - attendance-tracking
+  - shift-management
 markdown: >-
   ## Overview
 
 
-  Deputy is a comprehensive workforce management platform that combines employee
-  scheduling, time tracking, tasking, and communication in one solution,
-  recognized as one of the top six employee attendance tracking software in
-  2026.
+  Deputy is a comprehensive workforce management solution that combines employee
+  scheduling, time tracking, attendance management, and compliance tools,
+  designed for businesses with shift-based workers.
 
 
-  ## Features
+  ## Key Features
 
 
-  ### Smart Scheduling
+  **Time & Attendance:**
 
-  - **AI-Powered Scheduling**: Auto-scheduling based on labor demand,
-  availability, and compliance requirements
+  - Mobile and kiosk time clocks
 
-  - **Drag-and-Drop Interface**: Easily create and modify schedules
+  - GPS location verification
 
-  - **Template Scheduling**: Save and reuse common shift patterns
+  - Break compliance tracking
 
-  - **Skills-Based Rostering**: Match employees to shifts based on
-  qualifications
+  - Overtime calculations
 
-  - **Labor Cost Forecasting**: Real-time visibility into labor costs as you
-  schedule
+  - Leave management
 
 
-  ### Time & Attendance
+  **Scheduling:**
 
-  - **Multiple Clock-In Options**: Kiosk, mobile app, web portal, or biometric
-  devices
+  - Drag-and-drop shift scheduling
 
-  - **GPS Verification**: Location tracking for field workers
+  - Shift swapping and coverage
 
-  - **Facial Recognition**: Photo verification to prevent buddy punching
+  - Auto-scheduling based on demand
 
-  - **Break Compliance**: Automatic break reminders and enforcement
+  - Mobile schedule access
 
-  - **Overtime Alerts**: Real-time notifications when employees approach
-  overtime
+  - Shift reminders
 
 
-  ### Compliance & Labor Laws
+  **Compliance:**
 
-  - **Auto-Compliance**: Built-in rules for local labor laws and regulations
+  - Labor law compliance
 
-  - **Award Interpretation**: Automatically applies relevant workplace awards
-  and agreements
+  - Break and meal period enforcement
 
-  - **Audit Trail**: Complete record of all schedule changes and approvals
+  - Overtime alerts
 
-
-  ### Task Management
-
-  - **Task Assignment**: Assign and track daily tasks for employees
-
-  - **Checklists**: Create recurring task lists for opening/closing procedures
-
-  - **Task Completion Tracking**: Monitor completion rates and accountability
+  - Award interpretation (Australia)
 
 
-  ### Integration & Reporting
+  **Integrations:**
 
-  - **Payroll Integration**: Seamlessly export to major payroll providers
+  - Payroll systems (ADP, Gusto, QuickBooks)
 
-  - **POS Integration**: Connect with point-of-sale systems for demand-based
-  scheduling
+  - POS systems
 
-  - **Custom Reports**: Detailed analytics on labor costs, attendance, and
-  productivity
+  - HR platforms
 
-  - **API Access**: Build custom integrations
+  - Accounting software
 
 
-  ## Industries Served
+  ## Target Industries
 
 
-  - Hospitality and restaurants
-
-  - Retail
+  - Retail and hospitality
 
   - Healthcare
 
-  - Education
-
-  - Field services
-
   - Manufacturing
+
+  - Logistics
+
+  - Any shift-based workforce
 
 
   ## Pricing
 
 
-  Tiered pricing based on features and number of employees. Free trial
-  available.
-updated_at: 2026-03-16 04:51
+  Starts at approximately $2.50 per user per month. Free trial available.
+updated_at: 2026-03-17 08:54

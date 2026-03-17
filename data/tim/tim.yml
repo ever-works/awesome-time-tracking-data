@@ -1,47 +1,45 @@
 name: Tim
-description: A simple and elegant time tracker for macOS that shows time in the
-  menu bar and can be controlled entirely with keyboard shortcuts, designed for
-  minimal distraction and maximum efficiency.
-source_url: https://tim.neat.software/
-category: Desktop Time Tracking Applications
+description: Native macOS time tracking application featuring beautiful charts
+  with visual breakdown of hours, averages, and revenue, designed specifically
+  for Mac users with full light and dark mode support.
+source_url: https://tim.neat.software
+category: Time Tracking Software
 tags:
-  - macos
-  - menu-bar
-  - keyboard-shortcuts
-featured: false
+  - mac
+  - native
+  - visualization
 markdown: >-
   ## Overview
 
 
-  Tim is a simple time tracker that shows time right in the menu bar and can be
-  controlled with keyboard shortcuts.
+  Tim is a time tracker for macOS that features beautiful charts and a fully
+  native Mac interface with complete light and dark mode support.
 
 
-  ## Key Features
+  ## Features
 
 
-  - **Menu Bar Integration**: Display current task and running timer directly in
-  the macOS menu bar
+  - Beautiful visual charts showing hours, averages, and revenue
 
-  - **Keyboard Control**: Operate entirely via keyboard shortcuts without
-  touching the mouse
+  - Fully native macOS UI
 
-  - **Task Visibility**: Hover over the timer in the bar to see a tooltip with
-  the current task
+  - Light and dark mode support
 
-  - **Minimal Design**: Clean, uncluttered interface that stays out of your way
+  - Simple, intuitive time tracking
 
+  - Project and task organization
 
-  ## Platform
+  - Detailed reporting
 
+  - Export capabilities
 
-  Exclusively available for macOS.
-
-
-  ## Use Case
+  - Menu bar integration
 
 
-  Ideal for Mac users who prefer a lightweight, keyboard-driven time tracking
-  solution without complex features or heavy system resources.
+  ## Pricing
+
+
+  One-time purchase model typical of Mac native applications. Check the website
+  for current pricing.
 brand: Neat Software
-updated_at: 2026-03-16 16:32
+updated_at: 2026-03-17 08:54

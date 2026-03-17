@@ -1,139 +1,61 @@
 name: Focus Keeper
-description: Ultimate Pomodoro timer app designed to boost productivity and
-  fight procrastination. ADHD-friendly with customizable timer settings, time
-  tracking charts, and a clean intuitive interface.
+description: Pomodoro timer application that helps maintain productivity and
+  track habits with timer history, enabling users to continuously improve their
+  workflow and focus sessions.
 source_url: https://focuskeeper.co
-category: Countdown & Interval Timers
+category: Productivity Tool
 tags:
   - pomodoro
+  - habit-tracking
   - focus
-  - productivity
-  - adhd
-featured: false
 markdown: >-
   ## Overview
 
 
-  Focus Keeper is the ultimate focus timer and Pomodoro timer designed to help
-  you boost productivity and fight against procrastination. The app uses the
-  classic Pomodoro method to help users manage time by breaking work into
-  25-minute intervals, aiding focus and reducing procrastination.
-
-
-  ## How It Works
-
-
-  The app follows the classic Pomodoro method:
-
-  1. Choose a task and set the clock for 25 minutes
-
-  2. Work until the timer rings
-
-  3. Take a 5-minute break after each session to refresh your mind
-
-  4. After completing 4 focus sessions, take a longer break of 20-30 minutes to
-  recharge
+  Focus Keeper is a Pomodoro timer app that combines time tracking with habit
+  tracking to help users maintain productivity and understand their focus
+  patterns.
 
 
   ## Features
 
 
-  ### Customizable Timer Settings
+  - Classic Pomodoro timer (25-5-15 minute intervals)
 
-  - Adjust length of work sessions
+  - Customizable work and break durations
 
-  - Customize short break duration
+  - Timer history tracking
 
-  - Configure long break timing
+  - Productivity statistics
 
-  - Tailor workflow to personal preferences
+  - Task integration
 
+  - Daily and weekly reports
 
-  ### ADHD Friendly
+  - Habit tracking
 
-  - Tailored for those with ADHD
+  - Goal setting
 
-  - Structured technique improves concentration
-
-  - Helps with task completion
-
-  - Reduces overwhelm through time segmentation
-
-
-  ### Time Tracker
-
-  - Track productivity over time
-
-  - Insightful charts and analytics
-
-  - Fight against ADHD and procrastination
-
-  - Monitor session completion
-
-  - Progress visualization
-
-
-  ### Simple Interface
-
-  - Clean and intuitive design
-
-  - Easy setup for focus timer
-
-  - Colorful timer wheel visualization
-
-  - Makes time feel less like a ticking clock
-
-  - Visually engaging
-
-  - Straightforward to use
-
-
-  ## Platform Availability
-
-
-  - iOS (Apple App Store)
-
-  - Android (Google Play)
-
-  - Web-based version at focuskeeper.co
-
-  - Desktop app for Mac and Windows
-
-
-  ## Who It's For
-
-
-  - Individuals with ADHD
-
-  - Students
-
-  - Professionals fighting procrastination
-
-  - Anyone needing structured focus time
-
-  - People who benefit from visual timers
-
-  - Users wanting simple productivity tools
+  - Minimal, distraction-free interface
 
 
   ## Benefits
 
 
-  - Boosts productivity through structured intervals
+  - Builds sustained focus
 
-  - Combats procrastination effectively
+  - Tracks productivity patterns
 
-  - Improves focus and concentration
+  - Maintains work-life balance through breaks
 
-  - Helps establish productive work habits
+  - Visual progress tracking
 
-  - Reduces task overwhelm
-
-  - Provides accountability through tracking
+  - Helps build consistent work habits
 
 
   ## Pricing
 
 
-  Available across multiple platforms with various pricing options.
-updated_at: 2026-03-07 18:00
+  Free version available with basic features. Premium version unlocks advanced
+  tracking and customization.
+updated_at: 2026-03-17 08:54
