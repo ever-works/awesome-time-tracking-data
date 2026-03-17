@@ -103,4 +103,4 @@ custom_footer:
     path: /pages/privacy-policy
   - label: footer.COOKIES
     path: /pages/cookies
-version: 0.1.49
+version: 0.1.50
