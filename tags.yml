@@ -238,3 +238,11 @@
   name: Habit Tracking
 - id: pomodoro
   name: Pomodoro
+- id: legal
+  name: Legal
+- id: case-management
+  name: Case Management
+- id: healthcare
+  name: Healthcare
+- id: minimalist
+  name: Minimalist
