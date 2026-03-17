@@ -1,78 +1,75 @@
 name: TrackingTime Button
-description: TrackingTime Button is a browser extension for Chrome, Firefox,
-  Safari, and Microsoft Edge that embeds TrackingTime’s time tracking controls
-  directly into productivity tools such as GitHub. It lets users start and stop
-  timers from within issues and tasks, then syncs the recorded time to
-  TrackingTime for automatic timesheets and analytics.
-source_url: https://www.workyard.com/compare/automated-time-tracker
+description: Browser extension that adds one-click time tracking buttons to
+  project management tools, allowing users to start timers directly from Asana,
+  Trello, Jira, and 60+ other platforms without switching contexts.
+source_url: https://trackingtime.co/
+category: Time Tracking Software
+tags:
+  - browser-extension
+  - integrations
+  - convenience
+  - productivity
 featured: false
-brand: trackingtime
-brand_logo_url: /wp-content/uploads/2019/08/logo-trackingtime.svg
-images: null
-category: time-tracking-cli-tools
-tags: []
 markdown: >-
-  ## TrackingTime Button
+  ## Overview
 
 
-  **Description**  
-
-  TrackingTime Button is a browser extension that embeds TrackingTime’s time
-  tracking controls directly into supported productivity tools (such as GitHub).
-  It lets users start and stop timers from within issues and tasks, then syncs
-  recorded time to TrackingTime for automatic timesheets and analytics.
+  The TrackingTime Button is a browser extension that embeds time tracking
+  capabilities directly into the web applications you already use, eliminating
+  the need to switch between tools to start and stop timers.
 
 
-  **Website**  
-
-  <https://www.workyard.com/compare/automated-time-tracker>
+  ## Key Features
 
 
-  **Brand**  
+  - **60+ Integrations**: Works with Asana, Trello, Jira, GitHub, ClickUp,
+  Monday.com, and dozens more
 
-  TrackingTime
+  - **One-Click Tracking**: Start timer without leaving current task or project
 
+  - **Automatic Context**: Captures task details automatically from source
+  application
 
-  ---
+  - **Universal Access**: Available for Chrome, Firefox, and Edge browsers
 
-
-  ### Features
-
-  - **Browser extension** available for:
-    - Google Chrome
-    - Mozilla Firefox
-    - Safari
-    - Microsoft Edge
-  - **In‑app time tracking controls** embedded directly inside supported
-  productivity tools (e.g., GitHub).
-
-  - **Task and issue–level tracking**: start and stop timers from within
-  individual issues or tasks.
-
-  - **Automatic syncing** of all recorded time entries to the TrackingTime
-  platform.
-
-  - **Automatic timesheets** generated from tracked time.
-
-  - **Time analytics** based on synced time entries in TrackingTime.
+  - **Seamless Sync**: Time entries sync automatically with TrackingTime
+  dashboard
 
 
-  ---
+  ## How It Works
 
 
-  ### Platforms
+  1. Install browser extension
 
-  - Web browser extensions:
-    - Chrome
-    - Firefox
-    - Safari
-    - Microsoft Edge
+  2. Browse to supported project management tool
 
-  ---
+  3. Click TrackingTime button next to any task
+
+  4. Timer starts with task details pre-filled
+
+  5. Continue working in your preferred tool
+
+  6. Stop timer when task complete
 
 
-  ### Pricing
+  ## Benefits
 
-  Pricing details for TrackingTime Button are not specified in the provided
-  content. Refer to the vendor’s website for current plans and costs.
-updated_at: 2025-12-24 12:06
+
+  - Eliminates context switching between time tracker and work tools
+
+  - Improves time tracking adoption rates
+
+  - Reduces friction in logging hours
+
+  - Ensures accurate task association
+
+  - Works across multiple project management platforms
+
+
+  ## Pricing
+
+
+  Free with TrackingTime account. TrackingTime offers free plan for unlimited
+  users with basic features, and paid plans starting at $5/user/month.
+brand: TrackingTime
+updated_at: 2026-03-17 19:47
