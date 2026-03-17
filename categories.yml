@@ -26,3 +26,5 @@
   name: Mobile Workforce Management
 - id: workforce-management
   name: Workforce Management
+- id: work-os
+  name: Work Os

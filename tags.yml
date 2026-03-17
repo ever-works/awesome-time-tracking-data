@@ -392,3 +392,25 @@
   name: Writers
 - id: word-count
   name: Word Count
+- id: templates
+  name: Templates
+- id: databases
+  name: Databases
+- id: atlassian
+  name: Atlassian
+- id: context-switching
+  name: Context Switching
+- id: science
+  name: Science
+- id: github
+  name: Github
+- id: microsoft-365
+  name: Microsoft 365
+- id: documentation
+  name: Documentation
+- id: outlook
+  name: Outlook
+- id: slack
+  name: Slack
+- id: trello
+  name: Trello
