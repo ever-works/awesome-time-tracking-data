@@ -324,3 +324,49 @@
   name: Realism
 - id: workload-management
   name: Workload Management
+- id: daily-planning
+  name: Daily Planning
+- id: philosophy
+  name: Philosophy
+- id: health
+  name: Health
+- id: project-portfolio
+  name: Project Portfolio
+- id: resource-management
+  name: Resource Management
+- id: simple
+  name: Simple
+- id: deskless-workers
+  name: Deskless Workers
+- id: shift-management
+  name: Shift Management
+- id: morning-routine
+  name: Morning Routine
+- id: minimalism
+  name: Minimalism
+- id: aesthetic
+  name: Aesthetic
+- id: gamification
+  name: Gamification
+- id: behavior-change
+  name: Behavior Change
+- id: routines
+  name: Routines
+- id: knowledge-work
+  name: Knowledge Work
+- id: notion
+  name: Notion
+- id: extensions
+  name: Extensions
+- id: fitness
+  name: Fitness
+- id: performance-tracking
+  name: Performance Tracking
+- id: goal-setting
+  name: Goal Setting
+- id: native
+  name: Native
+- id: resource-planning
+  name: Resource Planning
+- id: job-management
+  name: Job Management
