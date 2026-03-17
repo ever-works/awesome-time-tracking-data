@@ -370,3 +370,19 @@
   name: Resource Planning
 - id: job-management
   name: Job Management
+- id: wellbeing
+  name: Wellbeing
+- id: time-estimation
+  name: Time Estimation
+- id: cognitive-bias
+  name: Cognitive Bias
+- id: accessibility
+  name: Accessibility
+- id: adhd
+  name: Adhd
+- id: gentle-productivity
+  name: Gentle Productivity
+- id: autonomy
+  name: Autonomy
+- id: workplace
+  name: Workplace
