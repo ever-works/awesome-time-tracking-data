@@ -246,3 +246,81 @@
   name: Healthcare
 - id: minimalist
   name: Minimalist
+- id: calendar
+  name: Calendar
+- id: async-work
+  name: Async Work
+- id: flexibility
+  name: Flexibility
+- id: transitions
+  name: Transitions
+- id: visual-organization
+  name: Visual Organization
+- id: time-analysis
+  name: Time Analysis
+- id: automated
+  name: Automated
+- id: self-tracking
+  name: Self Tracking
+- id: freelancing
+  name: Freelancing
+- id: value-assessment
+  name: Value Assessment
+- id: creative-work
+  name: Creative Work
+- id: schedule-design
+  name: Schedule Design
+- id: meetings
+  name: Meetings
+- id: cost-analysis
+  name: Cost Analysis
+- id: roam-research
+  name: Roam Research
+- id: boundaries
+  name: Boundaries
+- id: government
+  name: Government
+- id: eisenhower-matrix
+  name: Eisenhower Matrix
+- id: strategic-planning
+  name: Strategic Planning
+- id: motivation
+  name: Motivation
+- id: habits
+  name: Habits
+- id: psychology
+  name: Psychology
+- id: reflection
+  name: Reflection
+- id: continuous-improvement
+  name: Continuous Improvement
+- id: attendance-tracking
+  name: Attendance Tracking
+- id: cloud-based
+  name: Cloud Based
+- id: on-premise
+  name: On Premise
+- id: monotasking
+  name: Monotasking
+- id: cognitive-science
+  name: Cognitive Science
+- id: optimization
+  name: Optimization
+- id: delegation
+  name: Delegation
+- id: leverage
+  name: Leverage
+- id: strategic-thinking
+  name: Strategic Thinking
+- id: desktop
+  name: Desktop
+- id: review
+  name: Review
+- id: completeness
+  name: Completeness
+- id: executive-assistant
+  name: Executive Assistant
+- id: realism
+  name: Realism
+- id: workload-management
+  name: Workload Management
