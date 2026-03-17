@@ -508,3 +508,27 @@
   name: Inversion
 - id: discipline
   name: Discipline
+- id: consulting
+  name: Consulting
+- id: manufacturing
+  name: Manufacturing
+- id: neurodivergent
+  name: Neurodivergent
+- id: shared-device
+  name: Shared Device
+- id: labor-tracking
+  name: Labor Tracking
+- id: shop-floor
+  name: Shop Floor
+- id: designers
+  name: Designers
+- id: zero-effort
+  name: Zero Effort
+- id: volunteer-tracking
+  name: Volunteer Tracking
+- id: nonprofit
+  name: Nonprofit
+- id: grant-reporting
+  name: Grant Reporting
+- id: approval
+  name: Approval
