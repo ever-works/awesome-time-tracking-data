@@ -386,3 +386,9 @@
   name: Autonomy
 - id: workplace
   name: Workplace
+- id: email
+  name: Email
+- id: writers
+  name: Writers
+- id: word-count
+  name: Word Count
