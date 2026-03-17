@@ -230,3 +230,11 @@
   name: Journaling
 - id: evernote
   name: Evernote
+- id: integration
+  name: Integration
+- id: google-workspace
+  name: Google Workspace
+- id: habit-tracking
+  name: Habit Tracking
+- id: pomodoro
+  name: Pomodoro
