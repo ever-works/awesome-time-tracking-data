@@ -502,3 +502,9 @@
   name: Affordable
 - id: quick-wins
   name: Quick Wins
+- id: task-initiation
+  name: Task Initiation
+- id: inversion
+  name: Inversion
+- id: discipline
+  name: Discipline
