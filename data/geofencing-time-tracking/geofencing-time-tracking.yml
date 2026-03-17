@@ -1,97 +1,137 @@
 name: Geofencing Time Tracking
-description: Location-based time tracking technology that uses GPS to create
-  virtual boundaries around job sites. Automatically verifies employee location
-  during clock-in/out, prevents time padding, and ensures field workers are at
-  correct locations before recording hours.
-source_url: https://www.clockshark.com/
-category: Practices
+description: GPS-based time tracking technology that restricts clock-ins and
+  clock-outs to predefined geographical boundaries. Ensures mobile workers are
+  physically present at job sites while preventing time theft and improving
+  location accountability.
+source_url: https://www.workforce.com/software/time-tracking
+category: Mobile Time Tracking
 tags:
-  - gps
-  - geofencing
-  - location-verification
+  - gps-tracking
+  - mobile-workforce
+  - field-service
 featured: false
 markdown: >-
   ## Overview
 
 
   Geofencing time tracking uses GPS technology to create virtual boundaries
-  around physical locations (job sites, offices, client premises). Employees can
-  only clock in when their mobile device is within the designated geofence
-  perimeter.
+  around work locations. Employees can only clock in or out when physically
+  present within these defined areas, ensuring location accountability and
+  preventing time fraud for mobile workforces.
 
 
   ## How It Works
 
 
-  1. Administrator sets up geofences around work locations
+  ### Virtual Boundaries
 
-  2. Defines radius for each location (e.g., 300 feet)
+  - Define geographical perimeters around job sites
 
-  3. Employee attempts to clock in via mobile app
+  - Set radius for acceptable clock-in locations
 
-  4. App verifies GPS coordinates
+  - Multiple geofences for different sites
 
-  5. If inside geofence: clock-in allowed
-
-  6. If outside geofence: clock-in denied or flagged
+  - Automatic boundary detection
 
 
-  ## Key Benefits
+  ### Clock-In Restrictions
+
+  - GPS verification required
+
+  - Location stamp on time entries
+
+  - Automatic alerts for out-of-bounds attempts
+
+  - Manager notifications for violations
 
 
-  - Prevents time theft and buddy punching
+  ### Mobile Integration
 
-  - Ensures workers are on-site when claiming hours
+  - Smartphone GPS utilization
 
-  - Verifies field workers visit correct locations
+  - Real-time location tracking
 
-  - Provides proof of presence for client billing
+  - Offline capability with sync
 
-  - Reduces timesheet disputes
+  - Battery-optimized tracking
 
-  - Automates location verification
+
+  ## Benefits
+
+
+  ### Accuracy
+
+  - Verifies physical presence at sites
+
+  - Prevents remote clock-ins
+
+  - Accurate job costing by location
+
+  - Reliable time records
+
+
+  ### Fraud Prevention
+
+  - Eliminates buddy punching remotely
+
+  - Confirms site attendance
+
+  - Creates audit trail
+
+  - Reduces time theft
+
+
+  ### Workforce Management
+
+  - Real-time location visibility
+
+  - Job site arrival/departure data
+
+  - Route optimization insights
+
+  - Emergency location services
 
 
   ## Common Applications
 
 
-  - Construction companies with multiple job sites
+  - Construction crews at multiple sites
 
-  - Field service businesses
+  - Field service technicians
 
-  - Healthcare workers visiting patients
+  - Healthcare home visits
 
   - Delivery and logistics
 
   - Maintenance and repair services
 
-  - Any mobile workforce
+  - Remote sales teams
 
 
   ## Privacy Considerations
 
 
-  - Tracking only active during work hours
+  - Track only during work hours
+
+  - Clear policies on data usage
 
   - Employee consent required
 
-  - Transparent policies
+  - Transparent communication
 
-  - Compliance with privacy laws
-
-  - Option to disable after hours
+  - Compliance with local laws
 
 
-  ## Accuracy
+  ## Use Cases
 
 
-  GPS typically accurate to 15-30 feet in open areas, may be less accurate in
-  urban canyons or indoor locations.
+  - Construction companies with multiple job sites
 
+  - HVAC and plumbing services
 
-  ## Popular Platforms
+  - Healthcare agencies with home visits
 
+  - Property management maintenance teams
 
-  ClockShark, Workyard, Timeero, busybusy, and most modern field workforce
-  management systems include geofencing.
-updated_at: 2026-03-16 02:27
+  - Any business with mobile workforce
+updated_at: 2026-03-17 01:41
