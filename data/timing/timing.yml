@@ -1,62 +1,76 @@
 name: Timing
-description: Automatic time tracking app exclusively for Mac that tracks
-  everything you do without manual timers. Timing automatically records which
-  apps and documents you use, providing comprehensive productivity insights and
-  accurate timesheets for macOS users.
-source_url: https://timingapp.com/
-category: Automated Time Tracking
+description: Automatic time tracking app for Mac that records every app and
+  website you use. Creates detailed timesheets without manual timers, ideal for
+  freelancers and professionals who bill by the hour.
+source_url: https://timingapp.com
+category: Automatic Time Tracking
 tags:
-  - macos
+  - mac
   - automatic
-  - productivity-analytics
-featured: false
+  - freelance
+featured: true
 markdown: >-
   ## Overview
 
 
-  Timing is an automatic time tracking app designed exclusively for Mac that
-  tracks everything you do on your computer without requiring manual timers or
-  start/stop buttons.
+  Timing is a fully automatic time tracking app exclusively for macOS that
+  tracks which apps and websites you use, for how long, and when. It creates
+  accurate timesheets without any manual start/stop timers.
 
 
   ## Features
 
 
-  - **Automatic Tracking** - Automatically records which apps and documents you
-  use
+  - **Automatic Tracking**: Records all Mac activity automatically
 
-  - **No Manual Timers** - Never forget to start or stop a timer again
+  - **Timeline View**: Visual timeline of your entire day
 
-  - **Productivity Insights** - Analyze your productivity patterns and time
-  allocation
+  - **Smart Suggestions**: AI suggests how to categorize your time
 
-  - **Timeline View** - Visual timeline showing your entire day's activities
+  - **Project Tracking**: Organize time by projects and tasks
 
-  - **Project Categorization** - Automatically or manually categorize activities
-  into projects
+  - **Productivity Analysis**: Identify time usage patterns
 
-  - **Offline Support** - Works completely offline with no cloud dependency
+  - **Offline Support**: Works without internet connection
 
-  - **Privacy-Focused** - All data stored locally on your Mac
+  - **Privacy First**: All data stored locally on your Mac
 
-  - **Reporting** - Export detailed reports for billing and analysis
+  - **Calendar Integration**: Sync with macOS Calendar
 
-  - **Mac Native** - Built specifically for macOS with native performance
+  - **Reporting**: Detailed time reports and summaries
+
+  - **Export**: Export to CSV, PDF, and invoicing tools
+
+  - **No Screenshots**: Privacy-friendly tracking
+
+  - **Keyboard Shortcuts**: Quick time entry and navigation
 
 
-  ## Use Cases
+  ## How It Works
 
 
-  Perfect for Mac-using freelancers, consultants, developers, and professionals
-  who bill by the hour and want automatic time tracking.
+  1. Timing runs in the background on your Mac
+
+  2. Automatically records apps, documents, and websites
+
+  3. You review the timeline and assign time to projects
+
+  4. AI learns from your assignments and suggests categorization
+
+  5. Generate reports and export for billing
 
 
   ## Pricing
 
 
-  - **14-day free trial**
+  - **Monthly**: $10/month per Mac
 
-  - **Subscription** - $10/month or $79/year
+  - **Yearly**: $79/year per Mac
 
-  - **One-time purchase** - Available for long-term users
-updated_at: 2026-03-14 23:32
+  - **Lifetime**: $199 one-time per Mac
+
+  - 14-day free trial
+
+  - macOS only
+brand: Timing
+updated_at: 2026-03-17 15:16

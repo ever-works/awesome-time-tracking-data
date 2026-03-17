@@ -1,97 +1,115 @@
 name: Focusmate
-description: Virtual coworking platform that pairs users for 50-minute focus
-  sessions via video. Focusmate leverages accountability and body doubling to
-  help users overcome procrastination and maintain focus on challenging tasks.
-source_url: https://www.focusmate.com/
-category: Productivity Tools
+description: Virtual coworking platform that pairs you with accountability
+  partners for 50-minute focus sessions via video. Combines social
+  accountability with structured work time to boost productivity.
+source_url: https://www.focusmate.com
+category: Productivity Tool
 tags:
   - accountability
+  - coworking
   - focus
-  - virtual-coworking
-featured: false
+featured: true
 markdown: >-
   ## Overview
 
 
-  Focusmate is a virtual coworking platform that pairs you with another person
-  for 50-minute focus sessions via video, using accountability and body doubling
-  to enhance productivity and combat procrastination.
-
-
-  ## Features
-
-
-  - **Scheduled Sessions** - Book 50-minute focus sessions in advance
-
-  - **Partner Matching** - Automatically paired with an accountability partner
-
-  - **Video Connection** - Brief check-in at start, work silently together,
-  check-out at end
-
-  - **Flexible Scheduling** - Sessions available 24/7 across global time zones
-
-  - **Recurring Sessions** - Schedule regular daily or weekly sessions
-
-  - **Session History** - Track your focus sessions and completion rate
-
-  - **Community** - Join a global community of focused workers
-
-  - **Accountability** - Social commitment increases follow-through
+  Focusmate is a virtual coworking service that pairs you with other
+  professionals for 50-minute focus sessions via video call. The concept
+  leverages social accountability and structured time to help people stay
+  focused and productive.
 
 
   ## How It Works
 
 
-  1. **Book a Session** - Schedule 50-minute focus session at preferred time
+  1. **Book a Session**: Schedule 50-minute focus sessions
 
-  2. **Get Matched** - Automatically paired with another Focusmate member
+  2. **Get Matched**: Paired with another Focusmate user
 
-  3. **Start Session** - Join video call, briefly state your goal (30 seconds)
+  3. **Video Call**: Brief hello and share what you'll work on (1 min)
 
-  4. **Work Together** - Work silently on your own tasks for 50 minutes
+  4. **Work Together**: Work silently on your own tasks while on video (48 min)
 
-  5. **Check Out** - Briefly share progress at end of session
+  5. **Quick Debrief**: Share accomplishments and say goodbye (1 min)
+
+  6. **Repeat**: Book more sessions throughout your day
 
 
-  ## The Science
+  ## Features
 
 
-  Focusmate leverages:
+  - **Scheduled Sessions**: Book sessions in advance
 
-  - **Body Doubling** - Presence of another person increases focus
+  - **Random Pairing**: Work with different partners
 
-  - **Social Accountability** - Commitment to another person drives completion
+  - **Video Presence**: Mutual accountability through visibility
 
-  - **Implementation Intentions** - Stating goals increases likelihood of action
+  - **50-Minute Format**: Optimal focus duration
+
+  - **Flexible Scheduling**: Sessions available 24/7
+
+  - **Community**: Global network of focused professionals
+
+  - **Session Streaks**: Track consistency
+
+  - **Private Workspace**: No chat during session
+
+  - **Optional Regulars**: Request same partner
 
 
   ## Benefits
 
 
-  - Overcome procrastination on difficult tasks
+  - **Accountability**: Harder to procrastinate with partner
 
-  - Maintain focus for extended periods
+  - **Structure**: Fixed start and end times
 
-  - Combat isolation of remote work
+  - **Motivation**: Social presence increases focus
 
-  - Build consistent work habits  
+  - **Consistency**: Regular sessions build habits
 
-  - Increase task completion rates
+  - **Community**: Connect with productive people
+
+  - **Flexibility**: Work on any task
+
+  - **Effectiveness**: 95% of users report increased productivity
+
+
+  ## Session Structure
+
+
+  **Minutes 0-1**: Greetings and intention setting
+
+  **Minutes 1-49**: Silent focused work
+
+  **Minutes 49-50**: Farewell and acknowledgment
 
 
   ## Use Cases
 
 
-  Ideal for remote workers, freelancers, students, people with ADHD, and anyone
-  who struggles with self-directed work or procrastination.
+  - Writing and creative work
+
+  - Studying and exam preparation
+
+  - Admin and paperwork
+
+  - Coding and development
+
+  - Difficult tasks prone to procrastination
+
+  - Morning routines
+
+  - Exercise sessions
 
 
   ## Pricing
 
 
-  - **Free plan** - 3 sessions per week
+  - **Free**: 3 sessions per week
 
-  - **Plus** - $5/month for unlimited sessions
+  - **Premium**: $5/month - Unlimited sessions
 
-  - **Pro** - $9/month for unlimited sessions plus recurring bookings
-updated_at: 2026-03-14 23:32
+  - **Turbo**: $9/month - Priority booking and features
+brand: Focusmate
+updated_at: 2026-03-17 15:16

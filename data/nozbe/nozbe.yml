@@ -1,58 +1,60 @@
 name: Nozbe
-description: Task management and productivity app designed for the Getting
-  Things Done (GTD) methodology, helping professionals and teams organize
-  projects and tasks. Founded in 2007, Nozbe serves over 500,000 users with
-  dedicated apps for Mac, Windows, Linux, Android, iOS, and web platforms.
-source_url: https://nozbe.com/
-category: Productivity Tools
+description: Project and task management app with built-in time tracking
+  features. Designed for Getting Things Done (GTD) methodology with team
+  collaboration and cross-platform sync.
+source_url: https://nozbe.com
+category: Project Management
 tags:
   - gtd
-  - task-management
-  - cross-platform
+  - collaboration
+  - tasks
+featured: false
 markdown: >-
   ## Overview
 
 
-  Nozbe was founded in 2007 by Michael Sliwinski and is designed for the Getting
-  Things Done methodology. Over 500,000 professionals rely on Nozbe Classic to
-  get things done.
+  Nozbe is a project management and productivity app built around the Getting
+  Things Done (GTD) methodology. It combines task management, time tracking, and
+  team collaboration in a simple interface.
 
 
-  ## GTD Integration
+  ## Features
 
 
-  Nozbe uses the GTD methodology to manage your todos. Nozbe is the best task
-  manager based on David Allen's GTD (Getting Things Done) model of
-  productivity. The app supports key GTD principles including:
+  - **Project Management**: Organize tasks by projects
 
+  - **GTD Implementation**: Built-in support for GTD workflow
 
-  - **Inbox capture**: In Nozbe it's literally called the inbox for capturing
-  new ideas
+  - **Time Tracking**: Track time spent on tasks
 
-  - **Projects and tasks**: Projects are anything that requires more than two
-  tasks to complete
+  - **Team Collaboration**: Share projects and delegate tasks
 
-  - **Single source of truth**: To conform to the rules of getting things done
-  users keep a single source of things to do – that is Nozbe
+  - **Comments**: Discuss tasks with team members
 
+  - **File Attachments**: Attach files to tasks
 
-  ## Key Features
+  - **Calendar Integration**: Sync with Google Calendar and iCal
 
+  - **Templates**: Reusable project templates
 
-  Tasks can be arranged with deadlines, reminders and time tracking. Dedicated
-  apps are available for Mac, Windows, Android, iPad and iPhone, and Nozbe apps
-  work offline.
+  - **Priority System**: Organize by priority and context
 
+  - **Cross-Platform**: Mac, Windows, iOS, Android, web
 
-  ## Platform Availability
+  - **Offline Mode**: Work without internet connection
 
-
-  You can use this to do list app on desktop - Windows, Mac, Linux, mobile -
-  Android, iOS, iPad and web. Nozbe has a free plan as well as a premium one.
+  - **Email Integration**: Create tasks from email
 
 
   ## Pricing
 
 
-  Nozbe offers both free and premium plans to accommodate different user needs.
-updated_at: 2026-03-15 00:34
+  - **Solo**: $8/month - Individual use
+
+  - **Duo**: $12/month - 2 users
+
+  - **Team**: $12/user/month - Unlimited teams
+
+  - 30-day free trial available
+brand: Nozbe
+updated_at: 2026-03-17 15:16

@@ -1,60 +1,85 @@
 name: Motion
-description: AI-powered task manager and calendar that automatically plans your
-  day. Motion uses machine learning to prioritize tasks, schedule them on your
-  calendar, and reschedule automatically when priorities change, claiming to
-  save users 30+ days per year.
-source_url: https://www.usemotion.com/
-category: Productivity Tools
+description: AI-powered calendar and project management tool that automatically
+  schedules your tasks, manages your calendar, and optimizes your daily
+  schedule. Combines task management with intelligent time blocking.
+source_url: https://www.usemotion.com
+category: Productivity Tool
 tags:
-  - ai-powered
-  - automatic
-  - calendar-planning
+  - ai
+  - automation
+  - scheduling
 featured: true
 markdown: >-
   ## Overview
 
 
-  Motion is an AI-powered task manager and calendar that automatically plans
-  your day by intelligently scheduling tasks, managing priorities, and adapting
-  to changes in real-time.
+  Motion is an AI-powered productivity tool that automatically schedules your
+  tasks and manages your calendar. It uses intelligent algorithms to find
+  optimal times for your work, constantly reorganizing your schedule as
+  priorities and deadlines change.
 
 
   ## Features
 
 
-  - **AI Task Scheduling** - Automatically schedules tasks on your calendar
-  based on priority and deadlines
+  - **AI Scheduling**: Automatically schedules tasks on your calendar
 
-  - **Dynamic Rescheduling** - Automatically adjusts your schedule when things
-  change
+  - **Dynamic Rescheduling**: Adapts schedule as new tasks and events arise
 
-  - **Project Management** - Manage projects with automatic task prioritization
+  - **Priority Management**: Considers deadlines and priorities
 
-  - **Calendar Integration** - Works with Google Calendar and Outlook
+  - **Project Management**: Organize work by projects and workflows
 
-  - **Meeting Booking** - Intelligent meeting scheduling that considers your
-  tasks
+  - **Meeting Booking**: Smart meeting scheduler
 
-  - **Team Coordination** - Coordinate schedules across team members
+  - **Team Collaboration**: Shared projects and team scheduling
 
-  - **Mobile Apps** - Full iOS and Android apps
+  - **Calendar Integration**: Works with Google Calendar and Outlook
 
-  - **Time Savings** - Claims to save users 30+ days per year through automation
+  - **Focus Time Protection**: Automatically blocks focus time
+
+  - **Workload Balancing**: Prevents overcommitment
+
+  - **Task Dependencies**: Manage sequential tasks
+
+  - **Deadline Tracking**: Ensures work finishes on time
+
+
+  ## How AI Scheduling Works
+
+
+  1. Add tasks with deadlines and time estimates
+
+  2. Motion's AI finds optimal times in your calendar
+
+  3. Tasks automatically move when meetings are added
+
+  4. Schedule updates in real-time as priorities change
+
+  5. Focus time is protected automatically
 
 
   ## Use Cases
 
 
-  Ideal for executives, entrepreneurs, project managers, and busy professionals
-  who struggle with constant task reprioritization and schedule changes.
+  - Individual professionals managing complex schedules
+
+  - Teams coordinating project work
+
+  - Entrepreneurs juggling multiple responsibilities
+
+  - Anyone struggling with manual calendar management
 
 
   ## Pricing
 
 
-  - **Individual** - $34/month (billed annually)
+  - **Individual**: $34/month
 
-  - **Team** - $20/user/month (minimum 3 users, billed annually)
+  - **Team**: $20/user/month (minimum 3 users)
 
-  - **14-day free trial** available
-updated_at: 2026-03-14 23:32
+  - 7-day free trial
+
+  - Desktop, web, iOS, and Android
+brand: Motion
+updated_at: 2026-03-17 15:16

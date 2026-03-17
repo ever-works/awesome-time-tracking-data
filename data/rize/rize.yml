@@ -1,74 +1,71 @@
 name: Rize
-description: AI-powered automatic time tracker that monitors your work patterns
-  and provides insights into focus time, breaks, and productivity. Rize
-  categorizes activities automatically and helps build better work habits
-  through intelligent tracking and personalized recommendations.
-source_url: https://rize.io/
-category: Automated Time Tracking
+description: AI-powered time tracking and productivity coach that automatically
+  categorizes your work, tracks focus time, and provides personalized insights
+  to improve your productivity habits.
+source_url: https://rize.io
+category: Automatic Time Tracking
 tags:
-  - ai-powered
+  - ai
   - automatic
-  - productivity-analytics
-featured: false
+  - insights
+featured: true
 markdown: >-
   ## Overview
 
 
-  Rize is an AI-powered automatic time tracking app that helps you understand
-  and improve your work patterns by tracking computer usage, categorizing
-  activities, and providing personalized productivity insights.
+  Rize is an intelligent time tracker that uses AI to automatically categorize
+  your computer activity, track focus sessions, and provide personalized
+  productivity coaching. It learns your work patterns and gives actionable
+  insights to help you improve.
 
 
   ## Features
 
 
-  - **Automatic Tracking** - Monitors computer usage automatically without
-  manual timers
+  - **Automatic Time Tracking**: Tracks all computer activity
 
-  - **AI Categorization** - Uses AI to categorize activities and applications
+  - **AI Categorization**: Automatically categorizes work by project and type
 
-  - **Focus Time Tracking** - Tracks and analyzes periods of deep focus work
+  - **Focus Time Tracking**: Identifies and measures deep work sessions
 
-  - **Break Detection** - Automatically detects and recommends optimal break
-  times
+  - **Break Reminders**: Smart break suggestions based on your work patterns
 
-  - **Productivity Metrics** - Comprehensive analytics on work patterns and
-  habits
+  - **Meeting Analytics**: Analyzes meeting time and patterns
 
-  - **Goal Setting** - Set daily focus time and productivity goals
+  - **Productivity Score**: Daily productivity metrics
 
-  - **Distraction Tracking** - Identify time-wasting activities and apps
+  - **Focus Music Integration**: Built-in focus music
 
-  - **Privacy-Focused** - All data stored locally with optional cloud sync
+  - **Goals and Targets**: Set focus time and productivity goals
 
-  - **Cross-Platform** - Available for Mac and Windows
+  - **Weekly Reports**: Comprehensive productivity summaries
 
+  - **Privacy First**: All data stays local on your computer
 
-  ## How It Works
+  - **Cross-Platform**: Mac and Windows
 
 
-  1. Install Rize on your computer
-
-  2. Let it run automatically in the background
-
-  3. AI categorizes your activities throughout the day
-
-  4. Review daily reports on focus time, breaks, and productivity
-
-  5. Get personalized recommendations for improving work habits
+  ## AI Capabilities
 
 
-  ## Use Cases
+  - Learns your work patterns over time
 
+  - Suggests optimal work/break schedules
 
-  Ideal for knowledge workers, remote employees, freelancers, and anyone wanting
-  to understand and optimize their work patterns.
+  - Identifies productivity blockers
+
+  - Personalizes recommendations
+
+  - Predicts focus time availability
 
 
   ## Pricing
 
 
-  - **Free plan** - Basic automatic tracking
+  - **Free Trial**: 14 days
 
-  - **Pro plan** - $9.99/month for advanced features and analytics
-updated_at: 2026-03-14 23:32
+  - **Pro**: $9.99/month - Full features and insights
+
+  - Mac and Windows support
+brand: Rize
+updated_at: 2026-03-17 15:16

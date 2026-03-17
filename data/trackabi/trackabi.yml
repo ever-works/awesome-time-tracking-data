@@ -1,110 +1,60 @@
 name: Trackabi
-description: Free time tracking, employee monitoring, and leave management
-  software with detailed reporting and GPS tracking capabilities for small
-  teams.
-source_url: https://trackabi.com/
-category: Team & Project Time Tracking
+description: Simple time tracking and employee monitoring software with
+  screenshots, activity tracking, and project management. Affordable solution
+  for small businesses and remote teams.
+source_url: https://trackabi.com
+category: Time Tracking Software
 tags:
-  - Free
-  - GPS
-  - Leave Management
+  - employee-monitoring
+  - screenshots
+  - affordable
+featured: false
 markdown: >-
   ## Overview
 
 
-  Trackabi is a free time tracking, employee monitoring, and leave management
-  software that suits small teams relying on daily time tracking. The platform
-  is most valuable for businesses managing hourly payroll or client billing,
-  especially when ease of use and flexible reporting matter most.
+  Trackabi is an affordable time tracking and employee monitoring tool designed
+  for small businesses managing remote teams. It offers essential time tracking
+  features combined with productivity monitoring.
 
 
-  ## Key Features
+  ## Features
 
 
-  **Time Tracking:**
+  - **Time Tracking**: Manual and automatic time tracking options
 
-  - Automated reminders for time entry
+  - **Screenshots**: Periodic screenshot capture for remote workers
 
-  - Detailed, customizable reports
+  - **Activity Monitoring**: Track keyboard and mouse activity levels
 
-  - Track billable vs non-billable hours
+  - **Project Management**: Organize work by projects and tasks
 
-  - Easy-to-understand insights
+  - **Timesheet Management**: Digital timesheets with approval workflows
 
+  - **Reporting**: Comprehensive time and productivity reports
 
-  **Employee Monitoring:**
+  - **Attendance Tracking**: Monitor employee work hours and schedules
 
-  - Activity tracking capabilities
+  - **Invoicing**: Generate invoices based on tracked time
 
-  - Detailed performance insights
+  - **Team Dashboard**: Real-time overview of team activity
 
-  - Comprehensive team oversight
+  - **Offline Tracking**: Continue tracking when offline
 
+  - **Privacy Controls**: Configurable monitoring settings
 
-  **GPS Tracking:**
-
-  - Field workforce location verification
-
-  - Recent updates include GPS tracking features
-
-  - Geolocation for mobile employees
-
-
-  **Kiosk Mode:**
-
-  - Shared-device workflows
-
-  - Clock in/out from central location
-
-  - Suitable for field teams and shared workspaces
-
-
-  **Leave Management:**
-
-  - Manage employee time off requests
-
-  - Leave balance tracking
-
-  - Approval workflows
-
-
-  **Reporting:**
-
-  - Detailed and flexible reporting
-
-  - Customizable report formats
-
-  - Insights into team productivity
-
-  - Billing and payroll report generation
-
-
-  ## Target Users
-
-
-  Most commonly used by:
-
-  - IT teams
-
-  - Marketing teams
-
-  - Firms under 50 employees
-
-  - Small businesses with hourly workers
-
-
-  ## Platform Availability
-
-
-  - Web application
-
-  - Mobile apps (iOS and Android)
-
-  - Desktop applications
+  - **Mobile Apps**: iOS and Android time tracking
 
 
   ## Pricing
 
 
-  Free time tracking with comprehensive features for small teams and businesses.
-updated_at: 2026-03-14 22:18
+  - **Free**: Up to 3 users with basic features
+
+  - **Pro**: $5/user/month - All features including screenshots
+
+  - **Enterprise**: Custom pricing - Advanced features and support
+
+  - All paid plans include unlimited projects and clients
+brand: Trackabi
+updated_at: 2026-03-17 15:16

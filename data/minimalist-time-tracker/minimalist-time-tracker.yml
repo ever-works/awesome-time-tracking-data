@@ -1,0 +1,48 @@
+name: Minimalist Time Tracker
+description: Simple open-source time tracking Chrome extension. Quick and easy
+  time tracking without complex features, focused on simplicity and speed.
+source_url: https://chrome.google.com/webstore/detail/minimalist-time-tracker/
+category: Open Source
+tags:
+  - chrome
+  - simple
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Minimalist Time Tracker is a Chrome extension that provides straightforward
+  time tracking functionality without overwhelming features. Perfect for those
+  who want simple, fast time tracking integrated into their browser.
+
+
+  ## Features
+
+
+  - **Quick Start/Stop**: One-click timer
+
+  - **Task Labels**: Categorize time entries
+
+  - **Time Log**: View tracking history
+
+  - **Export**: Export data to CSV
+
+  - **Browser-Based**: Works in Chrome
+
+  - **Lightweight**: Minimal resource usage
+
+  - **No Account**: No registration required
+
+  - **Open Source**: Code available on GitHub
+
+
+  ## Pricing
+
+
+  - Free and open source
+
+  - Chrome Web Store
+
+  - No premium version
+updated_at: 2026-03-17 15:16

@@ -1,42 +1,57 @@
 name: Pomofocus
-description: Web-based Pomodoro timer that provides visual reports showing focus
-  time spent each day, week, and month, with project tracking capabilities for
-  organizing work sessions.
+description: Free customizable Pomodoro timer web app with task tracking.
+  Simple, clean interface for managing Pomodoro sessions with stats and
+  customization options.
 source_url: https://pomofocus.io
 category: Productivity Tool
 tags:
   - pomodoro
-  - web-based
-  - focus
+  - free
+  - web
+featured: false
 markdown: >-
   ## Overview
 
 
-  Pomofocus is a customizable pomodoro timer that works on desktop and mobile
-  browsers, helping users improve their focus and productivity through the
-  Pomodoro Technique.
+  Pomofocus is a free, browser-based Pomodoro timer with task management and
+  customization features. It provides a clean, distraction-free interface for
+  managing focus sessions without requiring installation or registration.
 
 
   ## Features
 
 
-  - Customizable pomodoro, short break, and long break durations
+  - **Customizable Timers**: Adjust pomodoro, short break, and long break
+  durations
 
-  - Visual reports showing focus time per day, week, and month
+  - **Task List**: Create and track tasks
 
-  - Project tracking to organize pomodoro sessions
+  - **Pomodoro Tracking**: Count pomodoros per task
 
-  - Task list integration
+  - **Progress Stats**: View daily and weekly statistics
 
-  - Sound notifications and alarms
+  - **Custom Intervals**: Set your own work/break lengths
 
-  - Dark mode support
+  - **Audio Notifications**: Customizable alarm sounds
 
-  - No account required
+  - **Dark Mode**: Eye-friendly dark theme
+
+  - **No Login Required**: Use immediately without signup
+
+  - **Keyboard Shortcuts**: Control with keyboard
+
+  - **Desktop Notifications**: Browser notifications for breaks
 
 
   ## Pricing
 
 
-  Completely free to use with no account registration required.
-updated_at: 2026-03-17 08:54
+  - Completely free
+
+  - No ads
+
+  - No registration required
+
+  - Works in any browser
+brand: Pomofocus
+updated_at: 2026-03-17 15:16

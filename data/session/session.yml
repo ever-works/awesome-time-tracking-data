@@ -1,46 +1,66 @@
 name: Session
-description: Beautifully designed, Apple-centric Pomodoro app with distraction
-  blocking features, ideal for boosting focus and managing ADHD with iOS app
-  support for cross-device productivity.
+description: Pomodoro timer and productivity tracker for Mac with beautiful
+  design. Features customizable focus sessions, break reminders, and
+  productivity statistics.
 source_url: https://www.stayinsession.com
 category: Productivity Tool
 tags:
   - pomodoro
-  - focus
-  - ios
+  - mac
+  - design
+featured: false
 markdown: >-
   ## Overview
 
 
-  Session is a beautifully designed Pomodoro app for Mac and iOS with powerful
-  distraction blocking features, specifically beneficial for users with ADHD.
+  Session is an elegant Pomodoro timer and focus app for Mac that helps you
+  maintain productive work sessions. It combines beautiful design with practical
+  features for managing focus time and breaks.
 
 
   ## Features
 
 
-  - Beautiful, Apple-centric design
+  - **Customizable Timers**: Adjust work and break durations
 
-  - Pomodoro timer with customizable intervals
+  - **Menu Bar Integration**: Quick access from menu bar
 
-  - Distraction blocking (websites and apps)
+  - **Notifications**: Break and session end alerts
 
-  - iOS companion app
+  - **Statistics**: Track daily and weekly productivity
 
-  - Focus statistics and insights
+  - **Goals**: Set daily focus time targets
 
-  - Task integration
+  - **Do Not Disturb**: Auto-enable during sessions
 
-  - Calendar blocking
+  - **Spotify Integration**: Auto-play focus music
 
-  - Ambient sounds
+  - **Keyboard Shortcuts**: Control without mouse
 
-  - Goal tracking
+  - **Dark Mode**: Beautiful dark interface
+
+  - **Minimal Design**: Clean, distraction-free
+
+
+  ## Session Types
+
+
+  - Pomodoro (25/5 minutes)
+
+  - Short Break (5 minutes)
+
+  - Long Break (15 minutes)
+
+  - Custom durations
 
 
   ## Pricing
 
 
-  Subscription-based pricing with free trial available. Offers both monthly and
-  annual plans.
-updated_at: 2026-03-17 08:54
+  - Free basic version
+
+  - $4.99/month or $29.99/year for Pro features
+
+  - macOS only
+brand: Session
+updated_at: 2026-03-17 15:16

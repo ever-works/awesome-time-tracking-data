@@ -1,85 +1,54 @@
 name: Pomotodo
-description: Pomodoro-inspired time management app designed for creative
-  professionals. Combines task management with Pomodoro technique timer,
-  offering both free and professional versions across iOS and Android platforms
-  for focused work sessions and productivity tracking.
-source_url: https://pomotodo.com/
-category: Time Blocking & Interval Timers
+description: Pomodoro timer combined with to-do list for managing tasks with
+  time tracking. Helps you estimate task duration in pomodoros and track actual
+  time spent.
+source_url: https://pomotodo.com
+category: Productivity Tool
 tags:
-  - Pomodoro
-  - Mobile
-  - Freelancers
+  - pomodoro
+  - tasks
+  - tracking
 featured: false
 markdown: >-
   ## Overview
 
 
-  Pomotodo is a Pomodoro-inspired time management app specifically designed for
-  creative professionals who need structured focus sessions combined with task
-  management capabilities.
+  Pomotodo combines the Pomodoro Technique with task management, allowing you to
+  estimate tasks in pomodoros, track completion, and analyze your productivity
+  over time.
 
 
-  ## Key Features
+  ## Features
 
 
-  - **Pomodoro Timer**: Implements the Pomodoro Technique with customizable work
-  and break intervals
+  - **Integrated Task List**: Combine timer with to-dos
 
-  - **Task Management**: Integrated todo list that works seamlessly with your
-  Pomodoro sessions
+  - **Pomodoro Estimation**: Estimate tasks in 25-minute units
 
-  - **Cross-Platform**: Works with both iOS and Android devices for flexibility
+  - **Time Tracking**: Track actual pomodoros spent
 
-  - **Progress Tracking**: Monitor your productivity through completed Pomodoro
-  sessions
+  - **Statistics**: Detailed productivity analytics
 
-  - **Statistics**: View detailed analytics about your work patterns and focus
-  time
+  - **Streaks**: Build daily pomodoro habits
 
-  - **Creative Focus**: Specifically optimized for creative workflows and
-  project-based work
+  - **Cross-Platform**: Web, iOS, Android, Mac, Windows
 
+  - **Cloud Sync**: Sync across all devices
 
-  ## Platform Availability
+  - **Customizable Timer**: Adjust durations
 
+  - **History**: View past pomodoros and tasks
 
-  - **iOS**: Available on iPhone and iPad
-
-  - **Android**: Available on Android smartphones and tablets
-
-  - **Web**: Accessible through web browsers
+  - **Focus Sounds**: Optional background sounds
 
 
   ## Pricing
 
 
-  - **Free Version**: Basic Pomodoro timer and task management features
+  - **Free**: Basic features with limitations
 
-  - **Professional Plan**: $3.90 per month
+  - **Premium**: $2.99/month - Full features and sync
 
-
-  The pro plan unlocks advanced features including detailed statistics,
-  unlimited tasks, and premium customization options.
-
-
-  ## Target Users
-
-
-  Pomotodo is particularly well-suited for:
-
-  - Creative professionals (designers, writers, artists)
-
-  - Freelancers managing multiple projects
-
-  - Students needing structured study sessions
-
-  - Anyone who benefits from the Pomodoro Technique combined with task lists
-
-
-  ## Benefits
-
-
-  By combining the Pomodoro Technique with task management, Pomotodo helps
-  creatives maintain focus while tracking what they accomplish, making it easier
-  to estimate project timelines and improve time management skills.
-updated_at: 2026-03-15 11:34
+  - Available on all major platforms
+brand: Pomotodo
+updated_at: 2026-03-17 15:16

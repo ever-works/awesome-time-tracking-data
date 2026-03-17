@@ -1,67 +1,49 @@
 name: Hourglass
-description: Hourglass is a web-based time and expense tracking solution for
-  managing employee, client, and project hours. It features comprehensive
-  reporting, task management, and automated reminders, supporting accurate and
-  efficient time tracking.
-source_url: https://hourglass-app.com/
-category: web-based-time-tracking
+description: Simple countdown timer for Mac that sits in the menu bar. Quick and
+  minimalist timer for Pomodoro sessions, breaks, and time-boxed tasks.
+source_url: https://chris.dzombak.name/hourglass/
+category: Productivity Tool
 tags:
-  - web-based
-  - expense-tracking
-  - reporting
-  - task-management
+  - mac
+  - timer
+  - simple
+featured: false
 markdown: >-
-  # Hourglass
+  ## Overview
 
 
-  [Hourglass](https://hourglass-app.com/) is a web-based time and expense
-  tracking solution designed for managing employee, client, and project hours,
-  with a particular focus on congregations of Jehovah's Witnesses.
+  Hourglass is a minimalist countdown timer app for macOS that lives in the menu
+  bar. It provides quick, simple timers for Pomodoro sessions, breaks, or any
+  time-boxed work without complex features or distractions.
 
 
   ## Features
 
-  - **Organization:** Manage publishers, field service groups, emergency
-  contacts, meeting attendance, and territories.
 
-  - **Scheduling:** Intuitive scheduling for cleaning, field service, public
-  witnessing, midweek and weekend meetings, audio/video, attendants, and
-  language groups.
+  - **Menu Bar Timer**: Always visible countdown
 
-  - **Reporting:** Access monthly and yearly totals, congregation statistics,
-  pioneer progress, averages, and detailed service reports.
+  - **Quick Presets**: Common timer durations
 
-  - **Assignments:** Assign meeting parts, public witnessing shifts, attendants,
-  and more. Assignees receive instant notifications and can accept or decline
-  assignments.
+  - **Custom Timers**: Set any duration
 
-  - **Ministry Tracking:** Publishers can electronically submit reports from
-  their mobile phones. Automated reminders can be sent for report submissions.
+  - **Notifications**: Alert when timer completes
 
-  - **Task Management:** Manage various congregation-related tasks and
-  assignments.
+  - **Keyboard Shortcuts**: Start timers without mouse
 
-  - **Automated Reminders:** Send notifications for assignments and report
-  submissions.
+  - **Multiple Timers**: Run several simultaneously
 
+  - **Minimal Interface**: No unnecessary features
 
-  ## Category
-
-  - Web-based Time Tracking
-
-
-  ## Tags
-
-  - web-based
-
-  - expense-tracking
-
-  - reporting
-
-  - task-management
+  - **Lightweight**: Low system resource usage
 
 
   ## Pricing
 
-  *No pricing information provided.*
-updated_at: 2025-05-13 22:52
+
+  - Free and open source
+
+  - macOS only
+
+  - Available on GitHub
+brand: Chris Dzombak
+updated_at: 2026-03-17 15:16

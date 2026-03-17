@@ -1,92 +1,64 @@
 name: PomoDone
-description: Pomodoro timer app that integrates with your existing task
-  management tools. PomoDone connects with Trello, Asana, Todoist, Jira, and
-  more, allowing you to track Pomodoro sessions directly on your tasks while
-  maintaining your current workflow.
-source_url: https://pomodoneapp.com/
-category: Productivity Tools
+description: Pomodoro timer that integrates with your existing task management
+  tools. Works with Trello, Asana, Todoist, and 20+ other apps to add Pomodoro
+  tracking to your workflow.
+source_url: https://pomodoneapp.com
+category: Productivity Tool
 tags:
   - pomodoro
-  - integration
-  - task-management
+  - integrations
+  - cross-platform
 featured: false
 markdown: >-
   ## Overview
 
 
-  PomoDone is a Pomodoro timer application that integrates directly with popular
-  task management tools, allowing you to use the Pomodoro Technique while
-  working within your existing project management workflow.
+  PomoDone is a Pomodoro timer that integrates with over 20 popular task
+  management and project management tools, allowing you to use the Pomodoro
+  Technique without changing your existing workflow.
 
 
   ## Features
 
 
-  - **Task Management Integrations** - Connect with Trello, Asana, Todoist,
-  Jira, Basecamp, Wunderlist, and 30+ more tools
+  - **20+ Integrations**: Trello, Asana, Todoist, Jira, etc.
 
-  - **Pomodoro Timer** - Customizable work and break intervals
+  - **Multi-Platform**: Web, Mac, Windows, Linux, iOS, Android
 
-  - **Time Tracking** - Track time spent on each task
+  - **Time Tracking**: Track pomodoros per task
 
-  - **Productivity Statistics** - View reports on completed Pomodoros and time
-  spent
+  - **Reports**: Productivity analytics and insights
 
-  - **Cross-Platform** - Web, Mac, Windows, Linux, iOS, Android, Chrome
-  extension
+  - **Customizable Timer**: Adjust pomodoro and break lengths
 
-  - **Sync Across Devices** - Start timer on desktop, continue on mobile
+  - **Notifications**: Desktop and mobile alerts
 
-  - **Keyboard Shortcuts** - Quick timer control without touching mouse
+  - **Task Management**: Import tasks from connected tools
 
-  - **Custom Intervals** - Adjust Pomodoro length to your needs
+  - **Calendar Integration**: Sync with Google Calendar
 
-  - **Notifications** - Audio and visual alerts for session completion
-
-  - **Multi-tasking Mode** - Track multiple tasks in one session
+  - **Team Features**: Shared tracking and reports
 
 
-  ## Integration Benefits
+  ## Supported Tools
 
 
-  - No separate task list to maintain
+  - Trello, Asana, Todoist, Basecamp
 
-  - Time tracked directly on your project tasks
+  - Jira, GitHub, GitLab, Bitbucket
 
-  - Seamless workflow within existing tools
+  - Evernote, OneNote, Google Tasks
 
-  - Automatic task import from connected apps
-
-  - Two-way sync of completed work
-
-
-  ## Supported Integrations
-
-
-  - **Project Management**: Trello, Asana, Basecamp, Jira, Monday.com
-
-  - **Task Managers**: Todoist, Wunderlist, Any.do, Remember The Milk
-
-  - **Development**: GitHub, GitLab, Bitbucket
-
-  - **Note Taking**: Evernote, OneNote
-
-  - **Many more** via API and Zapier
-
-
-  ## Use Cases
-
-
-  Perfect for teams and individuals already using task management tools who want
-  to add Pomodoro time tracking without changing their workflow.
+  - And 15+ more
 
 
   ## Pricing
 
 
-  - **Free** - Basic Pomodoro timer with limited integrations
+  - **Lite**: Free - 1 integration
 
-  - **Lite** - $2.99/month for additional integrations
+  - **Full**: $2.29/month - All integrations and features
 
-  - **Pro** - $5.50/month for unlimited integrations and features
-updated_at: 2026-03-14 23:32
+  - Available on all platforms
+brand: PomoDone
+updated_at: 2026-03-17 15:16

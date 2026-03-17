@@ -1,71 +1,122 @@
 name: Sunsama
-description: Daily planning and time tracking tool that helps create realistic
-  daily plans by combining calendar integration, task management, and time
-  tracking. Sunsama uses timeboxing and daily rituals to help users focus on
-  what matters most each day.
-source_url: https://www.sunsama.com/
-category: Productivity Tools
+description: Daily planning and time management tool that pulls tasks from other
+  tools into one unified daily plan. Emphasizes intentional daily planning and
+  realistic time allocation with focus on work-life balance.
+source_url: https://www.sunsama.com
+category: Productivity Tool
 tags:
-  - daily-planning
-  - timeboxing
-  - calendar-integration
-featured: false
+  - planning
+  - integration
+  - balance
+featured: true
 markdown: >-
   ## Overview
 
 
-  Sunsama is a daily planning and time tracking tool designed to help users
-  create realistic, achievable daily plans through calendar integration, task
-  management, and guided planning rituals.
+  Sunsama is a daily planning tool that helps you create realistic, achievable
+  daily plans by pulling tasks from all your tools into one place. It combines
+  timeboxing, calendar integration, and mindful planning rituals to help you
+  focus on what matters.
 
 
   ## Features
 
 
-  - **Daily Planning Ritual** - Guided start-of-day planning process
+  - **Daily Planning Ritual**: Guided daily planning process
 
-  - **Timeboxing** - Drag tasks onto calendar to timebox your day  
+  - **Multi-Tool Integration**: Pull tasks from Asana, Trello, Jira, GitHub,
+  etc.
 
-  - **Time Tracking** - Track actual time spent on tasks
+  - **Timeboxing**: Estimate and schedule time for tasks
 
-  - **Calendar Integration** - Unified view with Google Calendar and Outlook
+  - **Calendar Integration**: Two-way sync with Google Calendar and Outlook
 
-  - **Task Import** - Pull tasks from Asana, Trello, Jira, GitHub, and more
+  - **Actual Time Tracking**: Track how long tasks actually take
 
-  - **Focus Mode** - Distraction-free mode for current task
+  - **Weekly Planning**: Review and plan your week
 
-  - **Daily Shutdown** - End-of-day reflection and planning for tomorrow
+  - **Daily Shutdown**: Guided end-of-day reflection
 
-  - **Weekly Planning** - Review and plan your week
+  - **Focus Mode**: Highlight current task
 
-  - **Mobile Apps** - Full iOS and Android apps
+  - **Mobile App**: iOS and Android for on-the-go planning
 
-  - **Analytics** - Insights into planned vs. actual time
+  - **Keyboard Shortcuts**: Efficient navigation
+
+  - **Analytics**: Insights on time allocation and planning accuracy
 
 
   ## Daily Workflow
 
 
-  1. **Morning Planning** - Review calendar, add tasks, timebox your day
+  **Morning Planning (10 min)**
 
-  2. **Work** - Track time on tasks with built-in timer
+  1. Review calendar and upcoming meetings
 
-  3. **Evening Shutdown** - Review what was accomplished, plan tomorrow
+  2. Import tasks from connected tools
+
+  3. Add new tasks for the day
+
+  4. Timeblock tasks into calendar
+
+  5. Set realistic daily goals
 
 
-  ## Use Cases
+  **Throughout Day**
+
+  1. Work through timeblocked schedule
+
+  2. Track actual time spent
+
+  3. Adjust plan as needed
+
+  4. Stay focused on current task
 
 
-  Perfect for knowledge workers, managers, and professionals who want to combine
-  calendar management with daily task planning and time tracking.
+  **Evening Shutdown (5 min)**
+
+  1. Reflect on accomplishments
+
+  2. Move incomplete tasks
+
+  3. Note learnings
+
+  4. Close out the day mindfully
+
+
+  ## Integrations
+
+
+  - Asana
+
+  - Trello
+
+  - Jira
+
+  - GitHub
+
+  - Gmail
+
+  - Slack
+
+  - Notion
+
+  - ClickUp
+
+  - Linear
+
+  - And more
 
 
   ## Pricing
 
 
-  - **14-day free trial**
+  - **Monthly**: $20/month
 
-  - **Monthly** - $20/month
+  - **Yearly**: $16/month (billed annually)
 
-  - **Annual** - $16/month (billed annually)
-updated_at: 2026-03-14 23:32
+  - 14-day free trial
+
+  - Desktop, web, iOS, and Android
+brand: Sunsama
+updated_at: 2026-03-17 15:16
