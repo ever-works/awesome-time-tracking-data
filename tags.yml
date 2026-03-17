@@ -176,3 +176,43 @@
   name: Enterprise
 - id: work-management
   name: Work Management
+- id: biological-rhythms
+  name: Biological Rhythms
+- id: time-tracking
+  name: Time Tracking
+- id: management
+  name: Management
+- id: mindfulness
+  name: Mindfulness
+- id: biometric
+  name: Biometric
+- id: browser-extension
+  name: Browser Extension
+- id: convenience
+  name: Convenience
+- id: energy-management
+  name: Energy Management
+- id: batching
+  name: Batching
+- id: deep-work
+  name: Deep Work
+- id: peak-performance
+  name: Peak Performance
+- id: budgets
+  name: Budgets
+- id: pto
+  name: Pto
+- id: hr-management
+  name: Hr Management
+- id: time-blocking
+  name: Time Blocking
+- id: api
+  name: Api
+- id: analytics
+  name: Analytics
+- id: visualization
+  name: Visualization
+- id: fraud-prevention
+  name: Fraud Prevention
+- id: mac
+  name: Mac
