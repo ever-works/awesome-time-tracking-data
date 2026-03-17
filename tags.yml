@@ -640,3 +640,39 @@
   name: Recruitment
 - id: expense-tracking
   name: Expense Tracking
+- id: accuracy
+  name: Accuracy
+- id: calculator
+  name: Calculator
+- id: bullet-journal
+  name: Bullet Journal
+- id: creative
+  name: Creative
+- id: iot
+  name: Iot
+- id: best-practices
+  name: Best Practices
+- id: no-code
+  name: No Code
+- id: customizable
+  name: Customizable
+- id: strategic
+  name: Strategic
+- id: job-costing
+  name: Job Costing
+- id: scope
+  name: Scope
+- id: barcode
+  name: Barcode
+- id: project-tracking
+  name: Project Tracking
+- id: students
+  name: Students
+- id: academic
+  name: Academic
+- id: workforce
+  name: Workforce
+- id: gdpr
+  name: Gdpr
+- id: outcomes
+  name: Outcomes
