@@ -1,153 +1,79 @@
-name: TrueIN
-description: Geofencing time clock app for employees working in field locations.
-  TrueIN uses GPS technology to verify employee locations during clock-in/out
-  and provides automated attendance tracking for mobile workforces.
+name: TrueIn
+description: Biometric time and attendance system combining face recognition
+  with GPS geofencing to ensure employees clock in only from approved locations
+  with verified identity.
 source_url: https://truein.com/
-category: Field Team Management
+category: Employee Monitoring
 tags:
+  - biometric
   - geofencing
-  - mobile
-  - attendance
-featured: false
+  - attendance-tracking
 markdown: >-
   ## Overview
 
 
-  TrueIN is a cloud-based time and attendance solution designed for businesses
-  with field employees, remote teams, and multiple work locations. It uses
-  geofencing and GPS technology to ensure accurate time tracking.
+  TrueIn is an advanced time and attendance tracking platform that combines
+  biometric facial recognition with GPS-based geofencing technology. This
+  dual-verification approach ensures that employees can only clock in from
+  approved locations while preventing buddy punching and time theft.
 
 
   ## Key Features
 
 
-  - GPS-based geofencing time clock
+  - **Facial Recognition** - AI-powered face recognition verifies employee
+  identity at clock-in
 
-  - Face recognition for identity verification
+  - **GPS Geofencing** - Restricts clock-ins to predetermined work locations
 
-  - Mobile app for iOS and Android
+  - **Mobile Time Clock** - Employees use their smartphones to punch in/out
 
-  - Real-time attendance tracking
+  - **Selfie Attendance** - Captures photo verification with each clock-in event
 
-  - Location-based clock restrictions
+  - **Automated Timesheets** - Generates accurate timesheets automatically from
+  clock data
 
-  - Shift scheduling
+  - **Real-Time Tracking** - Managers can see who's working now and from where
 
-  - Leave and overtime management
+  - **Overtime Alerts** - Automatic notifications when employees approach
+  overtime thresholds
 
-  - Timesheet approvals
+  - **Leave Management** - Integrated time-off requests and approval workflows
 
-  - Integration with payroll systems
 
+  ## Security & Fraud Prevention
 
-  ## Geofencing Capabilities
 
+  TrueIn's dual biometric and location verification prevents common time theft
+  issues:
 
-  - Create virtual boundaries around job sites
+  - Buddy punching (someone else clocking in for you)
 
-  - Automatic clock-in/out when entering/leaving geofence
+  - Off-site clock-ins from unauthorized locations
 
-  - Restrict clock-ins to specific locations
+  - Fake attendance records
 
-  - Multiple geofence support for different sites
+  - Manual timesheet manipulation
 
-  - Configurable radius for each location
 
-  - GPS tracking during work hours
+  ## Ideal For
 
 
-  ## Attendance Management
+  - Field service companies with mobile workforces
 
+  - Construction companies with multiple job sites
 
-  - Real-time attendance dashboard
+  - Retail and hospitality with distributed locations
 
-  - Automated attendance calculations
+  - Healthcare facilities requiring strict attendance compliance
 
-  - Late arrival and early departure tracking
-
-  - Break time monitoring
-
-  - Shift adherence reporting
-
-  - Absence and leave tracking
-
-
-  ## Identity Verification
-
-
-  - Facial recognition technology
-
-  - Photo capture on clock-in/out
-
-  - Prevents buddy punching
-
-  - Secure authentication
-
-
-  ## Reporting & Analytics
-
-
-  - Real-time attendance reports
-
-  - Location-based reports
-
-  - Productivity analytics
-
-  - Overtime calculations
-
-  - Custom report generation
-
-  - Export to Excel and PDF
-
-
-  ## Integrations
-
-
-  - Payroll software integration
-
-  - HRMS systems
-
-  - Accounting software
-
-  - API for custom integrations
-
-
-  ## Use Cases
-
-
-  - Construction companies
-
-  - Field service businesses
-
-  - Healthcare and home care services
-
-  - Security and facility management
-
-  - Delivery and logistics
-
-  - Retail chains with multiple locations
-
-
-  ## Benefits
-
-
-  - Eliminates time theft and buddy punching
-
-  - Reduces payroll errors
-
-  - Automates attendance tracking
-
-  - Improves workforce accountability
-
-  - Provides location verification
-
-  - Streamlines timesheet management
+  - Any organization needing verified on-site attendance
 
 
   ## Pricing
 
 
-  Custom pricing based on number of users and features required. Free trial
-  available.
-brand: TrueIN
-updated_at: 2026-03-12 12:31
+  TrueIn offers flexible pricing based on team size, with plans designed for
+  businesses from small teams to large enterprises requiring advanced features
+  and integrations.
+updated_at: 2026-03-17 13:55
