@@ -532,3 +532,75 @@
   name: Grant Reporting
 - id: approval
   name: Approval
+- id: culture
+  name: Culture
+- id: metaphor
+  name: Metaphor
+- id: innovation
+  name: Innovation
+- id: freedom
+  name: Freedom
+- id: communication
+  name: Communication
+- id: research
+  name: Research
+- id: story
+  name: Story
+- id: books
+  name: Books
+- id: classics
+  name: Classics
+- id: history
+  name: History
+- id: experiments
+  name: Experiments
+- id: business-model
+  name: Business Model
+- id: context
+  name: Context
+- id: intelligence
+  name: Intelligence
+- id: quantified-self
+  name: Quantified Self
+- id: commitment-contracts
+  name: Commitment Contracts
+- id: contractors
+  name: Contractors
+- id: extreme-productivity
+  name: Extreme Productivity
+- id: european-union
+  name: European Union
+- id: worker-rights
+  name: Worker Rights
+- id: security
+  name: Security
+- id: essentialism
+  name: Essentialism
+- id: time-audit
+  name: Time Audit
+- id: weekly-planning
+  name: Weekly Planning
+- id: intuitive
+  name: Intuitive
+- id: founders
+  name: Founders
+- id: flow
+  name: Flow
+- id: powerpoint
+  name: Powerpoint
+- id: timeline
+  name: Timeline
+- id: data
+  name: Data
+- id: environmental
+  name: Environmental
+- id: social-impact
+  name: Social Impact
+- id: pareto
+  name: Pareto
+- id: economics
+  name: Economics
+- id: principles
+  name: Principles
+- id: flowtime
+  name: Flowtime
