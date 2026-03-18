@@ -1,0 +1,72 @@
+name: Personal Kanban for Time Management
+description: Adaptation of kanban workflow visualization for individual time
+  management. Uses three columns (To Do, Doing, Done) with WIP limits to prevent
+  overcommitment, visualize work progress, and maintain sustainable flow.
+  Emphasizes pulling new work only when capacity exists.
+source_url: https://www.personalkanban.com/
+category: Time Management Tool
+tags:
+  - kanban
+  - visual
+  - workflow
+  - wip-limits
+markdown: >-
+  ## Overview
+
+
+  Personal Kanban adapts team kanban practices for individual productivity with
+  visual workflow management.
+
+
+  ## Core Elements
+
+
+  ### Visualize Work
+
+  - Make all tasks visible
+
+  - Three columns: To Do, Doing, Done
+
+  - Physical or digital board
+
+
+  ### Limit WIP
+
+  - Maximum 3-5 active tasks
+
+  - Prevents overcommitment
+
+  - Forces completion before starting new work
+
+
+  ## Benefits
+
+
+  - Clear view of commitments
+
+  - Prevents overwhelm
+
+  - Tracks progress visibly
+
+  - Encourages finishing
+
+  - Reduces context switching
+
+
+  ## Implementation
+
+
+  - Use sticky notes or digital tool
+
+  - Set WIP limit based on capacity
+
+  - Pull work, don't push
+
+  - Review and adjust regularly
+
+
+  ## Pricing
+
+
+  Free methodology, tools vary.
+updated_at: 2026-03-18 11:25

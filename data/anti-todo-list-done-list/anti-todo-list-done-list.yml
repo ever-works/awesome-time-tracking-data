@@ -1,0 +1,59 @@
+name: Anti-Todo List (Done List)
+description: Inverse of traditional to-do list - recording completed tasks
+  throughout the day rather than planned tasks. Provides motivation through
+  visible progress, counteracts negativity bias of endless to-dos, and documents
+  actual work accomplished for reviews and reporting.
+source_url: https://blog.idonethis.com/the-done-list/
+category: Time Management Practice
+tags:
+  - done-list
+  - motivation
+  - documentation
+  - positivity
+markdown: >-
+  ## Overview
+
+
+  Anti-Todo List records completed tasks rather than planned ones, focusing on
+  accomplishments over obligations.
+
+
+  ## Benefits
+
+
+  - Visible progress motivation
+
+  - Documents actual work for reviews
+
+  - Counteracts endless to-do negativity
+
+  - Provides end-of-day satisfaction
+
+  - Useful for status updates
+
+
+  ## Implementation
+
+
+  - Keep running list throughout day
+
+  - Add completed items as you finish
+
+  - Review end of day
+
+  - Save for weekly/monthly review
+
+
+  ## Comparison
+
+
+  - To-do: anxiety-inducing, never-ending
+
+  - Done list: motivating, satisfying
+
+
+  ## Pricing
+
+
+  Free practice, notebook or app.
+updated_at: 2026-03-18 11:25
