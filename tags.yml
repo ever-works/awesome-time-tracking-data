@@ -810,3 +810,27 @@
   name: Business
 - id: time-recovery
   name: Time Recovery
+- id: quick-capture
+  name: Quick Capture
+- id: email-management
+  name: Email Management
+- id: memory-based
+  name: Memory Based
+- id: manual-entry
+  name: Manual Entry
+- id: reconstruction
+  name: Reconstruction
+- id: nfc
+  name: Nfc
+- id: power-ups
+  name: Power Ups
+- id: voice-assistant
+  name: Voice Assistant
+- id: hands-free
+  name: Hands Free
+- id: alexa
+  name: Alexa
+- id: wearables
+  name: Wearables
+- id: health-tracking
+  name: Health Tracking
