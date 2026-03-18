@@ -724,3 +724,15 @@
   name: Flexible
 - id: performance
   name: Performance
+- id: human-powered
+  name: Human Powered
+- id: tax
+  name: Tax
+- id: dashboards
+  name: Dashboards
+- id: productivity-metrics
+  name: Productivity Metrics
+- id: personal-development
+  name: Personal Development
+- id: self-discipline
+  name: Self Discipline
