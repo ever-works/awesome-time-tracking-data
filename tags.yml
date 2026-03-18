@@ -834,3 +834,39 @@
   name: Wearables
 - id: health-tracking
   name: Health Tracking
+- id: work-rest-cycle
+  name: Work Rest Cycle
+- id: incremental-progress
+  name: Incremental Progress
+- id: the-muse
+  name: The Muse
+- id: coaching
+  name: Coaching
+- id: intentional-living
+  name: Intentional Living
+- id: ritual
+  name: Ritual
+- id: closure
+  name: Closure
+- id: recovery
+  name: Recovery
+- id: productivity-study
+  name: Productivity Study
+- id: data-driven
+  name: Data Driven
+- id: weekly-review
+  name: Weekly Review
+- id: work-style
+  name: Work Style
+- id: zen-habits
+  name: Zen Habits
+- id: retrospective
+  name: Retrospective
+- id: work-logging
+  name: Work Logging
+- id: color-coding
+  name: Color Coding
+- id: creativity
+  name: Creativity
+- id: flow-state
+  name: Flow State
