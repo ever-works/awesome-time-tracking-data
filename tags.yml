@@ -980,3 +980,7 @@
   name: Morning
 - id: brian-tracy
   name: Brian Tracy
+- id: text-based
+  name: Text Based
+- id: team-management
+  name: Team Management
