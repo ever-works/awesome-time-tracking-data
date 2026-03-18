@@ -1028,3 +1028,51 @@
   name: Call Center
 - id: voice-to-text
   name: Voice To Text
+- id: sharepoint
+  name: Sharepoint
+- id: systems
+  name: Systems
+- id: approval-workflow
+  name: Approval Workflow
+- id: book
+  name: Book
+- id: portfolio
+  name: Portfolio
+- id: no-subscription
+  name: No Subscription
+- id: multi-platform
+  name: Multi Platform
+- id: values
+  name: Values
+- id: focus-timer
+  name: Focus Timer
+- id: tagging
+  name: Tagging
+- id: consultants
+  name: Consultants
+- id: website-blocker
+  name: Website Blocker
+- id: offline-tracking
+  name: Offline Tracking
+- id: ai-insights
+  name: Ai Insights
+- id: advanced
+  name: Advanced
+- id: accounting-integration
+  name: Accounting Integration
+- id: trades
+  name: Trades
+- id: restaurant
+  name: Restaurant
+- id: retail
+  name: Retail
+- id: budget-tracking
+  name: Budget Tracking
+- id: fixed-price
+  name: Fixed Price
+- id: pos-integration
+  name: Pos Integration
+- id: to-do-list
+  name: To Do List
+- id: quick-action
+  name: Quick Action
