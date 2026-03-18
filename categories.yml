@@ -34,3 +34,15 @@
   name: Industry Specific Time Tracking
 - id: productivity-analytics
   name: Productivity Analytics
+- id: time-management-research
+  name: Time Management Research
+- id: time-management-policy
+  name: Time Management Policy
+- id: time-management-technique
+  name: Time Management Technique
+- id: time-management-tool
+  name: Time Management Tool
+- id: time-management-concept
+  name: Time Management Concept
+- id: time-management-principle
+  name: Time Management Principle
