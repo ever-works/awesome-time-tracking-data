@@ -988,3 +988,17 @@
   name: Purpose Driven
 - id: chronotype
   name: Chronotype
+- id: calendar-management
+  name: Calendar Management
+- id: buffer-time
+  name: Buffer Time
+- id: digital-productivity
+  name: Digital Productivity
+- id: shift-planning
+  name: Shift Planning
+- id: rota
+  name: Rota
+- id: european
+  name: European
+- id: gantt-chart
+  name: Gantt Chart
