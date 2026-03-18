@@ -1084,3 +1084,21 @@
   name: Market Research
 - id: trends
   name: Trends
+- id: time-awareness
+  name: Time Awareness
+- id: rfid
+  name: Rfid
+- id: proximity
+  name: Proximity
+- id: screen-time
+  name: Screen Time
+- id: simplification
+  name: Simplification
+- id: life-management
+  name: Life Management
+- id: notion-alternative
+  name: Notion Alternative
+- id: statistics
+  name: Statistics
+- id: hospitality
+  name: Hospitality
