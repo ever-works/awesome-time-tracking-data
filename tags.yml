@@ -1002,3 +1002,29 @@
   name: European
 - id: gantt-chart
   name: Gantt Chart
+- id: film
+  name: Film
+- id: television
+  name: Television
+- id: production
+  name: Production
+- id: entertainment
+  name: Entertainment
+- id: crew-management
+  name: Crew Management
+- id: whatsapp
+  name: Whatsapp
+- id: natural-language
+  name: Natural Language
+- id: fundraising
+  name: Fundraising
+- id: german
+  name: German
+- id: desk-sharing
+  name: Desk Sharing
+- id: room-management
+  name: Room Management
+- id: call-center
+  name: Call Center
+- id: voice-to-text
+  name: Voice To Text
