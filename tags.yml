@@ -1102,3 +1102,53 @@
   name: Statistics
 - id: hospitality
   name: Hospitality
+- id: machine-learning
+  name: Machine Learning
+- id: classification
+  name: Classification
+- id: labor-law
+  name: Labor Law
+- id: ethics
+  name: Ethics
+- id: customization
+  name: Customization
+- id: government-contracting
+  name: Government Contracting
+- id: time-billing
+  name: Time Billing
+- id: multi-currency
+  name: Multi Currency
+- id: cost-accounting
+  name: Cost Accounting
+- id: mileage
+  name: Mileage
+- id: reimbursement
+  name: Reimbursement
+- id: outlook-integration
+  name: Outlook Integration
+- id: alerts
+  name: Alerts
+- id: structure
+  name: Structure
+- id: shift-work
+  name: Shift Work
+- id: compensation
+  name: Compensation
+- id: white-noise
+  name: White Noise
+- id: access-control
+  name: Access Control
+- id: authentication
+  name: Authentication
+- id: memory-aid
+  name: Memory Aid
+- id: export
+  name: Export
+- id: data-integrity
+  name: Data Integrity
+- id: notifications
+  name: Notifications
+- id: voice
+  name: Voice
+- id: interface
+  name: Interface
