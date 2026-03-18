@@ -1,75 +1,79 @@
 name: Nirvana
-description: GTD (Getting Things Done) task management application designed
-  specifically for David Allen's methodology. Provides complete implementation
-  of GTD with inbox, projects, contexts, and areas of focus.
-source_url: https://nirvanahq.com
+description: GTD-focused task manager with clean interface and comprehensive
+  Getting Things Done implementation. Provides projects, contexts, areas, and
+  reference material organization in dedicated GTD workflow.
+source_url: https://nirvanahq.com/
 category: Productivity Tool
 tags:
   - gtd
   - task-management
-  - organization
+  - cross-platform
+  - minimalist
 featured: false
 markdown: >-
   ## Overview
 
 
-  Nirvana is a task management application built specifically around David
-  Allen's Getting Things Done (GTD) methodology. It provides all the components
-  needed for a complete GTD implementation including inbox, next actions,
-  projects, contexts, and areas of focus.
+  Nirvana is a task management application built specifically around the Getting
+  Things Done (GTD) methodology. It provides a clean, focused interface for
+  implementing David Allen's complete GTD system.
 
 
   ## Features
 
 
-  - **Inbox**: Capture all incoming tasks and ideas
+  - **GTD Structure**: Projects, actions, contexts, areas, reference
 
-  - **Next Actions**: Organize actionable tasks
+  - **Inbox Processing**: Dedicated inbox workflow
 
-  - **Projects**: Multi-step outcomes
-
-  - **Contexts**: Filter by location, tool, or situation
-
-  - **Areas of Focus**: Higher-level responsibilities
-
-  - **Someday/Maybe**: Future possibilities
+  - **Next Actions**: Focus on immediately actionable items
 
   - **Waiting For**: Track delegated items
 
+  - **Someday/Maybe**: Future possibilities list
+
+  - **Contexts**: Organize by location, energy, tools
+
+  - **Areas of Responsibility**: Life areas and roles
+
+  - **Projects**: Multi-step outcomes with next actions
+
   - **Reference**: Store non-actionable information
 
-  - **Tags**: Flexible categorization
+  - **Tags**: Additional categorization
 
-  - **Quick Entry**: Rapid task capture
+  - **Checklists**: Subtasks within actions
 
-  - **Cross-Platform**: Web, iOS, Android, desktop
+  - **Scheduled & Deadlines**: Time-based organization
 
-  - **Keyboard Shortcuts**: Efficient navigation
+  - **Focus Mode**: Today's actions only
 
-  - **Recurring Tasks**: Automated repetition
+  - **Quick Entry**: Fast capture from anywhere
+
+  - **Search**: Find anything quickly
+
+  - **Cross-Platform**: Web, Mac, Windows, iOS, Android
 
 
-  ## GTD Workflow Support
+  ## GTD Implementation
 
 
-  1. **Capture**: Quick inbox entry
+  **Capture**: Quick add with keyboard shortcut
 
-  2. **Clarify**: Process inbox items
+  **Clarify**: Inbox processing workflow
 
-  3. **Organize**: Assign to appropriate lists
+  **Organize**: File into projects, contexts, areas
 
-  4. **Reflect**: Weekly review features
+  **Reflect**: Review modes for different lists
 
-  5. **Engage**: Context-based views
+  **Engage**: Context and focus views
 
 
   ## Pricing
 
 
-  - **Free**: Basic GTD features
+  - **Free**: Core GTD features, 100 actions limit
 
-  - **Pro**: $5/month or $50/year - Advanced features
-
-  - All platforms included
+  - **Pro**: $5/month or $48/year - Unlimited actions, all features
 brand: Nirvana
-updated_at: 2026-03-17 15:16
+updated_at: 2026-03-18 05:22

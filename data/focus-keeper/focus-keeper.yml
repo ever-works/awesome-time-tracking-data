@@ -1,61 +1,54 @@
 name: Focus Keeper
-description: Pomodoro timer application that helps maintain productivity and
-  track habits with timer history, enabling users to continuously improve their
-  workflow and focus sessions.
-source_url: https://focuskeeper.co
+description: Simple Pomodoro timer app designed for maximum simplicity and ease
+  of use. Helps users apply the Pomodoro Technique without unnecessary
+  complexity or distractions.
+source_url: https://focuskeeper.co/
 category: Productivity Tool
 tags:
   - pomodoro
-  - habit-tracking
+  - simple
+  - timer
   - focus
+featured: false
 markdown: >-
   ## Overview
 
 
-  Focus Keeper is a Pomodoro timer app that combines time tracking with habit
-  tracking to help users maintain productivity and understand their focus
-  patterns.
+  Focus Keeper is a straightforward Pomodoro timer application that emphasizes
+  simplicity and ease of use. The app helps users apply the traditional Pomodoro
+  Technique (25-minute work sessions followed by 5-minute breaks) without
+  unnecessary features or complexity.
 
 
   ## Features
 
 
-  - Classic Pomodoro timer (25-5-15 minute intervals)
+  - **Classic Pomodoro Timer**: 25-minute work, 5-minute break, 15-minute long
+  break
 
-  - Customizable work and break durations
+  - **Customizable Intervals**: Adjust work and break durations
 
-  - Timer history tracking
+  - **Session Tracking**: Count completed pomodoros per day
 
-  - Productivity statistics
+  - **Minimalist Interface**: Clean design with no distractions
 
-  - Task integration
+  - **Audio Alerts**: Gentle sounds signal work/break transitions
 
-  - Daily and weekly reports
+  - **Statistics**: Track daily and weekly productivity
 
-  - Habit tracking
+  - **Task Labels**: Optional task naming for each session
 
-  - Goal setting
+  - **Auto-Start**: Automatically begin next session
 
-  - Minimal, distraction-free interface
+  - **Do Not Disturb**: Silences notifications during focus time
 
-
-  ## Benefits
-
-
-  - Builds sustained focus
-
-  - Tracks productivity patterns
-
-  - Maintains work-life balance through breaks
-
-  - Visual progress tracking
-
-  - Helps build consistent work habits
+  - **Widget Support**: Quick access from home screen
 
 
   ## Pricing
 
 
-  Free version available with basic features. Premium version unlocks advanced
-  tracking and customization.
-updated_at: 2026-03-17 08:54
+  - **Free**: Basic Pomodoro timer
+
+  - **Pro**: $2.99 one-time - Custom intervals, statistics, themes
+updated_at: 2026-03-18 05:22

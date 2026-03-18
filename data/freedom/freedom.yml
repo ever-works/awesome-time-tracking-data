@@ -1,82 +1,81 @@
 name: Freedom
-description: Cross-platform app and website blocker that helps eliminate
-  distractions across all your devices simultaneously. Schedule blocking
-  sessions in advance or start on-demand focus time.
-source_url: https://freedom.to
+description: Website and app blocking software for eliminating digital
+  distractions across all devices. Enables deep work by blocking distracting
+  websites and apps during scheduled focus sessions.
+source_url: https://freedom.to/
 category: Productivity Tool
 tags:
-  - blocking
+  - distraction-blocking
   - focus
+  - deep-work
   - cross-platform
-featured: true
+featured: false
 markdown: >-
   ## Overview
 
 
-  Freedom is a powerful distraction blocking app that works across Mac, Windows,
-  iOS, Android, and Chrome. It allows you to block websites, apps, or the entire
-  internet across all your devices simultaneously, helping you maintain focus
-  and productivity.
+  Freedom is a comprehensive distraction-blocking application that works across
+  all your devices simultaneously. It helps users maintain focus by blocking
+  websites, apps, and even the entire internet during scheduled work sessions.
 
 
   ## Features
 
 
-  - **Cross-Device Syncing**: Block across all devices at once
+  - **Multi-Device Blocking**: Block across Mac, Windows, iOS, Android
+  simultaneously
 
-  - **Website Blocking**: Block specific sites or categories
+  - **Website Blocking**: Block specific sites or entire categories
 
-  - **App Blocking**: Block distracting desktop and mobile apps
+  - **App Blocking**: Prevent access to distracting desktop and mobile apps
 
-  - **Internet Blocking**: Option to block entire internet
+  - **Scheduled Sessions**: Plan blocking sessions in advance
 
-  - **Scheduled Sessions**: Pre-schedule recurring block sessions
+  - **Recurring Blocks**: Set up daily/weekly blocking schedules
 
-  - **Locked Mode**: Prevent yourself from ending sessions early
+  - **Locked Mode**: Make sessions unbreakable once started
 
-  - **Custom Blocklists**: Create multiple blocklists for different contexts
+  - **Ambient Sounds**: Built-in focus music and nature sounds
 
-  - **Scheduling**: Recurring daily/weekly blocking schedules
+  - **Sync Across Devices**: Single block list applies everywhere
 
-  - **Focus Sounds**: Optional ambient sounds and music
+  - **Block Lists**: Pre-made lists (social media, news, shopping) or custom
 
-  - **Statistics**: Track time spent in focused work
+  - **Statistics**: Track time freed from distractions
 
-  - **Team Features**: Accountability groups and shared sessions
+  - **Allowlist Mode**: Block everything except specific sites
+
+  - **Pause Blocking**: Temporary pause for emergencies
+
+
+  ## Block Types
+
+
+  - **Website Block**: Specific URLs or domains
+
+  - **App Block**: Native and web applications
+
+  - **Nuclear Option**: Block entire internet
+
+  - **Custom Schedules**: Different blocks for different times
+
+  - **Category Blocking**: Social media, news, entertainment, shopping
 
 
   ## Use Cases
 
 
-  - Writing and creative work
+  - Deep work sessions without digital interruptions
 
-  - Studying and research
+  - Study time without social media temptation
 
-  - Deep work sessions
+  - Writing and creative work requiring full focus
 
-  - Digital detox
+  - Reducing compulsive website checking
 
-  - Evening phone-free time
+  - Digital wellness and screen time management
 
-  - Exam preparation
-
-  - Focus sprints
-
-
-  ## Blocklists
-
-
-  - Social media
-
-  - News sites
-
-  - Entertainment
-
-  - Games
-
-  - Shopping
-
-  - Custom lists
+  - Better sleep by blocking devices before bed
 
 
   ## Pricing
@@ -84,12 +83,11 @@ markdown: >-
 
   - **Monthly**: $8.99/month
 
-  - **Yearly**: $39/year
+  - **Yearly**: $39/year (save 64%)
 
-  - **Forever**: $199 one-time
+  - **Forever**: $199 one-time (lifetime access)
 
-  - 7-day free trial
 
-  - Works on Mac, Windows, iOS, Android, Chrome
+  All plans include unlimited devices and sessions.
 brand: Freedom
-updated_at: 2026-03-17 15:16
+updated_at: 2026-03-18 05:22

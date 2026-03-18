@@ -1,261 +1,338 @@
 name: Async-First Time Management
-description: Modern work philosophy prioritizing asynchronous communication and
-  flexible schedules over synchronous meetings, enabling better time management
-  through reduced interruptions, time zone flexibility, and documented
-  decision-making.
-source_url: https://www.timely.com/remote-teams
+description: Work methodology prioritizing asynchronous communication over
+  real-time meetings. Optimizes for deep work and global collaboration by
+  defaulting to written, time-shifted communication.
+source_url: https://www.atlassian.com/blog/productivity/time-management-strategies
 category: Time Management Practice
 tags:
   - remote-work
   - async-work
-  - flexibility
+  - deep-work
   - communication
-featured: true
+featured: false
 markdown: >-
-  ## Philosophy
+  ## Overview
 
 
-  Async-first means defaulting to asynchronous communication (documentation,
-  recorded videos, written updates) rather than synchronous meetings, giving
-  people control over when they work and respond.
+  Async-First Time Management is a work methodology that defaults to
+  asynchronous communication (written messages, recorded videos, documents) over
+  synchronous communication (meetings, calls, instant messaging). This approach
+  optimizes for deep work, accommodates different schedules, and reduces time
+  fragmentation.
 
 
   ## Core Principles
 
 
-  ### Communication
+  ### 1. Default to Async
 
-  - Write instead of meet when possible
+  - Written communication is default
 
-  - Record video updates vs. live presentations
+  - Meetings are the exception, not the rule
 
-  - Document decisions publicly
+  - Real-time chat is for urgent matters only
 
-  - Use threaded discussions
+  - Documentation over conversation
 
-  - Reduce real-time expectation
 
+  ### 2. Response Time Expectations
 
-  ### Work Timing
+  - 24-48 hours is reasonable
 
-  - Flexible start/end times
+  - Urgent matters have clear escalation paths
 
-  - Overlap only when necessary
+  - No expectation of immediate response
 
-  - Respect deep work periods
+  - Quality response over quick response
 
-  - Support global time zones
 
-  - Judge output not hours
+  ### 3. Over-Communication
 
+  - Write more detail than feels necessary
 
-  ### Documentation
+  - Provide context
 
-  - Write things down by default
+  - Share thinking process
 
-  - Create searchable knowledge base
+  - Document decisions
 
-  - Record meetings when they happen
 
-  - Transparent decision trails
+  ### 4. Written by Default
 
-  - Accessible information
+  - Proposals in documents
 
+  - Updates in shared spaces
 
-  ## Benefits for Time Management
+  - Decisions recorded publicly
 
+  - Meetings followed by written summaries
 
-  ### Reduced Interruptions
 
-  - Fewer meetings disrupting flow
+  ## Benefits
 
-  - Choose when to respond
 
-  - Batch communication time
+  ### For Individuals
 
-  - Protect maker schedule
+  - **Deep work**: Fewer interruptions
 
+  - **Flexible schedule**: Work during peak hours
 
-  ### Better Focus
+  - **Thoughtful responses**: Time to think before responding
 
-  - Longer uninterrupted blocks
+  - **Reduced meeting fatigue**: Fewer video calls
 
-  - Deep work becomes possible
+  - **Work-life balance**: No constant availability pressure
 
-  - Individual optimal timing
 
-  - Energy management
+  ### For Teams
 
+  - **Global collaboration**: No timezone conflicts
 
-  ### Global Collaboration
+  - **Inclusive**: Introverts, non-native speakers get equal voice
 
-  - Time zone independence
+  - **Documented**: Everything written creates knowledge base
 
-  - 24-hour productivity cycle
+  - **Scalable**: Info accessible to all, not just meeting attendees
 
-  - Access diverse talent
+  - **Productive**: More making, less meeting
 
-  - Follow-the-sun workflow
 
+  ### For Organizations
 
-  ### Improved Quality
+  - **Lower costs**: Less meeting time
 
-  - Time to think before responding
+  - **Better retention**: Flexible work attracts talent
 
-  - Better-considered decisions
+  - **Knowledge preservation**: Documented decisions
 
-  - Reduced meeting fatigue
+  - **Onboarding**: New hires can read history
 
-  - Thoughtful communication
+  - **Distributed teams**: Work across timezones
 
 
-  ## Challenges
+  ## Implementation
 
 
-  ### Requires Discipline
+  ### Communication Tools
 
-  - Must actively document
 
-  - Can't rely on "quick question"
+  **Async Tools:**
 
-  - Need clear processes
+  - Documentation: Notion, Confluence, Google Docs
 
-  - More upfront work
+  - Long-form updates: Email, newsletters
 
+  - Project management: Asana, Linear, Height
 
-  ### Social Connection
+  - Video messages: Loom, Vidyard
 
-  - Less spontaneous interaction
+  - Code collaboration: GitHub, GitLab
 
-  - Harder relationship building
 
-  - Intentional social time needed
+  **Sync Tools (Use Sparingly):**
 
-  - Sense of isolation
+  - Video calls: Zoom, Google Meet
 
+  - Real-time chat: Slack, Teams (with boundaries)
 
-  ### Not Everything Can Be Async
+  - Phone calls: For complex or sensitive matters
 
-  - Crisis situations
 
-  - Brainstorming sessions
+  ### Meeting Criteria
 
-  - Complex negotiations
 
-  - Sensitive conversations
+  Only meet when:
 
-  - Onboarding/training
+  1. **Brainstorming**: Real-time ideation benefits from synchronous
 
+  2. **Complex discussion**: Too nuanced for writing
 
-  ## Tools and Practices
+  3. **Relationship building**: Team bonding, 1-on-1s
 
+  4. **Sensitive topics**: Conflict resolution, feedback
 
-  ### Documentation
+  5. **Decision urgency**: Can't wait 24 hours
 
-  - Notion, Confluence, GitBook
 
-  - Loom for video explanations
+  If it doesn't meet these criteria, use async.
 
-  - GitHub for code decisions
 
-  - Wiki for institutional knowledge
+  ### Writing Practices
 
 
-  ### Asynchronous Communication
+  **Structure:**
 
-  - Slack/Discord with no-response-expected norm
+  - Lead with bottom line
 
-  - Email with clear SLAs
+  - Provide context
 
-  - Project management tools
+  - Show your thinking
 
-  - Recorded video updates
+  - Be explicit about what you need
 
+  - Set clear deadlines
 
-  ### Time Tracking
 
-  - Output-focused metrics
+  **Example:**
 
-  - Project completion rates
+  ```
 
-  - Quality measures
+  TL;DR: Proposing we delay feature X by 2 weeks to focus on stability.
 
-  - Flexible hour logging
 
+  Context: We have 23 open bugs, customer complaints increasing.
 
-  ## Implementation Strategy
 
+  Analysis: [detailed reasoning]
 
-  ### Gradual Adoption
 
-  1. Start with meeting audit
+  Proposal: [specific recommendation]
 
-  2. Convert some to async
 
-  3. Establish documentation norms
+  Decision needed by: Friday EOD
 
-  4. Define sync vs. async guidelines
 
-  5. Iterate based on feedback
+  Next steps if approved: [action items]
 
+  ```
 
-  ### Clear Guidelines
 
-  - When sync is required
+  ### Team Norms
 
-  - Expected response times
 
-  - Documentation standards
+  **Response times:**
 
-  - Meeting protocols
+  - Urgent: Tag as urgent, expect 4 hours
 
-  - Decision-making processes
+  - Normal: 24-48 hours
 
+  - No response expected: Mark FYI
 
-  ## Company Examples
 
+  **Status updates:**
 
-  Pioneering async-first organizations:
+  - Weekly written updates
 
-  - GitLab (all-remote, handbook-first)
+  - Dashboard for real-time status
 
-  - Automattic (distributed since founding)
+  - No status meetings
 
-  - Basecamp (async by default)
 
-  - Doist (async manifesto)
+  **Decision making:**
 
-  - Buffer (transparent async culture)
+  - Write proposal
 
+  - Collect async feedback
 
-  ## Time Management Integration
+  - Synthesize
 
+  - Decide
 
-  Async-first enables:
+  - Document
 
-  - Time blocking without meeting conflicts
 
-  - Biological prime time utilization
+  ## Challenges and Solutions
 
-  - Deep work protection
 
-  - Flexible productivity rhythms
+  ### Challenge: Feels slow
 
-  - Energy-based scheduling
+  **Solution**: 
 
+  - Most things aren't truly urgent
 
-  ## Future of Work
+  - Async enables better decisions
 
+  - Less time in meetings = more execution time
 
-  Async-first represents:
 
-  - Evolution beyond office constraints
+  ### Challenge: Miss spontaneous collaboration
 
-  - Recognition of maker's schedule needs
+  **Solution**:
 
-  - Trust in autonomous professionals
+  - Schedule optional coworking sessions
 
-  - Global talent accessibility
+  - Virtual office hours
 
-  - Sustainable work practices
-updated_at: 2026-03-17 19:47
+  - Annual/quarterly in-person gatherings
+
+
+  ### Challenge: Hard to build relationships
+
+  **Solution**:
+
+  - Regular 1-on-1s (these should be meetings)
+
+  - Team social events
+
+  - Video intros for written updates
+
+  - Virtual coffee chats
+
+
+  ### Challenge: Requires strong writing
+
+  **Solution**:
+
+  - Provide templates
+
+  - Training on clear writing
+
+  - Accept that it's a learned skill
+
+  - Value clarity over perfection
+
+
+  ## Best Practices
+
+
+  1. **Overcommunicate**: Write 2x more context than feels needed
+
+  2. **Be specific**: Clear action items, deadlines, decision-makers
+
+  3. **Visual**: Use screenshots, diagrams, videos
+
+  4. **Searchable**: Use consistent tagging, formatting
+
+  5. **Public by default**: Share broadly unless sensitive
+
+  6. **Meeting notes**: Always document if you must meet
+
+  7. **Video option**: Record video message for complex topics
+
+  8. **Respect boundaries**: No expectation of immediate response
+
+
+  ## Measuring Success
+
+
+  **Metrics:**
+
+  - Meeting hours per week (aim for 20% reduction)
+
+  - Deep work blocks per week (aim for increase)
+
+  - Employee satisfaction with schedule flexibility
+
+  - Documentation coverage (% of decisions documented)
+
+  - Response quality (not just speed)
+
+
+  ## Exceptions
+
+
+  Some situations benefit from synchronous:
+
+  - Crisis management
+
+  - Complex creative collaboration
+
+  - Relationship repair
+
+  - Quick brainstorming (if truly faster)
+
+  - Final decision after async discussion
+
+
+  The key: Be intentional about when to break from async.
+updated_at: 2026-03-18 05:22

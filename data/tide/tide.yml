@@ -1,148 +1,51 @@
 name: Tide
-description: Focus and meditation app combining Pomodoro timer functionality
-  with a rich library of high-quality nature sounds including rain, ocean waves,
-  and forest ambiance. Tide helps users maintain concentration and reduce stress
-  through audio-enhanced focus sessions.
+description: Mindfulness and focus app combining Pomodoro timers with ambient
+  sounds and meditation. Helps users maintain concentration through nature
+  sounds, white noise, and guided breathing exercises.
 source_url: https://tide.moreless.io/
-category: Productivity Tools
+category: Productivity Tool
 tags:
   - pomodoro
-  - nature-sounds
+  - mindfulness
+  - focus
   - meditation
 featured: false
 markdown: >-
   ## Overview
 
 
-  Tide is a productivity and mindfulness app that merges a Pomodoro timer with
-  immersive nature soundscapes to help users focus, relax, and sleep better. It
-  creates an optimal auditory environment for concentration and stress
-  reduction.
+  Tide is a productivity and mindfulness app that combines focus timers with
+  calming ambient sounds and meditation features. The app helps users
+  concentrate on work while maintaining mental wellbeing through integrated
+  mindfulness practices.
 
 
-  ## Key Features
+  ## Features
 
 
-  - Pomodoro-style focus timer
+  - **Pomodoro Timer**: Customizable work and break intervals
 
-  - High-quality nature sound library
+  - **Ambient Sounds**: Nature sounds, white noise, rain, ocean waves
 
-  - Meditation and breathing exercises
+  - **Meditation**: Guided meditation sessions for stress relief
 
-  - Sleep timer with fade-out
+  - **Breathing Exercises**: Timed breathing techniques for relaxation
 
-  - Daily focus statistics
+  - **Sleep Sounds**: Ambient audio to help with sleep
 
-  - Focus history and insights
+  - **Focus Statistics**: Track daily and weekly focus time
 
-  - Beautiful, minimalist design
+  - **Nap Timer**: Power nap feature with gentle wake-up
 
-  - Cross-platform (iOS, Android, macOS, web)
+  - **Minimalist Design**: Clean, distraction-free interface
 
-  - Offline playback
+  - **Offline Mode**: Use sounds and timers without internet
 
-  - No account required
-
-
-  ## Sound Library
-
-
-  Tide offers a curated collection of nature sounds:
-
-  - Gentle rain and thunderstorms
-
-  - Crashing ocean waves
-
-  - Rustling forest and birdsong
-
-  - Crackling campfire
-
-  - Mountain stream
-
-  - White noise variations
-
-
-  ## Focus Modes
-
-
-  - **Focus**: Pomodoro-based work sessions with customizable intervals
-
-  - **Breathing**: Guided breathing exercises for stress relief
-
-  - **Sleep**: Extended soundscapes with sleep timer
-
-  - **Meditation**: Timed meditation sessions
-
-  - **Nap**: Short rest periods with gentle wake-up
-
-
-  ## Customization
-
-
-  - Adjustable focus session lengths
-
-  - Customizable break durations
-
-  - Sound mixing capabilities
-
-  - Volume controls
-
-  - Notification preferences
-
-  - Daily goal setting
-
-
-  ## Statistics & Insights
-
-
-  - Total focus time tracking
-
-  - Daily and weekly trends
-
-  - Focus session history
-
-  - Streak tracking
-
-  - Achievement badges
-
-
-  ## Use Cases
-
-
-  - Deep work sessions requiring intense focus
-
-  - Studying and exam preparation
-
-  - Creative work and writing
-
-  - Stress reduction and relaxation
-
-  - Meditation practice
-
-  - Improving sleep quality
-
-  - Managing anxiety
-
-
-  ## Unique Advantages
-
-
-  - No subscription required for core features
-
-  - Clean, distraction-free interface
-
-  - Works offline without internet
-
-  - Privacy-focused (no account needed)
-
-  - Combines productivity and wellness
+  - **Cross-Platform**: iOS, Android, and web versions
 
 
   ## Pricing
 
 
-  Free version includes core features and several soundscapes. Premium
-  subscription unlocks additional sounds, unlimited focus sessions, and advanced
-  statistics.
-brand: Tide
-updated_at: 2026-03-12 12:31
+  Free with optional in-app purchases for premium sound packs and features.
+updated_at: 2026-03-18 05:22

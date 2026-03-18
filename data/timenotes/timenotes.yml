@@ -1,73 +1,76 @@
-name: Timenotes
-description: Chrome time tracking extension that integrates seamlessly with
-  web-based productivity tools, providing one-click time tracking across
-  multiple platforms with automatic project detection and reporting.
-source_url: https://timenotes.io/
-category: Time Tracking Cli Tools
+name: TimeNotes
+description: Simple time tracking app with note-taking focus, designed for
+  professionals who need to document what they did alongside how long it took.
+  Combines time capture with detailed work journals.
+source_url: https://timenotes.com/
+category: Time Tracking Software
 tags:
-  - browser-extension
-  - chrome
-  - integration
+  - note-taking
+  - simple
+  - documentation
+  - billable-hours
 featured: false
 markdown: >-
   ## Overview
 
 
-  Timenotes is a browser-based time tracking extension for Google Chrome that
-  embeds time tracking capabilities directly into popular web applications,
-  allowing users to track time without switching tools or contexts.
+  TimeNotes is a straightforward time tracking application that emphasizes
+  note-taking alongside time capture. It's designed for professionals who need
+  to document not just how long they worked, but what specifically they
+  accomplished during that time.
 
 
   ## Features
 
 
-  - **Browser Extension**: Chrome extension that adds time tracking to web apps
+  - **Combined Time & Notes**: Track time while writing detailed work notes
 
-  - **One-Click Tracking**: Start timers with a single click from any integrated
-  app
+  - **Simple Interface**: Minimalist design focused on essentials
 
-  - **Multi-Platform Integration**: Works with project management, issue
-  tracking, and productivity tools
+  - **Quick Entry**: Fast time logging with keyboard shortcuts
 
-  - **Automatic Project Detection**: Detects current project context from web
-  page
+  - **Project Organization**: Organize time entries by projects and clients
 
-  - **Manual Time Entry**: Add time retroactively when needed
+  - **Tags**: Flexible tagging for categorization
 
-  - **Time Reports**: View time spent by project, client, or time period
+  - **Search**: Full-text search through all notes and entries
 
-  - **Idle Detection**: Pause timer automatically during inactivity
+  - **Reporting**: Generate time reports with notes included
 
-  - **Daily Reminders**: Notifications to log time at end of day
+  - **Export**: Export data to CSV, Excel, PDF
 
-  - **Export**: Export time data to CSV or other formats
+  - **Billable vs Non-Billable**: Mark time entries for invoicing
 
-  - **Offline Mode**: Queue time entries when offline, sync when reconnected
+  - **Calendar View**: See entries in calendar format
 
-  - **Privacy-Focused**: Minimal data collection with user control
+  - **Running Timer**: Start/stop timer for real-time tracking
 
-  - **Lightweight**: Minimal impact on browser performance
+  - **Mobile App**: iOS and Android apps
 
-
-  ## Supported Platforms
+  - **Offline Mode**: Work offline, sync when connected
 
 
-  Integrates with popular tools like Asana, Trello, GitHub, Jira, and many other
-  web-based productivity platforms.
+  ## Use Cases
 
 
-  ## Benefits
+  - Consultants documenting client work
 
+  - Lawyers creating detailed billing descriptions
 
-  Eliminates the friction of switching to a separate time tracking app, making
-  it more likely users will actually track time consistently by embedding the
-  feature where work happens.
+  - Freelancers tracking project progress
+
+  - Therapists keeping session notes with time
+
+  - Researchers documenting study activities
 
 
   ## Pricing
 
 
-  Free tier available with basic features. Premium plans unlock advanced
-  reporting, integrations, and team features.
-brand: Timenotes
-updated_at: 2026-03-15 01:56
+  - **Free**: Limited entries per month
+
+  - **Pro**: $8/month - Unlimited entries, all features
+
+  - **Team**: $12 per user/month - Team collaboration, shared projects
+brand: TimeNotes
+updated_at: 2026-03-18 05:22

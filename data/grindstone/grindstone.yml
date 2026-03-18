@@ -1,66 +1,70 @@
 name: Grindstone
-description: Grindstone is a Windows-based time tracking software featuring a
-  stopwatch, AFK detection, timesheets, invoicing, and custom fields, with the
-  option for a portable version and data export.
-source_url: https://en.wikipedia.org/wiki/Grindstone_(time-tracking_software)
-category: desktop-time-tracking-applications
+description: Free desktop time tracking software for Windows with game-like
+  achievements and visual task management. Combines time tracking with
+  productivity gamification and project organization.
+source_url: https://www.epiforge.com/grindstone/
+category: Time Tracking Software
 tags:
+  - free
   - windows
-  - stopwatch
-  - timesheet
-  - invoicing
-  - portable
+  - gamification
+  - desktop
+featured: false
 markdown: >-
-  # Grindstone
+  ## Overview
 
 
-  **Grindstone** is a freeware desktop time tracking application for Microsoft
-  Windows, developed by Epiforge Software. It enables users to create, organize,
-  and track time spent on tasks, making it suitable for individual and team
-  productivity management.
+  Grindstone is a free desktop time tracking application for Windows that
+  combines traditional time tracking with gamification elements. It uses
+  achievements, profiles, and visual task management to make time tracking more
+  engaging.
 
 
   ## Features
 
-  - Task List window for managing and organizing tasks
 
-  - Desktop gadget-like stopwatch for starting, stopping, and controlling timers
+  - **Free**: Completely free with no premium tiers
 
-  - AFK (away-from-keyboard) detection to pause tracking when inactive
+  - **Task Organization**: Hierarchical task breakdown
 
-  - Timesheet generation and reporting capabilities
+  - **Time Tracking**: Start/stop timers for tasks
 
-  - Invoicing features
+  - **Interruption Handling**: Pause and resume with one click
 
-  - Custom fields for tasks and time entries
+  - **Profiles**: Different configurations for different work types
 
-  - Synchronization of time tracking data for multiple users via the optional
-  paid "Task Force" service
+  - **Achievements**: Unlock achievements for productivity milestones
 
-  - Portable version available (can be run without installation)
+  - **Estimates**: Compare actual time to estimates
 
-  - Data export functionality
+  - **Idle Detection**: Automatically detect when you're away
 
-  - Available in English
+  - **Notes**: Add context to time entries
+
+  - **Reports**: Detailed time reports with charts
+
+  - **Export**: CSV export for payroll/billing
+
+  - **Offline**: Works completely offline
+
+  - **No Account Required**: All data stored locally
+
+
+  ## Gamification Elements
+
+
+  - Achievements for consistency, focus, and productivity
+
+  - Visual progress indicators
+
+  - Statistics and personal records
+
+  - Motivational feedback
 
 
   ## Pricing
 
-  - The main Grindstone application is **freeware** (free to use)
 
-  - Synchronization for multiple users is available via a paid service called
-  "Task Force"
-
-
-  ## Links
-
-  - [Official Website](http://epiforge.com/Grindstone/)
-
-  - [Wikipedia
-  Article](https://en.wikipedia.org/wiki/Grindstone_(time-tracking_software))
-
-
-  ## Tags
-
-  windows, stopwatch, timesheet, invoicing, portable
-updated_at: 2025-06-07 13:57
+  Completely free for all features.
+brand: Epiforge
+updated_at: 2026-03-18 05:22

@@ -1,55 +1,52 @@
 name: Flowmo
-description: Flexible Pomodoro timer that won't break your flow state. Unlike
-  traditional Pomodoro technique with rigid 25-minute intervals, Flowmo allows
-  you to work naturally until your focus drops, then automatically calculates
-  appropriate break times.
+description: Pomodoro and Flowtime technique timer app that adapts to natural
+  work rhythms. Combines the structure of Pomodoro with the flexibility of
+  Flowtime for optimal focus sessions.
 source_url: https://flowmo.io/
-category: Productivity Tools
+category: Productivity Tool
 tags:
-  - flowmodoro
   - pomodoro
-  - flexibility
+  - flowtime
+  - timer
+  - focus
 featured: false
 markdown: >-
   ## Overview
 
 
-  Flowmo is a flexible Pomodoro timer designed specifically to preserve flow
-  state. Instead of interrupting your work at arbitrary 25-minute intervals,
-  Flowmo lets you work as long as your concentration lasts.
+  Flowmo is a productivity timer app that supports both the traditional Pomodoro
+  Technique and the flexible Flowtime (Flowmodoro) approach. The app helps users
+  maintain focus while allowing natural work rhythms to dictate break timing.
 
 
-  ## How It Works
+  ## Features
 
 
-  Work until your focus naturally wanes, then take a break that's roughly 20% of
-  your work duration. For example, work for 60 minutes, break for 12 minutes.
+  - **Dual Timer Modes**: Switch between Pomodoro and Flowtime techniques
 
+  - **Flowtime Algorithm**: Automatically calculates break time (focus time ÷ 5)
 
-  ## Key Features
+  - **Customizable Intervals**: Set custom work and break durations
 
+  - **Statistics & Analytics**: Track focus sessions and productivity patterns
 
-  - Flexible work intervals based on natural focus
+  - **Distraction Blocking**: Optional website and app blocking during focus
 
-  - Automatic break time calculation (20% of work time)
+  - **Task Integration**: Link focus sessions to specific tasks or projects
 
-  - Flow state preservation
+  - **Break Reminders**: Gentle notifications when it's time to rest
 
-  - Session analytics
+  - **Focus Music**: Built-in ambient sounds and music for concentration
 
-  - No rigid time constraints
+  - **Cross-Platform**: Available on web, desktop, and mobile
 
-
-  ## Benefits
-
-
-  Preserves deep work by not interrupting at artificial intervals, particularly
-  useful for creative work, coding, and writing where 25 minutes is often too
-  short to achieve meaningful progress.
+  - **Session History**: Review past focus sessions and time spent
 
 
   ## Pricing
 
 
-  Web-based tool with free and premium tiers.
-updated_at: 2026-03-16 02:27
+  - **Free**: Basic timer functionality
+
+  - **Pro**: $4.99/month - Advanced features, statistics, integrations
+updated_at: 2026-03-18 05:22

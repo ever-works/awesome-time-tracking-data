@@ -1,230 +1,267 @@
 name: Maker's Schedule, Manager's Schedule
-description: Paul Graham's influential 2009 essay distinguishing between makers
-  (programmers, writers) who need long uninterrupted blocks and managers who
-  work in one-hour increments, explaining fundamental conflicts in workplace
-  time management.
+description: Essay by Paul Graham distinguishing between maker time (long
+  uninterrupted blocks) and manager time (hour-based meetings). Framework for
+  understanding different productivity needs.
 source_url: http://www.paulgraham.com/makersschedule.html
 category: Time Management Philosophy
 tags:
-  - knowledge-work
   - deep-work
   - meetings
+  - knowledge-work
   - philosophy
-featured: true
+featured: false
 markdown: >-
-  ## The Essay
+  ## Overview
 
 
-  In July 2009, Y Combinator founder Paul Graham published "Maker's Schedule,
-  Manager's Schedule," an essay that articulated why meetings are so disruptive
-  to programmers and other creative workers.
+  "Maker's Schedule, Manager's Schedule" is an influential essay by Paul Graham
+  that describes two fundamentally different approaches to organizing time.
+  Understanding this distinction helps resolve conflicts between different
+  working styles and organizational needs.
 
 
-  ## Two Types of Schedules
+  ## The Two Schedules
 
 
   ### Manager's Schedule
 
-  - Day divided into one-hour intervals
+  - **Time unit**: One hour
 
-  - Meetings, calls, check-ins
+  - **Calendar**: Divided into hour blocks
 
-  - Context switching is normal
+  - **Meetings**: The primary work
 
-  - Interrupt-driven work
+  - **Flexibility**: Easy to add meetings
 
-  - Status updates and coordination
+  - **Default mode**: Most traditional offices
+
+  - **Works for**: Executives, coordinators, sales
 
 
   ### Maker's Schedule
 
-  - Day divided into half-day blocks
+  - **Time unit**: Half-day minimum
 
-  - Long stretches of uninterrupted time
+  - **Calendar**: Large uninterrupted blocks
 
-  - Deep focus on single problem
+  - **Focus**: Deep work requiring sustained concentration
 
-  - Flow state essential
+  - **Meetings**: Disruptive and costly
 
-  - Context switching devastating
+  - **Works for**: Programmers, writers, designers, researchers
 
 
   ## The Core Insight
 
 
-  **A single meeting can blow a whole afternoon by breaking it into two pieces
-  too small for serious work.**
+  A single meeting can destroy an entire day for a maker:
 
+  - **Before meeting**: Can't start deep work (meeting looming)
 
-  For makers, a meeting at 2pm doesn't just consume one hour—it fragments the
-  entire afternoon because it's not worth starting something substantial before
-  it.
+  - **During meeting**: Not making
 
+  - **After meeting**: Hard to regain focus
 
-  ## Why Makers Need Long Blocks
 
+  For managers, meetings ARE the work, so this isn't a problem.
 
-  - Programming requires loading problem into mental RAM
 
-  - Writing demands sustained creative flow
+  ## Why It Matters
 
-  - Design needs uninterrupted visual thinking
 
-  - Research requires deep concentration
+  ### Organizational Friction
 
-  - Complex problems need time to understand
+  When makers and managers work together:
 
+  - Managers schedule meetings freely (it's just an hour)
 
-  ## The Conflict
+  - Makers experience massive disruption
 
+  - Neither understands why the other is frustrated
 
-  Managers often don't understand makers' needs:
 
-  - "It's just one hour" ignores context switching cost
+  ### Productivity Mismatch
 
-  - Back-to-back meetings work for managers
+  - Manager books 2pm meeting: "Just one hour"
 
-  - Fragmented time feels productive to managers
+  - Maker loses entire afternoon: "Can't start deep work before meeting"
 
-  - Different work modes create friction
+  - Manager sees maker as inflexible
 
+  - Maker sees manager as inconsiderate
 
-  ## Solutions Graham Proposes
 
+  ## Solutions
 
-  ### For Makers
 
-  - Office hours for meetings
+  ### Office Hours
 
-  - Batch all meetings into one day
+  - Makers designate specific times for meetings
 
-  - Communicate needs clearly
+  - Protect rest of calendar for deep work
 
-  - Protect maker time
+  - Managers know when makers are available
 
+  - Example: "Meetings only 2-5pm Tuesdays/Thursdays"
 
-  ### For Managers
 
-  - Understand the maker schedule
+  ### Meeting Days
 
-  - Batch meetings for makers
+  - Cluster all meetings on specific days
 
-  - Respect "no meeting" days
+  - Preserve other days for maker time
 
-  - Ask before scheduling
+  - Accept some days will be meeting-heavy
 
+  - Example: "Meeting Mondays and Fridays, making Tuesday-Thursday"
 
-  ### For Organizations
 
-  - Meeting-free days or times
+  ### Time Blocking
 
-  - Maker-friendly policies
+  - Block large chunks (4+ hours) on calendar
 
-  - Asynchronous communication
+  - Treat blocks as unmovable
 
-  - Default to protecting maker time
+  - Schedule meetings around blocks
 
+  - Protect morning hours for deep work
 
-  ## Influence on Workplace Culture
 
+  ### Asynchronous Communication
 
-  The essay influenced:
+  - Default to written communication
 
-  - "No meeting Wednesday" policies
+  - Use meetings only when truly necessary
 
-  - Deep work time protection
+  - Record meetings for those who can't attend
 
-  - Remote work philosophies
+  - Reduce total meetings
 
-  - Asynchronous communication norms
 
-  - Understanding of knowledge work
+  ### Batch Meetings
 
+  - Schedule back-to-back rather than scattered
 
-  ## Modern Relevance
+  - One 4-hour meeting block better than 4 separate hours
 
+  - Preserve uninterrupted blocks
 
-  With remote work:
 
-  - Easier to protect maker time
+  ## For Makers
 
-  - But also more meetings (Zoom fatigue)
 
-  - Asynchronous tools help (Slack, Notion)
+  ### Protect Your Schedule
 
-  - But always-on culture persists
+  - Block maker time in advance
 
+  - Be explicit about your needs
 
-  ## Beyond Tech
+  - Educate managers about maker time
 
+  - Suggest office hours for ad-hoc discussions
 
-  Applies to any deep work:
 
-  - Writers and journalists
+  ### Strategic Meeting Acceptance
 
-  - Researchers and scientists
+  - Accept meetings clustered on certain days
 
-  - Designers and artists
+  - Decline meetings that fragment maker time
 
-  - Strategists and analysts
+  - Suggest async alternatives
 
-  - Anyone doing complex cognitive work
+  - Propose different timing
 
 
-  ## Key Quote
+  ### Recovery Time
 
+  - Build buffer time after meetings
 
-  "When you're operating on the maker's schedule, meetings are a disaster. A
-  single meeting can blow a whole afternoon, by breaking it into two pieces each
-  too small to do anything hard in."
+  - Don't schedule deep work immediately after
 
+  - Use post-meeting time for shallow tasks
 
-  ## Integration with Other Concepts
 
+  ## For Managers
 
-  Connects to:
 
-  - Deep Work (Cal Newport)
+  ### Respect Maker Time
 
-  - Flow state (Mihaly Csikszentmihalyi)
+  - Understand the cost of interrupting makers
 
-  - Ultradian rhythms (90-minute cycles)
+  - Cluster meetings on specific days when possible
 
-  - Time blocking methods
+  - Ask before booking random times
 
-  - Async-first communication
+  - Consider async alternatives
 
 
-  ## Practical Implementation
+  ### Create Policies
 
+  - No-meeting days or blocks
 
-  ### Individual Level
+  - Office hours for makers
 
-  - Block calendar for maker time
+  - Meeting-heavy vs maker-heavy days
 
-  - Communicate schedule preferences
+  - Async-first communication culture
 
-  - Decline unnecessary meetings
 
-  - Batch administrative work
+  ### Lead by Example
 
+  - Block your own maker time if you have maker work
 
-  ### Team Level
+  - Demonstrate respect for deep work
 
-  - Agree on core collaboration hours
+  - Question meeting necessity
 
-  - Protect individual maker time
 
-  - Use async for non-urgent items
+  ## Hybrid Roles
 
-  - Respect focus boundaries
 
+  Many people need both:
 
-  ## The Essay's Legacy
+  - **Morning maker, afternoon manager**: Deep work mornings, meetings
+  afternoons
 
+  - **Day theming**: Maker days and manager days
 
-  Graham's essay gave a name and framework to something makers intuitively knew,
-  helping them articulate needs and helping managers understand why "just one
-  meeting" isn't actually "just one hour."
-brand: Paul Graham
-updated_at: 2026-03-17 19:47
+  - **Project-dependent**: Switch modes based on current priorities
+
+
+  ## Modern Applications
+
+
+  ### Remote Work
+
+  - Easier to protect maker time (fewer drop-ins)
+
+  - But also more meetings (video calls replace conversation)
+
+  - Need explicit calendar blocking
+
+
+  ### Async-First Culture
+
+  - Reduces meetings
+
+  - Supports maker schedules
+
+  - Requires good documentation
+
+
+  ### Deep Work Renaissance
+
+  - Cal Newport's work builds on this concept
+
+  - Growing recognition of maker time value
+
+  - Companies experimenting with no-meeting days
+
+
+  ## Key Takeaway
+
+
+  The cost of a meeting is not the meeting duration - it's the disruption to the
+  entire block of time around it. Understanding this helps both makers and
+  managers work more effectively together.
+updated_at: 2026-03-18 05:22

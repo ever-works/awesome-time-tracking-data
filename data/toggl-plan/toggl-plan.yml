@@ -1,58 +1,74 @@
 name: Toggl Plan
-description: Visual project planning and team scheduling tool with built-in time
-  tracking integration. Formerly Teamweek, it provides drag-and-drop timeline
-  planning with resource management.
-source_url: https://toggl.com/plan
+description: Visual project planning and team scheduling tool with timeline
+  views and resource management. Separate from Toggl Track, focuses on planning
+  rather than time tracking.
+source_url: https://toggl.com/plan/
 category: Project Management
 tags:
-  - planning
   - visual
-  - teams
+  - planning
+  - team-collaboration
+  - scheduling
 featured: false
 markdown: >-
   ## Overview
 
 
   Toggl Plan (formerly Teamweek) is a visual project planning and team
-  scheduling tool from the makers of Toggl Track. It provides an intuitive
-  timeline view for planning projects and managing team capacity.
+  scheduling tool from Toggl. Unlike Toggl Track which focuses on time tracking,
+  Toggl Plan emphasizes planning, timelines, and resource allocation with a
+  visual drag-and-drop interface.
 
 
   ## Features
 
 
-  - **Visual Timeline**: Drag-and-drop project planning
+  - **Visual Timeline**: Drag-and-drop Gantt-style planning
 
   - **Team Scheduling**: See who's working on what and when
 
-  - **Resource Management**: Track team capacity and availability
+  - **Resource Management**: Balance workload across team
 
-  - **Milestones**: Set and track project milestones
+  - **Milestones**: Track project deadlines and key dates
 
-  - **Task Management**: Create and assign tasks to team members
+  - **Color Coding**: Visual project and task differentiation
 
-  - **Time Estimates**: Add time estimates to tasks
+  - **Team Calendar**: Shared team availability and schedules
 
-  - **Color Coding**: Visual organization with custom colors
+  - **Time Estimates**: Plan with duration estimates
 
-  - **Team Availability**: Track time off and holidays
+  - **Collaboration**: Comments, file attachments, task discussions
 
-  - **Integrations**: Connects with Toggl Track for time tracking
+  - **Multiple Views**: Timeline, list, and board views
 
-  - **Templates**: Reusable project templates
+  - **Capacity Planning**: Avoid overallocation
 
-  - **Client Access**: Share roadmaps with clients
+  - **Integrations**: Connects with Toggl Track, Slack, Google Calendar
 
-  - **Multiple Views**: Timeline, board, and list views
+  - **Mobile Apps**: iOS and Android
+
+
+  ## Use Cases
+
+
+  - Project planning and visualization
+
+  - Team capacity management
+
+  - Resource allocation
+
+  - Timeline communication
+
+  - Workload balancing
 
 
   ## Pricing
 
 
-  - **Team**: $8/user/month - Full features for teams
+  - **Free**: Up to 5 team members
 
-  - **Business**: $13.35/user/month - Advanced features and support
+  - **Team**: $8 per user/month - Unlimited teams and projects
 
-  - 14-day free trial available
+  - **Business**: $13.35 per user/month - Advanced features
 brand: Toggl
-updated_at: 2026-03-17 15:16
+updated_at: 2026-03-18 05:22
