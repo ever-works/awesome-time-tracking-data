@@ -984,3 +984,7 @@
   name: Text Based
 - id: team-management
   name: Team Management
+- id: purpose-driven
+  name: Purpose Driven
+- id: chronotype
+  name: Chronotype
