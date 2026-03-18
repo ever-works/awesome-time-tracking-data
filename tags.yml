@@ -1076,3 +1076,11 @@
   name: To Do List
 - id: quick-action
   name: Quick Action
+- id: mental-clarity
+  name: Mental Clarity
+- id: microsoft
+  name: Microsoft
+- id: market-research
+  name: Market Research
+- id: trends
+  name: Trends
