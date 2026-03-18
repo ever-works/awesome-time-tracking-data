@@ -1,114 +1,63 @@
 name: Jibble
-description: Free time and attendance tracking software with facial recognition,
-  GPS tracking, and comprehensive reporting features, designed for teams of all
-  sizes with unlimited users on free plan.
-source_url: https://www.jibble.io
+description: 100% free time and attendance tracking software with unlimited
+  users. Offers facial recognition time clock, GPS tracking, and comprehensive
+  scheduling features without subscription costs.
+source_url: https://www.jibble.io/
 category: Time Tracking Software
 tags:
   - free
   - facial-recognition
-  - gps-tracking
+  - attendance-tracking
 markdown: >-
   ## Overview
 
 
-  Jibble is a free time tracking and attendance app that offers advanced
-  features like facial recognition and GPS tracking without charging per user,
-  making it accessible for teams of any size.
+  Jibble is a completely free time and attendance tracking solution that allows
+  unlimited users without subscription fees. It provides enterprise-grade
+  features including facial recognition, GPS tracking, and scheduling tools,
+  making it accessible for businesses of all sizes.
 
 
-  ## Key Features
+  ## Features
 
 
-  **Time Tracking:**
+  - **Facial Recognition Clock-In**: Use biometric facial recognition for secure
+  and accurate employee clock-ins
 
-  - Web, mobile, and kiosk time clock
+  - **GPS and Geofencing**: Track employee locations and set geofences to ensure
+  clock-ins happen at designated sites
 
-  - Facial recognition for clock in/out
+  - **Unlimited Users**: Add unlimited team members without additional costs
 
-  - GPS location tracking
+  - **Timesheet Management**: Automatically generate accurate timesheets from
+  clock-in data
 
-  - Offline time tracking
+  - **Shift Scheduling**: Create and manage employee schedules with availability
+  tracking
 
-  - Project and task time tracking
+  - **Activity Tracking**: Monitor time spent on specific tasks, projects, and
+  clients
 
-  - Multiple timesheets
+  - **Leave Management**: Track vacation requests, sick days, and other leave
+  types
 
+  - **Payroll Exports**: Export timesheet data to popular payroll systems
 
-  **Attendance Management:**
+  - **Mobile Apps**: iOS and Android apps for on-the-go time tracking
 
-  - Automatic attendance calculations
+  - **Integrations**: Connect with tools like Notion, Slack, and payroll
+  software
 
-  - Leave management
-
-  - Break tracking
-
-  - Overtime calculations
-
-  - Schedule management
-
-
-  **Reporting:**
-
-  - Detailed timesheets
-
-  - Activity reports
-
-  - Location tracking reports
-
-  - Export to payroll
-
-  - Custom reports
-
-
-  **Team Features:**
-
-  - Unlimited members on free plan
-
-  - Team activity dashboard
-
-  - Multiple locations/departments
-
-  - Geofencing
-
-  - Notifications and alerts
-
-
-  ## Unique Advantages
-
-
-  - Completely free for unlimited users
-
-  - No feature limitations on free plan
-
-  - Facial recognition included
-
-  - GPS tracking included
-
-  - Generous free offering
+  - **Multi-Platform**: Available on web, mobile, tablet, and kiosk modes
 
 
   ## Pricing
 
 
-  **Free Forever Plan:**
-
-  - Unlimited users
-
-  - All core features
-
-  - Facial recognition
-
-  - GPS tracking
-
-  - Mobile apps
-
-
-  **Premium Plans:**
-
-  - Advanced integrations
-
-  - Priority support
-
-  - Custom branding
-updated_at: 2026-03-17 08:54
+  Jibble offers a generous free-forever plan that includes unlimited users,
+  projects, and clients without subscription fees. Premium features are
+  available for businesses requiring advanced reporting, integrations, or custom
+  branding, with paid plans starting around $2.49 per user per month.
+brand: Jibble Group
+brand_logo_url: https://www.jibble.io/wp-content/uploads/2023/01/jibble-logo.svg
+updated_at: 2026-03-18 12:30

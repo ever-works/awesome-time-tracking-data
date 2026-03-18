@@ -1,133 +1,72 @@
 name: Insightful
-description: Workforce analytics and time tracking platform that helps remote
-  and hybrid teams optimize productivity through AI-powered insights, activity
-  monitoring, and operational intelligence.
-source_url: https://www.insightful.io
+description: Workforce analytics and employee monitoring platform that combines
+  time tracking with productivity insights. Designed for remote and hybrid teams
+  to balance productivity measurement with privacy considerations.
+source_url: https://www.insightful.io/
 category: Employee Monitoring
 tags:
+  - productivity-analytics
   - workforce-analytics
-  - ai-powered
-  - remote-teams
+  - remote-work
 markdown: >-
   ## Overview
 
 
-  Insightful (formerly Workpuls) is a workforce analytics platform that combines
-  time tracking with productivity monitoring and operational intelligence,
-  designed for remote and hybrid teams.
+  Insightful is a comprehensive workforce analytics platform that combines
+  automatic time tracking with detailed productivity monitoring. Designed for
+  modern remote and hybrid workforces, it provides managers with visibility into
+  employee activities while maintaining a balance with privacy concerns.
 
 
-  ## Time Tracking
+  ## Features
 
 
-  - Automatic time tracking
+  - **Automatic Time Tracking**: Capture time spent across all applications and
+  websites without manual input
 
-  - Manual time entry
+  - **Productivity Monitoring**: Categorize activities as productive,
+  unproductive, or neutral based on customizable rules
 
-  - Project and task time allocation
+  - **Screenshots**: Optional screenshot capture at configurable intervals for
+  accountability
 
-  - Attendance monitoring
+  - **Activity Levels**: Track keyboard and mouse activity to measure engagement
 
-  - Real-time tracking
+  - **Project and Task Time**: Allocate tracked time to specific projects,
+  clients, or tasks
 
-  - Historical data analysis
+  - **Real-Time Dashboard**: Monitor team activity and productivity in real-time
 
+  - **Attendance Tracking**: Track employee sign-in/sign-out times and breaks
 
-  ## Productivity Monitoring
+  - **Detailed Reports**: Generate comprehensive reports on productivity trends,
+  time allocation, and attendance
 
+  - **Stealth Mode**: Optional invisible monitoring for specific use cases
 
-  **Activity Tracking:**
-
-  - Application usage monitoring
-
-  - Website tracking
-
-  - Active vs. idle time
-
-  - Productivity categorization
-
-  - Screenshots (configurable)
-
-  - Real-time activity view
-
-
-  **AI-Powered Insights:**
-
-  - Productivity trends
-
-  - Focus time analysis
-
-  - Workload distribution
-
-  - Efficiency recommendations
-
-  - Burnout risk detection
-
-
-  ## Workforce Analytics
-
-
-  - Team performance metrics
-
-  - Utilization rates
-
-  - Time allocation reports
-
-  - Productivity benchmarks
-
-  - Capacity planning
-
-  - Resource optimization
-
-
-  ## Compliance & Privacy
-
-
-  - GDPR compliant
-
-  - Configurable monitoring levels
-
-  - Employee transparency options
-
-  - Data security standards
-
-  - Role-based access control
+  - **Integrations**: Connect with project management tools and payroll systems
 
 
   ## Use Cases
 
 
-  - Remote team management
+  - Remote team management and accountability
 
-  - Hybrid workforce coordination
+  - Productivity benchmarking and improvement
 
-  - Project time tracking
+  - Project time allocation and profitability analysis
 
-  - Productivity optimization
+  - Compliance and attendance tracking
 
-  - Resource planning
-
-  - Compliance monitoring
-
-
-  ## Integrations
-
-
-  - Project management tools
-
-  - HR systems
-
-  - Payroll software
-
-  - Calendar applications
+  - Identifying workflow inefficiencies
 
 
   ## Pricing
 
 
-  Starts at $6.40/user/month
-
-  Multiple plans based on features
-
-  Free trial available
-updated_at: 2026-03-17 08:54
+  Insightful offers tiered pricing based on features and team size. Plans
+  typically start around $6.40 per user per month for basic time tracking, with
+  advanced monitoring and analytics features available in higher tiers ranging
+  from $12 to $18+ per user per month.
+brand: Insightful
+updated_at: 2026-03-18 12:30

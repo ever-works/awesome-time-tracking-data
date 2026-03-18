@@ -1,79 +1,82 @@
 name: WorkTime
-description: Non-invasive employee monitoring software tracking productivity
-  without capturing screenshots or personal content, offering GDPR, HIPAA, and
-  GLBA compliance for privacy-conscious organizations.
+description: Non-invasive employee monitoring software with built-in compliance
+  for HIPAA, GDPR, and GLBA. Focuses on productivity insights without invasive
+  surveillance practices like screenshots or keystroke logging.
 source_url: https://www.worktime.com/
 category: Employee Monitoring
 tags:
-  - employee-monitoring
-  - privacy-focused
   - compliance
+  - privacy-first
+  - productivity-analytics
 markdown: >-
   ## Overview
 
 
-  WorkTime is described as the only unique non-invasive, pure productivity
-  monitoring software on the market, focusing exclusively on productivity
-  metrics while respecting employee privacy.
+  WorkTime is an employee monitoring solution designed with privacy and
+  compliance at its core. Unlike invasive monitoring tools, WorkTime focuses on
+  productivity metrics without capturing screenshots, recording keystrokes, or
+  accessing personal data, making it compliant with HIPAA, GDPR, and GLBA
+  regulations.
 
 
-  ## Key Features
+  ## Features
 
 
-  ### Non-Invasive Monitoring
+  - **Non-Invasive Monitoring**: Track productivity without screenshots,
+  keystroke logging, or webcam access
 
-  - NO screenshots
+  - **Application and Website Tracking**: Monitor which applications and
+  websites employees use and for how long
 
-  - NO keystroke content  
+  - **Active/Idle Time**: Distinguish between active working time and idle
+  periods
 
-  - NO email or chat data
+  - **Productivity Analysis**: Categorize activities as productive,
+  unproductive, or neutral
 
-  - NO camera tracking
+  - **Attendance Tracking**: Monitor arrival times, departures, and breaks
 
+  - **Compliance Modes**: Built-in HIPAA, GDPR, and GLBA compliance features
 
-  ### What It Tracks
+  - **Off-Hours Detection**: Identify employees working outside standard hours
 
-  - Active and idle time
+  - **Team Performance Reports**: Generate detailed reports on individual and
+  team productivity
 
-  - Login/logout times
+  - **Alerts and Notifications**: Set up custom alerts for specific productivity
+  patterns
 
-  - Application and website usage
-
-  - Attendance
-
-  - 80+ productivity reports
-
-
-  ## Compliance
-
-
-  - HIPAA compliance mode
-
-  - GDPR compliance mode
-
-  - GLBA compliance mode
-
-  - Suitable for regulated industries
+  - **Cloud and On-Premise**: Available in both cloud-hosted and on-premise
+  deployment options
 
 
-  ## Deployment
+  ## Privacy Approach
 
 
-  - Cloud-based (WorkTime Cloud)
+  WorkTime emphasizes "green" or ethical monitoring, collecting only the data
+  necessary for productivity analysis while respecting employee privacy. The
+  software does not access file contents, emails, personal communications, or
+  capture visual records of employee screens.
 
-  - On-premises installation
 
-  - Works for remote and on-site teams
+  ## Use Cases
+
+
+  - Organizations requiring HIPAA, GDPR, or GLBA compliance
+
+  - Companies wanting productivity insights without invasive surveillance
+
+  - Remote team management with privacy considerations
+
+  - Healthcare, finance, and legal sectors with strict data protection
+  requirements
 
 
   ## Pricing
 
 
-  $6.99/employee/month:
-
-  - Free for up to 3 employees
-
-  - 14-day free trial (all features)
-
-  - No credit card required
-updated_at: 2026-03-14 18:50
+  WorkTime offers flexible pricing starting around $6 per user per month for
+  cloud deployment and $200+ for on-premise licenses. Pricing varies based on
+  deployment type, number of users, and support level.
+brand: NesterSoft Inc.
+updated_at: 2026-03-18 12:30
