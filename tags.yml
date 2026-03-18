@@ -738,3 +738,35 @@
   name: Self Discipline
 - id: time-boxing
   name: Time Boxing
+- id: wearable
+  name: Wearable
+- id: circadian-rhythms
+  name: Circadian Rhythms
+- id: sleep-tracking
+  name: Sleep Tracking
+- id: scientific
+  name: Scientific
+- id: analog
+  name: Analog
+- id: personalization
+  name: Personalization
+- id: distraction-blocking
+  name: Distraction Blocking
+- id: windows
+  name: Windows
+- id: policy
+  name: Policy
+- id: atomic-habits
+  name: Atomic Habits
+- id: local
+  name: Local
+- id: portable
+  name: Portable
+- id: behavioral-economics
+  name: Behavioral Economics
+- id: elimination
+  name: Elimination
+- id: fragmentation
+  name: Fragmentation
+- id: note-taking
+  name: Note Taking
