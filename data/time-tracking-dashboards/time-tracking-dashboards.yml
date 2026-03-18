@@ -1,63 +1,104 @@
 name: Time Tracking Dashboards
-description: Visual interfaces displaying time tracking data through charts,
-  graphs, and metrics. Provides at-a-glance insights into productivity patterns,
-  project progress, and resource utilization for individuals and teams.
-source_url: https://www.paymoapp.com/
+description: Visual interface displaying real-time time tracking metrics,
+  charts, and KPIs. Provides at-a-glance visibility into hours worked, project
+  progress, team utilization, and budget consumption for managers and
+  executives.
+source_url: https://www.timely.com/features/dashboards
 category: Time Tracking Software
 tags:
   - reporting
-  - analytics
   - visualization
-featured: false
+  - management
 markdown: >-
   ## Overview
 
 
-  Time tracking dashboards transform raw time data into visual insights through
-  charts, graphs, and key metrics. They enable quick comprehension of
-  productivity patterns, project status, and team utilization.
+  Time tracking dashboards provide visual, real-time summaries of time data
+  through charts, graphs, and key metrics. These interfaces give managers,
+  project leads, and executives instant visibility into team productivity,
+  project status, and resource utilization without navigating detailed reports.
 
 
-  ## Common Visualizations
+  ## Common Dashboard Widgets
 
 
-  - Time distribution by project/client
+  ### Time Metrics
 
-  - Daily/weekly/monthly trend charts
+  - Total hours logged today/week/month
 
-  - Team capacity and utilization
+  - Hours by project or client
 
-  - Budget vs. actual comparisons
+  - Billable vs. non-billable breakdown
 
-  - Productivity heatmaps
+  - Overtime hours trending
 
-  - Billable vs. non-billable time ratios
+
+  ### Project Status
+
+  - Budget consumption vs. completion
+
+  - Time remaining on projects
+
+  - Projects at risk of overrun
+
+  - Burn rate indicators
+
+
+  ### Team Utilization
+
+  - Individual team member hours
+
+  - Utilization rates by person
+
+  - Who's over/under allocated
+
+  - Capacity availability
+
+
+  ### Financial Metrics
+
+  - Revenue from tracked time
+
+  - Profitability by project
+
+  - Realization rates
+
+  - Billing status
 
 
   ## Benefits
 
 
-  - Quick insights without manual analysis
+  - **Real-Time Visibility**: Current status always available
 
-  - Pattern identification across time periods
+  - **Quick Decisions**: Data-driven insights at a glance
 
-  - Real-time project health monitoring
+  - **Exception Identification**: Spot problems immediately
 
-  - Team performance visibility
+  - **Executive Communication**: High-level summaries for leadership
 
-  - Data-driven decision making
-
-
-  ## Use Cases
+  - **Team Awareness**: Transparency on workload
 
 
-  - Project managers monitoring progress
+  ## Dashboard Types
 
-  - Agency leaders tracking utilization
 
-  - Individuals analyzing personal productivity
+  ### Individual Dashboard
 
-  - Teams identifying bottlenecks
+  Personal time summary, current timer, recent projects
 
-  - Executives reviewing resource allocation
-updated_at: 2026-03-17 01:41
+
+  ### Team Dashboard
+
+  Team utilization, project allocations, capacity planning
+
+
+  ### Project Dashboard
+
+  Single project deep-dive with budget, team, timeline
+
+
+  ### Executive Dashboard
+
+  High-level business metrics across all projects and teams
+updated_at: 2026-03-18 22:22

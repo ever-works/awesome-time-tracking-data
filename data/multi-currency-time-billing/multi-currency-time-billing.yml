@@ -1,107 +1,66 @@
 name: Multi-Currency Time Billing
-description: Practice of tracking time and billing clients in different
-  currencies for international businesses, with automatic conversion, exchange
-  rate management, and local invoicing compliance.
+description: Time tracking and invoicing capability that handles multiple
+  currencies for international clients. Automatically converts billable hours to
+  client's preferred currency using current exchange rates, essential for global
+  professional services firms.
 source_url: https://www.freshbooks.com/multi-currency-invoicing
-category: Practices
+category: Time Tracking Practice
 tags:
   - international
   - billing
-  - currency
-featured: false
+  - invoicing
 markdown: >-
   ## Overview
 
 
-  Multi-currency time billing enables businesses to track time and bill
-  international clients in their local currencies while maintaining accurate
-  financial records and managing exchange rate fluctuations.
+  Multi-currency time billing enables professional services firms to track time
+  in one currency while billing clients in their preferred currency. The system
+  handles currency conversion, exchange rate fluctuations, and maintains
+  accurate financial records across multiple currencies.
 
 
-  ## Key Challenges
+  ## Key Features
 
 
-  ### Exchange Rate Management
+  - Automatic currency conversion at current exchange rates
 
-  - Rates fluctuate daily
+  - Support for 100+ global currencies
 
-  - When to lock in rates (invoice date vs. payment date)
+  - Client-specific currency preferences
 
-  - Gains/losses on currency conversion
+  - Historical exchange rate tracking
 
-  - Historical rate tracking
+  - Multi-currency financial reporting
 
-
-  ### Compliance
-
-  - Local invoicing requirements
-
-  - Tax regulations vary by country
-
-  - VAT/GST considerations
-
-  - Payment method restrictions
+  - Currency symbol and format localization
 
 
-  ## Best Practices
+  ## Benefits
 
 
-  ### Rate Strategy
+  - Simplifies international billing
 
-  - Lock rate at invoice generation
+  - Reduces manual conversion errors
 
-  - Update rates daily automatically
+  - Provides professional client experience
 
-  - Manual override when needed
+  - Ensures accurate financial records
 
-  - Clear rate disclosure on invoices
+  - Handles exchange rate fluctuations
 
-
-  ### Invoicing
-
-  - Bill in client's preferred currency
-
-  - Show equivalent in home currency
-
-  - Include exchange rate used
-
-  - Comply with local formats
+  - Supports global business expansion
 
 
-  ### Financial Tracking
-
-  - Track both currencies
-
-  - Reconcile forex gains/losses
-
-  - Report in home currency
-
-  - Maintain currency-specific accounts
+  ## Common Use Cases
 
 
-  ## Tools Supporting Multi-Currency
+  - International consulting firms
 
+  - Remote teams serving global clients
 
-  - FreshBooks
+  - Digital agencies with worldwide clientele
 
-  - Xero
+  - Legal firms with cross-border practice
 
-  - Zoho Books
-
-  - QuickBooks Online (Advanced)
-
-  - Harvest (via integrations)
-
-
-  Features needed:
-
-  - Multi-currency support
-
-  - Automatic rate updates
-
-  - Currency-specific pricing
-
-  - Localized invoicing
-
-  - Financial reporting in multiple currencies
-updated_at: 2026-03-16 19:07
+  - Freelancers working with international companies
+updated_at: 2026-03-18 22:22
