@@ -1,72 +1,225 @@
 name: Be Focused
-description: Pomodoro timer and task management app for Mac and iOS. Combines
-  timer functionality with to-do lists, goals, and productivity reports for
-  comprehensive time management.
-source_url: https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html
+description: Pomodoro timer and task management app for Mac, iPhone, and iPad
+  combining timer functionality with to-do lists. Features customizable
+  work/break intervals, task tracking, goal setting, and productivity reports in
+  clean Apple-style interface.
+source_url: https://apps.apple.com/app/be-focused-focus-timer/id973134470
 category: Productivity Tool
 tags:
   - pomodoro
-  - mac
-  - ios
+  - apple
+  - timer
 featured: false
 markdown: >-
   ## Overview
 
 
-  Be Focused is a Pomodoro timer and productivity app for Apple devices that
-  helps you maintain focus through timed work sessions. It combines the Pomodoro
-  Technique with task management and tracking features.
-
-
-  ## Features
-
-
-  - **Pomodoro Timer**: 25-minute work sessions with breaks
-
-  - **Task Management**: Integrated to-do list
-
-  - **Custom Durations**: Adjust work and break lengths
-
-  - **Goals**: Set daily and long-term goals
-
-  - **Statistics**: Track productivity over time
-
-  - **Sounds**: Customizable timer sounds
-
-  - **Menu Bar**: Quick access from Mac menu bar
-
-  - **Notifications**: Alerts for breaks and sessions
-
-  - **Shortcuts**: Keyboard controls
-
-  - **iCloud Sync**: Sync across Mac, iPhone, and iPad
-
-  - **Reports**: Daily and weekly productivity reports
-
-  - **Export**: Export data to CSV
+  Be Focused is a Pomodoro timer application for Apple platforms that combines
+  timer functionality with task management. It helps users break work into
+  focused intervals with regular breaks while tracking tasks and generating
+  productivity insights, all in a clean interface that follows Apple design
+  guidelines.
 
 
   ## Pomodoro Features
 
 
-  - Standard 25/5 minute work/break pattern
+  ### Timer Functionality
 
-  - Longer breaks after 4 pomodoros
+  - Customizable work intervals (default 25 min)
 
-  - Customizable intervals
+  - Short breaks (default 5 min)
 
-  - Auto-start next session option
+  - Long breaks (default 15 min)
+
+  - Configurable long break frequency
+
+  - Audio/visual notifications
+
+  - Auto-start options
+
+
+  ### Focus Sessions
+
+  - Start timer for specific task
 
   - Pause and resume
+
+  - Skip breaks if needed
+
+  - Manual completion
+
+  - Session history
+
+
+  ## Task Management
+
+
+  ### To-Do Integration
+
+  - Create tasks and projects
+
+  - Assign Pomodoros to tasks
+
+  - Track estimated vs actual sessions
+
+  - Task notes and details
+
+  - Subtasks and projects
+
+  - Priority levels
+
+
+  ### Task Organization
+
+  - Project grouping
+
+  - Today view
+
+  - Scheduled tasks
+
+  - Completed history
+
+  - Archive completed
+
+
+  ## Productivity Tracking
+
+
+  ### Statistics
+
+  - Completed Pomodoros per day/week/month
+
+  - Time per task and project
+
+  - Productivity trends
+
+  - Most productive hours
+
+  - Goal achievement
+
+
+  ### Goals
+
+  - Daily Pomodoro goals
+
+  - Task completion targets
+
+  - Streak tracking
+
+  - Progress visualization
+
+
+  ## Apple Platform Features
+
+
+  ### Cross-Device Sync
+
+  - iCloud synchronization
+
+  - Mac, iPhone, iPad
+
+  - Real-time updates
+
+  - Seamless continuity
+
+
+  ### Platform-Specific
+
+  - **Mac**: Menu bar access, notifications
+
+  - **iPhone**: Widget, Apple Watch
+
+  - **iPad**: Split view support
+
+  - **Apple Watch**: Glances, complications
+
+
+  ### Design
+
+  - Native Apple interface
+
+  - Clean and minimal
+
+  - Dark mode support
+
+  - Customizable themes
+
+
+  ## Customization
+
+
+  ### Timer Settings
+
+  - Work duration
+
+  - Short break duration
+
+  - Long break duration
+
+  - Sessions until long break
+
+  - Auto-start behavior
+
+
+  ### Sounds & Alerts
+
+  - Notification sounds
+
+  - Volume control
+
+  - Visual alerts
+
+  - Silent mode
+
+
+  ## Pro Version Features
+
+
+  - Unlimited tasks
+
+  - Full statistics
+
+  - CSV export
+
+  - No ads
+
+  - Priority support
+
+
+  ## Use Cases
+
+
+  - Deep work sessions
+
+  - Study periods
+
+  - Task-based time tracking
+
+  - Pomodoro Technique practice
+
+  - Productivity habit building
 
 
   ## Pricing
 
 
-  - **Be Focused**: Free - Basic Pomodoro timer
+  Freemium model:
 
-  - **Be Focused Pro**: $9.99 one-time - Advanced features and sync
+  - Free version with limitations
 
-  - Available on Mac App Store and iOS App Store
-brand: Xwavesoft
-updated_at: 2026-03-17 15:16
+  - Pro version via in-app purchase
+
+  - One-time payment
+
+  - Available on all owned devices
+
+
+  ## Ideal For
+
+
+  Apple ecosystem users, Pomodoro Technique practitioners, students and
+  knowledge workers, individuals wanting task-timer integration, people seeking
+  simple clean interface, and users preferring one-time purchase over
+  subscription.
+updated_at: 2026-03-18 18:45

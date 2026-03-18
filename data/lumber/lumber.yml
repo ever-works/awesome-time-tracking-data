@@ -1,93 +1,67 @@
 name: Lumber
-description: AI-powered construction workforce management platform that
-  automates workforce hiring, job scheduling, time tracking, job costing,
-  payroll, and benefits management specifically designed for construction teams
-  and contractors.
-source_url: https://www.lumberfi.com/
-category: Construction
+description: Custom-built time tracking software designed specifically for the
+  construction industry. Features offline mode, real-time job costing,
+  AI-powered photo verification, and geo-fencing capabilities tailored for field
+  crews and construction project management.
+source_url: https://www.lumber.app/
+category: Industry Specific Time Tracking
 tags:
-  - AI-powered
   - construction
-  - workforce-management
+  - mobile
+  - offline-tracking
 featured: false
 markdown: >-
   ## Overview
 
 
-  Lumber is the industry's leading all-in-one construction workforce management
-  platform that streamlines payroll, time tracking, safety, compliance, field
-  productivity, rewards, and recognition. The platform transforms payroll,
-  hiring, benefits admin and timekeeping for construction teams with AI at its
-  core.
+  Lumber is a construction-focused time tracking and workforce management
+  platform built to handle the unique challenges of field-based teams. The
+  software combines accurate time tracking with job costing, crew messaging, and
+  compliance features specifically designed for construction workflows.
 
 
   ## Features
 
 
-  ### Time Tracking
+  - **Offline Mode**: Continue tracking time and location even without cell
+  service, with automatic sync when connectivity returns
 
-  - Mobile app-based clock in/out with geofencing capabilities
+  - **Real-Time Job Costing**: Track labor costs as they happen with immediate
+  visibility into project budgets
 
-  - Automatic notifications when employees enter predefined virtual boundaries
+  - **AI-Powered Photo Verification**: Use facial recognition and liveness
+  detection to prevent buddy punching
 
-  - Offline functionality allowing employees to clock in/out without internet
+  - **Geo-Fencing**: Automatic clock-in/out based on arrival at job sites
 
-  - Automatic data syncing once connectivity is restored
+  - **Two-Way Crew Messaging**: Direct communication between office staff and
+  field crews
 
-  - Real-time visibility into crew locations and hours worked
+  - **Foreman Mode**: Allow crew leaders to manage team time entries on-site
 
+  - **Multi-Lingual Support**: Interface available in multiple languages for
+  diverse crews
 
-  ### AI-Powered Automation
-
-  - HR AI Agent for workforce management
-
-  - Payroll AI Agent that automates wage calculations and compliance
-
-  - Safety AI Agent ensuring OSHA compliance and tracking worker fatigue
-
-  - Autonomous AI agents that interact with real-time digital representations of
-  construction sites
+  - **Meal Break Compliance**: Automatic enforcement of required break periods
 
 
-  ### Workforce Management
-
-  - Automated hiring and onboarding
-
-  - Job scheduling and dispatch
-
-  - Job costing and budget tracking
-
-  - Benefits administration
-
-  - Safety and compliance management
-
-  - Rewards and recognition programs
+  ## Benefits for Construction
 
 
-  ### Integrations
+  - Eliminates paper timesheets and reduces administrative overhead
 
-  - Seamless integration with Acumatica
+  - Provides accurate job costing for better project bidding
 
-  - Payroll system integrations
+  - Prevents time theft with GPS and photo verification
 
-  - Construction project management tools
+  - Ensures compliance with labor regulations
 
-
-  ## Pricing
-
-
-  Pricing information is available upon request through their sales team.
+  - Works reliably in areas with poor connectivity
 
 
-  ## Recent Recognition
+  ## Integration
 
 
-  - Series A funding of $15.5 million led by Foundation Capital (March 2025)
-
-  - Named Acumatica's Alliance Partner of the Year (January 2026)
-
-  - Honored with Presidents Club award for highest customer acquisition (2025)
-
-  - Revenue reached $43.4M in 2025
-brand: Lumber
-updated_at: 2026-03-15 10:26
+  Connects with popular construction management and accounting platforms for
+  seamless payroll processing and project tracking.
+updated_at: 2026-03-18 18:45
