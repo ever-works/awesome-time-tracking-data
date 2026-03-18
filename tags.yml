@@ -676,3 +676,49 @@
   name: Gdpr
 - id: outcomes
   name: Outcomes
+- id: multitasking
+  name: Multitasking
+- id: attorneys
+  name: Attorneys
+- id: practice-management
+  name: Practice Management
+- id: integrated
+  name: Integrated
+- id: proactive
+  name: Proactive
+- id: touchless
+  name: Touchless
+- id: blueprints
+  name: Blueprints
+- id: standards
+  name: Standards
+- id: electronic
+  name: Electronic
+- id: anti-spoofing
+  name: Anti Spoofing
+- id: problem-solving
+  name: Problem Solving
+- id: meditation
+  name: Meditation
+- id: metrics
+  name: Metrics
+- id: profitability
+  name: Profitability
+- id: financial
+  name: Financial
+- id: rituals
+  name: Rituals
+- id: solo-practitioners
+  name: Solo Practitioners
+- id: trust-accounting
+  name: Trust Accounting
+- id: android
+  name: Android
+- id: kpi
+  name: Kpi
+- id: cashflow
+  name: Cashflow
+- id: hcm
+  name: Hcm
+- id: flexible
+  name: Flexible
