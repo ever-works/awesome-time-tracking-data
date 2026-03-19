@@ -1531,7 +1531,7 @@
 - id: lightweight
   name: Lightweight
 - id: ide-integration
-  name: IDE Integration
+  name: Ide Integration
 - id: automatic-tracking
   name: Automatic Tracking
 - id: privacy-controls
@@ -1608,3 +1608,31 @@
   name: Shutdown Ritual
 - id: tactile
   name: Tactile
+- id: wage-violations
+  name: Wage Violations
+- id: manual-tracking
+  name: Manual Tracking
+- id: buddy-punching
+  name: Buddy Punching
+- id: realistic-planning
+  name: Realistic Planning
+- id: tradeoffs
+  name: Tradeoffs
+- id: maker-schedule
+  name: Maker Schedule
+- id: organizational-practice
+  name: Organizational Practice
+- id: culture-change
+  name: Culture Change
+- id: google-calendar
+  name: Google Calendar
+- id: transparency
+  name: Transparency
+- id: project-planning
+  name: Project Planning
+- id: visual-timeline
+  name: Visual Timeline
+- id: quickbooks
+  name: Quickbooks
+- id: coding
+  name: Coding
