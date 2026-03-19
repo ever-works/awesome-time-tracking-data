@@ -1,21 +1,21 @@
 name: Cattr
-description: Open-source time tracking software designed for business and
-  personal use with automatic screenshot capture, activity detection, and
-  integration capabilities for remote team management.
+description: Open-source time tracking and employee monitoring software with
+  screenshot capture, activity detection, and project tracking capabilities,
+  designed as a self-hosted alternative to proprietary solutions.
 source_url: https://cattr.app/
-category: Open Sources
+category: Open Source
 tags:
   - open-source
-  - screenshot
-  - activity-monitoring
-featured: false
+  - self-hosted
+  - employee-monitoring
+  - screenshots
 markdown: >-
   ## Overview
 
 
-  Cattr is an open-source time tracking solution that provides comprehensive
-  monitoring and tracking capabilities for both individual and team use. It
-  focuses on delivering detailed insights into work patterns and productivity.
+  Cattr is an open-source time tracking tool that can be self-hosted, giving
+  organizations full control over their data. It includes employee monitoring
+  features like screenshots and activity detection.
 
 
   ## Features
@@ -23,41 +23,59 @@ markdown: >-
 
   - Automatic time tracking
 
-  - Screenshot capture at configurable intervals
+  - Screenshot capture (configurable intervals)
 
-  - Activity level detection
-
-  - Application and website usage monitoring
+  - Activity level monitoring
 
   - Project and task tracking
 
+  - Reports and dashboards
+
   - Team management
 
-  - Detailed reporting and analytics
+  - Self-hosted deployment
 
-  - Integration with popular project management tools
-
-  - Desktop client for Windows, macOS, and Linux
-
-  - Self-hosted deployment option
+  - API access
 
 
-  ## Use Cases
+  ## Deployment Options
 
 
-  - Remote team management
+  - Self-hosted on your servers
 
-  - Freelancer productivity tracking
+  - Docker containers
 
-  - Project time allocation
+  - Cloud hosting
 
-  - Client billing and invoicing
-
-  - Employee monitoring (with consent)
+  - Full data ownership
 
 
-  ## Pricing
+  ## Privacy Considerations
 
 
-  Free and open-source. Can be self-hosted on your own infrastructure.
-updated_at: 2026-03-16 11:49
+  - Configurable monitoring levels
+
+  - Screenshot frequency settings
+
+  - Activity tracking can be disabled
+
+  - Transparent to employees
+
+
+  ## Best For
+
+
+  - Organizations wanting data ownership
+
+  - Privacy-conscious teams
+
+  - Custom integration needs
+
+  - Cost-conscious deployments
+
+
+  ## License
+
+
+  Open source (check specific license on GitHub)
+updated_at: 2026-03-19 21:12

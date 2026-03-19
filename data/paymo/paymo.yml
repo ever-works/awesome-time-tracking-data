@@ -1,71 +1,66 @@
 name: Paymo
-description: Work management platform that combines time tracking, task
-  management, and invoicing specifically designed for small businesses and
-  remote teams, offering an integrated solution for managing projects from
-  planning through payment.
+description: All-in-one work management platform combining time tracking, task
+  management, invoicing, and team collaboration, designed for small businesses
+  and freelancers to manage projects from start to payment.
 source_url: https://www.paymoapp.com/
-category: Project Management
+category: Time Tracking Software
 tags:
-  - small-business
+  - all-in-one
   - invoicing
-  - remote-teams
-featured: false
+  - freelancers
+  - small-business
 markdown: >-
   ## Overview
 
 
-  Paymo is a comprehensive work management platform designed for small
-  businesses, freelancers, and remote teams. It combines time tracking with
-  project management, task scheduling, and invoicing to provide an end-to-end
-  solution for managing client work and getting paid.
+  Paymo combines project management, time tracking, and invoicing in one
+  platform. It's designed for small agencies and freelancers who need to track
+  time, manage projects, and get paid.
 
 
   ## Features
 
 
-  - **Time Tracking**: Track time with automatic timers, manual entries, or bulk
-  time logging
+  - Time tracking (timer, manual, bulk)
 
-  - **Task Management**: Organize work with task lists, Kanban boards, and Gantt
-  charts
+  - Task management and Kanban boards
 
-  - **Resource Scheduling**: Visual resource planning and team capacity
-  management
+  - Gantt charts
 
-  - **Invoicing**: Generate professional invoices based on tracked time and
-  expenses
+  - Team scheduling
 
-  - **Expense Tracking**: Log project expenses and include them in client
-  invoices
+  - Invoicing and payments
 
-  - **Project Templates**: Save and reuse project structures for recurring work
+  - Expense tracking
 
-  - **Team Collaboration**: File sharing, comments, and real-time notifications
+  - Client portal
 
-  - **Reporting**: Detailed reports on time, profitability, and project progress
+  - Resource planning
 
-  - **Client Portal**: Allow clients to view project progress and approve
-  deliverables
+  - Mobile apps
 
-  - **Integrations**: Connect with accounting software, calendars, and other
-  tools
+
+  ## Workflow
+
+
+  1. Create projects and tasks
+
+  2. Track time on tasks
+
+  3. Generate invoices from tracked time
+
+  4. Send to clients and accept payments
+
+  5. Track project profitability
 
 
   ## Pricing
 
 
-  Paymo offers multiple pricing tiers:
+  Free for 1 user
 
+  Small Office: $11.95/user/month
 
-  - **Free Plan**: Limited features for small teams
-
-  - **Starter**: Starting at approximately $5.95 per user per month
-
-  - **Small Office**: Mid-tier plan with additional features
-
-  - **Business**: Full feature access for growing teams
-
-
-  All paid plans include unlimited projects, clients, and invoices.
+  Business: $24.95/user/month
 brand: Paymo
-updated_at: 2026-03-19 18:16
+updated_at: 2026-03-19 21:12

@@ -1,22 +1,34 @@
 name: TSheets (QuickBooks Time)
-description: Cloud-based time tracking software acquired by Intuit and rebranded
-  as QuickBooks Time, offering GPS tracking, scheduling, and seamless
-  integration with QuickBooks for payroll and invoicing.
-source_url: https://quickbooks.intuit.com/time-tracking
-category: Team & Project Time Tracking
+description: Cloud-based time tracking and scheduling software acquired by
+  Intuit in 2017 for $340 million, now rebranded as QuickBooks Time, offering
+  mobile time tracking with GPS, job costing, and seamless QuickBooks
+  integration.
+source_url: https://quickbooks.intuit.com/time-tracking/
+category: Time Tracking Software
 tags:
-  - QuickBooks-integration
-  - GPS-tracking
-  - payroll
-featured: false
+  - mobile
+  - gps-tracking
+  - quickbooks
+  - cloud-based
 markdown: >-
   ## Overview
 
 
-  TSheets, now known as QuickBooks Time, is a cloud-based time tracking software
-  originally developed as a standalone product and acquired by Intuit. It offers
-  comprehensive time tracking with GPS capabilities, scheduling features, and
-  deep integration with QuickBooks for seamless payroll and invoicing workflows.
+  TSheets, now operating as QuickBooks Time following Intuit's $340 million
+  acquisition in 2017, is a leading cloud-based time tracking solution designed
+  for businesses with mobile and field workforces. The platform specializes in
+  GPS-enabled time tracking, scheduling, and seamless integration with
+  QuickBooks accounting software.
+
+
+  ## History
+
+
+  Founded in 2006, TSheets grew to become one of the most popular time tracking
+  solutions for small to medium-sized businesses before being acquired by Intuit
+  for $340 million in December 2017. The acquisition was one of the largest in
+  the time tracking software industry and demonstrated the strategic value of
+  mobile workforce management.
 
 
   ## Key Features
@@ -24,315 +36,297 @@ markdown: >-
 
   ### Time Tracking
 
-  - Mobile time clock apps (iOS and Android)
+  - Mobile app for iOS and Android with one-tap clock in/out
 
-  - Web-based time entry
+  - GPS location capture at each time punch
 
-  - Kiosk mode for shared devices
+  - Kiosk mode for shared device time clocking
 
-  - Offline time tracking with automatic sync
+  - Browser-based web clock
 
-  - Multiple clock-in methods (app, SMS, phone call)
+  - SMS/text message time tracking
+
+  - Photo time stamps for verification
+
+  - Offline mode with automatic sync
 
 
-  ### GPS and Geofencing
+  ### GPS & Geofencing
 
-  - GPS location capture at clock-in/out
+  - Real-time GPS tracking of field employees
 
-  - Geofencing to restrict where employees can clock in
+  - Geofence creation around job sites
 
-  - Route tracking for mileage
+  - Automatic alerts when employees clock in outside designated areas
 
-  - Location-based job costing
+  - GPS breadcrumb trails showing movement throughout day
 
-  - Breadcrumb trail of employee locations
+  - Who's Working Now map view
 
 
   ### Scheduling
 
-  - Create and publish employee schedules
+  - Drag-and-drop schedule creation
 
-  - Shift templates and recurring schedules
+  - Shift templates for recurring schedules
 
-  - Schedule vs. actual time comparison
+  - Mobile schedule access for employees
 
-  - Notifications for schedule changes
+  - Shift reminders and notifications
 
-  - Employee availability management
+  - Availability management
+
+  - Schedule vs. actual time worked comparison
 
 
   ### Job Costing
 
-  - Track time by customer, job, and service item
+  - Track time by customer, job, and task
 
-  - Real-time job cost tracking
+  - Service items and cost codes
 
-  - Budget alerts and notifications
+  - Real-time project profitability insights
 
-  - Labor cost reports by project
+  - Equipment time tracking
 
-  - Profitability analysis
+  - Multi-level job hierarchy support
 
 
-  ## QuickBooks Integration
+  ### QuickBooks Integration
 
+  - Direct sync with QuickBooks Online and Desktop
 
-  ### Seamless Data Flow
+  - Automatic timesheet to payroll transfer
 
-  - Automatic sync with QuickBooks Online and Desktop
+  - Job costing data flows to QuickBooks projects
 
-  - Time data flows directly to invoices
+  - Invoicing based on tracked billable hours
 
-  - Payroll integration with QuickBooks Payroll
+  - Eliminates double data entry
 
-  - Customer and job sync
 
-  - No duplicate data entry
+  ### Payroll & Compliance
 
+  - PTO accrual tracking
 
-  ### Payroll Benefits
+  - Overtime calculations (state-specific rules)
 
-  - Accurate payroll based on tracked hours
+  - Break compliance enforcement
 
-  - Overtime calculation
+  - Department and class tracking
 
-  - PTO tracking and accruals
+  - Certified payroll reports (Davis-Bacon)
 
-  - Certified payroll reports (prevailing wage)
+  - Integration with major payroll providers
 
-  - Direct integration with QuickBooks Payroll
 
+  ## Mobile App Capabilities
 
-  ### Invoicing
 
-  - Convert tracked time to invoices automatically
+  The QuickBooks Time mobile app enables:
 
-  - Multiple billing rates (service, customer, employee)
+  - Biometric authentication (fingerprint/Face ID)
 
-  - Billable vs. non-billable time separation
+  - Photo capture at clock in/out
 
-  - Time entry descriptions appear on invoices
+  - Job and task selection on the go
 
-  - Custom invoice templates
+  - Break tracking
 
+  - Notes and tags for time entries
 
-  ## Mobile Capabilities
+  - Real-time manager approvals
 
+  - Push notifications
 
-  ### Employee App Features
 
-  - Clock in/out with one tap
+  ## Industry Applications
 
-  - Switch between jobs quickly
 
-  - Add notes and photos to time entries
+  ### Construction
 
-  - View schedules
+  - Track crew time by job site
 
-  - Request time off
+  - Equipment hour tracking
 
-  - Receive shift reminders
+  - Prevailing wage compliance
 
+  - Certified payroll reporting
 
-  ### Manager App Features
 
-  - Approve timesheets remotely
+  ### Field Services
 
-  - View who's working in real-time
+  - HVAC, plumbing, electrical contractors
 
-  - Edit time entries
+  - Route optimization with time tracking
 
-  - Run reports on mobile
+  - Service call time documentation
 
-  - Manage schedules
+  - Customer job histories
 
 
-  ## Advanced Features
+  ### Restaurants & Hospitality
 
+  - Tip tracking and reporting
 
-  ### Crew Clock-In
+  - Break compliance for hourly workers
 
-  - One employee clocks in entire crew
+  - Shift scheduling
 
-  - Useful for construction and field services
+  - Labor cost percentage monitoring
 
-  - Crew lead manages team time
 
+  ### Professional Services
 
-  ### Time Off Management
+  - Billable hours by client and project
 
-  - PTO requests and approvals
+  - Time tracking for remote teams
 
-  - Accrual tracking
+  - Project budgeting and tracking
 
-  - Balance visibility for employees
+  - Invoicing integration
 
-  - Integration with payroll
 
+  ## Reporting & Analytics
 
-  ### Facial Recognition
 
-  - Photo verification at clock-in (add-on)
+  - Who's Working Now real-time dashboard
 
-  - Prevent buddy punching
+  - Timecard reports (detailed and summary)
 
-  - Ensure correct person is clocking in
+  - Project/job reports
 
+  - PTO balance reports
 
-  ### Audit Trail
+  - Overtime reports
 
-  - Complete edit history
-
-  - Who made changes and when
-
-  - Original vs. edited values
-
-  - Compliance documentation
-
-
-  ## Reporting
-
-
-  ### Standard Reports
-
-  - Timesheet summaries
-
-  - Job costing reports
-
-  - Payroll reports
-
-  - Schedule vs. actual
-
-  - GPS location reports
+  - GPS tracking reports
 
   - Custom report builder
 
-
-  ### Export Options
-
-  - PDF
-
-  - Excel/CSV
-
-  - QuickBooks format
-
-  - Scheduled report delivery
-
-  - API access for custom reports
+  - Export to Excel, PDF, CSV
 
 
-  ## Industries Served
+  ## Integrations
 
 
-  - Construction and field services
+  Beyond QuickBooks, TSheets/QuickBooks Time integrates with:
 
-  - Healthcare and medical offices
+  - ADP, Paychex, Gusto (payroll)
 
-  - Professional services (accounting, legal)
+  - Xero, Sage (accounting)
 
-  - Retail and hospitality
+  - ServiceTitan, Housecall Pro (field service)
 
-  - Manufacturing
+  - Zapier for custom integrations
 
-  - Nonprofit organizations
-
-
-  ## Compliance Features
+  - Various project management tools
 
 
-  - Affordable Care Act (ACA) tracking
-
-  - Prevailing wage/certified payroll
-
-  - Union reporting
-
-  - DCAA compliance
-
-  - Audit trails for compliance
+  ## Pricing
 
 
-  ## Pricing (as QuickBooks Time)
+  QuickBooks Time pricing (as of 2026):
+
+  - **Premium**: $20/month base + $10/user/month
+
+  - **Elite**: $40/month base + $15/user/month (includes scheduling and advanced
+  features)
+
+  - 30-day free trial available
+
+  - Discounts for annual billing
 
 
-  - **Pricing**: Starting around $20/month + $8 per user
+  ## Unique Selling Points
 
-  - **Free Trial**: 30-day trial available
 
-  - **Bundling**: Discounts when bundled with QuickBooks
+  1. **QuickBooks Integration**: Deepest integration with QuickBooks ecosystem
+
+  2. **Mobile-First Design**: Built for on-the-go workforce from the ground up
+
+  3. **GPS Tracking**: Industry-leading location verification
+
+  4. **Ease of Use**: Consistently rated for intuitive interface
+
+  5. **Customer Support**: 24/7 support with high satisfaction ratings
+
+  6. **Scalability**: Works for 1 employee to 1,000+ employees
+
+
+  ## Awards & Recognition
+
+
+  - Capterra Best Value for Time Tracking Software
+
+  - G2 Leader in Time Tracking Software
+
+  - PCMag Editors' Choice
+
+  - Software Advice FrontRunners for Time Tracking
 
 
   ## Transition from TSheets to QuickBooks Time
 
 
-  - TSheets acquired by Intuit in 2017
+  Following the Intuit acquisition:
 
-  - Gradual rebranding to QuickBooks Time
+  - Product functionality remained largely the same
 
-  - All TSheets features maintained
+  - Branding gradually shifted to QuickBooks Time
 
-  - Enhanced QuickBooks integration
+  - Deeper integration with QuickBooks ecosystem
 
-  - Same core product with Intuit backing
+  - Existing TSheets customers grandfathered into new branding
 
-
-  ## Integration Ecosystem
-
-
-  ### Beyond QuickBooks
-
-  - ADP
-
-  - Paychex
-
-  - Gusto
-
-  - Xero
-
-  - Sage
-
-  - Zapier (1000+ apps)
-
-
-  ## Customer Support
-
-
-  - Phone, email, and chat support
-
-  - Extensive knowledge base
-
-  - Video tutorials
-
-  - Dedicated onboarding
-
-  - Regular webinars
-
-
-  ## Advantages
-
-
-  - Industry-leading QuickBooks integration
-
-  - Robust mobile apps
-
-  - GPS and geofencing capabilities
-
-  - Scalable from small business to enterprise
-
-  - Trusted brand (Intuit backing)
-
-  - Comprehensive feature set
+  - Mobile apps rebranded but core features preserved
 
 
   ## Best For
 
 
-  - QuickBooks users (Online or Desktop)
+  - Businesses already using QuickBooks
 
-  - Businesses with mobile/field employees
+  - Companies with mobile or field workforces
 
-  - Companies needing job costing
+  - Industries requiring GPS verification
 
-  - Organizations requiring GPS tracking
+  - Organizations needing job costing
 
-  - Teams that need scheduling + time tracking
-updated_at: 2026-03-16 19:07
+  - Teams requiring overtime compliance
+
+  - Contractors needing certified payroll
+
+
+  ## Limitations
+
+
+  - Pricing can add up quickly for larger teams
+
+  - Full feature set requires Elite plan
+
+  - Some advanced features only available with QuickBooks Online
+
+  - GPS tracking may drain mobile battery
+
+  - Learning curve for all advanced features
+
+
+  ## 2026 Updates
+
+
+  Recent enhancements include:
+
+  - AI-powered timesheet anomaly detection
+
+  - Enhanced geofencing with smart boundaries
+
+  - Improved offline functionality
+
+  - Advanced scheduling optimization
+
+  - Enhanced mobile app performance
+
+  - Expanded integration marketplace
+brand: Intuit
+updated_at: 2026-03-19 21:12
