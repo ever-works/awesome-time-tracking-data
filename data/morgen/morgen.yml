@@ -1,89 +1,160 @@
 name: Morgen
-description: All-in-one calendar, scheduler, and task manager that unifies
-  multiple calendars and task lists. Features time blocking, scheduling links,
-  and integrations with popular productivity tools.
-source_url: https://www.morgen.so
-category: Productivity Tool
+description: Unified calendar and time management platform that consolidates
+  multiple calendars, tasks, and scheduling tools into a single interface with
+  intelligent time-blocking and productivity features.
+source_url: https://www.morgen.so/
+category: Time Management Tool
 tags:
   - calendar
+  - time-blocking
   - scheduling
+  - task-management
   - integration
 featured: false
 markdown: >-
   ## Overview
 
 
-  Morgen is a unified calendar and task management application that brings
-  together multiple calendars, task lists, and scheduling tools in one
-  interface. It emphasizes time blocking and provides powerful scheduling
-  capabilities.
+  Morgen is a comprehensive calendar and productivity platform designed to unify
+  calendars, tasks, and time-blocking in one streamlined interface. It serves as
+  a central hub for managing time across multiple calendar services and task
+  management tools.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Unified Calendar**: View all calendars in one place
+  - **Multi-Calendar Integration**: Connects Google Calendar, Outlook, Apple
+  Calendar, and more
 
-  - **Time Blocking**: Schedule tasks directly on calendar
+  - **Task Management**: Integrates with Todoist, Asana, ClickUp, and other task
+  apps
 
-  - **Task Integration**: Connect Todoist, Asana, Trello, Notion, etc.
+  - **Time Blocking**: Visual time-blocking interface
 
-  - **Scheduling Links**: Share availability like Calendly
+  - **Smart Scheduling**: Intelligent meeting scheduling with availability
+  detection
 
-  - **Team Scheduling**: Find time across team members
+  - **Time Zone Management**: Seamless handling of multiple time zones
 
-  - **Custom Views**: Day, week, month, agenda views
+  - **Keyboard Shortcuts**: Power-user keyboard navigation
 
-  - **Time Zone Support**: Multiple time zones simultaneously
+  - **Team Scheduling**: Coordinate meetings across teams
 
-  - **Keyboard Shortcuts**: Fast navigation and actions
-
-  - **Templates**: Reusable event templates
-
-  - **Analytics**: Time allocation insights
-
-  - **Cross-Platform**: Windows, Mac, Linux, iOS, Android
+  - **Customizable Views**: Day, week, month, and agenda views
 
 
-  ## Supported Calendars
+  ## Unified Time Management
 
 
-  - Google Calendar
+  Morgen consolidates:
 
-  - Microsoft Outlook
+  - Multiple calendar accounts in one view
 
-  - iCloud
+  - Tasks from various productivity apps
 
-  - CalDAV
+  - Scheduling links and availability
 
-  - Exchange
+  - Time zones for global teams
+
+  - Meeting templates and preferences
 
 
-  ## Supported Task Managers
+  ## Time Blocking Capabilities
 
 
-  - Todoist
+  - Drag-and-drop task scheduling
 
-  - Asana
+  - Visual time allocation
 
-  - Notion
+  - Buffer time configuration
 
-  - Trello
+  - Focus time protection
 
-  - Linear
+  - Calendar color coding
 
-  - GitHub Issues
+
+  ## Scheduling Features
+
+
+  - **Scheduling Links**: Share availability for meeting booking
+
+  - **Team Availability**: See when team members are free
+
+  - **Smart Suggestions**: AI-powered meeting time recommendations
+
+  - **Conflict Detection**: Warns of scheduling conflicts
+
+  - **Timezone Intelligence**: Automatic timezone conversion
+
+
+  ## Platform Availability
+
+
+  - **Web**: Full-featured web application
+
+  - **Desktop**: Native apps for Windows, macOS, Linux
+
+  - **Mobile**: iOS and Android applications
+
+  - **Browser Extension**: Quick access from Chrome, Firefox, Edge
+
+
+  ## Integration Ecosystem
+
+
+  Supported integrations include:
+
+  - **Calendars**: Google, Microsoft 365, Apple, CalDAV
+
+  - **Tasks**: Todoist, Asana, ClickUp, Microsoft To Do, Google Tasks
+
+  - **Video**: Zoom, Google Meet, Microsoft Teams
+
+  - **Other**: Slack, Notion, Linear
+
+
+  ## Target Audience
+
+
+  - Professionals managing multiple calendar accounts
+
+  - Remote and distributed teams
+
+  - Consultants scheduling across time zones
+
+  - Knowledge workers combining calendar and task management
+
+  - Anyone seeking a unified time management solution
 
 
   ## Pricing
 
 
-  - **Basic**: Free - Core features
+  Offers free tier with basic features, plus premium subscription for advanced
+  capabilities including AI features, unlimited integrations, and team
+  collaboration tools.
 
-  - **Pro**: $9/month - Advanced features
 
-  - **Team**: Custom - Team collaboration
+  ## Competitive Position (2026)
 
-  - Available on all platforms
-brand: Morgen
-updated_at: 2026-03-17 15:16
+
+  Morgen positions itself as an alternative to tools like Sunsama, Akiflow, and
+  Motion by offering unified calendar management with time-blocking
+  capabilities, without requiring full commitment to a specific productivity
+  methodology.
+
+
+  ## Unique Selling Points
+
+
+  - Platform agnostic: Works with any calendar service
+
+  - Cross-platform: Available on all major operating systems
+
+  - Privacy-focused: Data encryption and local storage options
+
+  - Open integration: Connects with most popular productivity tools
+
+  - No vendor lock-in: Works alongside existing tools
+updated_at: 2026-03-19 09:42
