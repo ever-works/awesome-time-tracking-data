@@ -1548,3 +1548,13 @@
   name: Spreadsheets
 - id: privacy-focused
   name: Privacy Focused
+- id: quote-to-cash
+  name: Quote To Cash
+- id: chronic-illness
+  name: Chronic Illness
+- id: self-pacing
+  name: Self Pacing
+- id: apple-ecosystem
+  name: Apple Ecosystem
+- id: time-attendance
+  name: Time Attendance
