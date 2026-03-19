@@ -1434,3 +1434,39 @@
   name: Work Patterns
 - id: urgency
   name: Urgency
+- id: one-time-purchase
+  name: One Time Purchase
+- id: commitment-device
+  name: Commitment Device
+- id: verification
+  name: Verification
+- id: session-structure
+  name: Session Structure
+- id: virtual-coworking
+  name: Virtual Coworking
+- id: global-community
+  name: Global Community
+- id: flsa
+  name: Flsa
+- id: record-retention
+  name: Record Retention
+- id: freelancer
+  name: Freelancer
+- id: environmental-impact
+  name: Environmental Impact
+- id: social-good
+  name: Social Good
+- id: hybrid-work
+  name: Hybrid Work
+- id: penalties
+  name: Penalties
+- id: burnout-prevention
+  name: Burnout Prevention
+- id: single-tasking
+  name: Single Tasking
+- id: body-doubling
+  name: Body Doubling
+- id: milestone
+  name: Milestone
+- id: ambient-sound
+  name: Ambient Sound

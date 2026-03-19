@@ -88,3 +88,13 @@
   name: Construction Time Tracking
 - id: legal-time-tracking
   name: Legal Time Tracking
+- id: time-tracking-analytics
+  name: Time Tracking Analytics
+- id: productivity-trend
+  name: Productivity Trend
+- id: accountability-method
+  name: Accountability Method
+- id: virtual-coworking-feature
+  name: Virtual Coworking Feature
+- id: productivity-community
+  name: Productivity Community
