@@ -1470,3 +1470,9 @@
   name: Milestone
 - id: ambient-sound
   name: Ambient Sound
+- id: attendance
+  name: Attendance
+- id: fingerprint
+  name: Fingerprint
+- id: time-clock
+  name: Time Clock
