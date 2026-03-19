@@ -1,0 +1,56 @@
+name: AI Context Switch Detection
+description: Feature in productivity tools like Rize identifying when users
+  switch tasks, measuring multitasking frequency and impact. Quantifies 20-40%
+  productivity cost from context switching through activity monitoring and
+  pattern recognition, helping users recognize and reduce fragmentation.
+source_url: https://rize.io/
+category: AI Powered Time Tracking
+tags:
+  - ai-powered
+  - productivity-analytics
+  - focus
+  - multitasking
+  - awareness
+markdown: >-
+  ## Overview
+
+
+  AI-powered detection of context switches measuring productivity cost of
+  multitasking.
+
+
+  ## Detection Methods
+
+  - Application changes
+
+  - Project transitions
+
+  - Window switching
+
+  - Document changes
+
+
+  ## Impact Measurement
+
+  Quantifies 20-40% productivity cost from switching.
+
+
+  ## Benefits
+
+  - Switching frequency awareness
+
+  - Pattern recognition
+
+  - Behavior modification
+
+
+  ## Tools
+
+  Rize, RescueTime, Timely
+
+
+  ## Pricing
+
+  $10-20 per user per month in AI productivity tools.
+brand: Rize
+updated_at: 2026-03-19 04:54

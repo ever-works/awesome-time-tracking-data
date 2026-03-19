@@ -1,0 +1,48 @@
+name: GPS Geofencing for Workforce Management
+description: Location-based automation starting or stopping time tracking when
+  employees cross geographic boundaries. Platforms like Workyard and Instawork
+  use it for construction and field service, automating clock-ins at job sites
+  and preventing location fraud through GPS verification within designated
+  zones.
+source_url: https://www.instawork.com/
+category: Mobile Workforce Management
+tags:
+  - gps-tracking
+  - geofencing
+  - mobile
+  - automation
+  - field-service
+markdown: >-
+  ## Overview
+
+
+  GPS geofencing creates virtual boundaries using GPS technology. Time tracking
+  automatically starts/stops when employees cross these boundaries.
+
+
+  ## Platforms
+
+  - Workyard: GPS updates every 5 minutes
+
+  - Instawork: Geofencing jobsites for temp workers
+
+  - Timeero: GPS verification time clock
+
+  - ClockShark: Construction geofencing
+
+
+  ## Benefits
+
+  - Prevent time theft
+
+  - Eliminate buddy punching
+
+  - Automatic tracking
+
+  - Real-time visibility
+
+
+  ## Pricing
+
+  $3-10 per user per month as part of workforce management platforms.
+updated_at: 2026-03-19 04:54
