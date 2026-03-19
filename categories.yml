@@ -104,3 +104,5 @@
   name: Legal Practice Management
 - id: work-management
   name: Work Management
+- id: time-tracking-tool
+  name: Time Tracking Tool

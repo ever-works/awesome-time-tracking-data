@@ -1580,3 +1580,31 @@
   name: Australian
 - id: rostering
   name: Rostering
+- id: quarterly-planning
+  name: Quarterly Planning
+- id: trust
+  name: Trust
+- id: james-clear
+  name: James Clear
+- id: social
+  name: Social
+- id: leadership
+  name: Leadership
+- id: scaling
+  name: Scaling
+- id: digital-minimalism
+  name: Digital Minimalism
+- id: david-allen
+  name: David Allen
+- id: habit-stacking
+  name: Habit Stacking
+- id: inbox-zero
+  name: Inbox Zero
+- id: high-impact
+  name: High Impact
+- id: paradox
+  name: Paradox
+- id: shutdown-ritual
+  name: Shutdown Ritual
+- id: tactile
+  name: Tactile
