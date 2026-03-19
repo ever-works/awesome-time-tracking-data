@@ -1,0 +1,117 @@
+name: Pomodoro Four-Step Process (TickTick)
+description: TickTick's comprehensive implementation of the Pomodoro Technique
+  that goes beyond simple timing to include planning, executing, tracking, and
+  analyzing phases, creating a complete productivity workflow rather than just a
+  timer.
+source_url: https://help.ticktick.com/articles/7055782025193586688
+category: Time Management Methodology
+tags:
+  - pomodoro
+  - workflow
+  - productivity-system
+markdown: >-
+  ## Beyond Basic Pomodoro
+
+
+  TickTick implements Pomodoro as a complete workflow with four distinct phases,
+  not just a 25-minute timer.
+
+
+  ## The Four Steps
+
+
+  ### Step 1: Planning
+
+  - Select tasks for the Pomodoro session
+
+  - Estimate how many Pomodoros each task needs
+
+  - Prioritize task order
+
+  - Set session goals
+
+  - Prepare workspace and eliminate distractions
+
+
+  ### Step 2: Executing
+
+  - Start 25-minute focus timer
+
+  - Work exclusively on selected task
+
+  - No multitasking allowed
+
+  - No checking email, social media, or messages
+
+  - Stay focused until timer ends
+
+
+  ### Step 3: Tracking
+
+  - Mark Pomodoro as completed
+
+  - Note task progress
+
+  - Record distractions or interruptions
+
+  - Update task estimates if needed
+
+  - Take mandatory 5-minute break
+
+
+  ### Step 4: Analyzing
+
+  - Review completed Pomodoros
+
+  - Examine focus duration statistics
+
+  - Identify productivity patterns
+
+  - Assess estimation accuracy
+
+  - Adjust approach for next sessions
+
+
+  ## Integration with TickTick Features
+
+
+  ### Task Management
+
+  - Tasks link directly to Pomodoro timer
+
+  - Track Pomodoros per task
+
+  - See which tasks consumed most focus time
+
+
+  ### Statistics
+
+  - Daily/weekly Pomodoro counts
+
+  - Focus time trends
+
+  - Task completion correlation
+
+  - Productivity pattern visualization
+
+
+  ### White Noise
+
+  - Built-in focus sounds
+
+  - Background noise options
+
+  - Customizable audio environment
+
+
+  ## Why Four Steps Matter
+
+
+  Simple timer: Start, work, stop
+
+  Complete workflow: Plan → Execute → Track → Improve
+
+
+  The complete workflow creates continuous improvement rather than just time
+  management.
+updated_at: 2026-03-19 06:06
