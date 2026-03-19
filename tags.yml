@@ -1310,3 +1310,53 @@
   name: Japan
 - id: work-cycles
   name: Work Cycles
+- id: 90-minute-blocks
+  name: 90 Minute Blocks
+- id: intuition
+  name: Intuition
+- id: author
+  name: Author
+- id: productivity-researcher
+  name: Productivity Researcher
+- id: experimenter
+  name: Experimenter
+- id: historical-figure
+  name: Historical Figure
+- id: economist
+  name: Economist
+- id: one-click
+  name: One Click
+- id: work-styles
+  name: Work Styles
+- id: researcher
+  name: Researcher
+- id: ceo
+  name: Ceo
+- id: timeboxing-advocate
+  name: Timeboxing Advocate
+- id: productivity-expert
+  name: Productivity Expert
+- id: systems-designer
+  name: Systems Designer
+- id: workflows
+  name: Workflows
+- id: psychologist
+  name: Psychologist
+- id: journalist
+  name: Journalist
+- id: philosopher
+  name: Philosopher
+- id: theory
+  name: Theory
+- id: agency
+  name: Agency
+- id: financial-management
+  name: Financial Management
+- id: research-backed
+  name: Research Backed
+- id: frameworks
+  name: Frameworks
+- id: thinking-tools
+  name: Thinking Tools
+- id: educator
+  name: Educator
