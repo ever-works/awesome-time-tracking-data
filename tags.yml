@@ -1494,3 +1494,9 @@
   name: Visual Feedback
 - id: appointment-booking
   name: Appointment Booking
+- id: event-staffing
+  name: Event Staffing
+- id: labor-management
+  name: Labor Management
+- id: restaurants
+  name: Restaurants
