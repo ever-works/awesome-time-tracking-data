@@ -106,3 +106,15 @@
   name: Work Management
 - id: time-tracking-tool
   name: Time Tracking Tool
+- id: digital-wellness
+  name: Digital Wellness
+- id: productivity-technique
+  name: Productivity Technique
+- id: workplace-research
+  name: Workplace Research
+- id: mental-health-productivity
+  name: Mental Health & Productivity
+- id: neuroscience-productivity
+  name: Neuroscience & Productivity
+- id: remote-work-health
+  name: Remote Work Health

@@ -1636,3 +1636,19 @@
   name: Quickbooks
 - id: coding
   name: Coding
+- id: sleep-optimization
+  name: Sleep Optimization
+- id: evening-routine
+  name: Evening Routine
+- id: workplace-health
+  name: Workplace Health
+- id: digital-wellbeing
+  name: Digital Wellbeing
+- id: self-compassion
+  name: Self Compassion
+- id: sleep
+  name: Sleep
+- id: video-conferencing
+  name: Video Conferencing
+- id: workplace-wellness
+  name: Workplace Wellness
