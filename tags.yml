@@ -1558,3 +1558,13 @@
   name: Apple Ecosystem
 - id: time-attendance
   name: Time Attendance
+- id: phone-addiction
+  name: Phone Addiction
+- id: employee-recognition
+  name: Employee Recognition
+- id: rewards
+  name: Rewards
+- id: time-off
+  name: Time Off
+- id: ukrainian
+  name: Ukrainian
