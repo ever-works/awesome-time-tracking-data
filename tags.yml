@@ -1246,3 +1246,67 @@
   name: Planner
 - id: physical-tools
   name: Physical Tools
+- id: mark-forster
+  name: Mark Forster
+- id: contracts
+  name: Contracts
+- id: focus-music
+  name: Focus Music
+- id: ai-generated
+  name: Ai Generated
+- id: focus-time
+  name: Focus Time
+- id: facilitated
+  name: Facilitated
+- id: community
+  name: Community
+- id: portfolio-management
+  name: Portfolio Management
+- id: intentions
+  name: Intentions
+- id: goal-tracking
+  name: Goal Tracking
+- id: mindful-productivity
+  name: Mindful Productivity
+- id: technology
+  name: Technology
+- id: writing
+  name: Writing
+- id: accomplishment-tracking
+  name: Accomplishment Tracking
+- id: progress-tracking
+  name: Progress Tracking
+- id: notes
+  name: Notes
+- id: streak-tracking
+  name: Streak Tracking
+- id: holistic
+  name: Holistic
+- id: soundscapes
+  name: Soundscapes
+- id: flip-clock
+  name: Flip Clock
+- id: visual-management
+  name: Visual Management
+- id: paul-graham
+  name: Paul Graham
+- id: productivity-philosophy
+  name: Productivity Philosophy
+- id: productivity-principle
+  name: Productivity Principle
+- id: task-completion
+  name: Task Completion
+- id: time-constraints
+  name: Time Constraints
+- id: systems-thinking
+  name: Systems Thinking
+- id: physical-health
+  name: Physical Health
+- id: ergonomics
+  name: Ergonomics
+- id: movement
+  name: Movement
+- id: japan
+  name: Japan
+- id: work-cycles
+  name: Work Cycles
