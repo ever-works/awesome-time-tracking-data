@@ -1500,3 +1500,11 @@
   name: Labor Management
 - id: restaurants
   name: Restaurants
+- id: micro-breaks
+  name: Micro Breaks
+- id: ultradian-rhythm
+  name: Ultradian Rhythm
+- id: exercise
+  name: Exercise
+- id: resourcing
+  name: Resourcing
