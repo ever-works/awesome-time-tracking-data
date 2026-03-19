@@ -1216,3 +1216,33 @@
   name: Utilization
 - id: capacity
   name: Capacity
+- id: women
+  name: Women
+- id: courage
+  name: Courage
+- id: stress-management
+  name: Stress Management
+- id: time-diary
+  name: Time Diary
+- id: learning
+  name: Learning
+- id: time-perception
+  name: Time Perception
+- id: checklists
+  name: Checklists
+- id: quality-control
+  name: Quality Control
+- id: perseverance
+  name: Perseverance
+- id: strategic-quitting
+  name: Strategic Quitting
+- id: jomo
+  name: Jomo
+- id: unscheduling
+  name: Unscheduling
+- id: urgent-vs-important
+  name: Urgent Vs Important
+- id: planner
+  name: Planner
+- id: physical-tools
+  name: Physical Tools

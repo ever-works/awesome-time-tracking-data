@@ -76,3 +76,5 @@
   name: Time Tracking Best Practice
 - id: workforce-analytics
   name: Workforce Analytics
+- id: time-tracking-tools
+  name: Time Tracking Tools
