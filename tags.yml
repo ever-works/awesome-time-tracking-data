@@ -1360,3 +1360,77 @@
   name: Thinking Tools
 - id: educator
   name: Educator
+- id: productivity-gains
+  name: Productivity Gains
+- id: time-theft
+  name: Time Theft
+- id: categorization
+  name: Categorization
+- id: self-improvement
+  name: Self Improvement
+- id: physicians
+  name: Physicians
+- id: abundance
+  name: Abundance
+- id: co-working
+  name: Co Working
+- id: time-blindness
+  name: Time Blindness
+- id: mindset
+  name: Mindset
+- id: productivity-limits
+  name: Productivity Limits
+- id: cognitive-capacity
+  name: Cognitive Capacity
+- id: dopamine
+  name: Dopamine
+- id: workplace-culture
+  name: Workplace Culture
+- id: circadian-rhythm
+  name: Circadian Rhythm
+- id: ai-adoption
+  name: Ai Adoption
+- id: engineers
+  name: Engineers
+- id: productivity-measurement
+  name: Productivity Measurement
+- id: evolution
+  name: Evolution
+- id: staffing
+  name: Staffing
+- id: understanding
+  name: Understanding
+- id: passive
+  name: Passive
+- id: background-monitoring
+  name: Background Monitoring
+- id: study-planning
+  name: Study Planning
+- id: emotional-regulation
+  name: Emotional Regulation
+- id: behavior
+  name: Behavior
+- id: methodology
+  name: Methodology
+- id: revenue-capture
+  name: Revenue Capture
+- id: comparison
+  name: Comparison
+- id: coordination
+  name: Coordination
+- id: control
+  name: Control
+- id: solar-powered
+  name: Solar Powered
+- id: ruggedized
+  name: Ruggedized
+- id: hyperfocus
+  name: Hyperfocus
+- id: intentionality
+  name: Intentionality
+- id: industry-trends
+  name: Industry Trends
+- id: work-patterns
+  name: Work Patterns
+- id: urgency
+  name: Urgency

@@ -80,3 +80,11 @@
   name: Time Tracking Tools
 - id: construction
   name: Construction
+- id: healthcare-time-tracking
+  name: Healthcare Time Tracking
+- id: student-time-management
+  name: Student Time Management
+- id: construction-time-tracking
+  name: Construction Time Tracking
+- id: legal-time-tracking
+  name: Legal Time Tracking
