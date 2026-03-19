@@ -1,91 +1,85 @@
 name: RSIBreak
-description: KDE application that helps prevent repetitive strain injuries by
-  tracking usage patterns and periodically informing users to take breaks, with
-  options for unobtrusive messages, screen locking, or slideshow displays.
+description: Open-source break reminder utility designed to prevent Repetitive
+  Strain Injury by prompting users to take regular breaks from computer work,
+  helping reduce eye strain, muscle tension, and long-term health risks
+  associated with prolonged computer use.
 source_url: https://apps.kde.org/rsibreak/
-category: Health & Break Reminders
+category: Productivity Tool
 tags:
-  - linux
-  - kde
+  - break-reminder
+  - health
   - rsi-prevention
-  - open-source
 featured: false
 markdown: >-
   ## Overview
 
 
-  RSIBreak helps prevent repetitive strain injuries (RSI) by keeping track of
-  usage patterns and periodically informing users to take breaks. Repetitive
-  Strain Injury is an illness which can occur as a result of working with a
-  mouse and keyboard.
+  RSIBreak is a free, open-source utility designed to remind computer users to
+  take regular breaks to prevent Repetitive Strain Injury (RSI). It monitors
+  your keyboard and mouse activity and prompts you to take microbreaks and
+  longer rest periods at appropriate intervals.
 
 
-  ## Key Features
+  ## Features
 
 
-  ### Usage Pattern Tracking
+  - **Automatic Break Reminders**: Configurable intervals for microbreaks and
+  longer breaks
 
-  - Monitors keyboard and mouse activity
+  - **Activity Monitoring**: Tracks keyboard and mouse usage to determine when
+  breaks are needed
 
-  - Tracks usage patterns to determine optimal break times
+  - **Customizable Timings**: Adjust break frequency and duration to your
+  preferences
 
-  - Automatically schedules break reminders based on actual usage
+  - **Break Statistics**: Track how many breaks you've taken, skipped, or
+  postponed
 
+  - **Unobtrusive Design**: Runs quietly in system tray until break time
 
-  ### Flexible Break Modes
+  - **Cross-Platform**: Available for Linux and other Unix-like systems
 
+  - **Flexible Break Types**: Support for multiple break categories (micro,
+  short, long)
 
-  During break periods, RSIBreak can:
-
-  - **Unobtrusive Message**: Show a gentle reminder to take a break
-
-  - **Lock Screen**: Completely lock the screen to enforce break time
-
-  - **Slideshow**: Present a relaxing slideshow from a configurable collection
-
-
-  ### Customization
-
-  - Configure break duration and frequency
-
-  - Set up custom image collections for slideshows
-
-  - Choose your preferred break enforcement method
-
-  - Adjust timing based on your work patterns
+  - **Idle Detection**: Pauses timing when you're away from computer
 
 
-  ## Platform
+  ## Default Settings
 
 
-  Linux (KDE desktop environment)
+  - **Microbreak**: 30 seconds every 3 minutes
+
+  - **Short Break**: 5 minutes every 30 minutes
+
+  - **Configurable**: All timings can be customized
 
 
-  ## Availability
+  ## Health Benefits
 
 
-  - Official KDE Apps website: apps.kde.org/rsibreak/
+  - Reduces risk of Repetitive Strain Injury
 
-  - KDE GitLab repository: invent.kde.org/utilities/rsibreak
+  - Prevents eye strain and fatigue
 
-  - GitHub mirror: github.com/KDE/rsibreak
+  - Decreases muscle tension in hands, wrists, and shoulders
 
+  - Improves circulation
 
-  ## Open Source
-
-
-  Free and open-source software maintained by the KDE community.
+  - Maintains productivity by preventing burnout
 
 
-  ## Use Cases
+  ## Alternatives
 
 
-  - Preventing repetitive strain injuries for heavy computer users
+  Other similar tools include Workrave, Stretchly, Time Out (macOS), and
+  BreakTimer, all focusing on protecting user health during extended computer
+  use.
 
-  - Reminding programmers and writers to take regular breaks
 
-  - Enforcing breaks for users with existing RSI issues
+  ## Pricing
 
-  - Promoting healthier computer usage habits
+
+  Free and open-source under the GPL license.
 brand: KDE
-updated_at: 2026-03-16 21:30
+updated_at: 2026-03-19 18:16
