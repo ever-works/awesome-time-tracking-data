@@ -1476,3 +1476,21 @@
   name: Fingerprint
 - id: time-clock
   name: Time Clock
+- id: smart-planning
+  name: Smart Planning
+- id: information-management
+  name: Information Management
+- id: team-scheduling
+  name: Team Scheduling
+- id: break-reminder
+  name: Break Reminder
+- id: hybrid-method
+  name: Hybrid Method
+- id: rsi-prevention
+  name: Rsi Prevention
+- id: capacity-planning
+  name: Capacity Planning
+- id: visual-feedback
+  name: Visual Feedback
+- id: appointment-booking
+  name: Appointment Booking
