@@ -107,7 +107,7 @@
 - id: breaks
   name: Breaks
 - id: gps-tracking
-  name: GPS Tracking
+  name: Gps Tracking
 - id: payroll
   name: Payroll
 - id: mobile-workforce
@@ -1568,3 +1568,11 @@
   name: Time Off
 - id: ukrainian
   name: Ukrainian
+- id: certified-payroll
+  name: Certified Payroll
+- id: team-motivation
+  name: Team Motivation
+- id: implementation
+  name: Implementation
+- id: workflow-automation
+  name: Workflow Automation

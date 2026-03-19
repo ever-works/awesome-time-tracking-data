@@ -98,3 +98,9 @@
   name: Virtual Coworking Feature
 - id: productivity-community
   name: Productivity Community
+- id: field-service
+  name: Field Service
+- id: legal-practice-management
+  name: Legal Practice Management
+- id: work-management
+  name: Work Management
