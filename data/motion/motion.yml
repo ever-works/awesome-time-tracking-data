@@ -1,73 +1,71 @@
 name: Motion
-description: AI-powered calendar and task management app that automatically
-  schedules your tasks using intelligent algorithms. Motion analyzes your
-  deadlines, priorities, and calendar to build an optimized daily schedule,
-  removing the burden of manual time blocking.
-source_url: https://www.usemotion.com
+description: AI-powered productivity suite that automatically schedules tasks
+  from your to-do list into your calendar with intelligent time blocking,
+  re-adjusting plans dynamically as priorities change.
+source_url: https://www.usemotion.com/
 category: AI Powered Time Tracking
 tags:
   - ai-powered
-  - calendar
-  - automatic
   - time-blocking
-featured: false
+  - scheduling
+featured: true
 markdown: >-
   ## Overview
 
 
-  Motion is an AI-powered productivity app that combines calendar management,
-  task scheduling, and project management into a single intelligent platform.
-  Unlike traditional time blocking tools, Motion uses AI to automatically
-  schedule your tasks as calendar blocks based on your deadlines, priorities,
-  and available time.
+  Motion is an AI-driven productivity suite that revolutionizes time management
+  by automatically scheduling tasks from your to-do list into your calendar. It
+  uses artificial intelligence to create optimal time blocks and dynamically
+  adjusts schedules as priorities change throughout the day.
 
 
   ## Features
 
 
-  - **AI Auto-Scheduling**: Motion's AI scheduler automatically places tasks on
-  your calendar, adjusting throughout the day as priorities change
+  - **AI Auto-Scheduling** - Automatically schedules tasks from to-do lists into
+  calendar time blocks
 
-  - **Intelligent Task Management**: Add tasks with deadlines and priorities,
-  and Motion determines when to work on them
+  - **Dynamic Re-scheduling** - Intelligently adjusts schedule when new tasks or
+  meetings are added
 
-  - **Calendar Integration**: Connects with Google Calendar, Outlook, and other
+  - **Project Management** - AI-assisted project creation and task breakdown
+
+  - **Team Coordination** - Helps teams coordinate complex projects with
+  automated scheduling
+
+  - **Priority Management** - Automatically prioritizes tasks based on deadlines
+  and importance
+
+  - **Calendar Integration** - Syncs with Google Calendar, Outlook, and other
   calendar services
 
-  - **Project Management**: Organize tasks into projects with dependencies and
-  team collaboration
+  - **Meeting Scheduling** - Smart scheduling assistant for finding optimal
+  meeting times
 
-  - **Meeting Scheduling**: Built-in meeting scheduler to find optimal times
-  without back-and-forth emails
+  - **Focus Time Protection** - Blocks time for deep work automatically
 
-  - **Focus Time Protection**: Automatically blocks time for deep work based on
-  your task priorities
+  - **Deadline Tracking** - Ensures tasks are scheduled with enough time before
+  deadlines
 
-  - **Dynamic Rescheduling**: When urgent tasks arise or meetings run long,
-  Motion automatically adjusts your schedule
-
-  - **Team Collaboration**: Share projects, assign tasks, and coordinate
-  schedules with team members
-
-  - **Mobile Apps**: Full-featured iOS and Android apps for on-the-go schedule
-  management
+  - **Mobile Apps** - Access and manage your AI-scheduled day from iOS and
+  Android
 
 
-  ## How It Works
+  ## Use Cases
 
 
-  You input your tasks with deadlines, estimated duration, and priority level.
-  Motion's AI analyzes your existing calendar commitments and available time
-  slots, then automatically schedules each task at the optimal time. As your day
-  changes, Motion continuously re-optimizes your schedule to ensure you stay on
-  track with your priorities.
+  - Individual professionals managing complex workloads
+
+  - Teams coordinating projects with multiple dependencies
+
+  - Executives balancing meetings and strategic work
+
+  - Anyone struggling with manual calendar management
 
 
   ## Pricing
 
 
-  Motion offers a 7-day free trial. Paid plans start at $19 per month for
-  individuals (billed annually) or $34 per month (billed monthly). Team plans
-  are available starting at $12 per user per month (billed annually).
+  Starts at $19-34 per user per month with a free trial available.
 brand: Motion
-updated_at: 2026-03-19 08:36
+updated_at: 2026-03-19 12:02

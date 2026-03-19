@@ -1,67 +1,70 @@
 name: Smokeball
-description: Comprehensive legal practice management software offering case
-  management, time tracking, and billing capabilities in a single platform, best
-  suited for small-to-medium law firms looking to centralize all business
-  activities.
+description: Comprehensive legal practice management software offering
+  integrated time tracking, case management, document automation, and billing
+  designed specifically for small to medium law firms.
 source_url: https://www.smokeball.com/
-category: Professional Services
+category: Legal Time Tracking
 tags:
   - legal
   - practice-management
   - case-management
-featured: false
 markdown: >-
   ## Overview
 
 
-  Smokeball is an all-in-one legal practice management solution designed
-  specifically for small and mid-sized law firms, combining case management,
-  document automation, time tracking, and billing in a single cloud-based
-  platform.
+  Smokeball is an all-in-one legal practice management software that combines
+  time tracking with case management, document automation, and billing. It's
+  designed for small to medium-sized law firms looking to centralize all
+  business activities in a single platform.
 
 
   ## Features
 
 
-  - **Automatic Time Tracking**: AutoTime captures billable activities
-  automatically as lawyers work in documents, emails, and other applications
+  - **Automatic Time Tracking** - AutoTime automatically captures time spent in
+  emails, documents, and case work
 
-  - **Case Management**: Complete matter tracking with deadlines, tasks, and
-  document organization
+  - **Case Management** - Organize all case files, documents, and communications
 
-  - **Document Automation**: Pre-built and custom templates for common legal
-  documents
+  - **Document Automation** - Generate legal documents from templates with smart
+  fields
 
-  - **Billing & Invoicing**: Generate invoices from tracked time with flexible
-  billing arrangements
+  - **Billing & Invoicing** - Convert tracked time to invoices with built-in
+  trust accounting
 
-  - **Email Integration**: Sync emails directly to matters with automatic time
-  capture
+  - **Email Integration** - Sync emails directly to case files
 
-  - **Trust Accounting**: Built-in IOLTA and trust accounting features
+  - **Calendar & Deadlines** - Court deadlines and appointment scheduling
 
-  - **Court Forms**: Access to jurisdiction-specific court forms library
+  - **Client Portal** - Secure portal for document sharing and communication
 
-  - **Mobile App**: Manage cases and track time on iOS and Android devices
+  - **Law-Specific Forms** - Pre-built forms for multiple practice areas
 
-  - **Reporting**: Practice analytics including revenue forecasting and
-  realization rates
+  - **Microsoft Office Integration** - Works seamlessly with Word and Outlook
 
-  - **Integrations**: Connect with QuickBooks, Outlook, Gmail, and other tools
+  - **Mobile Apps** - Access case information and track time on the go
 
 
   ## Practice Areas
 
 
-  Supports multiple practice areas including family law, personal injury,
-  criminal defense, estate planning, real estate, and more with
-  practice-specific features and templates.
+  - Family law
+
+  - Personal injury
+
+  - Estate planning
+
+  - Real estate
+
+  - Criminal defense
+
+  - Immigration
 
 
   ## Pricing
 
 
-  Subscription-based pricing with different tiers based on features and number
-  of users. Free trial available.
+  Pricing starts at approximately $39-79 per user per month depending on
+  features, with a free trial available.
 brand: Smokeball
-updated_at: 2026-03-15 01:56
+updated_at: 2026-03-19 12:02

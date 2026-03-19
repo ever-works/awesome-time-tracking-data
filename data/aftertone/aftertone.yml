@@ -1,79 +1,81 @@
 name: Aftertone
-description: AI-powered time blocking and task management app specifically
-  designed for Mac users, offering intelligent calendar optimization and
-  automated scheduling with native macOS integration.
+description: Mac-native calendar and task manager built on behavioral science
+  principles with time blocking as the primary workflow, offering closed-loop
+  feedback for sustainable productivity.
 source_url: https://www.aftertone.io/
-category: Time Blocking & Interval Timers
+category: Time Blocking
 tags:
-  - ai-powered
-  - time-blocking
   - mac
-featured: false
+  - behavioral-design
+  - time-blocking
 markdown: >-
   ## Overview
 
 
-  Aftertone is a modern time blocking and task management app built specifically
-  for Mac that uses AI to help you plan your day more effectively and protect
-  your focus time.
+  Aftertone is a Mac-native calendar and task management application built on
+  behavioral science principles. It makes time blocking the primary workflow and
+  closes the feedback loop to help users build sustainable productivity habits.
 
 
   ## Features
 
 
-  - AI-powered task scheduling
+  ### Time Blocking Foundation
 
-  - Automatic time blocking
+  - **Time Blocking First** - Time blocking is the core workflow, not an add-on
 
-  - Calendar integration (Google Calendar, iCloud)
+  - **Calendar Integration** - Native integration with macOS Calendar
 
-  - Smart suggestions for task placement
+  - **Task Duration** - Assign time estimates to every task
 
-  - Focus time protection
+  - **Visual Planning** - See your day as a visual timeline
 
-  - Native macOS design and performance
-
-  - Menu bar quick access
-
-  - Keyboard shortcuts
-
-  - Task prioritization
-
-  - Daily planning assistance
-
-  - Buffer time management
-
-  - Meeting optimization
+  - **Drag-and-Drop** - Easily move time blocks around your schedule
 
 
-  ## AI Capabilities
+  ### Behavioral Science Approach
+
+  - **Feedback Loops** - Track what you actually accomplished vs. planned
+
+  - **Habit Formation** - Build sustainable planning habits through design
+
+  - **Cognitive Load Reduction** - Simplify decision-making with smart defaults
+
+  - **Reflection Prompts** - Regular reflection on productivity patterns
+
+  - **Progress Tracking** - See trends in planning accuracy over time
 
 
-  - Learns your work patterns
+  ### Mac-Native Experience
 
-  - Suggests optimal times for tasks
+  - **Native Performance** - Built specifically for macOS for optimal speed
 
-  - Automatically adjusts schedule when plans change
+  - **macOS Integration** - Deep integration with Calendar, Shortcuts, and more
 
-  - Identifies best focus time blocks
+  - **Keyboard Shortcuts** - Extensive keyboard navigation
 
-  - Balances deep work with meetings
+  - **Widgets** - macOS widgets for quick access
+
+  - **Privacy-Focused** - Data stays on your Mac
+
+
+  ## Philosophy
+
+
+  Aftertone believes that sustainable productivity comes from understanding
+  behavioral patterns and creating systems that work with human psychology
+  rather than against it.
 
 
   ## Platform
 
 
-  - macOS native application
-
-  - Designed for Apple Silicon and Intel Macs
-
-  - Follows Apple Human Interface Guidelines
-
-  - Integrates with macOS calendar and notifications
+  macOS exclusive
 
 
   ## Pricing
 
 
-  Subscription-based pricing (specific tiers available on website).
-updated_at: 2026-03-16 11:49
+  Subscription-based with free trial.
+brand: Aftertone
+updated_at: 2026-03-19 12:02

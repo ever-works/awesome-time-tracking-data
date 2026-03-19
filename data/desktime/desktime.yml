@@ -1,117 +1,74 @@
 name: DeskTime
-description: Automatic time tracking software that discovered the 52/17
-  productivity rule through analysis of employee work patterns, offering
-  productivity monitoring and detailed analytics.
+description: Employee productivity monitoring and automatic time tracking
+  software for remote and on-site teams, featuring URL and app tracking,
+  productivity calculation, and privacy-focused features like Private Time mode.
 source_url: https://desktime.com
-category: Automatic Time Tracking
+category: Employee Monitoring
 tags:
-  - automatic
   - productivity-monitoring
-  - analytics
+  - automated
+  - remote-teams
 markdown: >-
   ## Overview
 
 
-  DeskTime is an automatic time tracking and productivity monitoring software,
-  famous for discovering the 52/17 rule by analyzing the work patterns of its
-  most productive users.
+  DeskTime is a comprehensive time tracker and productivity monitoring platform
+  designed for both remote and on-site teams. It combines automatic time
+  tracking with productivity analytics to help teams move from guesswork to
+  data-driven decision-making.
 
 
-  ## Automatic Time Tracking
+  ## Features
 
 
-  - Fully automatic desktop tracking
+  ### Automatic Time Tracking
 
-  - Application and website monitoring
+  - **Arrival/Departure Timestamps** - Automatically records when employees
+  start and end work
 
-  - Idle time detection
+  - **Work Time Calculation** - Tracks total time spent on work-related tasks
 
-  - Offline time tracking
+  - **Productivity Tracking** - Automatically calculates daily team productivity
 
-  - Manual time entry option
-
-  - Calendar integration
-
-
-  ## Productivity Features
+  - **Idle Time Detection** - Identifies periods of inactivity
 
 
-  **Productivity Analysis:**
+  ### Monitoring & Analytics
 
-  - Categorizes apps/sites as productive, unproductive, or neutral
+  - **URL & App Tracking** - Logs which apps and websites are used and for how
+  long
 
-  - Real-time productivity percentage
+  - **Productivity Calculation** - Employees categorize apps/URLs as productive
+  or unproductive
 
-  - Daily productivity reports
+  - **Project Tracking** - Track time spent on specific projects and tasks
 
-  - Individual and team analytics
+  - **Screenshots** - Optional screenshot feature for visual work verification
 
-  - Custom productivity rules
-
-
-  **The 52/17 Discovery:**
-
-  DeskTime's analysis revealed that the most productive employees worked in
-  52-minute focused bursts followed by 17-minute breaks, leading to the
-  popularization of this method.
+  - **Reports & Insights** - Detailed productivity and time usage reports
 
 
-  ## Team Management
+  ### Privacy Features
+
+  - **Private Time** - All tracking stops during private moments for personal
+  matters
+
+  - **Transparent Monitoring** - Not designed as surveillance but productivity
+  improvement
+
+  - **Employee Control** - Workers can pause tracking when needed
 
 
-  - Employee time tracking
-
-  - Project time allocation
-
-  - Task management
-
-  - Attendance tracking
-
-  - Shift scheduling
-
-  - Screenshots (optional)
-
-  - URL and app tracking
+  ## Platforms
 
 
-  ## Reporting
+  Desktop apps for Windows, Mac, Linux. Mobile apps for iOS and Android.
 
 
-  - Productivity reports
-
-  - Time utilization
-
-  - Project reports
-
-  - Absence calendar
-
-  - Custom reports
-
-  - Export capabilities
+  ## Pricing (2026)
 
 
-  ## Integrations
-
-
-  - Google Calendar
-
-  - Outlook Calendar
-
-  - Jira, Trello, Asana
-
-  - Basecamp
-
-  - API access
-
-
-  ## Pricing
-
-
-  Pro: $7/user/month
-
-  Premium: $10/user/month
-
-  Enterprise: $20/user/month
-
-  14-day free trial
-updated_at: 2026-03-17 08:54
+  Free version with unlimited users. Pro: $7/user/month, Premium:
+  $10/user/month, Enterprise: $20/user/month. 14-day free trial.
+brand: DeskTime
+updated_at: 2026-03-19 12:02

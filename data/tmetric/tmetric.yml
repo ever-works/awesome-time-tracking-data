@@ -1,108 +1,71 @@
 name: TMetric
-description: Automated time tracker that runs in the background, auto-logging
-  app switches and idle gaps to build a complete timeline and boost productivity
-  for small and mid-size teams.
-source_url: https://tmetric.com
+description: Automatic time tracking software that runs in the background to log
+  app switches and idle time, building a detailed timeline of work activities to
+  boost productivity for small and mid-sized teams.
+source_url: https://tmetric.com/
 category: Automatic Time Tracking
 tags:
-  - automatic
-  - productivity-monitoring
+  - automated
+  - productivity-analytics
   - teams
 markdown: >-
   ## Overview
 
 
-  TMetric is an automatic time tracking software that quietly runs in the
-  background, capturing every app switch and idle period to create a flawless
-  timeline of your work activities.
+  TMetric is an automatic time tracking solution that quietly runs in the
+  background, capturing every application switch and idle period to create a
+  comprehensive timeline of work activities. It's popular among small and
+  mid-sized teams for its zero-touch tracking approach.
 
 
-  ## Automatic Tracking
+  ## Features
 
 
-  - Passive background tracking
+  - **Automatic Activity Tracking** - Logs all app and website usage without
+  manual timers
 
-  - App and website monitoring
+  - **Idle Time Detection** - Identifies and flags inactive periods
 
-  - Idle time detection
+  - **Manual Time Entry** - Option to add time entries manually when needed
 
-  - Automatic timeline construction
+  - **Project Time Tracking** - Organize time by projects, clients, and tasks
 
-  - Smart categorization
+  - **Billable Hours** - Mark time as billable or non-billable
 
-  - Manual override available
+  - **Invoicing** - Generate invoices from tracked time
 
+  - **Budgeting** - Set project budgets and get alerts
 
-  ## Key Features
+  - **Team Monitoring** - See what team members are working on
 
+  - **Integrations** - Connect with Asana, Trello, JIRA, GitHub, and 50+ other
+  tools
 
-  **Time Management:**
+  - **Detailed Reports** - Time, activity, and productivity reports
 
-  - Start/stop timers
+  - **Browser Extension** - Track time directly from web apps
 
-  - Manual time entry
-
-  - Time estimates
-
-  - Billable vs. non-billable
-
-  - Project and task tracking
-
-  - Calendar integration
+  - **Mobile Apps** - iOS and Android apps for on-the-go tracking
 
 
-  **Team Features:**
-
-  - Team dashboards
-
-  - Activity monitoring
-
-  - Productivity reports
-
-  - Time approval workflows
-
-  - Rate management
-
-  - Capacity planning
+  ## Use Cases
 
 
-  **Integrations:**
+  - Software development teams
 
-  - Jira, Trello, Asana
+  - Digital agencies
 
-  - GitHub, GitLab, Bitbucket
+  - Freelancers
 
-  - Basecamp, Wrike
+  - Consulting firms
 
-  - Slack, Microsoft Teams
-
-  - 50+ integrations
-
-
-  ## Reporting
-
-
-  - Time reports
-
-  - Productivity analytics
-
-  - Billable hours reports
-
-  - Client reports
-
-  - Project profitability
-
-  - Custom reports
+  - Remote teams
 
 
   ## Pricing
 
 
-  Free plan: Basic features, unlimited users
-
-  Professional: $5/user/month
-
-  Business: $7/user/month
-
-  15-day free trial on paid plans
-updated_at: 2026-03-17 08:54
+  Free plan available for individuals. Paid plans start at $5 per user per
+  month.
+brand: TMetric
+updated_at: 2026-03-19 12:02

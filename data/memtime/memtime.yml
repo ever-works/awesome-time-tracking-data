@@ -1,93 +1,73 @@
 name: Memtime
-description: Automatic time tracking software that runs completely locally on
-  your computer. Captures all activities with full privacy - no cloud storage,
-  no screenshots, all data stays on your device.
+description: Automatic time tracking desktop application that records computer
+  activity in the background for later categorization, helping professionals
+  recover lost billable time through memory-based reconstruction.
 source_url: https://memtime.com/
 category: Automatic Time Tracking
 tags:
-  - privacy
-  - automatic
-  - local
-  - offline
-featured: false
+  - automated
+  - memory-based
+  - desktop
 markdown: >-
   ## Overview
 
 
-  Memtime is an automatic time tracking application that prioritizes user
-  privacy by storing all data locally on your computer. Unlike cloud-based
-  trackers, Memtime captures your activities without sending any information to
-  external servers, making it ideal for privacy-conscious users and
-  organizations.
+  Memtime is an automatic time tracking desktop application that runs in the
+  background on your computer, capturing all your work activity for later
+  reconstruction. It's designed for professionals who struggle with real-time
+  time tracking and need to reconstruct their day from memory.
 
 
   ## Features
 
 
-  - **100% Automatic**: Tracks all computer activities in the background
+  - **Automatic Activity Capture** - Records all apps, documents, websites, and
+  meetings without manual timers
 
-  - **Complete Privacy**: All data stored locally, never leaves your device
+  - **Memory Timeline** - Visual timeline of your entire workday for easy
+  reconstruction
 
-  - **Memory Timeline**: Visual timeline showing all activities
+  - **Offline-First** - All data stored locally on your computer for maximum
+  privacy
 
-  - **Project Assignment**: Allocate captured time to projects and tasks
+  - **Project Categorization** - Assign captured activities to projects and
+  clients after the fact
 
-  - **No Screenshots**: Pure activity tracking without invasive monitoring
+  - **Meeting Integration** - Automatically captures calendar meetings from
+  Outlook and Google Calendar
 
-  - **Offline First**: Works without internet connection
+  - **No Screenshots** - Privacy-focused approach that doesn't capture screen
+  content
 
-  - **Activity Recall**: Remember what you worked on with detailed activity logs
+  - **Export to Billing Systems** - Export tracked time to invoicing and project
+  management tools
 
-  - **Calendar Integration**: Sync with calendars to pre-fill timesheets
+  - **15-Minute Increments** - Supports legal billing standards
 
-  - **Timesheet Generation**: Create timesheets from captured activities
+  - **Detailed Reports** - Analyze time spent by project, client, and activity
+  type
 
-  - **Budget Tracking**: Monitor project time budgets
-
-  - **Export**: Export timesheets to various formats
-
-  - **Integrations**: Connect with project management and billing tools
-
-  - **Multi-Computer**: Track across multiple devices (data stays local)
-
-
-  ## Privacy Features
-
-
-  - No cloud storage requirement
-
-  - No screenshots or screen recording
-
-  - No remote access or monitoring
-
-  - GDPR compliant
-
-  - Data ownership remains with user
-
-  - Optional sharing only
+  - **Integrations** - Connect with JIRA, Asana, Todoist, and other project
+  tools
 
 
-  ## Use Cases
+  ## Ideal For
 
 
-  - Consultants tracking billable hours
+  - Lawyers and attorneys
 
-  - Lawyers needing detailed time records
+  - Consultants
 
-  - Freelancers reconstructing past work
+  - Accountants
 
-  - Privacy-conscious professionals
+  - Architects
 
-  - Organizations with data security requirements
+  - Knowledge workers
 
 
   ## Pricing
 
 
-  - **Free Trial**: 14 days full access
-
-  - **Pro**: €9 per user/month - Full features
-
-  - **Enterprise**: Custom pricing - Team features, priority support
-brand: memtime
-updated_at: 2026-03-18 05:22
+  Starts at €10-15 per user per month with a 14-day free trial.
+brand: Memtime
+updated_at: 2026-03-19 12:02
