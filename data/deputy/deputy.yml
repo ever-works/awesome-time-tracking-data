@@ -1,89 +1,113 @@
 name: Deputy
-description: Workforce management platform combining employee scheduling with
-  time tracking and attendance, particularly strong for retail, hospitality, and
-  shift-based businesses.
+description: Workforce management platform with employee scheduling, time
+  tracking, and labor compliance tools. Deputy uses AI-powered scheduling to
+  optimize shift planning while tracking employee hours and ensuring regulatory
+  compliance.
 source_url: https://www.deputy.com
 category: Workforce Management
 tags:
   - scheduling
-  - attendance-tracking
+  - ai-powered
+  - compliance
   - shift-management
+featured: false
 markdown: >-
   ## Overview
 
 
-  Deputy is a comprehensive workforce management solution that combines employee
-  scheduling, time tracking, attendance management, and compliance tools,
-  designed for businesses with shift-based workers.
+  Deputy is a comprehensive workforce management platform that combines
+  AI-powered employee scheduling with time and attendance tracking, task
+  management, and labor law compliance. Built for shift-based businesses, Deputy
+  helps managers create optimal schedules, employees clock in/out easily, and
+  ensures organizations stay compliant with labor regulations.
 
 
-  ## Key Features
+  ## Features
 
 
-  **Time & Attendance:**
+  - **AI-Powered Scheduling**: Machine learning algorithms analyze historical
+  data to forecast staffing needs and create optimal schedules
 
-  - Mobile and kiosk time clocks
+  - **Drag-and-Drop Scheduling**: Visual schedule builder with drag-and-drop
+  shift assignment
 
-  - GPS location verification
+  - **Auto-Scheduling**: AI suggests schedules based on demand forecasts,
+  availability, and costs
 
-  - Break compliance tracking
+  - **Time Clock**: Multiple clock-in options including mobile app, tablet
+  kiosk, and biometric devices
 
-  - Overtime calculations
+  - **GPS Tracking**: Verify employee location at clock-in with geofencing
 
-  - Leave management
+  - **Photo Verification**: Capture employee photos at clock events
 
+  - **Break Management**: Track breaks and ensure compliance with break
+  requirements
 
-  **Scheduling:**
+  - **Overtime Alerts**: Real-time notifications when approaching overtime
+  thresholds
 
-  - Drag-and-drop shift scheduling
+  - **Shift Swapping**: Employees can request shift swaps via mobile app
 
-  - Shift swapping and coverage
+  - **Availability Management**: Employees set availability preferences
 
-  - Auto-scheduling based on demand
+  - **Labor Cost Forecasting**: Predict labor costs and adjust schedules to stay
+  within budget
 
-  - Mobile schedule access
+  - **Task Management**: Assign and track completion of tasks and checklists
 
-  - Shift reminders
+  - **Communication**: Send announcements and updates to team via app
 
+  - **Leave Management**: Request, approve, and track time off
 
-  **Compliance:**
+  - **Compliance Tools**: Built-in features for FLSA, ACA, and state labor laws
 
-  - Labor law compliance
+  - **Payroll Integration**: Export to 300+ payroll systems
 
-  - Break and meal period enforcement
-
-  - Overtime alerts
-
-  - Award interpretation (Australia)
-
-
-  **Integrations:**
-
-  - Payroll systems (ADP, Gusto, QuickBooks)
-
-  - POS systems
-
-  - HR platforms
-
-  - Accounting software
+  - **Reporting**: Analytics on labor costs, productivity, and attendance
 
 
-  ## Target Industries
+  ## AI Scheduling Features
 
 
-  - Retail and hospitality
+  Deputy's AI engine:
 
-  - Healthcare
+  - Forecasts customer demand based on historical data
 
-  - Manufacturing
+  - Recommends optimal staffing levels for each shift
 
-  - Logistics
+  - Considers employee skills, availability, and preferences
 
-  - Any shift-based workforce
+  - Optimizes schedule to minimize labor costs
+
+  - Accounts for labor laws and overtime rules
+
+  - Learns from your scheduling decisions over time
+
+
+  ## Industries Served
+
+
+  Deputy is used across:
+
+  - Retail stores and restaurants
+
+  - Healthcare facilities
+
+  - Hospitality and hotels
+
+  - Manufacturing plants
+
+  - Field services
+
+  - Any business with hourly employees and shift scheduling needs
 
 
   ## Pricing
 
 
-  Starts at approximately $2.50 per user per month. Free trial available.
-updated_at: 2026-03-17 08:54
+  Deputy offers tiered pricing starting at $2.50 per user per month (Starter),
+  $4.50 per user per month (Premium), and Enterprise pricing for larger
+  organizations. All plans include core scheduling and time tracking features.
+brand: Deputy
+updated_at: 2026-03-19 08:36
