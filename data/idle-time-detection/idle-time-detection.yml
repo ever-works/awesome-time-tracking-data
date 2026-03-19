@@ -1,65 +1,76 @@
 name: Idle Time Detection
-description: Automatic detection of periods when employees are away from their
-  computers or inactive, allowing accurate separation of active work time from
-  breaks and absences. Improves billing accuracy and provides realistic
-  productivity metrics.
-source_url: https://www.desktime.com/idle-time-tracking
-category: Time Tracking Practice
+description: Automated feature in time tracking software that detects periods of
+  inactivity based on keyboard and mouse usage, prompting users to categorize
+  idle time as break, meeting, or continued work. Prevents inflated time entries
+  and improves accuracy.
+source_url: https://clockify.me/chrome-time-tracking
+category: Time Tracking Feature
 tags:
   - automation
-  - productivity
   - accuracy
+  - breaks
 markdown: >-
   ## Overview
 
 
-  Idle time detection automatically identifies when employees step away from
-  their computers or stop active work. The system monitors keyboard, mouse, and
-  application activity to determine when users are actively working versus idle,
-  ensuring accurate time tracking.
+  Idle time detection monitors keyboard and mouse activity to identify periods
+  when the computer appears unused. When inactivity exceeds a threshold
+  (typically 5-15 minutes), the system prompts the user to categorize the time,
+  ensuring accurate timesheets.
 
 
   ## How It Works
 
 
-  - Monitors keyboard and mouse activity
+  ### Detection Method
 
-  - Tracks active application usage
+  - Monitors keyboard strokes
 
-  - Detects periods of inactivity (typically 3-5 minutes)
+  - Tracks mouse movements
 
-  - Marks idle periods separately from active work time
+  - Measures activity frequency
 
-  - Allows users to categorize idle time after returning
+  - Sets inactivity threshold (configurable)
+
+
+  ### User Prompt
+
+  When returning from idle:
+
+  - "You've been idle for 12 minutes"
+
+  - Options: Keep time / Delete time / Mark as break
+
+  - One-click categorization
 
 
   ## Benefits
 
 
-  - **Billing Accuracy**: Ensures clients aren't billed for inactive time
+  ### Prevents Time Inflation
 
-  - **Realistic Metrics**: Provides accurate productivity data
+  - Lunch breaks don't count as work time
 
-  - **Fair Tracking**: Distinguishes between work and legitimate breaks
+  - Meetings away from desk handled properly
 
-  - **Automatic**: No manual start/stop needed
+  - Personal breaks excluded from billable hours
 
-  - **Transparency**: Clear visibility into work patterns
-
-
-  ## Privacy Considerations
+  - Accurate client billing
 
 
-  Modern idle detection respects privacy by only tracking activity patterns, not
-  content of work or keystrokes.
+  ### Improves Accuracy
+
+  - Captures actual work time only
+
+  - Prompts memory while event is fresh
+
+  - Reduces estimation and guesswork
 
 
-  ## Common Thresholds
+  ## Key Takeaway
 
 
-  - 3 minutes idle: Standard for most office work
-
-  - 5 minutes idle: Common for creative work requiring thinking time
-
-  - 10 minutes idle: Used for roles with natural work breaks
-updated_at: 2026-03-18 22:22
+  Idle time detection is essential for accurate time tracking, automatically
+  identifying periods when work isn't occurring and prompting appropriate
+  categorization.
+updated_at: 2026-03-19 14:40
