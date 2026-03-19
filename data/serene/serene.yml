@@ -1,103 +1,95 @@
 name: Serene
-description: MacOS productivity app combining session planning, website
-  blocking, and focus music. Creates distraction-free work sessions with
-  integrated planning, blocking, and ambient sound.
+description: A macOS productivity app that combines goal setting, website
+  blocking, focus music, and phone call blocking to create distraction-free deep
+  work sessions.
 source_url: https://sereneapp.com/
 category: Productivity Tool
 tags:
   - mac
-  - focus
-  - planning
   - distraction-blocking
-featured: false
+  - focus
+  - goal-setting
+  - deep-work
 markdown: >-
   ## Overview
 
 
-  Serene is a macOS productivity application that combines session planning,
-  website blocking, and focus music into a unified workflow. It's designed to
-  help users plan their work, eliminate distractions, and maintain focus through
-  structured sessions.
+  Serene is a comprehensive focus app for Mac that blocks distractions, provides
+  focus music, and structures work sessions around clear goals to enable deep,
+  productive work.
 
 
   ## Features
 
 
-  - **Session Planning**: Plan what you'll work on before starting
+  - **Website & App Blocking**: Block distracting sites and apps during focus
+  sessions
 
-  - **Website Blocking**: Automatically block distracting sites during sessions
-
-  - **Phone Blocking**: Silent your iPhone automatically
+  - **Phone Call Blocking**: Silence phone calls automatically
 
   - **Focus Music**: Curated playlists for concentration
 
-  - **Goal Setting**: Set clear objectives for each session
+  - **Goal-Based Sessions**: Structure work around specific outcomes
 
-  - **Break Reminders**: Scheduled breaks with gentle prompts
+  - **Session Planning**: Plan deep work blocks
 
-  - **Session Tracking**: Record what you accomplished
+  - **Break Reminders**: Scheduled rest periods
 
-  - **Quit Apps**: Automatically close distracting applications
-
-  - **Day Planning**: Plan your entire day in advance
-
-  - **Slack Status**: Auto-update status during focus sessions
-
-  - **Analytics**: Track focus time and session completion
-
-  - **Pomodoro Mode**: Built-in Pomodoro timer option
+  - **Daily Reviews**: Track accomplishments
 
 
   ## Workflow
 
 
-  1. **Plan**: Write down what you'll work on and for how long
+  1. Set clear session goal
 
-  2. **Block**: Choose which sites/apps to block
+  2. Choose focus duration
 
-  3. **Focus**: Music starts, distractions blocked
+  3. Select distractions to block
 
-  4. **Break**: Scheduled breaks with activity suggestions
+  4. Start focus music
 
-  5. **Review**: Reflect on what you accomplished
+  5. Begin deep work
 
+  6. Take scheduled breaks
 
-  ## Integrations
-
-
-  - **iPhone**: Silent notifications automatically
-
-  - **Slack**: Update status during sessions
-
-  - **Calendar**: Sync with Google Calendar and Apple Calendar
-
-  - **Spotify**: Integration with personal playlists
+  7. Review outcomes
 
 
-  ## Philosophy
+  ## Distraction Management
 
 
-  Serene emphasizes:
+  - Block specific websites
 
-  - Planning before doing
+  - Block applications
 
-  - Single-tasking over multitasking
+  - Silence notifications
 
-  - Intentional sessions over constant availability
+  - Block phone calls
 
-  - Reflection on accomplishments
+  - Customizable block lists
+
+  - Emergency override options
+
+
+  ## Platform
+
+
+  macOS only
 
 
   ## Pricing
 
 
-  - **Monthly**: $4/month
+  Subscription-based
 
-  - **Yearly**: $29/year (save 40%)
-
-  - **Lifetime**: $49 one-time
+  Free trial available
 
 
-  All plans include all features for unlimited devices.
+  ## Target Users
+
+
+  Mac users, knowledge workers, writers, developers, anyone needing
+  distraction-free focus time
 brand: Serene
-updated_at: 2026-03-18 05:22
+updated_at: 2026-03-19 02:22

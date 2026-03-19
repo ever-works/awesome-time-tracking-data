@@ -1,93 +1,139 @@
 name: Personal Kanban
-description: "Simplified Kanban methodology for individuals. Visualize work with
-  two basic rules: visualize your work and limit work-in-progress to maintain
-  focus and reduce overwhelm."
-source_url: https://personalkanban.com
+description: An adaptation of the Kanban methodology for individual task
+  management using visual boards with columns (To Do, Doing, Done) to visualize
+  work, limit work-in-progress, and maintain flow.
+source_url: https://www.personalkanban.com/
 category: Time Management Methodology
 tags:
+  - visual-management
+  - task-management
   - kanban
-  - visual
   - workflow
-featured: false
+  - agile
 markdown: >-
   ## Overview
 
 
-  Personal Kanban is an adaptation of Kanban for individual productivity. It
-  uses visual workflow management with just two essential rules to help you
-  manage work effectively.
+  Personal Kanban applies Kanban principles (visual workflow, WIP limits) to
+  individual productivity, using simple boards to visualize work and maintain
+  sustainable flow through limiting active tasks.
 
 
-  ## Two Essential Rules
+  ## Core Principles
 
 
-  **Rule 1: Visualize Your Work**
+  ### 1. Visualize Your Work
 
-  - Make all work visible on a board
+  - Make all tasks visible
 
-  - See everything in one place
+  - Use physical or digital board
 
-  - Understand total workload
+  - Columns represent workflow stages
 
-  - Create clarity and transparency
+  - Cards represent individual tasks
+
+  - See everything at a glance
 
 
-  **Rule 2: Limit Work-in-Progress (WIP)**
+  ### 2. Limit Work-in-Progress (WIP)
 
   - Restrict number of active tasks
 
-  - Finish before starting new work
+  - Typical limit: 3-5 tasks in "Doing"
 
-  - Reduce context switching
+  - Forces completion before starting new work
 
-  - Maintain focus
+  - Reduces context switching
 
-
-  ## Basic Board Setup
-
-
-  **Three Columns:**
-
-  - **Ready**: Tasks to do
-
-  - **Doing**: Work in progress (WIP limited)
-
-  - **Done**: Completed work
+  - Maintains focus
 
 
-  **Optional Columns:**
-
-  - Backlog
-
-  - Waiting
-
-  - This Week
-
-  - Today
+  ## Basic Board Structure
 
 
-  ## Benefits
+  **Backlog:** All captured tasks
+
+  **Ready:** Prioritized and prepared
+
+  **Doing:** Currently active (WIP limited)
+
+  **Done:** Completed work
 
 
-  - Reduced stress from visible work
+  ## Advanced Columns
 
-  - Improved focus through WIP limits
 
-  - Sense of accomplishment seeing Done
+  - Waiting/Blocked
 
-  - Better understanding of capacity
+  - Review
 
-  - Flexibility to adapt
+  - Testing
+
+  - Someday/Maybe
+
+  - Custom workflow stages
 
 
   ## Implementation
 
 
-  - Physical board (whiteboard, wall)
+  **Physical Board:**
 
-  - Digital tool (Trello, Notion, etc.)
+  - Whiteboard or corkboard
 
-  - Simple is better
+  - Sticky notes for tasks
 
-  - Start minimal, adjust as needed
-updated_at: 2026-03-17 15:16
+  - Tactile satisfaction
+
+  - Always visible
+
+
+  **Digital Tools:**
+
+  - Trello
+
+  - Notion
+
+  - Asana
+
+  - Monday.com
+
+  - Physical.app
+
+
+  ## Benefits
+
+
+  - Visual clarity of all work
+
+  - Obvious when overcommitted
+
+  - Satisfying progression
+
+  - Reduced overwhelm
+
+  - Better priority decisions
+
+  - Flow optimization
+
+
+  ## Best Practices
+
+
+  - Keep board current
+
+  - Review and update daily
+
+  - Respect WIP limits
+
+  - Move cards regularly
+
+  - Archive completed work
+
+
+  ## Target Users
+
+
+  Visual learners, anyone feeling overwhelmed, knowledge workers, freelancers,
+  project managers, people who like seeing progress
+updated_at: 2026-03-19 02:22

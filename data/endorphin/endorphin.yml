@@ -1,81 +1,62 @@
 name: Endorphin
-description: Adaptive focus music app that uses AI to generate personalized
-  soundscapes based on your current task, time of day, and productivity
-  patterns. Endorphin learns from your listening habits to optimize music for
-  focus, creativity, or relaxation.
-source_url: https://www.endorphin.io/
-category: Productivity Tools
+description: A minimalist focus timer app for iOS that gamifies productivity
+  through simple streak tracking and beautiful visual feedback for maintaining
+  consistent work habits.
+source_url: https://endorphin.io/
+category: Productivity Tool
 tags:
-  - focus-music
-  - ai-powered
-  - adaptive-audio
-featured: false
+  - ios
+  - gamification
+  - streak-tracking
+  - minimalist
+  - focus
 markdown: >-
   ## Overview
 
 
-  Endorphin is an AI-powered focus music app that generates personalized,
-  adaptive soundscapes designed to enhance concentration, creativity, or
-  relaxation based on your current needs and productivity patterns.
+  Endorphin is an iOS focus timer that uses minimalist design and gamification
+  through streak tracking to help users build consistent focus habits.
 
 
   ## Features
 
 
-  - **AI-Generated Music** - Personalized soundscapes created by artificial
-  intelligence
+  - Simple focus timer
 
-  - **Adaptive Audio** - Music adjusts based on task type and time of day
+  - Streak tracking for consistency
 
-  - **Learning Algorithm** - Improves recommendations based on your patterns
+  - Beautiful visual design
 
-  - **Task-Specific Modes** - Different audio profiles for focus, creativity,
-  relaxation
+  - Daily goal setting
 
-  - **Pomodoro Integration** - Built-in Pomodoro timer with music transitions
+  - Session history
 
-  - **Productivity Tracking** - Monitor focus time and effectiveness
+  - Minimal interface to reduce distractions
 
-  - **No Lyrics** - Instrumental music designed not to distract
-
-  - **Offline Mode** - Download tracks for offline listening
+  - Widget support
 
 
-  ## How It Works
+  ## Gamification Elements
 
 
-  1. Select your current goal (focus, creativity, or relaxation)
+  - Maintain focus streaks
 
-  2. AI generates appropriate soundscape
+  - Daily achievement goals
 
-  3. Work while music adapts to maintain optimal state
+  - Visual progress indicators
 
-  4. App learns from your productivity patterns
-
-  5. Future sessions use improved personalization
+  - Satisfying completion feedback
 
 
-  ## The Science
+  ## Platform
 
 
-  Endorphin uses neuroscience research on:
-
-  - How different frequencies affect brain states
-
-  - The relationship between music tempo and productivity
-
-  - Individual differences in audio preferences for focus
+  iOS only
 
 
-  ## Use Cases
+  ## Target Users
 
 
-  Ideal for knowledge workers, creatives, and anyone who finds background music
-  helpful for focus but struggles with traditional music's distracting elements.
-
-
-  ## Pricing
-
-
-  Contact Endorphin for current pricing information.
-updated_at: 2026-03-14 23:32
+  iPhone users seeking simple, beautiful focus tracking with streak motivation
+brand: Endorphin
+updated_at: 2026-03-19 02:22

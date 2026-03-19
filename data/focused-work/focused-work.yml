@@ -1,61 +1,75 @@
 name: Focused Work
-description: A powerful productivity timer for iOS and Mac that helps users
-  focus and complete tasks. Features automatic distraction blocking during timer
-  sessions with cross-device sync via iCloud for seamless workflow across Apple
-  devices.
+description: A flexible focus timer app supporting Pomodoro, Flowmodoro, and
+  custom timing structures with automatic distraction blocking during focus
+  sessions.
 source_url: https://focusedwork.app/
 category: Productivity Tool
 tags:
-  - focus-timer
   - pomodoro
-  - ios
-featured: false
+  - flowtime
+  - distraction-blocking
+  - flexible
+  - focus
 markdown: >-
   ## Overview
 
 
-  Focused Work is a productivity timer application designed specifically for
-  Apple devices, helping users maintain concentration and complete tasks
-  efficiently. The app builds on the proven Pomodoro Technique while adding
-  modern features like automatic distraction blocking.
+  Focused Work provides flexible timing options including Pomodoro, Flowmodoro,
+  and custom structures, with automatic website and app blocking to maintain
+  focus during work sessions.
+
+
+  ## Timing Options
+
+
+  - **Pomodoro**: Classic 25/5 timing
+
+  - **Flowmodoro**: Flexible work/break ratios
+
+  - **Custom**: Create your own timing structure
+
+  - **Flexible Breaks**: Adjust break length based on work duration
+
+
+  ## Distraction Blocking
+
+
+  - Automatic website blocking during focus time
+
+  - App blocking on desktop
+
+  - Customizable blocklists
+
+  - Smart blocking (only during work intervals)
+
+  - Whitelist support
 
 
   ## Features
 
 
-  - **Automatic Distraction Blocking**: Blocks distracting apps and websites
-  automatically when the timer is running
+  - Multiple timer formats
 
-  - **Cross-Device Sync**: Full synchronization across iPhone, iPad, Mac, and
-  Apple Watch via iCloud
+  - Session goals and tracking
 
-  - **Customizable Timer Sessions**: Configure work and break durations to match
-  your workflow
+  - Productivity statistics
 
-  - **Statistics and Insights**: Track completed focus sessions and productivity
-  patterns over time
+  - Custom focus/break ratios
 
-  - **Apple Watch Support**: Start, stop, and monitor timers directly from your
-  wrist
+  - Keyboard shortcuts
 
-  - **Native macOS and iOS Design**: Clean, intuitive interface following
-  Apple's design guidelines
+  - Minimalist interface
 
 
-  ## Benefits
+  ## Platform
 
 
-  - Reduces context switching by blocking distractions during focus time
-
-  - Maintains productivity across all Apple devices
-
-  - Provides visual feedback on completed work sessions
-
-  - Helps establish consistent work rhythms
+  macOS, Windows, Web
 
 
-  ## Platform Availability
+  ## Target Users
 
 
-  iOS, iPadOS, macOS, watchOS
-updated_at: 2026-03-18 18:45
+  Knowledge workers, students, anyone needing flexible focus tools with
+  distraction prevention
+updated_at: 2026-03-19 02:22
