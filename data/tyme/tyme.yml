@@ -1,48 +1,68 @@
 name: Tyme
-description: Time tracking application available across all Apple platforms with
-  over 20 Shortcuts app actions for macOS and iOS, offering seamless integration
-  throughout the Apple ecosystem.
-source_url: https://www.tyme-app.com
+description: Time tracking app for individuals and teams that syncs seamlessly
+  across Mac, iPhone, iPad, and Apple Watch, offering manual time tracking with
+  extensive automation through Siri Shortcuts for efficient hour and expense
+  tracking.
+source_url: https://www.tyme-app.com/
 category: Time Tracking Software
 tags:
-  - ios
-  - mac
-  - integrations
+  - apple-ecosystem
+  - mobile
+  - automation
 markdown: >-
   ## Overview
 
 
-  Tyme is a comprehensive time tracking and billing app available on all Apple
-  platforms (Mac, iPhone, iPad, Apple Watch) with deep system integration.
+  Tyme is a versatile time tracking app for individuals and teams, syncing
+  across Mac, iPhone, iPad, and Apple Watch. It has been actively developed for
+  over 10 years and is trusted by more than 50,000 happy users.
 
 
   ## Features
 
 
-  - Available on all Apple platforms with sync
+  - **Apple Ecosystem Integration**: Seamless sync across all Apple devices
+  including Apple Watch
 
-  - Over 20 actions for Shortcuts app
+  - **Siri Shortcuts**: Using Siri Shortcuts, users can start and stop timers,
+  add notes to running timers, or ask how much they have worked today
 
-  - Project and task time tracking
+  - **Expense Tracking**: Besides tracking hours, Tyme can automatically record
+  business trips or mileage costs
 
-  - Automatic time tracking options
+  - **Automation**: Offers over 20 actions for the Shortcuts app on macOS and
+  iOS, enabling extensive automation
 
-  - Invoicing and billing
+  - **Geofencing**: Can record times automatically by specifying workplace
+  location
 
-  - Detailed reports and exports
+  - **Friendly Interface**: Intuitive interface with a vast selection of
+  shortcuts, minimizing the need for mouse interactions
 
-  - Budget tracking
 
-  - Calendar integration
+  ## Use Cases
 
-  - Team collaboration features
 
-  - Apple Watch support
+  - Freelancers tracking billable hours across Apple devices
+
+  - Teams needing coordinated time tracking on Apple platforms
+
+  - Professionals tracking business expenses and mileage
+
+  - Anyone in the Apple ecosystem wanting streamlined time tracking
+
+
+  ## Platform
+
+
+  Apple devices: Mac, iPhone, iPad, Apple Watch
 
 
   ## Pricing
 
 
-  One-time purchase or subscription options available. Free version with limited
-  features.
-updated_at: 2026-03-17 08:54
+  - 14-day free trial
+
+  - $4.99 per user per month, billed monthly
+brand: Tyme
+updated_at: 2026-03-19 15:44
