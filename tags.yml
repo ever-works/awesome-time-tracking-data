@@ -31,7 +31,7 @@
 - id: timesheets
   name: Timesheets
 - id: gps
-  name: Gps
+  name: GPS
 - id: field-service
   name: Field Service
 - id: construction
@@ -107,7 +107,7 @@
 - id: breaks
   name: Breaks
 - id: gps-tracking
-  name: Gps Tracking
+  name: GPS Tracking
 - id: payroll
   name: Payroll
 - id: mobile-workforce
@@ -441,7 +441,7 @@
 - id: action
   name: Action
 - id: ai
-  name: Ai
+  name: AI
 - id: coworking
   name: Coworking
 - id: balance
@@ -1508,3 +1508,43 @@
   name: Exercise
 - id: resourcing
   name: Resourcing
+- id: cognitive-impact
+  name: Cognitive Impact
+- id: time-allocation
+  name: Time Allocation
+- id: acquisition
+  name: Acquisition
+- id: market-validation
+  name: Market Validation
+- id: time-waste
+  name: Time Waste
+- id: economic-impact
+  name: Economic Impact
+- id: revenue-impact
+  name: Revenue Impact
+- id: screenshot-monitoring
+  name: Screenshot Monitoring
+- id: jetbrains
+  name: JetBrains
+- id: free-tier
+  name: Free Tier
+- id: lightweight
+  name: Lightweight
+- id: ide-integration
+  name: IDE Integration
+- id: automatic-tracking
+  name: Automatic Tracking
+- id: privacy-controls
+  name: Privacy Controls
+- id: revenue-loss
+  name: Revenue Loss
+- id: tracking-accuracy
+  name: Tracking Accuracy
+- id: attention-residue
+  name: Attention Residue
+- id: task-switching
+  name: Task Switching
+- id: spreadsheets
+  name: Spreadsheets
+- id: privacy-focused
+  name: Privacy Focused
