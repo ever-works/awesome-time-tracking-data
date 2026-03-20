@@ -118,3 +118,7 @@
   name: Neuroscience & Productivity
 - id: remote-work-health
   name: Remote Work Health
+- id: professional-services
+  name: Professional Services
+- id: software-development
+  name: Software Development

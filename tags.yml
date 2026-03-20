@@ -1680,3 +1680,19 @@
   name: Burnout Recovery
 - id: hr
   name: Hr
+- id: labor-optimization
+  name: Labor Optimization
+- id: benefits
+  name: Benefits
+- id: client-collaboration
+  name: Client Collaboration
+- id: issue-tracking
+  name: Issue Tracking
+- id: milestones
+  name: Milestones
+- id: deadline-driven
+  name: Deadline Driven
+- id: equipment-tracking
+  name: Equipment Tracking
+- id: sprint-planning
+  name: Sprint Planning
