@@ -128,3 +128,17 @@
   name: Productivity Practice
 - id: developer-tools
   name: Developer Tools
+- id: time-tracking-roi
+  name: Time Tracking ROI
+- id: government-compliance
+  name: Government Compliance
+- id: productivity-app
+  name: Productivity App
+- id: gamification
+  name: Gamification
+- id: gtd-software
+  name: GTD Software
+- id: productivity-software
+  name: Productivity Software
+- id: time-tracking-hardware
+  name: Time Tracking Hardware

@@ -1778,3 +1778,95 @@
   name: Cost Control
 - id: interoperability
   name: Interoperability
+- id: preparation
+  name: Preparation
+- id: revenue-recovery
+  name: Revenue Recovery
+- id: fraud
+  name: Fraud
+- id: free-tool
+  name: Free Tool
+- id: small-teams
+  name: Small Teams
+- id: life-coaching
+  name: Life Coaching
+- id: calendar-planning
+  name: Calendar Planning
+- id: self-commitment
+  name: Self Commitment
+- id: location-verification
+  name: Location Verification
+- id: ivy-lee-method
+  name: Ivy Lee Method
+- id: project-costs
+  name: Project Costs
+- id: cost-tracking
+  name: Cost Tracking
+- id: labor-costs
+  name: Labor Costs
+- id: subscription
+  name: Subscription
+- id: smb
+  name: Smb
+- id: scalable
+  name: Scalable
+- id: hardware-tracker
+  name: Hardware Tracker
+- id: focus-app
+  name: Focus App
+- id: global-reach
+  name: Global Reach
+- id: real-trees
+  name: Real Trees
+- id: mobile-workers
+  name: Mobile Workers
+- id: inventor
+  name: Inventor
+- id: autofocus
+  name: Autofocus
+- id: intuitive-productivity
+  name: Intuitive Productivity
+- id: obituary
+  name: Obituary
+- id: tiddlywiki
+  name: Tiddlywiki
+- id: self-contained
+  name: Self Contained
+- id: events
+  name: Events
+- id: labor-laws
+  name: Labor Laws
+- id: automatic-categorization
+  name: Automatic Categorization
+- id: app-recognition
+  name: App Recognition
+- id: session-summaries
+  name: Session Summaries
+- id: behance
+  name: Behance
+- id: action-method
+  name: Action Method
+- id: physical-tracker
+  name: Physical Tracker
+- id: dodecahedron
+  name: Dodecahedron
+- id: power-bi
+  name: Power Bi
+- id: business-intelligence
+  name: Business Intelligence
+- id: data-visualization
+  name: Data Visualization
+- id: ivr
+  name: Ivr
+- id: phone-based
+  name: Phone Based
+- id: non-smartphone
+  name: Non Smartphone
+- id: calls
+  name: Calls
+- id: cross-device
+  name: Cross Device
+- id: ecosystem
+  name: Ecosystem
+- id: non-invasive
+  name: Non Invasive
