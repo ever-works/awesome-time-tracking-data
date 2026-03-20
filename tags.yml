@@ -1760,3 +1760,21 @@
   name: Labor Forecasting
 - id: hourly-workers
   name: Hourly Workers
+- id: mobile-first
+  name: Mobile First
+- id: modular
+  name: Modular
+- id: asian
+  name: Asian
+- id: performance-management
+  name: Performance Management
+- id: employee-engagement
+  name: Employee Engagement
+- id: user-friendly
+  name: User Friendly
+- id: diy
+  name: Diy
+- id: cost-control
+  name: Cost Control
+- id: interoperability
+  name: Interoperability
