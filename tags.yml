@@ -1936,3 +1936,9 @@
   name: Productivity Method
 - id: productivity-software
   name: Productivity Software
+- id: multi-client
+  name: Multi Client
+- id: small-firms
+  name: Small Firms
+- id: no-surveillance
+  name: No Surveillance
