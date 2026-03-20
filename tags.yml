@@ -1942,3 +1942,59 @@
   name: Small Firms
 - id: no-surveillance
   name: No Surveillance
+- id: budget-control
+  name: Budget Control
+- id: unified-inbox
+  name: Unified Inbox
+- id: productivity-optimization
+  name: Productivity Optimization
+- id: audio-productivity
+  name: Audio Productivity
+- id: strict-blocking
+  name: Strict Blocking
+- id: cognitive-cost
+  name: Cognitive Cost
+- id: adaptive-audio
+  name: Adaptive Audio
+- id: embedded-tracking
+  name: Embedded Tracking
+- id: ambient-music
+  name: Ambient Music
+- id: flexible-timing
+  name: Flexible Timing
+- id: app-blocker
+  name: App Blocker
+- id: impact-focus
+  name: Impact Focus
+- id: ai-scheduling
+  name: Ai Scheduling
+- id: task-automation
+  name: Task Automation
+- id: free-plan
+  name: Free Plan
+- id: database
+  name: Database
+- id: focused-work
+  name: Focused Work
+- id: automatic-blocking
+  name: Automatic Blocking
+- id: focus-sessions
+  name: Focus Sessions
+- id: financial-tracking
+  name: Financial Tracking
+- id: cognitive-performance
+  name: Cognitive Performance
+- id: time-fragmentation
+  name: Time Fragmentation
+- id: productivity-awareness
+  name: Productivity Awareness
+- id: business-value
+  name: Business Value
+- id: cost-savings
+  name: Cost Savings
+- id: project-billing
+  name: Project Billing
+- id: bluetooth
+  name: Bluetooth
+- id: visual-planning
+  name: Visual Planning
