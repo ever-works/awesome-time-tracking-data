@@ -1,67 +1,65 @@
 name: StayFocusd
-description: Chrome extension that helps you stay focused by limiting time spent
-  on time-wasting websites. Set daily time limits and block distracting sites
-  during work hours.
-source_url: https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji
+description: Free Google Chrome extension that blocks time-wasting and
+  distracting websites, allowing control over entire sites, specific paths,
+  subdomains, and in-page content like images and videos.
+source_url: https://chromewebstore.google.com/detail/stayfocusd-block-distract/laankejkbhbdhmipfmgcngdelahlfoji
 category: Productivity Tool
 tags:
-  - blocking
+  - browser-extension
   - chrome
-  - focus
+  - website-blocker
 featured: false
 markdown: >-
   ## Overview
 
 
-  StayFocusd is a productivity Chrome extension that helps you stay focused on
-  work by restricting the amount of time you can spend on time-wasting websites.
-  Once your allotted time has been used up, the sites you've blocked are
-  inaccessible for the rest of the day.
+  StayFocusd is a free Google Chrome extension designed to help users stay
+  focused by blocking time-wasting and distracting websites.
 
 
   ## Features
 
 
-  - **Time Restrictions**: Set maximum time allowed on specific sites per day
+  - **Granular Control**: Block entire sites, specific paths, specific
+  subdomains
 
-  - **The Nuclear Option**: Block all websites except work sites for set period
+  - **Content Blocking**: Block specific in-page content (images, videos, etc.)
 
-  - **Block Whole Sites**: Block entire domains
+  - **Time Limits**: Set allowed time for certain websites
 
-  - **Block Specific Content**: Block specific pages, subdomains, or paths
+  - **Nuclear Option**: Complete internet block for extreme focus
 
-  - **Active Days/Hours**: Set when blocking is active
+  - **Challenge Mode**: Difficult-to-disable blocking feature
 
-  - **Challenge Mode**: Difficult to disable once activated
+  - **Customizable Block Pages**: Create custom messages for blocked sites
 
-  - **Require Challenge**: Complete typing challenge to change settings
-
-  - **Custom Block Page**: Motivational messages when blocked
-
-  - **Import/Export**: Share settings across devices
-
-  - **Statistics**: Track blocked attempts and time saved
+  - **Active Days**: Choose which days blocking is active
 
 
-  ## The Nuclear Option
+  ## Blocking Options
 
 
-  - Block all sites except whitelist for up to 8 hours
+  - **Entire Sites**: Block complete websites
 
-  - Cannot be disabled once activated
+  - **Specific Paths**: Block only certain pages within a site
 
-  - Ideal for exam prep or important deadlines
+  - **Subdomains**: Target specific subdomains
 
-  - Forces extreme focus
+  - **Page Elements**: Block images, videos, or other content types
 
 
   ## Pricing
 
 
-  - Free Chrome extension
+  Completely free with no in-app purchases or additional charges.
 
-  - No premium version
 
-  - Open source
-brand: StayFocusd
-updated_at: 2026-03-17 15:16
+  ## Limitations
+
+
+  - Chrome-only (not available for other browsers)
+
+  - Desktop browser extension (no mobile support)
+
+  - Requires Chrome browser installation
+updated_at: 2026-03-20 13:52

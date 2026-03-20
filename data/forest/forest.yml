@@ -1,65 +1,50 @@
 name: Forest
-description: Gamified focus app that helps you stay off your phone by growing
-  virtual trees. When you want to focus, you plant a seed; stay focused and it
-  grows into a tree. Leave the app before time is up and your tree dies.
-source_url: https://www.forestapp.cc
-category: Productivity App
+description: Gamified focus and productivity app with 44 million downloads that
+  helps users stay off their smartphones by growing virtual trees, with
+  partnerships to plant real trees.
+source_url: https://www.forestapp.cc/
+category: Productivity Tool
 tags:
   - gamification
   - focus
   - mobile
-featured: false
+featured: true
 markdown: >-
   ## Overview
 
 
-  Forest combines the Pomodoro technique with a unique gamified experience,
-  where you plant virtual trees that grow as you stay focused. This visual
-  metaphor creates a powerful incentive to avoid phone distractions and maintain
-  concentration.
+  Forest is a unique productivity app that gamifies the focus experience by
+  having users plant virtual trees that grow while they stay concentrated on
+  their work.
 
 
   ## Features
 
 
-  - **Virtual Tree Growing**: Plant a seed when starting a focus session; it
-  grows into a tree if you stay focused
+  - **Virtual Tree Planting**: Plant a seed that grows into a tree while you
+  stay focused
 
-  - **Gamification**: Build a forest of trees representing your focused work
-  sessions
+  - **Phone Lock**: Tree withers if you leave the app or use your phone
 
-  - **Real-World Impact**: Partner with Trees for the Future to plant real trees
-  based on virtual coins earned
+  - **Gamification**: Build a virtual forest as you complete focus sessions
 
-  - **Phone Blocking**: Prevents you from leaving the app and using distracting
-  apps during focus sessions
+  - **Real Tree Planting**: Partnership with tree-planting organizations to
+  plant real trees
 
-  - **Customizable Timers**: Set focus duration from 10 minutes to 2 hours
+  - **44 Million Downloads**: Widely adopted productivity solution
 
-  - **Tree Species Variety**: Unlock different tree types as you complete more
-  focus sessions
+  - **Focus Statistics**: Track your focused time and patterns
 
-  - **Statistics & Insights**: Track your focus patterns and productivity trends
-  over time
+  - **Whitelist**: Allow specific apps during focus sessions
 
-  - **Forest Together**: Synchronize focus sessions with friends or teammates
+  - **Social Features**: Compare forests with friends for accountability
 
-  - **Whitelist**: Allow specific apps (like music players) during focus
-  sessions
-
-
-  ## Environmental Impact
-
-
-  Forest has partnered with real tree-planting organizations. Users have
-  collectively helped plant over 1.5 million real trees worldwide.
+  - **Rewards System**: Earn coins to unlock different tree species
 
 
   ## Pricing
 
 
-  iOS: $3.99 one-time purchase
-
-  Android: Free with in-app purchases
+  One-time purchase on iOS and Android app stores.
 brand: Forest
-updated_at: 2026-03-20 10:10
+updated_at: 2026-03-20 13:52

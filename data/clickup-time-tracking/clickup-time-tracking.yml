@@ -1,117 +1,82 @@
 name: ClickUp Time Tracking
-description: Built-in time tracking feature within ClickUp all-in-one project
-  management platform. Allows teams to track time on tasks with timers, manual
-  entries, and integrations, centralizing time tracking with project work.
-source_url: https://clickup.com/features/time-tracking
-category: Work Management
+description: Native time tracking integrated into ClickUp project management
+  platform, offering global timer across desktop, mobile, and web with
+  second-level accuracy and timesheet support.
+source_url: https://clickup.com/features/project-time-tracking
+category: Project Management
 tags:
-  - project-management
-  - all-in-one
-  - task-tracking
+  - task-management
+  - time-tracking
+  - collaboration
+featured: false
 markdown: >-
   ## Overview
 
 
-  ClickUp includes native time tracking as part of its all-in-one project
-  management platform. The feature allows teams to track time on tasks with
-  timers, manual entries, and integrations, centralizing time tracking with
-  project work.
+  ClickUp offers native time tracking across desktop, mobile, and web browsers
+  via Chrome Extension, allowing easy task linkage and device-agnostic timer
+  control.
 
 
-  ## Time Tracking Features
+  ## Core Features
 
 
-  - **Native Timers**: Track time directly on tasks
+  ### Timer Functionality
 
-  - **Manual Time Entry**: Add time retroactively
+  - **Global Timer**: Start/stop from any device with accuracy to the second
 
-  - **Global Timer**: Track time across ClickUp from anywhere
+  - **Task Integration**: Link tracked time directly to any task
 
-  - **Time Estimates**: Set estimated duration for tasks
+  - **Manual Entry**: Add time retroactively or create entries by date range
 
-  - **Time Rollup**: Automatic calculation of subtask time
+  - **Time Notes**: Add notes to time entries for context
 
-  - **Browser Extension**: Track time from Chrome
-
-  - **Mobile Tracking**: iOS and Android apps
-
-  - **Billable Time**: Mark time as billable or non-billable
+  - **Labels**: Categorize and filter time spent on tasks
 
 
-  ## Reporting
+  ### Time Management
+
+  - **Group Entries**: Combine time entries together
+
+  - **Estimates**: See time estimates alongside tracked time
+
+  - **Billable/Non-Billable**: Segment entries for client billing
+
+  - **Timesheets**: Track, view, and submit time across Workspace
 
 
-  - **Time Reports**: Detailed time tracking reports
+  ### Reporting
 
-  - **Time Estimates vs Actual**: Compare planned vs actual
+  - **Time Reports**: Generate by user or project
 
-  - **Team Time Reports**: View team time allocation
+  - **Basic Analytics**: Rudimentary insights on time spent
 
-  - **Custom Dashboards**: Visualize time metrics
-
-  - **Export**: CSV and PDF exports
+  - **Limited Depth**: Lacks advanced analytics features
 
 
-  ## ClickUp Platform
+  ## Plan Availability & Limits (2026)
 
 
-  - **Task Management**: Complete task and project management
+  - **Free Forever Plan**: 60 uses only, time entries cannot be deleted
 
-  - **Multiple Views**: List, Board, Calendar, Gantt, Timeline
+  - **Unlimited Plan**: 100 uses for descriptions, labels, billable entries
 
-  - **Docs & Wikis**: Documentation alongside work
+  - **Business Plan+**: Unlimited access to all features
 
-  - **Goals**: Track objectives and key results
-
-  - **Automations**: Automate repetitive workflows
-
-  - **Dashboards**: Custom reporting dashboards
-
-  - **Integrations**: 1000+ integrations
+  - **Business+**: Track time without a task
 
 
-  ## Benefits
+  ## Known Limitations
 
 
-  - **All-in-One**: Time tracking + project management in one tool
+  - No time blocking feature available
 
-  - **No Context Switching**: Track time where work happens
+  - Complex interface requiring multiple clicks
 
-  - **Comprehensive**: Hundreds of features beyond time tracking
+  - Mobile app timer functionality challenges
 
-  - **Customizable**: Adapt to any workflow
+  - Lack of comprehensive data for thorough analysis
 
-  - **Scalable**: Free for unlimited users
-
-
-  ## Integrations
-
-
-  - Toggl Track, Harvest, Everhour for enhanced time tracking
-
-  - Google Calendar, Outlook
-
-  - Slack, Microsoft Teams
-
-  - GitHub, GitLab
-
-  - Zoom, Google Meet
-
-
-  ## Pricing
-
-
-  Time tracking included in all plans:
-
-  - **Free Forever**: Unlimited users, unlimited tasks
-
-  - **Unlimited**: $7 per user/month
-
-  - **Business**: $12 per user/month
-
-  - **Enterprise**: Custom pricing
-
-
-  Free plan includes time tracking with some limitations.
+  - No information about when work will be done vs when it's due
 brand: ClickUp
-updated_at: 2026-03-20 05:06
+updated_at: 2026-03-20 13:52

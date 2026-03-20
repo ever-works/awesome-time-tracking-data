@@ -1,49 +1,78 @@
 name: Motion
-description: AI-powered project management and scheduling platform that
-  automatically plans your day by intelligently scheduling tasks around meetings
-  and priorities, designed to eliminate manual calendar management.
+description: AI-powered calendar and task manager that automatically schedules
+  tasks, projects, and meetings, dynamically optimizing schedules dozens of
+  times daily to prevent missed deadlines.
 source_url: https://www.usemotion.com/
 category: AI Powered Time Tracking
 tags:
-  - ai-powered
-  - automatic
-  - calendar-integration
-featured: false
+  - ai-scheduling
+  - calendar
+  - task-automation
+featured: true
 markdown: >-
   ## Overview
 
 
-  Motion is a project management software with a calendar at its core that was
-  built to be your team's project management software and AI calendar. Motion is
-  the only daily planner that actually leverages AI to plan your day for you,
-  rather than requiring manual time blocking.
+  Motion is a smart productivity tool that automatically schedules tasks,
+  meetings, and projects using AI, positioning itself as an AI-powered executive
+  assistant.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **AI Auto-Scheduling**: Automatically schedules tasks to your calendar based
-  on priority, deadlines, and available time
+  ### Automated Scheduling
 
-  - **Project Management**: Full-featured project management with task
-  dependencies and team collaboration
+  - **AI Optimization**: Takes all projects and tasks, prioritizes and
+  timeblocks them automatically
 
-  - **Meeting Scheduler**: Intelligent meeting booking that finds optimal times
+  - **Dynamic Optimization**: Updates schedule dozens of times per day
 
-  - **Calendar Integration**: Connects with Google Calendar and Outlook
+  - **Intelligent Placement**: Finds best time for each task balancing deadlines
+  and priorities
 
-  - **Task Prioritization**: AI-driven prioritization based on deadlines and
-  importance
 
-  - **Time Blocking**: Automatic time blocking without manual effort
+  ### AI Task Manager
 
-  - **Team Coordination**: Helps teams coordinate schedules and workloads
+  - **Auto-Scheduling**: Schedules tasks based on priorities and deadlines
+
+  - **Real-Time Adaptation**: Adjusts when plans change
+
+  - **Deadline Protection**: Never miss deadlines through automatic management
+
+
+  ### Dynamic Rescheduling
+
+  - **Instant Reshuffling**: When meetings run long or emergencies arise
+
+  - **Week-Wide Reorganization**: Adjusts entire day and week in seconds
+
+  - **Mental Bandwidth Protection**: Eliminates manual reorganization
+
+
+  ### Smart Time Blocking
+
+  - **Deep Work Allocation**: Focuses time while balancing meetings
+
+  - **Task Chunking**: Breaks larger tasks into smaller time blocks
+
+  - **Context Consideration**: Factors availability, duration, deadlines,
+  priorities
+
+
+  ## User Benefits
+
+
+  - Save 2-5 hours weekly
+
+  - Significantly reduced feeling of overwhelm
+
+  - Eliminates mental overhead of manual scheduling
 
 
   ## Pricing
 
 
-  Motion costs $19/month on an annual plan or $34/month when billed monthly.
-  There is a 7-day free trial available.
+  Individual Plan: $19/month
 brand: Motion
-updated_at: 2026-03-20 01:09
+updated_at: 2026-03-20 13:52

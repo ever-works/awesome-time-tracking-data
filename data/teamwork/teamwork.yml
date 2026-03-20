@@ -1,70 +1,49 @@
 name: Teamwork
-description: Teamwork is a project management platform with built-in
-  time-tracking, billable hours management, and robust reporting, designed to
-  help teams efficiently track time and manage client work.
+description: Employee time and project management software with emphasis on team
+  collaboration, featuring downloadable timer for Mac and Windows with automatic
+  activity tracking and idle detection.
 source_url: https://www.teamwork.com/
-category: team-project-time-tracking
+category: Project Management
 tags:
+  - collaboration
+  - time-tracking
   - project-management
-  - billable-hours
-  - reporting
-  - teams
+featured: false
 markdown: >-
-  # Teamwork
+  ## Overview
 
 
-  [Teamwork](https://www.teamwork.com/) is a project management platform
-  designed for client services teams to efficiently manage projects, track time,
-  and handle billable hours. It provides robust reporting and resource
-  management features to help teams stay organized and profitable.
+  Teamwork is a project management platform with integrated time tracking
+  capabilities designed for team collaboration.
 
 
   ## Features
 
-  - **Project Management:** Plan, track, and manage client projects from start
-  to finish.
 
-  - **Time Tracking:** Built-in tools to track where your team is spending their
-  hours.
+  - **Downloadable Timer**: Desktop app for Mac and Windows
 
-  - **Billable Hours Management:** Log and manage billable hours for accurate
-  client invoicing and profitability.
+  - **Activity Tracking**: Monitors computer activity automatically
 
-  - **Resource Management:** View staff availability, balance workloads, and
-  optimize team capacity.
+  - **Idle Detection**: Timer stops when you're inactive
 
-  - **Budget and Profit Tracking:** Monitor project budgets, track
-  profitability, and identify when projects become unprofitable.
+  - **Project Management**: Complete project planning and task management
 
-  - **Project Collaboration:** Centralize communication, approvals, and feedback
-  in one place.
+  - **Team Collaboration**: Communication tools and file sharing
 
-  - **Reporting and Dashboards:** Generate reports and dashboards for visibility
-  into projects, billing, and team performance.
+  - **Task Assignment**: Distribute work across team members
 
-  - **Templates:** Access ready-made templates for project plans, website
-  projects, and client onboarding.
+  - **Gantt Charts**: Visual project timeline planning
 
-  - **Integrations:** Integrates with a wide range of third-party tools and
-  apps.
+  - **Resource Management**: Allocate team capacity
 
-  - **Client Relationship Management:** Manage client communications and
-  relationships within the platform.
+  - **Client Access**: Portal for client collaboration
+
+  - **Reporting**: Project and time tracking reports
 
 
   ## Pricing
 
-  - **Free Trial:** 30-day trial available with no credit card required.
 
-  - (No further detailed pricing plans were provided in the available content.)
-
-
-  ## Category
-
-  team-project-time-tracking
-
-
-  ## Tags
-
-  project-management, billable-hours, reporting, teams
-updated_at: 2025-05-13 22:52
+  Free plan available with paid tiers for advanced features.
+brand: Teamwork
+updated_at: 2026-03-20 13:52

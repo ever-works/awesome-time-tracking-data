@@ -1,137 +1,51 @@
 name: RescueTime
-description: Automatic time tracking and productivity analytics software that
-  runs in the background, tracking time spent on applications and websites.
-  Provides detailed reports on productivity patterns and helps identify
-  time-wasting activities.
-source_url: https://www.rescuetime.com
-category: Productivity Analytics
+description: Automatic time tracking and productivity monitoring tool that runs
+  quietly in the background across all devices, tracking time spent in various
+  activities with distraction blocking features.
+source_url: https://www.rescuetime.com/
+category: Automatic Time Tracking
 tags:
-  - automatic
-  - productivity-analytics
-  - self-tracking
+  - automatic-tracking
+  - productivity-monitoring
+  - distraction-blocking
+featured: true
 markdown: >-
   ## Overview
 
 
-  RescueTime is automatic time tracking and productivity analytics software that
-  runs in the background, tracking time spent on applications and websites
-  without requiring manual input. The platform provides detailed reports on
-  productivity patterns and helps identify time-wasting activities.
+  RescueTime automatically tracks time spent in various activities and combines
+  productivity tools with project tracking capabilities.
 
 
   ## Features
 
 
-  - **Automatic Tracking**: Tracks all computer and mobile activity
+  - **Automatic Tracking**: Runs quietly in the background with no manual input
+  required
 
-  - **Productivity Scores**: Daily productivity percentage based on activities
+  - **Cross-Device Tracking**: Tracks activity across all devices
 
-  - **Detailed Reports**: See exactly where time goes
+  - **Website & App Tracking**: Monitors time spent in applications and websites
 
-  - **Goal Setting**: Set daily productivity goals
+  - **Goal Setting**: Set productivity goals and track progress
 
-  - **FocusTime**: Block distracting websites during focus sessions
+  - **Distraction Blocking**: FocusTime feature to block distracting websites
 
-  - **Alerts**: Get notified when spending too much time on specific activities
+  - **Alerts**: Notifications when spending too much time on unproductive
+  activities
 
-  - **Weekly Email Reports**: Summary of productivity trends
+  - **Timesheets**: Automated project tracking and client report generation
 
-  - **Categories**: Classify activities as very productive to very distracting
-
-  - **Offline Time Logging**: Manually log time away from computer
-
-  - **Mobile Tracking**: Track phone usage (Android)
-
-
-  ## How It Works
-
-
-  1. Install RescueTime on computer and mobile devices
-
-  2. Software runs in background tracking applications and websites
-
-  3. Activities automatically categorized by productivity level
-
-  4. View daily, weekly, and monthly productivity reports
-
-  5. Identify patterns and time drains
-
-  6. Set goals and use FocusTime to improve habits
-
-
-  ## Productivity Categories
-
-
-  - **Very Productive**: Core work activities
-
-  - **Productive**: Productive but not core focus
-
-  - **Neutral**: Neither productive nor distracting
-
-  - **Distracting**: Mild time-wasters
-
-  - **Very Distracting**: Major productivity killers
-
-
-  ## FocusTime
-
-
-  - Block distracting websites
-
-  - Schedule focus sessions in advance
-
-  - Get into flow state without temptations
-
-  - Available with Premium plan
-
-
-  ## Benefits
-
-
-  - Understand actual time usage vs perception
-
-  - Identify biggest time drains
-
-  - Set and track productivity goals
-
-  - Reduce distractions with website blocking
-
-  - Make data-driven productivity improvements
-
-  - No manual tracking required
-
-
-  ## Privacy
-
-
-  - Data stored securely and privately
-
-  - You control what's tracked
-
-  - Can pause tracking anytime
-
-  - Exclude specific applications or websites
-
-
-  ## Integrations
-
-
-  - Calendar integration to see meetings vs work time
-
-  - Zapier for custom workflows
-
-  - Various third-party productivity tools
+  - **Productivity Reports**: Detailed analytics on daily productivity patterns
 
 
   ## Pricing
 
 
-  - **Free**: Basic tracking and reports
+  - Lite Plan: Free
 
-  - **Premium**: $12/month - FocusTime, detailed reports, goals, alerts
+  - Premium: $12 per user per month
 
-
-  Free plan includes core automatic tracking. Premium adds blocking and advanced
-  features.
+  - Team Plans: $9 per user per month (minimum 2 seats)
 brand: RescueTime
-updated_at: 2026-03-20 05:06
+updated_at: 2026-03-20 13:52
