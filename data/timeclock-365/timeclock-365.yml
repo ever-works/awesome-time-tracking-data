@@ -1,71 +1,54 @@
 name: TimeClock 365
-description: Cloud-based time tracking solution for healthcare and medical
-  staff, offering time clock, scheduling, leave management, and payroll
-  integration with industry-specific compliance features for medical facilities.
+description: Time tracking solution for construction and field services that
+  integrates with Microsoft 365. Provides mobile time tracking, GPS
+  verification, and seamless integration with existing Microsoft workflows.
 source_url: https://timeclock365.com/
-category: Employee Scheduling
+category: Construction Time Tracking
 tags:
-  - healthcare
-  - cloud-based
-  - compliance
+  - construction
+  - field-service
+  - microsoft-365
 featured: false
 markdown: >-
   ## Overview
 
 
-  TimeClock 365 is a comprehensive time and attendance system designed for
-  healthcare organizations, medical practices, and other industries requiring
-  accurate time tracking with strong compliance and integration capabilities.
+  TimeClock 365 is time tracking software designed specifically for construction
+  and field service companies that use Microsoft 365. It integrates seamlessly
+  with Microsoft Teams, SharePoint, and other Microsoft tools.
 
 
   ## Features
 
 
-  - **Multiple Clock-In Methods**: Mobile app, web browser, kiosk, biometric,
-  and phone-based clock-in
+  - Native Microsoft 365 integration
 
-  - **Facial Recognition**: Prevent buddy punching with facial recognition
-  technology
+  - Mobile time clock with GPS
 
-  - **GPS Tracking**: Verify employee location at clock-in for field and mobile
-  workers
+  - Geofencing capabilities
 
-  - **Scheduling**: Create and publish staff schedules with conflict detection
+  - Job and task tracking
 
-  - **Leave Management**: Track PTO, sick time, and other leave types
+  - Time approval workflows in Teams
 
-  - **Overtime Alerts**: Automatic notifications when employees approach
-  overtime thresholds
+  - Offline time tracking
 
-  - **Department Tracking**: Track time across multiple departments or cost
-  centers
+  - Photo and note capture
 
-  - **Compliance**: Support for FMLA, ACA, and healthcare-specific labor
-  regulations
+  - Real-time reporting
 
-  - **Payroll Integration**: Connect with major payroll providers for seamless
-  data transfer
+  - Export to payroll systems
 
-  - **Reporting**: Comprehensive reports on hours, attendance, labor costs, and
-  exceptions
+  - Cost code tracking
 
-  - **Mobile Apps**: Native iOS and Android apps for employees and managers
+  - Equipment time logging
 
-  - **API Access**: REST API for custom integrations
-
-
-  ## Healthcare Features
-
-
-  Specific features for healthcare including credential tracking, shift
-  differential calculations, and support for complex healthcare scheduling
-  patterns.
+  - Integration with Microsoft Power BI for analytics
 
 
   ## Pricing
 
 
-  Subscription-based pricing with per-employee monthly fees. Free trial
-  available.
-brand: TimeClock 365
-updated_at: 2026-03-15 01:56
+  Subscription-based pricing, typically billed per user per month. Integrates
+  with existing Microsoft 365 subscriptions.
+updated_at: 2026-03-20 03:48

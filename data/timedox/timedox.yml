@@ -1,71 +1,58 @@
 name: TimeDox
-description: Employee biometric time clock systems featuring fingerprint and
-  face recognition technology, providing hardware and software solutions for
-  accurate time and attendance tracking with buddy punch prevention.
+description: Employee biometric time clocks featuring both fingerprint and
+  facial recognition technology. Provides accurate attendance tracking with
+  cloud-based software and mobile capabilities for modern workforce management.
 source_url: https://timedox.us/
-category: Attendance & Payroll Management
+category: Employee Monitoring
 tags:
   - biometric
-  - hardware
-  - fingerprint
+  - facial-recognition
+  - cloud-based
 featured: false
 markdown: >-
   ## Overview
 
 
-  TimeDox specializes in biometric time clock systems, offering a range of
-  hardware devices and cloud-based software for businesses that need reliable,
-  fraud-proof time and attendance tracking using fingerprint and facial
-  recognition technology.
+  TimeDox offers advanced biometric time clock systems with fingerprint and
+  facial recognition capabilities, paired with cloud-based attendance software
+  for real-time workforce management and payroll integration.
 
 
   ## Features
 
 
-  - **Fingerprint Recognition**: High-accuracy fingerprint scanners for employee
-  identification
+  - Dual biometric authentication (fingerprint and facial recognition)
 
-  - **Facial Recognition**: Advanced face detection and matching algorithms
+  - Cloud-based attendance software
 
-  - **Multiple Hardware Options**: Various time clock models for different
-  environments and budgets
+  - Real-time clock in/out tracking
 
-  - **Cloud-Based Software**: Access time and attendance data from anywhere
+  - Mobile app for remote workers
 
-  - **Buddy Punch Prevention**: Biometric authentication eliminates time theft
+  - GPS location verification
 
-  - **Badge & PIN Options**: Alternative authentication methods when biometrics
-  aren't suitable
+  - Automated timesheet generation
 
-  - **Real-Time Data**: Instant synchronization of clock-in/out data to the
-  cloud
+  - Payroll system integration
 
-  - **Overtime Tracking**: Automatic calculation of regular and overtime hours
+  - Email and SMS notifications
 
-  - **Department Tracking**: Track employee time across different departments or
-  projects
+  - Overtime tracking and alerts
 
-  - **Reporting**: Comprehensive time and attendance reports for payroll
-  processing
+  - PTO management
 
-  - **Payroll Integration**: Export data to major payroll systems
+  - Department and job code tracking
 
-  - **Mobile Access**: View reports and manage settings via mobile browser
+  - Detailed attendance reports
 
-  - **WiFi & Ethernet**: Flexible network connectivity options
+  - Employee self-service portal
 
-
-  ## Hardware Options
-
-
-  Offers various time clock models including fingerprint-only, face recognition,
-  combination units, and outdoor-rated devices for harsh environments.
+  - Multi-location support
 
 
   ## Pricing
 
 
-  Hardware and software pricing varies by model and subscription plan. One-time
-  hardware costs plus monthly or annual software subscription.
-brand: TimeDox
-updated_at: 2026-03-15 01:56
+  Hardware purchase with cloud software subscription. Pricing based on number of
+  employees and locations. Free trial available.
+updated_at: 2026-03-20 03:48

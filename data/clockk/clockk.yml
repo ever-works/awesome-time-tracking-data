@@ -1,9 +1,9 @@
 name: Clockk
-description: AI-powered automated time tracking software designed for
-  professionals who forget to start timers. Automatically tracks applications
-  and creates intelligent time entries that can be reviewed and approved.
+description: AI-powered automatic time tracker designed specifically for
+  professionals who multitask across projects. Captures time usage by monitoring
+  activity and provides intelligent time tracking without manual timers.
 source_url: https://clockk.com/
-category: Automated Time Tracking
+category: AI Powered Time Tracking
 tags:
   - ai-powered
   - automatic
@@ -13,49 +13,43 @@ markdown: >-
   ## Overview
 
 
-  Clockk is an AI-powered time tracking solution built for professionals who
-  struggle with manual time tracking and frequently forget to start timers.
+  Clockk is an AI-powered automatic time tracking tool built for busy
+  professionals who work on multiple projects simultaneously. It intelligently
+  tracks time in the background and categorizes work automatically, eliminating
+  the need for manual timers.
 
 
   ## Features
 
 
-  - **Automatic Tracking**: Captures activity automatically in the background
-  without requiring manual timer starts
+  - Fully automatic time tracking
 
-  - **AI-Powered Categorization**: Uses artificial intelligence to intelligently
-  categorize work into projects and clients
+  - AI-powered project and task detection
 
-  - **Review & Approve**: All tracked time can be reviewed, edited, and approved
-  before billing
+  - Multi-project tracking without switching timers
 
-  - **Application Monitoring**: Tracks which applications and websites you use
-  during work hours
+  - Background activity monitoring
 
-  - **Smart Time Entries**: Converts raw activity data into meaningful, billable
-  time entries
+  - Intelligent time categorization
 
-  - **Client & Project Management**: Organize time by clients and projects
+  - Privacy-focused (no screenshots)
 
-  - **Privacy Controls**: Offers privacy settings to control what gets tracked
+  - Client and project reporting
 
-  - **Billing Integration**: Turn approved time into invoices
+  - Billable hours tracking
 
+  - Invoice-ready reports
 
-  ## Use Cases
+  - Integration with calendars and apps
 
+  - Detailed activity timeline
 
-  - Consultants who switch between multiple clients
-
-  - Freelancers who forget to track time
-
-  - Professionals who need accurate billable hours
-
-  - Teams that need automated time capture
+  - Customizable project rules
 
 
   ## Pricing
 
 
-  Subscription-based pricing model for professionals and teams.
-updated_at: 2026-03-16 04:51
+  Subscription-based model with monthly or annual billing options. Free trial
+  available to test AI tracking capabilities.
+updated_at: 2026-03-20 03:48

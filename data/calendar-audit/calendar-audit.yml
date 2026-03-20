@@ -1,188 +1,117 @@
 name: Calendar Audit
-description: Time management practice of analyzing how you actually spend time
-  in your calendar to identify inefficiencies, excessive meetings, and
-  opportunities for better time allocation.
-source_url: https://thedigitalprojectmanager.com/productivity/time-audit/
-category: Practices
+description: Practice of reviewing past calendar to analyze how time was
+  actually spent in meetings and commitments. Identifies which meetings add
+  value, where time is wasted, and opportunities to reclaim schedule control.
+source_url: https://reclaim.ai/blog/time-blocking-guide
+category: Time Management Practice
 tags:
-  - self-assessment
+  - calendar
   - meetings
-  - optimization
+  - audit
 featured: false
 markdown: >-
   ## Overview
 
 
-  A Calendar Audit is a systematic review of how you spend time in meetings and
-  scheduled activities. By analyzing your calendar over 2-4 weeks, you can
-  identify patterns, eliminate unnecessary commitments, and reclaim time for
-  focused work.
+  A calendar audit involves systematically reviewing past weeks of your calendar
+  to understand how time is actually being spent, particularly in meetings and
+  scheduled commitments. This reveals patterns and opportunities for
+  improvement.
 
 
   ## How to Conduct a Calendar Audit
 
 
-  ### Step 1: Collect Data (2-4 weeks)
+  **Step 1: Export Calendar Data**
 
-  - Review all calendar events from the past month
+  - Review last 4-8 weeks of calendar history
 
-  - Export calendar data if possible
-
-  - Include both work and personal calendars
-
-  - Note recurring vs. one-time events
+  - Include all meetings, calls, and scheduled blocks
 
 
-  ### Step 2: Categorize Time
+  **Step 2: Categorize Events**
 
-  Label each meeting/event as:
+  - Internal vs external meetings
 
-  - **Essential**: Required for your role, high value
+  - Strategic vs tactical discussions
 
-  - **Useful**: Helpful but not critical
+  - Recurring vs one-off meetings
 
-  - **Optional**: Could skip without major impact
+  - Your meetings vs others' meetings
 
-  - **Wasteful**: Low value, poor use of time
+  - Decision meetings vs information sharing
 
-
-  Also categorize by type:
-
-  - Strategy/planning meetings
-
-  - Status updates/check-ins
-
-  - Decision-making meetings
-
-  - Collaborative work sessions
-
-  - 1-on-1s
-
-  - All-hands/team meetings
-
-  - External meetings
-
-  - Focus time blocks
+  - Necessary vs optional attendance
 
 
-  ### Step 3: Analyze Patterns
+  **Step 3: Calculate Time Allocation**
 
-  - Calculate total hours in meetings per week
+  - Total hours in meetings per week
 
-  - Identify back-to-back meeting days
+  - Percentage of time in each category
 
-  - Find recurring meetings that might be unnecessary
+  - Average meeting duration
 
-  - Locate time fragmentation (too many short gaps)
-
-  - Spot patterns of meeting overload
+  - Number of context switches daily
 
 
-  ### Step 4: Identify Improvements
+  **Step 4: Evaluate Value**
 
-  **Meetings to Eliminate**:
+  For each recurring meeting, ask:
 
-  - Recurring meetings that have outlived their purpose
+  - Is my attendance necessary?
 
-  - Meetings where your attendance isn't needed
+  - Could this be an email or async update?
 
-  - Status updates that could be async
+  - Is the duration appropriate?
 
+  - Are the right people attending?
 
-  **Meetings to Optimize**:
-
-  - Shorten 60-minute meetings to 45 minutes
-
-  - Combine multiple short check-ins
-
-  - Convert to async where possible
-
-  - Improve agendas and structure
+  - Does it have clear outcomes?
 
 
-  **Time to Protect**:
-
-  - Block focus time for deep work
-
-  - Create no-meeting days or time blocks
-
-  - Add buffer time between meetings
+  ## Common Findings
 
 
-  ### Step 5: Take Action
+  - 40-60% of work time spent in meetings
 
-  - Decline optional low-value meetings
+  - Many meetings lack clear purpose
 
-  - Propose shorter durations
+  - Attendance at meetings where not needed
 
-  - Suggest async alternatives
+  - Meetings scheduled without buffer time
+
+  - No blocks reserved for focused work
+
+  - Reactive rather than proactive scheduling
+
+
+  ## Taking Action
+
+
+  **Eliminate:**
+
+  - Decline unnecessary meeting invitations
+
+  - Cancel recurring meetings that lost relevance
+
+  - Send regrets with offer to review notes
+
+
+  **Reduce:**
+
+  - Shorten meeting defaults (25/50 min instead of 30/60)
+
+  - Reduce frequency of recurring meetings
+
+  - Limit attendees to essential participants
+
+
+  **Protect:**
 
   - Block focus time on calendar
 
-  - Communicate new meeting policies
+  - Create no-meeting days or half-days
 
-
-  ## Key Metrics to Track
-
-
-  - **Total meeting hours per week**: Aim for <10 hours for individual
-  contributors, <20 for managers
-
-  - **Meeting-free time blocks**: Should have daily 2+ hour blocks
-
-  - **Back-to-back meetings**: Minimize days with 4+ consecutive meetings
-
-  - **Meeting preparation time**: Ensure meetings have agendas and prep time
-
-  - **Focus time percentage**: Aim for 40-60% of week in focus time
-
-
-  ## Red Flags to Watch For
-
-
-  - More than 50% of week in meetings
-
-  - No 2+ hour focus blocks in the week
-
-  - Recurring meetings without clear purpose
-
-  - Frequent last-minute meeting additions
-
-  - Meetings without agendas or outcomes
-
-  - Meetings with >8 people but no clear roles
-
-
-  ## Benefits
-
-
-  - Reclaim 5-10 hours per week on average
-
-  - Reduce meeting fatigue
-
-  - Increase focus time for important work
-
-  - Improve meeting quality and effectiveness
-
-  - Better work-life boundaries
-
-  - Increased control over schedule
-
-
-  ## Best Practices
-
-
-  - Conduct audits quarterly
-
-  - Track improvements over time
-
-  - Involve your team in meeting optimization
-
-  - Create team meeting guidelines
-
-  - Default to 25 or 50-minute meetings
-
-  - Require agendas for all meetings
-
-  - Make meeting attendance truly optional when possible
-updated_at: 2026-03-14 17:34
+  - Build buffer time between meetings
+updated_at: 2026-03-20 03:48

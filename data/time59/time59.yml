@@ -1,60 +1,53 @@
 name: Time59
-description: Online legal billing software designed specifically for solo
-  lawyers and small law firms, offering straightforward time tracking, expense
-  management, trust accounting, and client invoicing in a user-friendly platform
-  that simplifies practice management for independent attorneys.
+description: Online legal billing and time tracking software designed
+  specifically for small law firms and solo attorneys. Simplifies time tracking,
+  billing, and invoicing for legal professionals with practice-specific
+  features.
 source_url: https://www.time59.com/
-category: Time Tracking Software
+category: Legal Time Tracking
 tags:
   - legal
-  - solo-practitioners
   - billing
-  - trust-accounting
-  - simple
+  - solo-practitioners
 featured: false
 markdown: >-
   ## Overview
 
 
-  Time59 is online legal billing software tailored for solo lawyers and small
-  law firms. The platform provides essential time tracking, billing, and trust
-  accounting features in a streamlined interface that's easy to learn and use.
+  Time59 is time tracking and billing software built specifically for solo
+  attorneys and small law firms. It provides legal-specific features to track
+  billable hours, manage expenses, and generate professional invoices.
 
 
-  ## Key Features
+  ## Features
 
 
-  - **Time Tracking**: Quick time entry with timers or manual entry
+  - Legal-specific time tracking with 6-minute increments
 
-  - **Invoicing**: Professional client invoices from tracked time
+  - Matter-based time organization
 
-  - **Expense Tracking**: Record billable and non-billable expenses
+  - Expense tracking and receipts
 
-  - **Trust Accounting**: Manage IOLTA accounts and client trust funds
+  - Invoice generation with customizable templates
 
-  - **Matter Management**: Organize cases and clients
+  - Trust accounting capabilities
 
-  - **Reporting**: Financial and productivity reports
+  - Client billing and payment tracking
 
-  - **Mobile Access**: Track time from mobile devices
+  - Conflict checking
 
+  - Document management
 
-  ## Target Audience
+  - Calendar and deadline tracking
 
+  - Mobile access for time entry on the go
 
-  Solo practitioners and small law firms (1-10 attorneys) seeking affordable,
-  straightforward billing software.
-
-
-  ## Pricing
-
-
-  Competitively priced for solo and small firm budgets. Visit website for
-  current pricing.
+  - Integration with legal practice management tools
 
 
   ## Pricing
 
 
-  Contact Time59 for pricing information.
-updated_at: 2026-03-18 00:29
+  Affordable subscription pricing tailored for solo practitioners and small
+  firms. Free trial available.
+updated_at: 2026-03-20 03:48

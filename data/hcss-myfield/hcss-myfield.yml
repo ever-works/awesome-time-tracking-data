@@ -1,55 +1,55 @@
 name: HCSS myField
-description: Construction time tracking and field service management software
-  designed for heavy civil construction projects. HCSS myField enables workers
-  to submit hours along with detailed work information including breaks,
-  supervisor, equipment used, cost codes, and detailed notes.
-source_url: https://www.hcss.com/
-category: Construction
+description: Construction time tracking and field management software that
+  enables crews to submit hours along with detailed work information including
+  breaks, equipment used, cost codes, and field notes for accurate job costing.
+source_url: https://www.hcss.com/products/mobile-field-service-management/
+category: Construction Time Tracking
 tags:
   - construction
   - field-service
-  - heavy-equipment
+  - job-costing
 featured: false
 markdown: >-
   ## Overview
 
 
-  HCSS myField is construction time tracking software designed for heavy civil
-  construction projects, enabling workers to submit hours along with detailed
-  work information.
+  HCSS myField is comprehensive construction time tracking software designed for
+  the field. It captures labor hours, equipment usage, materials, and detailed
+  work information to support accurate job costing and payroll.
 
 
   ## Features
 
 
-  - **Detailed Time Capture** - Submit hours with breaks taken, supervisor,
-  equipment used, cost codes, and detailed notes
+  - Mobile time tracking for field crews
 
-  - **Equipment Tracking** - Track equipment usage alongside worker time
+  - Detailed work information capture (breaks, supervisor, equipment, cost
+  codes)
 
-  - **Cost Code Management** - Assign time to specific cost codes for accurate
-  job costing
+  - Equipment time tracking
 
-  - **Supervisor Workflows** - Track supervisor assignments and approvals
+  - Material usage logging
 
-  - **Mobile Data Collection** - Collect field data on mobile devices without
-  internet connectivity
+  - Daily field reports
 
-  - **Heavy Civil Focus** - Designed specifically for heavy civil construction
-  projects
+  - Photo documentation
 
+  - GPS location verification
 
-  ## Use Cases
+  - Offline mode for remote job sites
 
+  - Integration with HCSS Heavy Job for job costing
 
-  Built for heavy civil construction companies, infrastructure contractors, and
-  large-scale construction projects requiring detailed time and equipment
-  tracking.
+  - Real-time data sync
+
+  - Crew productivity tracking
+
+  - Safety documentation
 
 
   ## Pricing
 
 
-  Contact HCSS for enterprise pricing based on project size and user count.
-brand: HCSS
-updated_at: 2026-03-14 23:32
+  Custom pricing based on company size and integration needs. Contact HCSS for
+  quote.
+updated_at: 2026-03-20 03:48

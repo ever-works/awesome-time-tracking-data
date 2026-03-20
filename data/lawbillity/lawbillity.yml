@@ -1,53 +1,56 @@
 name: LawBillity
-description: Cloud-based legal time and billing software designed specifically
-  for small to mid-sized law firms with easy setup, flexible billing options,
-  and comprehensive practice management features.
+description: Flexible and customizable legal time and billing software that
+  makes it simple for attorneys to record every billable second from any device,
+  anywhere, with features tailored for law practice management.
 source_url: https://lawbillity.com/
-category: Legal Practice Management
+category: Legal Time Tracking
 tags:
   - legal
   - billing
-  - cloud-based
+  - attorneys
 featured: false
 markdown: >-
   ## Overview
 
 
-  LawBillity is time and billing software built specifically for law firms. It
-  provides easy-to-use time tracking, billing, and practice management features
-  in a cloud-based platform accessible from anywhere.
+  LawBillity is time tracking and billing software designed for law firms of all
+  sizes. It offers flexible time tracking options and comprehensive billing
+  features to help legal professionals maximize billable revenue.
 
 
   ## Features
 
 
-  - **Time Tracking**: Multiple time entry methods including timers, quick
-  entry, and batch entry
+  - Multiple time entry methods (timer, manual entry, quick entry)
 
-  - **Billing & Invoicing**: Flexible billing with hourly, flat fee,
-  contingency, and retainer options
+  - Matter and client management
 
-  - **Trust Accounting**: IOLTA/IOLA compliant trust accounting
+  - Expense tracking
 
-  - **Case Management**: Track cases, matters, and client information
+  - Professional invoice generation
 
-  - **Document Management**: Store and organize case documents
+  - Trust accounting compliance
 
-  - **Calendar**: Built-in calendar with deadline tracking
+  - Customizable billing rates
 
-  - **Expense Tracking**: Track and bill case-related expenses
+  - Time entry from any device
 
-  - **Reports**: Over 30 standard reports for financial analysis
+  - Detailed reporting and analytics
 
-  - **Client Portal**: Secure client access to case information
+  - Payment processing integration
 
-  - **Mobile App**: Time tracking and case access on mobile devices
+  - Conflict checking
+
+  - Document storage
+
+  - Calendar integration
+
+  - Mobile apps for iOS and Android
 
 
   ## Pricing
 
 
-  Starts at $49/user/month with unlimited clients and matters. All plans include
-  full features with no hidden fees. 30-day free trial available.
-brand: LawBillity
-updated_at: 2026-03-20 01:09
+  Subscription-based pricing with different tiers based on firm size and
+  features needed. Free trial available to test the platform.
+updated_at: 2026-03-20 03:48

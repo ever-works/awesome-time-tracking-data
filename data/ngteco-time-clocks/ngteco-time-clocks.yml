@@ -1,109 +1,58 @@
 name: NGTECO Time Clocks
-description: Employee time clocks with biometric authentication and Face ID
-  technology, offering touchless attendance tracking, temperature screening, and
-  integrated workforce management solutions.
+description: Professional employee time clock systems featuring biometric
+  authentication and Face ID technology. Provides touchless attendance tracking
+  with advanced facial recognition for hygienic and secure time tracking.
 source_url: https://ngteco.com/
 category: Employee Monitoring
 tags:
   - biometric
   - facial-recognition
-  - time-clock
+  - touchless
+featured: false
 markdown: >-
   ## Overview
 
 
-  NGTECO provides advanced employee time clock systems featuring biometric
-  authentication including facial recognition and Face ID technology. Their
-  solutions offer touchless, hygienic attendance tracking with integrated
-  workforce management capabilities.
+  NGTECO manufactures advanced time clock systems with biometric authentication,
+  specializing in touchless facial recognition technology. Their systems provide
+  hygienic, accurate, and secure employee time and attendance tracking.
 
 
-  ## Face ID Time Clocks
+  ## Features
 
 
-  ### Facial Recognition Technology
+  - Advanced facial recognition technology
 
-  - **Touchless Authentication** - No physical contact required for clock-in
+  - Touchless authentication for hygiene
 
-  - **Face ID Accuracy** - Advanced facial recognition algorithms
+  - Fingerprint biometric backup
 
-  - **Mask Detection** - Works even when employees wear face masks
+  - Fast recognition speed (under 1 second)
 
-  - **Live Face Detection** - Prevents photo spoofing
+  - Large employee database capacity
 
-  - **Multi-Face Recognition** - Can identify multiple people simultaneously
+  - Anti-spoofing liveness detection
 
-  - **Fast Processing** - Recognition in under 0.5 seconds
+  - Mask detection capability
 
+  - Temperature screening integration
 
-  ### Health Screening Features
+  - Network connectivity (WiFi, Ethernet)
 
-  - **Temperature Screening** - Built-in thermal imaging for fever detection
+  - Access control integration
 
-  - **Health Status Alerts** - Automated alerts for elevated temperatures
+  - Multiple verification methods
 
-  - **Contactless Operation** - Promotes workplace hygiene
+  - Cloud and on-premise software options
 
-  - **Access Control** - Deny entry based on health screening results
+  - Real-time attendance monitoring
 
-
-  ## Additional Biometric Options
-
-
-  - **Fingerprint Scanning** - Traditional fingerprint authentication
-
-  - **Palm Recognition** - Palm vein pattern identification
-
-  - **RFID Cards** - Card-based backup authentication
-
-  - **PIN Codes** - Numeric code entry option
-
-
-  ## Software & Integration
-
-
-  - **Cloud Platform** - Web-based workforce management
-
-  - **Real-Time Monitoring** - See attendance status live
-
-  - **Attendance Reports** - Detailed time and attendance analytics
-
-  - **Schedule Management** - Create and manage work schedules
-
-  - **Overtime Tracking** - Monitor and control overtime
-
-  - **Payroll Integration** - Export to popular payroll systems
-
-  - **Mobile App** - Remote access and management
-
-  - **API Access** - Integrate with existing HR systems
-
-
-  ## Use Cases
-
-
-  - Corporate offices
-
-  - Healthcare facilities (touchless for hygiene)
-
-  - Manufacturing plants
-
-  - Retail stores
-
-  - Schools and universities
-
-  - Government facilities
-
-
-  ## Hardware Options
-
-
-  Wall-mounted, desktop, and turnstile-integrated models available
+  - Payroll export capabilities
 
 
   ## Pricing
 
 
-  Contact for custom hardware and software pricing based on needs.
-brand: NGTECO
-updated_at: 2026-03-19 12:02
+  Professional-grade hardware at competitive prices. Software licensing
+  available. Contact for specific model pricing and volume discounts.
+updated_at: 2026-03-20 03:48

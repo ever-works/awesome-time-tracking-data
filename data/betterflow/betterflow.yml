@@ -1,73 +1,56 @@
 name: BetterFlow
-description: AI-powered time tracking platform that verifies time entries
-  against actual work output, eliminating timesheet fraud while maintaining
-  employee autonomy. The verification engine cross-references time entries with
-  commits, tickets closed, and documents created.
-source_url: https://betterflow.eu
-category: Automated Time Tracking
+description: AI time tracking platform that takes a unique verification
+  approach, using AI to verify time entries against actual work output.
+  Eliminates timesheet fraud while maintaining employee autonomy in time
+  tracking.
+source_url: https://betterflow.eu/
+category: AI Powered Time Tracking
 tags:
   - ai-powered
   - verification
   - fraud-prevention
+featured: false
 markdown: >-
   ## Overview
 
 
-  BetterFlow uses AI to verify time entries against actual work output, creating
-  a unique approach to time tracking that prevents fraud while respecting
-  employee autonomy.
+  BetterFlow is an innovative AI-powered time tracking platform that doesn't
+  just log time automatically—it verifies time entries against actual work
+  output. This unique approach eliminates timesheet fraud while respecting
+  employee privacy and autonomy.
 
 
   ## Features
 
 
-  - **AI Verification**: Automatically verifies time entries against actual work
-  output
+  - AI verification of time entries against work output
 
-  - **Output Cross-Referencing**: Matches time entries with commits, tickets
-  closed, documents created, and other work artifacts
+  - Fraud detection and prevention
 
-  - **Fraud Prevention**: Eliminates timesheet fraud through intelligent
-  verification
+  - Automatic work activity analysis
 
-  - **Employee Autonomy**: Maintains employee control over time entry while
-  providing verification
+  - Productivity insights without surveillance
 
-  - **Integration Support**: Connects with development tools, project management
-  systems, and productivity platforms
+  - Integration with project management tools
 
-  - **Real-Time Validation**: Provides instant feedback on time entry accuracy
+  - Billable vs non-billable time classification
 
+  - Client and project reporting
 
-  ## Benefits
+  - Team productivity analytics
 
+  - Privacy-respecting monitoring
 
-  - Prevents time theft and timesheet padding
+  - Work pattern recognition
 
-  - Increases billing accuracy for professional services
+  - Automated time entry suggestions
 
-  - Provides verifiable time records for compliance
-
-  - Reduces manual timesheet review overhead
-
-  - Maintains trust-based work environment
-
-
-  ## Use Cases
-
-
-  - Software development teams
-
-  - Professional services firms
-
-  - Agencies requiring accurate client billing
-
-  - Organizations with compliance requirements
+  - Compliance reporting
 
 
   ## Pricing
 
 
-  Pricing information available upon request from BetterFlow.
-brand: BetterFlow
-updated_at: 2026-03-16 17:52
+  Subscription-based pricing per user. Contact for specific pricing tiers and
+  enterprise options.
+updated_at: 2026-03-20 03:48
