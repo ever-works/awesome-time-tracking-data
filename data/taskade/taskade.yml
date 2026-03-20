@@ -1,167 +1,74 @@
 name: Taskade
-description: An AI-powered productivity workspace that combines task management,
-  time tracking, and team collaboration. Features the Flowtime Technique guide
-  and AI assistants for workflow automation, offering a unified platform for
-  managing projects, tasks, and time.
+description: AI-powered task management and collaboration platform with built-in
+  time tracking, video chat, and real-time collaboration for remote teams.
 source_url: https://www.taskade.com/
-category: Productivity Tools
+category: Productivity Tool
 tags:
   - ai-powered
   - collaboration
-  - workflow-automation
+  - task-management
+featured: false
 markdown: >-
   ## Overview
 
 
-  Taskade is an AI-powered productivity workspace that combines task management,
-  project planning, and time tracking in one unified platform. It's known for
-  its Flowtime Technique implementation and AI-powered features that help teams
-  and individuals work more efficiently.
+  Taskade is an AI-powered productivity platform that combines task management,
+  notes, mind maps, video chat, and time tracking in one unified workspace. It's
+  designed for remote teams that need real-time collaboration.
 
 
-  ## Flowtime Technique Integration
+  ## Features
 
 
-  Taskade provides comprehensive guidance on the Flowtime Technique (also called
-  Flowmodoro), a flexible time management method designed to maximize periods of
-  deep, uninterrupted focus. Unlike rigid Pomodoro intervals, Flowtime
-  encourages working on a single task until concentration naturally begins to
-  wane.
+  - **AI Assistant**: AI-powered task generation and organization
 
+  - **Multiple Views**: List, board, calendar, mind map, and org chart views
 
-  ### Flowtime Features
+  - **Real-Time Collaboration**: Live editing and cursor tracking
 
-  - Track flow state duration
+  - **Time Tracking**: Built-in timers for tasks and projects
 
-  - Flexible work/break ratios
+  - **Video Chat**: Integrated video conferencing
 
-  - Focus session analytics
+  - **Templates**: Pre-built templates for workflows
 
-  - Productivity pattern insights
+  - **Automation**: Workflow automation with triggers
 
-  - Deep work optimization
+  - **Mobile Apps**: Full-featured iOS and Android apps
 
+  - **Offline Mode**: Work offline and sync when connected
 
-  ## AI-Powered Capabilities
+  - **Integrations**: Connect with calendars, Slack, and other tools
 
 
-  ### AI Assistants
+  ## AI Features
 
-  - Automated task generation
 
-  - Smart scheduling suggestions
+  - Generate tasks from project descriptions
 
-  - Content creation assistance
+  - Outline creation assistance
 
-  - Meeting summaries
+  - Meeting notes summarization
 
-  - Workflow automation
+  - Workflow suggestions
 
 
-  ### Intelligent Features
+  ## Best For
 
-  - Natural language task entry
 
-  - Auto-categorization
+  - Remote teams
 
-  - Priority recommendations
+  - Startup teams
 
-  - Time estimation
+  - Creative collaborations
 
-  - Predictive scheduling
+  - Agile project management
 
 
-  ## Core Productivity Features
+  ## Pricing
 
 
-  ### Task Management
-
-  - Multiple views (list, board, calendar, mind map)
-
-  - Nested tasks and subtasks
-
-  - Task dependencies
-
-  - Custom tags and labels
-
-  - Due dates and reminders
-
-
-  ### Time Tracking
-
-  - Built-in timers for tasks
-
-  - Manual time entry
-
-  - Time reports and analytics
-
-  - Billable hours tracking
-
-  - Project time budgets
-
-
-  ### Team Collaboration
-
-  - Real-time collaboration
-
-  - Video calling
-
-  - Chat and comments
-
-  - File sharing
-
-  - Team workspaces
-
-
-  ## Versatile Workflows
-
-
-  - Project management
-
-  - Meeting agendas and notes
-
-  - Knowledge bases
-
-  - Content calendars
-
-  - Personal productivity
-
-  - Team wikis
-
-
-  ## Integration & Automation
-
-
-  - Calendar sync (Google, Outlook)
-
-  - Zapier automation
-
-  - Slack integration
-
-  - Import/export capabilities
-
-  - API access
-
-
-  ## Benefits
-
-
-  - **Flexibility**: Adapts to various workflows and methodologies
-
-  - **AI Efficiency**: Automate repetitive tasks
-
-  - **Visual Options**: Multiple views for different preferences
-
-  - **Real-Time Collaboration**: Work together seamlessly
-
-  - **All-in-One**: Reduce app switching
-
-
-  ## Target Users
-
-
-  Remote teams, knowledge workers, project managers, content creators, and
-  productivity enthusiasts looking for an AI-enhanced, flexible workspace that
-  combines task management with time tracking and collaboration tools.
+  Free plan with unlimited tasks and 3 workspaces. Pro plan at $4/month with
+  unlimited everything. Business plan at $8/month with advanced features.
 brand: Taskade
-updated_at: 2026-03-14 20:34
+updated_at: 2026-03-20 01:09

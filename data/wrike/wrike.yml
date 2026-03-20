@@ -1,83 +1,66 @@
 name: Wrike
-description: Enterprise-grade work management and collaboration platform with
-  integrated time tracking capabilities, designed for teams that need robust
-  project management, resource allocation, and workflow automation alongside
-  time tracking functionality.
+description: Enterprise work management platform with time tracking, project
+  planning, and cross-team collaboration features for large organizations and
+  complex workflows.
 source_url: https://www.wrike.com/
 category: Work Management
 tags:
   - enterprise
+  - project-management
   - collaboration
-  - workflow-automation
 featured: false
 markdown: >-
   ## Overview
 
 
-  Wrike is a powerful work management platform that combines project management,
-  collaboration, and time tracking in a scalable solution designed for
-  enterprise teams. The platform offers advanced features for managing complex
-  projects, automating workflows, and tracking team time and productivity.
+  Wrike is an enterprise-grade work management platform that helps teams
+  collaborate, plan projects, and track time across complex organizational
+  structures. It's designed for large teams with sophisticated workflow
+  requirements.
 
 
   ## Features
 
 
-  - **Time Tracking**: Built-in time tracking with timers and manual time entry
+  - **Time Tracking**: Built-in time tracking with timers and manual entry
 
-  - **Project Management**: Comprehensive project planning with Gantt charts,
-  Kanban boards, and calendars
+  - **Project Planning**: Gantt charts, dependencies, and critical path
 
-  - **Resource Management**: Allocate resources and manage team workloads
+  - **Custom Workflows**: Create custom workflows for different project types
 
-  - **Workflow Automation**: Automate repetitive tasks and processes with custom
-  rules
+  - **Resource Management**: Allocate and balance team workloads
 
-  - **Custom Dashboards**: Create personalized views of projects and time data
+  - **Dashboards**: Real-time reporting and customizable dashboards
 
-  - **Collaboration Tools**: Real-time editing, @mentions, and threaded
-  discussions
+  - **Automation**: Workflow automation with rules and triggers
 
-  - **Reporting & Analytics**: Advanced reporting on time, project progress, and
-  team performance
+  - **Proofing**: Review and approve creative work with annotations
 
-  - **Proofing & Approvals**: Built-in review and approval workflows for
-  deliverables
+  - **Templates**: Project templates for repeatable processes
 
-  - **Integrations**: Connect with 400+ apps including Salesforce, Adobe
-  Creative Cloud, Microsoft Teams, and Slack
+  - **Integrations**: 400+ integrations including Salesforce, Adobe, Microsoft
 
-  - **Mobile Apps**: Full-featured iOS and Android apps
+  - **Security**: Enterprise-grade security with SSO and advanced permissions
 
 
-  ## Use Cases
+  ## Best For
 
 
-  - Marketing teams managing campaigns
+  - Marketing teams
 
   - Creative agencies
 
-  - IT and software development teams
+  - Professional services
 
-  - Professional services firms
+  - Enterprise IT teams
 
-  - Enterprise project management offices
+  - Cross-functional projects
 
 
   ## Pricing
 
 
-  Wrike offers tiered pricing:
-
-
-  - **Free Plan**: Basic features for small teams
-
-  - **Professional**: Starting around $9.80 per user per month
-
-  - **Business**: Enhanced features for growing teams
-
-  - **Enterprise**: Custom pricing with advanced security and support
-
-  - **Pinnacle**: Premium tier with maximum customization
+  Free plan for unlimited users with basic features. Professional at
+  $9.80/user/month. Business at $24.80/user/month. Enterprise custom pricing.
 brand: Wrike
-updated_at: 2026-03-19 18:16
+updated_at: 2026-03-20 01:09

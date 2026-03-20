@@ -1,71 +1,70 @@
 name: Paydirt
-description: Paydirt is a time tracking application for freelancers, offering a
-  complete invoicing suite. It facilitates accurate tracking of work hours and
-  integrates invoicing, though it lacks extensive integrations and offline
-  support.
-source_url: https://www.paydirtapp.com/
-category: team-project-time-tracking
+description: Simple time tracking and invoicing software for freelancers and
+  small teams with straightforward pricing and essential features.
+source_url: https://paydirtapp.com/
+category: Time Tracking Software
 tags:
-  - invoicing
   - freelancers
-  - web-based
-  - billing
+  - invoicing
+  - simple
+featured: false
 markdown: >-
-  # Paydirt
+  ## Overview
 
 
-  [Paydirt](https://www.paydirtapp.com/) is a web-based time tracking and
-  invoicing application designed for freelancers and small businesses. It
-  streamlines the process of tracking work hours, generating invoices, and
-  receiving payments online.
+  Paydirt is a straightforward time tracking and invoicing tool designed for
+  freelancers and small teams who want simplicity without sacrificing essential
+  features.
 
 
   ## Features
 
-  - **Time Tracking:** Start timers for clients with a single click and track
-  billable/unbillable hours easily.
 
-  - **Invoicing & Payments:** Automatically generate and customize invoices from
-  tracked time; supports online payments via PayPal and Stripe.
+  - **Time Tracking**: Simple timers and manual time entry
 
-  - **Team Management:** Monitor team performance, track progress, and manage
-  responsibilities.
+  - **Invoicing**: Professional invoices from tracked time
 
-  - **Online Quoting:** Create, duplicate, send, and track quotes online.
+  - **Expense Tracking**: Track project expenses and billable costs
 
-  - **Business Reports:** Access business insights, export data, and optimize
-  performance.
+  - **Project Budgets**: Set and monitor project budgets
 
-  - **Browser Extension:** Track time directly from your browser.
+  - **Team Management**: Add team members and manage permissions
 
+  - **Reports**: Basic time and financial reports
 
-  ## Integrations
+  - **Recurring Invoices**: Automate regular client billing
 
-  - PayPal (payments)
+  - **Payment Integration**: Accept payments through Stripe and PayPal
 
-  - Stripe (payments)
+  - **Mobile App**: Track time on iOS and Android
+
+  - **Timer Widget**: Desktop widget for quick time tracking
 
 
-  ## Limitations
+  ## Philosophy
 
-  - Lacks extensive third-party integrations.
 
-  - No offline support.
+  Paydirt focuses on doing time tracking and invoicing well without adding
+  unnecessary complexity. No bloated features, just what freelancers actually
+  need.
+
+
+  ## Best For
+
+
+  - Solo freelancers
+
+  - Small consulting teams
+
+  - Anyone who wants simple, reliable time tracking
+
+  - Users tired of overcomplicated software
 
 
   ## Pricing
 
-  - **14-day Free Trial:** No credit card required.
 
-  - (No additional pricing details provided in the content.)
-
-
-  ## Tags
-
-  invoicing, freelancers, web-based, billing
-
-
-  ## Category
-
-  Team Project Time Tracking
-updated_at: 2025-05-13 22:52
+  Single plan at $8/user/month with all features. No tiers, no upsells. 14-day
+  free trial.
+brand: Paydirt
+updated_at: 2026-03-20 01:09

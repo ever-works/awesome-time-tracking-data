@@ -1,65 +1,54 @@
 name: mJob
-description: Construction time tracking and field management software designed
-  for contractors with GPS tracking, job costing, scheduling, and real-time crew
-  visibility.
+description: Construction time tracking and field management software with GPS
+  verification, job costing, and crew scheduling designed for contractors and
+  construction companies.
 source_url: https://mjobtime.com/
-category: Industry Specific Time Tracking
+category: Construction Time Tracking
 tags:
   - construction
-  - field-service
-  - job-costing
-  - scheduling
   - gps-tracking
+  - job-costing
+featured: false
 markdown: >-
   ## Overview
 
 
-  mJob provides construction-specific time tracking with GPS verification, job
-  costing, scheduling, and field management tools designed for contractors and
-  construction crews.
+  mJob is construction-specific time tracking and field management software that
+  helps contractors track crew time, manage jobs, and control costs. It provides
+  GPS-verified time tracking, job costing, and scheduling in one mobile-friendly
+  platform.
 
 
   ## Features
 
 
-  - GPS time clock with location verification
+  - **GPS Time Clock**: Employees clock in/out with GPS location verification
 
-  - Real-time job costing and labor allocation
+  - **Job Costing**: Real-time labor cost tracking by job and task
 
-  - Crew scheduling and dispatch
+  - **Crew Scheduling**: Schedule crews and equipment across multiple jobs
 
-  - Equipment tracking
+  - **Equipment Tracking**: Track equipment usage and costs
 
-  - Photo documentation
+  - **Mobile App**: Field crews can track time and view schedules on mobile
 
-  - Certified payroll reports
+  - **Photo Documentation**: Attach photos to time entries and job reports
 
-  - Integration with QuickBooks and other accounting platforms
+  - **Geofencing**: Auto clock-in/out when entering job sites
 
+  - **Timesheet Approvals**: Supervisor review and approval workflow
 
-  ## Construction-Specific Capabilities
+  - **Payroll Integration**: Export timesheets to payroll systems
 
+  - **Job Reports**: Daily job reports with time, materials, and progress
 
-  - Multiple job site support
-
-  - Cost code tracking by phase
-
-  - Prevailing wage compliance
-
-  - Union vs non-union differentiation
-
-  - Davis-Bacon reporting
+  - **Offline Mode**: Works without internet connection
 
 
-  ## Platform
+  ## Pricing
 
 
-  iOS, Android, Web
-
-
-  ## Target Users
-
-
-  General contractors, subcontractors, specialty trades, construction companies
+  Pricing starts at $10/user/month with volume discounts available. Includes
+  unlimited jobs and GPS tracking. Free demo and trial available.
 brand: mJob
-updated_at: 2026-03-19 02:22
+updated_at: 2026-03-20 01:09

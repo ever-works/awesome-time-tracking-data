@@ -1,95 +1,70 @@
 name: Rize
-description: AI-powered automatic time tracker that improves focus through
-  real-time feedback and intelligent break suggestions. Combines time tracking
-  with productivity coaching based on your actual work patterns.
+description: AI-powered time tracking that automatically categorizes work across
+  300,000+ apps and websites, providing intelligent insights into productivity
+  patterns.
 source_url: https://rize.io/
-category: Automatic Time Tracking
+category: AI Powered Time Tracking
 tags:
   - ai-powered
   - automatic
-  - focus
   - productivity-analytics
 featured: false
 markdown: >-
   ## Overview
 
 
-  Rize is an AI-powered automatic time tracking application that goes beyond
-  passive tracking to actively improve your focus and productivity. The software
-  analyzes your work patterns and provides real-time feedback, break
-  suggestions, and focus scores to help you work more effectively.
+  Rize is an AI-powered automatic time tracker that categorizes your work across
+  300,000+ recognized apps and websites. It provides intelligent insights into
+  productivity patterns without manual time entry.
 
 
   ## Features
 
 
-  - **Automatic Tracking**: Silently tracks all applications and activities
+  - **Automatic Tracking**: Tracks all computer activity automatically
 
-  - **AI Focus Sessions**: Detects when you're in flow and protects that time
+  - **AI Categorization**: Recognizes 300,000+ apps and websites
 
-  - **Real-Time Feedback**: Live notifications about focus quality
+  - **Focus Sessions**: Built-in focus mode with break reminders
 
-  - **Smart Break Suggestions**: Recommends breaks based on work intensity
+  - **Productivity Score**: Daily productivity metrics and trends
 
-  - **Focus Score**: Daily metric showing focus quality (0-100)
+  - **Smart Breaks**: AI-suggested break times based on your patterns
 
-  - **Category Classification**: AI categorizes activities as productive,
-  neutral, or distracting
+  - **Meeting Detection**: Automatically detects and categorizes meetings
 
-  - **Focus Music**: Integrated playlists designed for concentration
+  - **Project Tagging**: Automatically assign activities to projects
 
-  - **Break Reminders**: Intelligent reminders based on your patterns
+  - **Privacy Controls**: Sensitive app/site exclusion and incognito mode
 
-  - **Meeting Analysis**: Automatically detects and categorizes meetings
+  - **Goals**: Set daily focus time and productivity goals
 
-  - **Daily Summary**: Email recap of your productivity patterns
-
-  - **Focus Trends**: Track improvement over time
-
-  - **Goal Setting**: Set daily focus goals
-
-  - **Break Timer**: Pomodoro-style break enforcement
-
-  - **Privacy Controls**: Choose what to track, local storage option
+  - **Reports**: Weekly insights and productivity trends
 
 
-  ## AI Capabilities
+  ## AI Intelligence
 
 
-  - **Pattern Recognition**: Learns your work habits
+  - Learns your work patterns over time
 
-  - **Context Detection**: Understands different types of work
+  - Suggests optimal focus periods
 
-  - **Personalized Insights**: Tailored recommendations based on your data
+  - Identifies productivity blockers
 
-  - **Focus Protection**: Blocks distractions during deep work
-
-  - **Optimal Break Timing**: Suggests breaks at natural transition points
+  - Recommends workflow improvements
 
 
-  ## Metrics Tracked
+  ## Privacy
 
 
-  - **Focus Score**: Overall productivity quality
-
-  - **Deep Work Time**: Sustained focus sessions
-
-  - **Meeting Time**: Time in meetings
-
-  - **Break Frequency**: How often you rest
-
-  - **Context Switches**: Task switching patterns
-
-  - **Peak Hours**: When you work best
+  All processing happens locally on your device. Activity data is private and
+  never shared.
 
 
   ## Pricing
 
 
-  - **Free Trial**: 7 days full access
-
-  - **Individual**: $16/month - All features, unlimited tracking
-
-  - **Teams**: Custom pricing - Team dashboards, admin controls
+  Free tier with basic features. Pro plan at $9.99/month with full AI insights
+  and unlimited history.
 brand: Rize
-updated_at: 2026-03-18 05:22
+updated_at: 2026-03-20 01:09

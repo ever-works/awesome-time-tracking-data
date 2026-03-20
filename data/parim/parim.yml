@@ -1,70 +1,51 @@
 name: Parim
-description: Time tracking app designed for shift-based workforces in industries
-  like event staffing and security services, featuring GPS geofencing,
-  attendance management, and scheduling optimized for managing multiple
-  locations.
+description: European workforce management platform with time tracking, shift
+  scheduling, and absence management designed for businesses with hourly workers
+  and shift-based teams.
 source_url: https://www.parim.co/
-category: Mobile Workforce Management
+category: Workforce Management
 tags:
   - shift-management
-  - gps
-  - event-staffing
+  - european
+  - scheduling
+featured: false
 markdown: >-
   ## Overview
 
 
-  Parim is a specialized time tracking and workforce management application
-  designed for shift-based industries including event staffing, security
-  services, hospitality, and retail. It's particularly effective for managing
-  teams across multiple locations with GPS verification.
+  Parim is a workforce management platform popular in Europe that combines time
+  tracking, shift scheduling, and team communication. It's designed for
+  businesses with hourly workers, shift-based teams, and multiple locations.
 
 
   ## Features
 
 
-  - **GPS Geofencing** - Verify employee attendance at assigned locations
+  - **Time Clock**: Mobile time tracking with GPS verification
 
-  - **Shift Scheduling** - Create and manage shift schedules for multiple
-  locations
+  - **Shift Scheduling**: Drag-and-drop shift planning and assignment
 
-  - **Mobile Time Clock** - Clock in/out via smartphone with location
-  verification
+  - **Shift Marketplace**: Employees can pick up available shifts
 
-  - **Real-Time Attendance** - Live view of who's working where
+  - **Absence Management**: Request and approve time off
 
-  - **Automated Reminders** - Shift notifications and clock-in reminders
+  - **Team Communication**: Built-in messaging and announcements
 
-  - **Timesheet Approval** - Digital approval workflow for managers
+  - **Labor Cost Control**: Real-time visibility into labor costs
 
-  - **Break Management** - Track and enforce required breaks
+  - **Compliance**: Supports European labor laws and regulations
 
-  - **Payroll Export** - Export timesheets for payroll processing
+  - **Payroll Export**: Export timesheets to payroll systems
 
-  - **Client Billing** - Track time by client and location for billing
+  - **Mobile Apps**: iOS and Android apps for employees and managers
 
-  - **Multi-Location Support** - Manage teams across unlimited locations
-
-
-  ## Industries
-
-
-  - Event staffing
-
-  - Security services
-
-  - Hospitality
-
-  - Retail
-
-  - Facility management
-
-  - Cleaning services
+  - **Multi-Location**: Manage teams across multiple sites
 
 
   ## Pricing
 
 
-  Custom pricing based on team size and features required, with a free trial
-  available.
+  Starts at €2.50/user/month for basic features. Custom pricing for enterprise
+  features. Free trial available.
 brand: Parim
-updated_at: 2026-03-19 12:02
+updated_at: 2026-03-20 01:09

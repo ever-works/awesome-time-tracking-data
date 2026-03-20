@@ -1,73 +1,61 @@
 name: MyCase
-description: Legal practice management software with Smart Time Finder feature
-  that helps attorneys recover missed billable hours by generating lists of
-  common billable activities for retrospective time entry.
+description: Legal practice management software with time tracking, billing,
+  client communication, and case management designed specifically for small to
+  mid-sized law firms.
 source_url: https://www.mycase.com/
-category: Legal Time Tracking
+category: Legal Practice Management
 tags:
   - legal
-  - practice-management
-  - time-recovery
+  - case-management
+  - client-portal
+featured: false
 markdown: >-
   ## Overview
 
 
-  MyCase is a comprehensive legal practice management software that includes an
-  innovative time tracking feature called Smart Time Finder, which helps
-  attorneys capture billable time they might otherwise forget to record.
+  MyCase is an all-in-one legal practice management software designed for small
+  to mid-sized law firms. It combines time tracking, billing, case management,
+  client communication, and document management in one cloud-based platform.
 
 
   ## Features
 
 
-  - **Smart Time Finder** - Generates a list of common billable activities to
-  help recover missed time entries
+  - **Smart Time Finder**: AI tool that captures an additional 579,665 hours in
+  2023 for customers
 
-  - **Timer-Based Tracking** - Start/stop timers for real-time activity tracking
+  - **Time Tracking**: Multiple time entry methods with activity-based
+  suggestions
 
-  - **Mobile Time Entry** - Track time from iOS and Android devices
+  - **Billing & Invoicing**: Flexible billing with trust accounting
 
-  - **Case Management** - Organize case files, documents, and communications
+  - **Case Management**: Organize cases, contacts, and documents
 
-  - **Billing & Invoicing** - Create invoices from tracked time with
-  customizable templates
+  - **Client Portal**: Secure client communication and document sharing
 
-  - **Trust Accounting** - IOLTA-compliant trust account management
+  - **Document Management**: Store and organize all case documents
 
-  - **Client Portal** - Secure portal for client communication and document
-  sharing
+  - **Calendar**: Deadline tracking and court date management
 
-  - **Document Management** - Store and organize case documents
+  - **Text Messaging**: Communicate with clients via text
 
-  - **Calendar & Dockets** - Deadline tracking and appointment scheduling
+  - **E-Signature**: Send documents for electronic signature
 
-  - **Email Integration** - Sync with Outlook and Gmail
-
-
-  ## Impact
+  - **Mobile App**: Full-featured iOS and Android apps
 
 
-  In 2023, MyCase customers captured an additional 579,665 hours using Smart
-  Time Finder, representing significant recovered revenue that would have
-  otherwise been lost.
+  ## Smart Time Finder
 
 
-  ## Target Users
-
-
-  - Solo practitioners
-
-  - Small law firms
-
-  - Mid-sized firms
-
-  - All practice areas
+  Generates a list of common billable activities to help recover missed time.
+  This feature alone helped customers capture significant additional billable
+  hours.
 
 
   ## Pricing
 
 
-  Pricing starts at approximately $39-79 per user per month with a free trial
-  available.
+  Basic plan at $39/user/month. Pro plan at $69/user/month. Advanced plan at
+  $89/user/month with all features. 10-day free trial.
 brand: MyCase
-updated_at: 2026-03-19 12:02
+updated_at: 2026-03-20 01:09

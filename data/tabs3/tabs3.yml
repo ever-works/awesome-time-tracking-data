@@ -1,87 +1,56 @@
 name: Tabs3
-description: Legal billing and practice management software for attorneys
-  offering comprehensive time tracking, trust accounting, client billing, and
-  case management designed specifically for law firms.
+description: Trusted legal billing and practice management software for law
+  firms with comprehensive time tracking, billing, trust accounting, and matter
+  management capabilities.
 source_url: https://www.tabs3.com/
-category: Legal Time Tracking
+category: Legal Practice Management
 tags:
   - legal
   - billing
   - trust-accounting
+featured: false
 markdown: >-
   ## Overview
 
 
-  Tabs3 is a comprehensive legal billing and practice management software
-  designed specifically for law firms. It provides robust time tracking,
-  billing, trust accounting, and case management features tailored to legal
-  professionals' unique needs.
+  Tabs3 is one of the most trusted names in legal billing and practice
+  management software, serving law firms for over 40 years. It provides
+  comprehensive time tracking, billing, trust accounting, and practice
+  management tools designed specifically for attorneys.
 
 
   ## Features
 
 
-  ### Time & Billing
+  - **Time & Billing**: Flexible time entry with timers, batch entry, and
+  activity tracking
 
-  - **Time Tracking** - Capture billable time with timers and manual entry
+  - **Trust Accounting**: IOLTA/IOLA compliant three-way reconciliation
 
-  - **Fee Management** - Flexible billing rates and fee structures
+  - **General Ledger**: Full accounting with accounts payable and receivable
 
-  - **Invoice Generation** - Create professional invoices from tracked time
+  - **Matter Management**: Track cases, clients, and matters
 
-  - **Billing Automation** - Automate recurring billing and retainer management
+  - **Document Management**: Integrate with PracticeMaster for document
+  organization
 
-  - **Pre-Billing Reports** - Review time entries before creating invoices
+  - **Calendar**: Deadline tracking and court date management
 
-  - **Payment Processing** - Accept credit cards and process payments
+  - **Conflict Checking**: Identify potential conflicts of interest
 
-  - **Collections** - Track aging accounts and manage collections
+  - **Billing Arrangements**: Support for hourly, flat fee, contingent, and
+  hybrid billing
 
+  - **Electronic Billing**: LEDES billing for insurance and corporate clients
 
-  ### Trust Accounting
-
-  - **IOLTA Compliance** - Maintain compliant trust accounts
-
-  - **Trust-to-Operating** - Transfer funds between trust and operating accounts
-
-  - **Three-Way Reconciliation** - Ensure trust account accuracy
-
-  - **Trust Transaction Tracking** - Monitor all trust account activity
-
-  - **Trust Reports** - Comprehensive trust accounting reports
-
-
-  ### Practice Management
-
-  - **Client Management** - Centralize client information and communications
-
-  - **Matter Management** - Organize cases and matters
-
-  - **Document Management** - Store case-related documents
-
-  - **Calendar & Dockets** - Track deadlines and appointments
-
-  - **Contact Management** - Manage client and professional contacts
-
-
-  ### Reporting
-
-  - **Financial Reports** - Detailed financial analysis and reporting
-
-  - **Productivity Reports** - Track attorney time and billable hours
-
-  - **Custom Reports** - Create custom report templates
-
-
-  ## Platform
-
-
-  Windows desktop application with optional cloud hosting
+  - **Reports**: Over 100 standard reports plus custom report builder
 
 
   ## Pricing
 
 
-  One-time purchase or subscription options; contact for pricing.
-brand: Tabs3
-updated_at: 2026-03-19 12:02
+  Perpetual license available starting at $595 per user (one-time) plus annual
+  maintenance. Cloud hosting also available. Contact for custom pricing and
+  demo.
+brand: Software Technology, Inc.
+updated_at: 2026-03-20 01:09

@@ -1,102 +1,64 @@
 name: Apploye
-description: Apploye specializes in employee time tracking and comprehensive
-  productivity monitoring. It provides detailed insights for businesses seeking
-  to manage teams and optimize efficiency.
+description: Employee time tracking and productivity monitoring software with
+  screenshots, activity tracking, and detailed reporting for remote and hybrid
+  teams.
 source_url: https://apploye.com/
-category: team-project-time-tracking
+category: Employee Monitoring
 tags:
-  - employee-monitoring
-  - productivity
-  - teams
-  - analytics
+  - productivity-monitoring
+  - screenshots
+  - remote-teams
+featured: false
 markdown: >-
-  # Apploye
+  ## Overview
 
 
-  [Apploye](https://apploye.com/) is a comprehensive time tracking and
-  productivity monitoring tool for businesses, teams, and freelancers. It offers
-  a suite of features for tracking employee hours, managing tasks and projects,
-  monitoring remote work, and generating reports for payroll and invoicing.
+  Apploye is a comprehensive employee time tracking and productivity monitoring
+  software designed for remote and hybrid teams. It provides detailed insights
+  into how time is spent while respecting employee privacy.
 
 
   ## Features
 
 
-  - **Time Tracking**: Track time automatically or manually via desktop, mobile,
-  web, or Chrome extension. Supports daily, weekly, monthly, or custom
-  timesheets.
+  - **Time Tracking**: Manual and automatic time tracking with timers
 
-  - **Timesheet Management**: Calendar-based timesheet reports; timesheet
-  approval workflow for accuracy before payroll.
+  - **Screenshots**: Optional screenshot monitoring at configurable intervals
 
-  - **Clock In/Out**: Attendance reporting with clock in/out records.
+  - **Activity Tracking**: Monitor app and website usage
 
-  - **Projects & Budgeting**: Assign roles, track time on projects, set budgets,
-  and monitor project progress with notifications.
+  - **Productivity Scoring**: Automatic productivity categorization
 
-  - **Task Management**: Create and assign tasks, track time per task, and
-  compare task completion across team members.
+  - **Timesheets**: Automated timesheet generation
 
-  - **Client & Invoice**: Manage client database, assign projects, and
-  generate/send invoices directly from the platform.
+  - **Project & Task Tracking**: Organize time by projects and tasks
 
-  - **Advanced Reporting**: Export custom reports in PDF or CSV/Excel formats.
-  Includes time & activity, manual time, and app/URL usage reports. Weekly
-  summary emails for admins.
+  - **Payroll**: Built-in payroll management
 
-  - **Remote Employee Monitoring (Optional Add-on)**: Capture up to 3 random
-  screenshots every 10 minutes, track active/idle time, and monitor apps and
-  website usage.
+  - **Invoicing**: Generate client invoices from tracked time
 
-  - **Live Feed**: Real-time view of active employees and the ability to take
-  instant screenshots.
+  - **GPS Tracking**: Optional location tracking for field teams
 
-  - **Dashboard**: Overview of top performers, team activity, total hours,
-  ongoing tasks, and project summaries.
+  - **Reporting**: Comprehensive time and productivity reports
 
-  - **Payroll Management**: Manage hourly and fixed rates, payment histories,
-  and pay team members based on tracked hours.
 
-  - **Team & Admin Roles**: Assign admin/manager roles, create multiple
-  organizations, and manage team settings.
+  ## Privacy Features
 
-  - **Manual Time Entry**: Add time entries manually with notes for missed
-  tracking periods.
 
-  - **Integrations**: Connect with popular tools via native integrations.
+  - Employees can blur sensitive screenshots
 
-  - **Security**: Enterprise-grade AWS hosting, SSL encryption, secure
-  screenshot storage, and Google reCAPTCHA for sign-up security.
+  - Configurable monitoring settings
 
-  - **Mobile App**: Track time and add notes on the go.
+  - Transparent tracking that employees can see
+
+  - Private time option for personal breaks
 
 
   ## Pricing
 
 
-  - **Standard Plan**: $2.5 per user/month (billed yearly). Includes all core
-  time tracking and management features. Only pay for active team members (e.g.,
-  for 6 members, pay for 5).
-
-  - **Elite Plan**: $3.5 per user/month (billed yearly). Includes all Standard
-  features plus advanced remote tracking features (e.g., screenshots, app/URL
-  tracking).
-
-  - **Free Trial**: 10-day free trial available.
-
-
-  ## Category
-
-  - Team Project & Time Tracking
-
-
-  ## Tags
-
-  - employee-monitoring
-
-  - productivity
-
-  - teams
-
-  - analytics
-updated_at: 2025-05-13 22:52
+  Solo plan free for 1 user. Standard at $2.50/user/month. Premium at
+  $3.50/user/month. Elite at $4.50/user/month with all features. 10-day free
+  trial.
+brand: Apploye
+updated_at: 2026-03-20 01:09

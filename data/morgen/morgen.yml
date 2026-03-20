@@ -1,68 +1,54 @@
 name: Morgen
-description: Unified calendar and task manager supporting time blocking with
-  keyboard shortcuts, drag-and-drop, voice input, and AI planning across
-  multiple calendar accounts and task management systems.
+description: Unified calendar and task manager that consolidates multiple
+  calendars, integrates with task management tools, and includes time tracking
+  and scheduling features across platforms.
 source_url: https://www.morgen.so/
-category: Time Blocking
+category: Productivity Tool
 tags:
-  - time-blocking
   - calendar
   - task-management
+  - multi-platform
+featured: false
 markdown: >-
   ## Overview
 
 
-  Morgen is a comprehensive calendar and task management application designed
-  for time blocking workflows. It allows you to consolidate multiple calendars
-  and task lists into one unified interface with flexible time blocking methods
-  including keyboard, drag-and-drop, voice, and AI assistance.
+  Morgen is an all-in-one calendar, scheduler, and task manager that brings
+  together all your calendars and tasks in one beautiful interface. It includes
+  built-in time tracking, scheduling links, and works across Windows, Mac,
+  Linux, iOS, Android, and web.
 
 
   ## Features
 
 
-  - **Multi-Calendar Support** - Connect Google Calendar, Outlook, iCloud, and
-  more in one view
+  - **Unified Calendar**: View all calendars (Google, Outlook, Apple) in one
+  place
 
-  - **Manual Time Blocking** - Create time blocks via keyboard shortcuts,
-  drag-and-drop, or voice
+  - **Task Integration**: Connect with Todoist, Microsoft To Do, and other task
+  managers
 
-  - **AI Planner** - Let AI automatically schedule your tasks into optimal time
-  blocks
+  - **Time Tracking**: Built-in Pomodoro timer and time tracking
 
-  - **Task Integration** - Pull tasks from Todoist, Asana, ClickUp, Notion, and
-  other platforms
+  - **Scheduling Links**: Share your availability like Calendly
 
-  - **Scheduling Links** - Share availability and let others book time
-  automatically
+  - **Time Zone Support**: Automatic time zone conversion for global teams
 
-  - **Team Scheduling** - Find optimal meeting times across team members'
-  calendars
+  - **Keyboard Shortcuts**: Extensive keyboard navigation
 
-  - **Time Zone Support** - Manage meetings across multiple time zones
+  - **Calendar Overlay**: See multiple calendars overlaid
 
-  - **Customizable Views** - Daily, weekly, and monthly calendar views
+  - **Templates**: Create event templates for recurring meeting types
 
-  - **Keyboard Shortcuts** - Power-user keyboard navigation for rapid scheduling
+  - **Cross-Platform**: Available on all major platforms
 
-  - **Cross-Platform** - Available on Mac, Windows, Linux, iOS, and Android
-
-
-  ## Time Blocking Methods
-
-
-  - Drag tasks directly into calendar view to create blocks
-
-  - Use keyboard shortcuts for rapid time block creation
-
-  - Voice input for hands-free scheduling
-
-  - AI-powered automatic scheduling
+  - **Privacy-Focused**: End-to-end encryption option
 
 
   ## Pricing
 
 
-  Free plan available. Premium plans start at approximately $9-14 per month.
+  Free plan with basic features. Pro plan at $9/month includes scheduling links,
+  time tracking, and advanced features. Business plan at $15/month for teams.
 brand: Morgen
-updated_at: 2026-03-19 12:02
+updated_at: 2026-03-20 01:09

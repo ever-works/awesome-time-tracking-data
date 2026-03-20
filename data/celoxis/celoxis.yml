@@ -1,76 +1,52 @@
 name: Celoxis
-description: Comprehensive project management and time tracking software that
-  combines task management, resource planning, and time tracking in a unified
-  platform, designed for teams and enterprises requiring robust project
-  oversight and billable hour tracking.
+description: Enterprise project management and time tracking software with
+  comprehensive resource planning, portfolio management, and advanced analytics
+  for teams and organizations.
 source_url: https://www.celoxis.com/
 category: Project Management
 tags:
   - enterprise
-  - resource-planning
-  - billable-hours
+  - resource-management
+  - portfolio-management
 featured: false
 markdown: >-
   ## Overview
 
 
-  Celoxis is a comprehensive project management platform offering integrated
-  time tracking capabilities alongside advanced project planning and resource
-  management features. The platform is designed for teams and enterprises that
-  need robust time tracking combined with full-featured project management.
+  Celoxis is a comprehensive project management platform with robust time
+  tracking capabilities designed for enterprises and teams that need advanced
+  resource planning, portfolio management, and detailed analytics.
 
 
   ## Features
 
 
-  - **Integrated Time Tracking**: Track time directly within project tasks and
-  activities
+  - **Time Tracking**: Flexible timesheets with approval workflows
 
-  - **Project Management**: Full-featured project planning with Gantt charts and
-  dependencies
+  - **Resource Management**: Visual resource allocation and capacity planning
 
-  - **Resource Management**: Allocate and track resources across multiple
-  projects
+  - **Project Planning**: Gantt charts, task dependencies, and critical path
+  analysis
 
-  - **Timesheet Management**: Comprehensive timesheet functionality with
-  approval workflows
+  - **Portfolio Management**: Manage multiple projects across the organization
 
-  - **Billable Hours Tracking**: Track billable vs. non-billable hours for
-  client projects
+  - **Budget Tracking**: Track project costs against budgets in real-time
 
-  - **Budget Tracking**: Monitor project budgets and compare actual vs. planned
-  costs
+  - **Custom Workflows**: Configurable workflows for different project types
 
-  - **Custom Reports**: Generate detailed reports on time, costs, and project
-  progress
+  - **Advanced Reporting**: Interactive dashboards and customizable reports
 
-  - **Portfolio Management**: Manage multiple projects across your organization
+  - **Risk Management**: Identify and track project risks
 
-  - **Collaboration Tools**: Built-in communication and file sharing
-  capabilities
+  - **Collaboration**: Document sharing, discussions, and team collaboration
 
-  - **Mobile Apps**: iOS and Android apps for time tracking on the go
-
-
-  ## Integration
-
-
-  - Microsoft Project
-
-  - JIRA
-
-  - Salesforce
-
-  - QuickBooks
-
-  - Other popular business tools
+  - **Integrations**: Connect with Jira, MS Project, Salesforce, and more
 
 
   ## Pricing
 
 
-  Celoxis offers both cloud-hosted and on-premise deployment options with
-  pricing based on team size and features. Contact Celoxis for detailed pricing
-  information.
+  Cloud version starts at $25/user/month. On-premise options available for
+  enterprise customers. 30-day free trial with no credit card required.
 brand: Celoxis
-updated_at: 2026-03-19 18:16
+updated_at: 2026-03-20 01:09

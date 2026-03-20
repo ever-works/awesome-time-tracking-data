@@ -1,166 +1,53 @@
 name: Aderant iTimekeep
-description: "The #1 mobile time tracking software for attorneys.
-  Enterprise-grade legal time capture solution that works seamlessly on mobile
-  devices, enabling lawyers to record time anywhere with automatic sync to firm
-  billing systems."
-source_url: https://aderant.com/solutions/itimekeep/
-category: Business Management
+description: Leading mobile time tracking software for attorneys and legal
+  professionals that increases revenue by producing accurate records, minimizing
+  time leakage, and creating shorter billing cycles.
+source_url: https://aderant.com/products/itimekeep/
+category: Legal Time Tracking
 tags:
   - legal
   - mobile
-  - enterprise
+  - attorneys
 featured: false
 markdown: >-
   ## Overview
 
 
-  Aderant iTimekeep is recognized as the #1 mobile time tracking software for
-  attorneys, providing enterprise-grade legal time capture that works seamlessly
-  across devices and integrates with major legal practice management and billing
-  systems.
+  Aderant iTimekeep is the #1 mobile time tracking software for attorneys that
+  increases revenue by producing the most accurate records, minimizing time
+  leakage, and creating shorter billing cycles. Used by over 200,000 legal
+  professionals worldwide.
 
 
   ## Features
 
 
-  ### Mobile-First Design
+  - **Mobile-First Design**: Capture time anytime, anywhere on iOS and Android
 
-  - Native iOS and Android apps
+  - **Voice-to-Text**: Record time entries using voice commands
 
-  - Intuitive mobile interface designed for attorneys
+  - **Smart Templates**: Pre-built entry templates for common legal tasks
 
-  - Quick time entry from anywhere
+  - **Real-Time Sync**: Automatically syncs with practice management systems
 
-  - Timer and narrative entry
+  - **Timer Function**: Running timers for active work sessions
 
-  - Offline mode with automatic sync
+  - **Quick Entry**: Fast entry of multiple time entries
 
+  - **Expense Tracking**: Capture billable expenses on the go
 
-  ### Smart Time Capture
+  - **ABA Task Codes**: Built-in American Bar Association task codes
 
-  - Voice-to-text for narratives
+  - **Client/Matter Lookup**: Easy search and selection of matters
 
-  - Quick entry templates
-
-  - Recent matters and tasks
-
-  - Time entry suggestions
-
-  - Bulk time entry
-
-
-  ### Integration
-
-  - Seamless integration with major billing systems:
-    - Aderant Expert
-    - Elite 3E
-    - Elite Enterprise
-    - And other major legal billing platforms
-  - Automatic sync to firm's billing system
-
-  - Real-time data synchronization
-
-
-  ### Enterprise Features
-
-  - Firm-wide deployment
-
-  - Centralized administration
-
-  - Security and compliance
-
-  - Role-based access control
-
-  - Usage analytics and reporting
-
-
-  ### Time Entry Tools
-
-  - Matter and task lookup
-
-  - Timekeeper selection
-
-  - Custom fields support
-
-  - Batch editing
-
-  - Time entry review before submission
-
-
-  ## Platform Support
-
-
-  - iOS (iPhone and iPad)
-
-  - Android smartphones and tablets
-
-  - Web portal for administration
-
-  - Syncs with desktop billing systems
-
-
-  ## Benefits
-
-
-  - **Capture More Time**: Mobile access means no billable time is lost
-
-  - **Attorney Adoption**: Easy-to-use mobile interface drives high usage
-
-  - **Real-Time Sync**: Time entries immediately available in billing system
-
-  - **Enterprise Ready**: Scales to firms of all sizes
-
-  - **Integration**: Works with existing billing infrastructure
-
-
-  ## Ideal For
-
-
-  - Large law firms (100+ attorneys)
-
-  - Mid-sized firms using Elite or Aderant billing systems
-
-  - Firms wanting to improve time capture rates
-
-  - Attorneys who work remotely or travel frequently
-
-  - Firms seeking to modernize time entry
-
-
-  ## Industry Recognition
-
-
-  - Recognized as #1 mobile time tracking for attorneys
-
-  - Widely adopted across large law firms globally
-
-  - Trusted by Am Law 100 and Global 100 firms
-
-
-  ## Security
-
-
-  - Enterprise-grade security
-
-  - Data encryption in transit and at rest
-
-  - Compliance with legal industry standards
-
-  - Secure authentication
+  - **Narrative Editing**: AI-assisted narrative generation and editing
 
 
   ## Pricing
 
 
-  Enterprise pricing based on firm size and requirements. Contact Aderant for
-  detailed pricing information.
-
-
-  ## ROI
-
-
-  Firms typically see increased time capture and billing realization when
-  attorneys can easily record time from mobile devices in real-time rather than
-  reconstructing time entries later.
+  Pricing available through Aderant sales. Typically licensed per user with
+  annual or multi-year agreements. Integration with Aderant Expert or other
+  practice management systems.
 brand: Aderant
-updated_at: 2026-03-10 12:25
+updated_at: 2026-03-20 01:09
