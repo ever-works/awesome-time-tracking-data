@@ -1,239 +1,470 @@
 name: OnTheClock
-description: Easy-to-use employee time clock software with scheduling, payroll
-  integration, and PTO tracking. Offers GPS tracking, geofencing, and facial
-  recognition for time theft prevention.
+description: Easy-to-use employee time clock, scheduling, and payroll software
+  designed for small businesses. Offers flexible clock-in options via mobile
+  devices, desktop computers, or kiosk stations with geofencing and device
+  restrictions, making time tracking simple and accessible for any work
+  environment.
 source_url: https://www.ontheclock.com
 category: Time Tracking Software
 tags:
-  - employee-monitoring
-  - payroll
-  - gps-tracking
+  - time-clock
+  - small-business
+  - scheduling
+  - geofencing
+featured: false
 markdown: >-
   ## Overview
 
 
-  OnTheClock is a cloud-based employee time tracking and scheduling software
-  designed to simplify workforce management for businesses of all sizes. Known
-  for its ease of use and comprehensive feature set at an affordable price.
+  OnTheClock is a straightforward, affordable time tracking and employee
+  scheduling solution built specifically for small businesses. With multiple
+  clock-in options, geofencing capabilities, and integrated scheduling, it
+  provides everything small employers need to track employee hours accurately
+  without overwhelming complexity or enterprise pricing.
 
 
-  ## Time Tracking Features
+  ## Features
 
 
-  ### Multiple Clock-In Methods
-
-  - Web-based time clock
-
-  - Mobile apps (iOS and Android)
-
-  - Landline or cell phone punch-in (call-in system)
-
-  - Kiosk mode for shared devices
-
-  - Facial recognition time clock
+  ### Flexible Clock-In Options
 
 
-  ### GPS & Location Tracking
+  **Mobile App Clock-In**:
 
-  - GPS coordinates captured at clock-in/out
+  - Employees clock in/out from personal smartphones
 
-  - Geofencing with customizable job site boundaries
+  - iOS and Android native apps
 
-  - Real-time employee location tracking
+  - GPS location capture at each punch
 
-  - Location-based clock-in restrictions
+  - Photo verification option
 
-  - Breadcrumb trail showing employee routes
+  - Offline mode with sync when connected
 
-
-  ### Time Theft Prevention
-
-  - Facial recognition to prevent buddy punching
-
-  - Photo capture at each clock-in/out
-
-  - GPS verification of location
-
-  - IP address restrictions for web clock-ins
-
-  - Alerts for suspicious activity
+  - Push notifications for shift reminders
 
 
-  ## Scheduling
+  **Desktop/Laptop Clock-In**:
+
+  - Web-based time clock from any computer
+
+  - No software installation required
+
+  - Browser-based access from anywhere
+
+  - Ideal for office workers
 
 
-  - Drag-and-drop shift scheduler
+  **Kiosk Station**:
 
-  - Recurring schedule templates
+  - Shared tablet or computer as central time clock
 
-  - Shift trading and approval workflows
+  - PIN-based employee identification
 
-  - Schedule notifications to employees
+  - Face recognition option (premium)
 
-  - Availability management
+  - Ideal for retail, restaurants, warehouses
 
-  - Conflict detection
-
-
-  ## Payroll & Reporting
+  - Prevent unauthorized access
 
 
-  ### Automatic Calculations
+  **Phone Clock-In**:
 
-  - Regular and overtime hours
+  - Call-in time clock via toll-free number
 
-  - Multiple pay rates and wage rules
+  - Voice-based punch system
 
-  - Break time deductions
+  - Option for locations without smartphones
 
-  - Meal period compliance
+  - Automatic caller ID verification
 
-  - Department and job costing
+
+  ### Geofencing and Location Tracking
+
+  - **Job Site Geofencing**: Create virtual perimeters around work locations
+
+  - **Geofence Alerts**: Notification if employee clocks in outside designated
+  area
+
+  - **Multiple Locations**: Different geofences for different sites
+
+  - **Radius Configuration**: Adjustable geofence size
+
+  - **Location History**: GPS breadcrumb trail of employee locations
+
+  - **Map View**: Visualize all employee locations in real-time
+
+
+  ### Device Restrictions
+
+  - **IP Locking**: Restrict clock-in to specific IP addresses
+
+  - **Device Whitelisting**: Approve only certain devices
+
+  - **Location Requirements**: Mandate geofence presence for clock-in
+
+  - **PIN Protection**: Require PIN even on approved devices
+
+  - **Prevent Buddy Punching**: Multiple verification layers
+
+
+  ### Employee Scheduling
+
+  - **Drag-and-Drop Scheduler**: Easy visual schedule building
+
+  - **Shift Templates**: Reuse common shift patterns
+
+  - **Multi-Location Scheduling**: Manage schedules across sites
+
+  - **Employee Availability**: Workers set when they can work
+
+  - **Schedule Publishing**: Push schedules to employee apps
+
+  - **Shift Swap Requests**: Employees request to trade shifts
+
+  - **Open Shift Posting**: Offer available shifts to team
+
+  - **Schedule Notifications**: Auto-alerts when schedule published or changed
+
+
+  ### Time Tracking and Timesheets
+
+  - **Automatic Timesheets**: Punches populate timesheets automatically
+
+  - **Daily/Weekly Views**: Choose preferred timesheet layout
+
+  - **Break Tracking**: Separate meal and rest breaks
+
+  - **Overtime Calculation**: Automatic daily and weekly OT
+
+  - **PTO Tracking**: Vacation, sick leave, and other time off
+
+  - **Timesheet Editing**: Managers can adjust entries with notes
+
+  - **Approval Workflow**: Manager review and approval
+
+  - **Export Options**: CSV, Excel, PDF formats
 
 
   ### Payroll Integration
 
-  Direct integration with:
+  - **QuickBooks**: Direct integration with QuickBooks Online and Desktop
 
-  - QuickBooks (Desktop and Online)
+  - **Gusto**: Seamless sync with Gusto payroll
 
-  - ADP
+  - **ADP**: Integration with ADP Workforce Now
 
-  - Paychex
+  - **Paychex**: Connection to Paychex Flex
 
-  - Gusto
+  - **Generic Export**: Compatible with any payroll system via export
 
-  - 60+ other payroll providers
-
-
-  ### Reports
-
-  - Over 40 pre-built reports
-
-  - Custom report builder
-
-  - Export to Excel, PDF, CSV
-
-  - Scheduled email reports
-
-  - Real-time dashboards
+  - **Custom Formatting**: Configure export to match payroll requirements
 
 
-  ## PTO Management
+  ### Reporting
+
+  - **Time Card Reports**: Individual employee time cards
+
+  - **Payroll Summary**: Ready-to-process payroll data
+
+  - **Who's Working**: Real-time view of clocked-in employees
+
+  - **Location Reports**: Time and attendance by job site
+
+  - **Overtime Reports**: OT hours by employee and pay period
+
+  - **Exception Reports**: Late arrivals, early departures, missing punches
+
+  - **Custom Reports**: Build reports specific to your needs
+
+  - **Scheduled Reports**: Automatic report generation and email delivery
 
 
-  - Unlimited PTO policies
-
-  - Automatic accrual calculations
-
-  - Employee PTO request and approval
-
-  - PTO balance tracking
-
-  - Integration with timesheets
+  ## Small Business Focus
 
 
-  ## Additional Features
+  ### Affordable Pricing
+
+  - Designed for tight small business budgets
+
+  - No per-employee fees on some plans
+
+  - Predictable monthly costs
+
+  - No long-term contracts required
 
 
-  ### Job Costing
+  ### Easy Setup
 
-  - Track time by job, project, or client
+  - Quick onboarding process
 
-  - Multiple cost centers
+  - No IT expertise required
 
-  - Real-time labor cost visibility
+  - Intuitive interface
 
-  - Budget vs actual comparisons
+  - Minimal training needed
 
-
-  ### Team Communication
-
-  - In-app messaging
-
-  - Schedule announcements
-
-  - Shift reminders
-
-  - Policy acknowledgments
+  - Start tracking time same day
 
 
-  ### Compliance
+  ### Simple Administration
 
-  - FLSA overtime compliance
+  - Clean, uncluttered dashboards
 
-  - Break and meal period tracking
+  - Straightforward navigation
 
-  - Audit trails for all changes
+  - Common tasks are obvious
 
-  - Labor law poster compliance
+  - Mobile admin for managers
 
-
-  ## Mobile App
-
-
-  - Clock in/out with GPS verification
-
-  - View schedules and upcoming shifts
-
-  - Request PTO
-
-  - Receive push notifications
-
-  - Works offline and syncs when connected
+  - Minimal ongoing maintenance
 
 
-  ## Admin Portal
+  ### Scalable Solution
+
+  - Works for 1 employee or 500+
+
+  - Add employees as you grow
+
+  - Features scale with your needs
+
+  - Upgrade plans as business expands
 
 
-  - Real-time employee tracking dashboard
+  ## Use Cases
 
-  - Approve or edit timesheets
 
-  - Manage schedules
+  ### Retail Stores
+
+  - Kiosk clock-in at store entrance
+
+  - Schedule shifts around peak hours
+
+  - Track time by location for multi-store chains
+
+  - Prevent early clock-ins and late clock-outs
+
+
+  ### Restaurants and Food Service
+
+  - Shared tablet time clock for staff
+
+  - Track server, kitchen, and management hours separately
+
+  - Schedule around meal rushes
+
+  - Mobile scheduling for managers
+
+
+  ### Construction and Field Services
+
+  - Mobile clock-in from job sites
+
+  - GPS verification of on-site presence
+
+  - Track time by project and location
+
+  - Geofence job sites to ensure accuracy
+
+
+  ### Healthcare and Home Care
+
+  - Mobile app for caregivers visiting clients
+
+  - Geofence client homes
+
+  - Schedule complex shift rotations
+
+  - Track certifications and compliance
+
+
+  ### Professional Services
+
+  - Desktop clock-in for office workers
+
+  - Project-based time tracking
+
+  - Integration with invoicing systems
+
+  - Remote worker time tracking
+
+
+  ### Warehouses and Manufacturing
+
+  - Kiosk stations at facility entrances
+
+  - Department-level time tracking
+
+  - Shift scheduling for production lines
+
+  - Overtime monitoring
+
+
+  ## Mobile Apps
+
+
+  **Employee App Features**:
+
+  - Quick clock in/out
+
+  - View current and upcoming schedules
+
+  - Request time off
+
+  - Request shift swaps
+
+  - View timesheet and hours worked
+
+  - Receive shift reminder notifications
+
+
+  **Manager App Features**:
+
+  - All employee app features
+
+  - Approve time-off requests
+
+  - Approve shift swaps
+
+  - Edit employee timesheets
+
+  - View who's working now
+
+  - Create and edit schedules
 
   - Run reports
 
-  - Set up geofences and restrictions
 
-  - User permission levels
-
-
-  ## Pricing
+  ## Benefits
 
 
-  Affordable pricing starting at around $3-4 per user per month, with volume
-  discounts. No contracts or setup fees. 30-day free trial available.
+  - **Save Time**: Eliminate manual timesheet collection and calculation
+
+  - **Prevent Time Theft**: GPS and geofencing ensure on-site presence
+
+  - **Reduce Payroll Errors**: Automatic calculation eliminates math mistakes
+
+  - **Faster Payroll Processing**: Export directly to payroll systems
+
+  - **Better Scheduling**: Easy tools create optimal schedules
+
+  - **Improved Compliance**: Automatic break and overtime tracking
+
+  - **Employee Empowerment**: Self-service for schedules and time-off
+
+  - **Real-Time Visibility**: Know who's working right now
 
 
-  ## Industries Served
+  ## Security
 
 
-  - Construction
+  - **Data Encryption**: All data encrypted in transit and at rest
 
-  - Healthcare
+  - **Secure Access**: Role-based permissions and password requirements
 
-  - Retail
+  - **Regular Backups**: Automatic data backup
 
-  - Hospitality
+  - **Reliable Uptime**: 99.9% availability
 
-  - Professional services
+  - **Audit Trails**: Track all timesheet modifications
 
-  - Manufacturing
-
-  - Any business with hourly employees
+  - **Compliance**: FLSA and labor law compliant
 
 
   ## Customer Support
 
 
-  - Free unlimited phone and email support
+  - **Phone Support**: Live phone support during business hours
 
-  - Live chat available
+  - **Email Support**: Respond within 24 hours
 
-  - Comprehensive help center
+  - **Knowledge Base**: Comprehensive help articles and videos
 
-  - Video tutorials
+  - **Setup Assistance**: Help with initial configuration
 
-  - Onboarding assistance
-updated_at: 2026-03-20 08:56
+  - **Training Resources**: Video tutorials and webinars
+
+
+  ## Pricing
+
+
+  OnTheClock offers simple, affordable pricing:
+
+
+  **Free Plan**:
+
+  - Up to 2 employees
+
+  - All core features
+
+  - Mobile and web clock-in
+
+  - Basic scheduling
+
+  - Basic reporting
+
+  - Good for testing
+
+
+  **Basic** ($2.50/user/month):
+
+  - 3+ employees
+
+  - All Free features
+
+  - Advanced scheduling
+
+  - Geofencing
+
+  - All reports
+
+  - Payroll integrations
+
+
+  **Pro** ($4/user/month):
+
+  - All Basic features
+
+  - Face recognition clock-in
+
+  - Advanced geofencing
+
+  - Shift swap approvals
+
+  - Priority support
+
+  - Advanced reporting
+
+
+  **Enterprise** (Custom):
+
+  - 100+ employees
+
+  - Custom features
+
+  - Dedicated support
+
+  - API access
+
+  - Custom integrations
+
+
+  All paid plans include:
+
+  - No setup fees
+
+  - No contracts (monthly billing)
+
+  - 30-day free trial
+
+  - Unlimited locations
+
+  - Mobile apps included
+
+  - Email and phone support
+
+
+  Pricing is per active employee (clocked hours that month). Inactive employees
+  free.
+brand: OnTheClock
+updated_at: 2026-03-20 12:37
