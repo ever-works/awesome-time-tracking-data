@@ -194,3 +194,5 @@
   name: Global Team Practice
 - id: privacy-feature
   name: Privacy Feature
+- id: payroll-integration
+  name: Payroll Integration

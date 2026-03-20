@@ -2156,3 +2156,103 @@
   name: Flexible Scheduling
 - id: pomodoro-alternative
   name: Pomodoro Alternative
+- id: planning-method
+  name: Planning Method
+- id: german-system
+  name: German System
+- id: daily-organization
+  name: Daily Organization
+- id: rule-based
+  name: Rule Based
+- id: work-rest-cycles
+  name: Work Rest Cycles
+- id: psa-software
+  name: Psa Software
+- id: expense-management
+  name: Expense Management
+- id: receipt-scanning
+  name: Receipt Scanning
+- id: project-costing
+  name: Project Costing
+- id: calendar-optimization
+  name: Calendar Optimization
+- id: calendar-method
+  name: Calendar Method
+- id: planning-practice
+  name: Planning Practice
+- id: team-tracking
+  name: Team Tracking
+- id: billing-method
+  name: Billing Method
+- id: pricing-model
+  name: Pricing Model
+- id: fixed-fee
+  name: Fixed Fee
+- id: resource-scheduling
+  name: Resource Scheduling
+- id: calendar-interface
+  name: Calendar Interface
+- id: offline-first
+  name: Offline First
+- id: screenshot-tracking
+  name: Screenshot Tracking
+- id: recurring-blocks
+  name: Recurring Blocks
+- id: routine-management
+  name: Routine Management
+- id: dynamic-planning
+  name: Dynamic Planning
+- id: agency-management
+  name: Agency Management
+- id: profitability-tracking
+  name: Profitability Tracking
+- id: mac-only
+  name: Mac Only
+- id: flexible-blocking
+  name: Flexible Blocking
+- id: recurring-billing
+  name: Recurring Billing
+- id: monthly-fee
+  name: Monthly Fee
+- id: focus-tracking
+  name: Focus Tracking
+- id: productivity-theory
+  name: Productivity Theory
+- id: work-quality
+  name: Work Quality
+- id: focus-tool
+  name: Focus Tool
+- id: daily-rituals
+  name: Daily Rituals
+- id: jira-integration
+  name: Jira Integration
+- id: productivity-killer
+  name: Productivity Killer
+- id: focus-technique
+  name: Focus Technique
+- id: rules-based
+  name: Rules Based
+- id: visual-tracking
+  name: Visual Tracking
+- id: payroll-sync
+  name: Payroll Sync
+- id: pto-tracking
+  name: Pto Tracking
+- id: absence-management
+  name: Absence Management
+- id: leave-requests
+  name: Leave Requests
+- id: physical-device
+  name: Physical Device
+- id: tactile-tracking
+  name: Tactile Tracking
+- id: microsoft-teams
+  name: Microsoft Teams
+- id: collaboration-tools
+  name: Collaboration Tools
+- id: outcome-based
+  name: Outcome Based
+- id: activity-monitoring
+  name: Activity Monitoring
+- id: swiss-security
+  name: Swiss Security
