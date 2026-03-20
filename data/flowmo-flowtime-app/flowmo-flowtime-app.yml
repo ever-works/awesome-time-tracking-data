@@ -1,379 +1,182 @@
 name: FlowMo Flowtime App
-description: Mobile and web application implementing the Flowtime Technique as a
-  flexible alternative to Pomodoro, allowing users to work based on natural
-  focus rhythms rather than fixed intervals, with automatic break calculations
-  and flow state support.
-source_url: https://flowmo.io/
-category: Productivity Tool
+description: Dedicated application implementing the Flowtime Technique with
+  count-up timer, proportional break calculator, and focus tracking designed
+  specifically for flexible work sessions that respect natural attention spans.
+source_url: https://flowmo.io
+category: Productivity App
 tags:
   - flowtime
-  - flow-state
-  - flexible
+  - timer
+  - breaks
+  - focus-app
 featured: false
 markdown: >-
   ## Overview
 
 
-  FlowMo is a productivity application that implements the Flowtime Technique,
-  offering a more flexible alternative to the rigid Pomodoro method. Instead of
-  fixed 25-minute intervals, FlowMo allows users to work for as long as they
-  maintain genuine focus, automatically calculating appropriate break lengths
-  based on work duration.
+  FlowMo is a dedicated application built specifically to implement the Flowtime
+  Technique (also called Flowmodoro), providing tools for flexible focus
+  sessions with automatic proportional break calculation.
 
 
-  ## The Flowtime Technique
+  ## Core Features
 
 
-  ### Core Concept
+  **Count-Up Timer**: Tracks how long you've been in focused work, rather than
+  counting down like Pomodoro
 
-  Work until your focus naturally fades, then take a break proportional to your
-  work session. This respects individual flow states and task variability while
-  maintaining the break discipline that prevents burnout.
 
+  **Natural Stop**: Work until concentration wanes, then stop the timer
 
-  ### Break Calculation
 
-  FlowMo uses the 20% rule:
+  **Automatic Break Calculation**: Computes 20% break time based on work session
+  length
 
-  - **30 minutes work** → 6-minute break
 
-  - **60 minutes work** → 12-minute break
+  **Break Timer**: Guides you through calculated rest period
 
-  - **90 minutes work** → 18-minute break
 
-  - **120 minutes work** → 24-minute break
+  **Session History**: Log of work sessions and break patterns
 
 
-  ### Advantages Over Pomodoro
+  **Statistics**: Track average session lengths and total focus time
 
 
-  **Respects Flow State**:
+  ## How It Works
 
-  - Doesn't interrupt when deeply engaged
 
-  - Allows natural task completion
+  1. Click to start focus session (timer counts up)
 
-  - Preserves momentum on complex work
+  2. Work until you feel concentration diminishing
 
-  - Reduces artificial breaks
+  3. Stop the timer when focus naturally ends
 
+  4. App calculates 20% break (e.g., 60 min work = 12 min break)
 
-  **Task-Appropriate**:
+  5. Take calculated break
 
-  - Some tasks need 15 minutes, others need 90
+  6. Resume when break timer completes
 
-  - Match session length to work type
+  7. Repeat the cycle
 
-  - No forcing tasks into 25-minute boxes
 
-  - More realistic for variable work
+  ## Advantages Over Generic Timers
 
 
-  **Reduces Frustration**:
+  **Purpose-Built**:
 
-  - No timer anxiety
+  - Designed specifically for Flowtime methodology
 
-  - No breaking during breakthroughs
+  - Automatic break calculation
 
-  - Natural stopping points
+  - No manual math required
 
-  - Less rigid structure stress
+  - Session tracking and insights
 
 
-  ## Features
+  **vs. Pomodoro Apps**:
 
+  - No rigid 25-minute forcing
 
-  ### Flexible Timer
+  - Respects natural flow states
 
-  - **Start Timer**: Begin when you start work
+  - Flexible rather than prescriptive
 
-  - **Stop When Ready**: End when focus fades naturally
+  - Adapts to task demands
 
-  - **Auto-Calculate Break**: System suggests break length
 
-  - **Break Timer**: Enforces full recovery period
+  ## User Experience
 
-  - **Session Tracking**: Records all work and break times
 
+  **Simplicity**: Clean, minimal interface focused on the technique
 
-  ### Session Management
 
-  - **Project Tagging**: Assign sessions to projects or tasks
+  **Guidance**: Helps users learn optimal session lengths
 
-  - **Session Notes**: Add context to work periods
 
-  - **Energy Levels**: Track how you felt during session
+  **Flexibility**: Accommodates different work types and energy levels
 
-  - **Interruption Logging**: Note unexpected breaks or disruptions
 
-  - **Session History**: Review past work patterns
-
-
-  ### Analytics & Insights
-
-  - **Optimal Session Length**: Discover your average focus period
-
-  - **Productivity Patterns**: Identify your best work times
-
-  - **Focus Quality**: Track when you achieve deep focus
-
-  - **Break Adherence**: Monitor whether you take full breaks
-
-  - **Energy Tracking**: Understand your energy fluctuations
-
-
-  ### Guided Support
-
-  - **Technique Explanation**: Learn Flowtime methodology
-
-  - **Best Practices**: Tips for maximizing effectiveness
-
-  - **Focus Cues**: Recognize when focus is fading
-
-  - **Break Activities**: Suggestions for recovery periods
-
-
-  ## Flowtime vs. Pomodoro Comparison
-
-
-  ### When Flowtime Works Better
-
-
-  **Creative Work**:
-
-  - Writing, design, coding
-
-  - Tasks requiring flow state
-
-  - Complex problem-solving
-
-  - Original idea generation
-
-
-  **Variable-Length Tasks**:
-
-  - Research and exploration
-
-  - Reading and analysis
-
-  - Strategic thinking
-
-  - Learning new concepts
-
-
-  **Deep Focus Work**:
-
-  - When interruptions are costly
-
-  - Building complex mental models
-
-  - Maintaining context
-
-
-  ### When Pomodoro Works Better
-
-
-  **Procrastination-Prone Work**:
-
-  - Tasks you avoid
-
-  - Boring but necessary work
-
-  - When you need artificial deadlines
-
-
-  **Highly Distractible Situations**:
-
-  - Noisy environments
-
-  - Many interruptions
-
-  - Difficulty starting work
-
-
-  **Structured Preferences**:
-
-  - People who thrive on routine
-
-  - Those who need firm boundaries
-
-  - When external accountability helps
-
-
-  ## Hybrid Approach: Flowmodoro
-
-
-  FlowMo also supports "Flowmodoro"—combining both methods:
-
-  - Use Flowtime for deep work sessions
-
-  - Calculate break as % of work time (Flowtime rule)
-
-  - But consider using shorter work sessions when focus is difficult
-
-  - Flexibility in session length, discipline in breaks
-
-
-  ## Implementation Best Practices
-
-
-  ### Starting Out
-
-  1. **Experiment**: Try different session lengths
-
-  2. **Track Patterns**: Note when focus naturally ends
-
-  3. **Honor Breaks**: Take full calculated breaks
-
-  4. **Adjust**: Find what works for your tasks
-
-  5. **Be Honest**: Stop when truly losing focus
-
-
-  ### During Work
-
-  - **Single Task**: Focus on one thing
-
-  - **Minimize Distractions**: Remove temptations
-
-  - **Notice Signals**: Recognize when focus fades
-
-  - **Don't Force**: Stop when quality drops
-
-  - **Log Session**: Note what was accomplished
-
-
-  ### During Breaks
-
-  - **Physical Movement**: Stand, walk, stretch
-
-  - **No Work**: Truly disconnect
-
-  - **No Screens**: Rest your eyes and mind
-
-  - **Hydrate**: Water, healthy snacks
-
-  - **Mindfulness**: Be present in break
-
-
-  ## Scientific Basis
-
-
-  ### Flow State Research
-
-  Based on Mihaly Csikszentmihalyi's work:
-
-  - Flow requires uninterrupted focus
-
-  - Takes 15-30 minutes to achieve
-
-  - Breaking flow is costly
-
-  - Quality work happens in flow
-
-
-  ### Attention Research
-
-  - Focus capacity varies by individual
-
-  - Different tasks require different durations
-
-  - Natural attention fade signals are reliable
-
-  - Forced breaks can be counterproductive
-
-
-  ### Recovery Science
-
-  - Break length should match effort expended
-
-  - Micro-breaks insufficient for long sessions
-
-  - Physical movement aids mental recovery
-
-  - Screen-free breaks more restorative
+  **Feedback**: Shows patterns in focus duration over time
 
 
   ## Use Cases
 
 
-  ### Freelancers & Solo Workers
-
-  - Variable task lengths throughout day
-
-  - Need flexibility around client calls
-
-  - Different projects need different focus
+  **Creative Work**: Writing, design, composition where flow states are crucial
 
 
-  ### Students
-
-  - Some subjects need 20 minutes, others 90
-
-  - Test preparation vs. homework
-
-  - Reading vs. problem sets
-
-  - Learning vs. reviewing
+  **Deep Work**: Programming, analysis, research requiring sustained
+  concentration
 
 
-  ### Creative Professionals
-
-  - Writing, design, music
-
-  - Can't interrupt creative flow
-
-  - Tasks don't fit rigid timeboxes
-
-  - Quality over quantity
+  **Learning**: Studying and skill acquisition
 
 
-  ### Knowledge Workers
-
-  - Research and analysis
-
-  - Strategic thinking
-
-  - Complex problem-solving
-
-  - Variable-length meetings
+  **Flexible Workers**: Anyone whose tasks vary in focus requirements
 
 
-  ## Mobile & Web Access
+  ## Integration with Flowtime Philosophy
 
 
-  FlowMo is available on:
+  Embodies Zoe Read-Bivens' core principles:
 
-  - iOS app
+  - Work with natural attention spans
 
-  - Android app
+  - Break when truly needed, not arbitrarily
+
+  - Proportional recovery prevents burnout
+
+  - Flexibility over rigidity
+
+
+  ## Platform Availability
+
+
+  Typically available as:
 
   - Web application
 
-  - Browser extension
+  - Desktop app
+
+  - Mobile apps (iOS/Android)
 
 
-  Sync across devices for seamless tracking.
+  Pricing varies by platform and features.
 
 
-  ## Pricing
+  ## Community and Resources
 
 
-  FlowMo typically offers:
+  Often includes:
 
-  - **Free version**: Basic Flowtime tracking
+  - Explanation of Flowtime Technique
 
-  - **Premium**: Advanced analytics and features
+  - Tips for effective use
 
-  - **No ads**: Clean, focus-friendly interface
+  - Blog about productivity science
+
+  - User community sharing experiences
 
 
-  ## Key Philosophy
+  ## Why a Dedicated App Matters
 
 
-  FlowMo embodies the principle that productivity systems should adapt to
-  humans, not force humans to adapt to arbitrary systems. By respecting natural
-  focus rhythms while maintaining break discipline, it offers a more sustainable
-  and effective approach to time management.
+  While Flowtime can be done with any timer:
+
+  - Dedicated app removes friction
+
+  - Automatic calculations prevent errors
+
+  - Tracking provides insights
+
+  - Purpose-built features support the methodology
+
+  - Community reinforces practice
+
+
+  FlowMo represents the maturation of the Flowtime Technique from concept to
+  implemented practice, making the flexible focus approach accessible to anyone
+  seeking an alternative to rigid time blocking methods.
 brand: FlowMo
-updated_at: 2026-03-19 18:16
+updated_at: 2026-03-20 07:40
