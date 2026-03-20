@@ -1882,3 +1882,55 @@
   name: Behavior Tracking
 - id: energy-cycles
   name: Energy Cycles
+- id: irs
+  name: Irs
+- id: research-validated
+  name: Research Validated
+- id: time-savings
+  name: Time Savings
+- id: biological-prime-time
+  name: Biological Prime Time
+- id: time-confetti
+  name: Time Confetti
+- id: reverse-pomodoro
+  name: Reverse Pomodoro
+- id: fatigue-reduction
+  name: Fatigue Reduction
+- id: user-data
+  name: User Data
+- id: field-validation
+  name: Field Validation
+- id: intensity
+  name: Intensity
+- id: quality-over-quantity
+  name: Quality Over Quantity
+- id: sustainable-performance
+  name: Sustainable Performance
+- id: attention-economy
+  name: Attention Economy
+- id: digital-distraction
+  name: Digital Distraction
+- id: dcaa
+  name: Dcaa
+- id: government-compliance
+  name: Government Compliance
+- id: extreme-focus
+  name: Extreme Focus
+- id: proportional-breaks
+  name: Proportional Breaks
+- id: chronobiology
+  name: Chronobiology
+- id: baseline
+  name: Baseline
+- id: formula
+  name: Formula
+- id: hiring
+  name: Hiring
+- id: skills
+  name: Skills
+- id: process-improvement
+  name: Process Improvement
+- id: creator
+  name: Creator
+- id: productivity-method
+  name: Productivity Method
