@@ -1870,3 +1870,15 @@
   name: Ecosystem
 - id: non-invasive
   name: Non Invasive
+- id: sprints
+  name: Sprints
+- id: criticism
+  name: Criticism
+- id: surveillance
+  name: Surveillance
+- id: field-work
+  name: Field Work
+- id: behavior-tracking
+  name: Behavior Tracking
+- id: energy-cycles
+  name: Energy Cycles

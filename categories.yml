@@ -142,3 +142,9 @@
   name: Productivity Software
 - id: time-tracking-hardware
   name: Time Tracking Hardware
+- id: time-management-statistic
+  name: Time Management Statistic
+- id: time-tracking-criticism
+  name: Time Tracking Criticism
+- id: time-tracking-concept
+  name: Time Tracking Concept
