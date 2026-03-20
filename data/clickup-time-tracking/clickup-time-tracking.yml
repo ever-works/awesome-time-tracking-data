@@ -1,73 +1,117 @@
 name: ClickUp Time Tracking
-description: Native time tracking built into ClickUp with manual entry, timers,
-  time estimates, and progress comparison features. Includes timesheets and time
-  approvals on higher-tier plans for comprehensive project time management.
-source_url: https://clickup.com/features/project-time-tracking
-category: Time Tracking Apis & Integrations
+description: Built-in time tracking feature within ClickUp all-in-one project
+  management platform. Allows teams to track time on tasks with timers, manual
+  entries, and integrations, centralizing time tracking with project work.
+source_url: https://clickup.com/features/time-tracking
+category: Work Management
 tags:
   - project-management
-  - time-estimates
-  - timesheets
-featured: false
+  - all-in-one
+  - task-tracking
 markdown: >-
+  ## Overview
+
+
+  ClickUp includes native time tracking as part of its all-in-one project
+  management platform. The feature allows teams to track time on tasks with
+  timers, manual entries, and integrations, centralizing time tracking with
+  project work.
+
+
   ## Time Tracking Features
 
 
-  ClickUp allows tracking time by starting a timer or manually entering it from
-  the Quick Action menu, Toolbar, Timesheets, Time Tracking Dashboard cards,
-  tasks, and several views.
+  - **Native Timers**: Track time directly on tasks
+
+  - **Manual Time Entry**: Add time retroactively
+
+  - **Global Timer**: Track time across ClickUp from anywhere
+
+  - **Time Estimates**: Set estimated duration for tasks
+
+  - **Time Rollup**: Automatic calculation of subtask time
+
+  - **Browser Extension**: Track time from Chrome
+
+  - **Mobile Tracking**: iOS and Android apps
+
+  - **Billable Time**: Mark time as billable or non-billable
 
 
-  ## Time Estimates Functionality
+  ## Reporting
 
 
-  Set Time Estimates for tasks and compare them to logged time. Get a high-level
-  view of your team's time tracking compared against estimates. Progress bars
-  indicate tracked time against estimates.
+  - **Time Reports**: Detailed time tracking reports
+
+  - **Time Estimates vs Actual**: Compare planned vs actual
+
+  - **Team Time Reports**: View team time allocation
+
+  - **Custom Dashboards**: Visualize time metrics
+
+  - **Export**: CSV and PDF exports
 
 
-  ## Setup Requirements
+  ## ClickUp Platform
 
 
-  Enable ClickApps in Workspace settings:
+  - **Task Management**: Complete task and project management
 
-  - Time Tracking
+  - **Multiple Views**: List, Board, Calendar, Gantt, Timeline
 
-  - Time Estimates
+  - **Docs & Wikis**: Documentation alongside work
 
-  - Time Estimates Rollup
+  - **Goals**: Track objectives and key results
 
-  - Time Tracking Rollup
+  - **Automations**: Automate repetitive workflows
 
+  - **Dashboards**: Custom reporting dashboards
 
-  ## Availability
-
-
-  - Basic time tracking: Unlimited plan ($10/user/month)
-
-  - Advanced features (timesheets, time approvals, granular estimates): Business
-  Plan ($19/user/month) and Enterprise
-
-  - Time estimates per assignee: Business Plan and above
+  - **Integrations**: 1000+ integrations
 
 
-  ## Native Features
+  ## Benefits
 
 
-  - Manual entry
+  - **All-in-One**: Time tracking + project management in one tool
 
-  - Built-in timer
+  - **No Context Switching**: Track time where work happens
 
-  - Time estimates
+  - **Comprehensive**: Hundreds of features beyond time tracking
 
-  - Reporting widgets
+  - **Customizable**: Adapt to any workflow
 
-  - Comparison against estimates
+  - **Scalable**: Free for unlimited users
+
+
+  ## Integrations
+
+
+  - Toggl Track, Harvest, Everhour for enhanced time tracking
+
+  - Google Calendar, Outlook
+
+  - Slack, Microsoft Teams
+
+  - GitHub, GitLab
+
+  - Zoom, Google Meet
 
 
   ## Pricing
 
 
-  Starts at $10/user/month (Unlimited plan) for basic time tracking.
+  Time tracking included in all plans:
+
+  - **Free Forever**: Unlimited users, unlimited tasks
+
+  - **Unlimited**: $7 per user/month
+
+  - **Business**: $12 per user/month
+
+  - **Enterprise**: Custom pricing
+
+
+  Free plan includes time tracking with some limitations.
 brand: ClickUp
-updated_at: 2026-03-14 20:12
+updated_at: 2026-03-20 05:06

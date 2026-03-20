@@ -1,72 +1,106 @@
 name: Smokeball
-description: Cloud-based legal practice management software with integrated time
-  tracking that automatically captures billable hours as attorneys work,
-  designed specifically for small to mid-size law firms to improve billing and
-  productivity.
-source_url: https://www.smokeball.com/
+description: Legal practice management software with integrated time tracking,
+  billing, and matter management. Automatically tracks billable hours in the
+  background as attorneys work, capturing time that would otherwise be lost.
+source_url: https://www.smokeball.com
 category: Legal Practice Management
 tags:
   - legal
-  - automatic-tracking
+  - automatic
   - practice-management
-featured: false
 markdown: >-
   ## Overview
 
 
-  Smokeball is a comprehensive legal practice management platform that includes
-  automatic time tracking capabilities designed to capture more billable hours
-  without manual timers. The software is built specifically for small to
-  mid-size law firms and automatically tracks work across documents, emails, and
-  phone calls.
+  Smokeball is a legal practice management platform with integrated automatic
+  time tracking. The software tracks billable hours in the background as
+  attorneys work, capturing time that would otherwise be lost to manual tracking
+  failures.
 
 
-  ## Features
+  ## Automatic Time Tracking
 
 
-  - **Automatic Time Tracking**: Tracks time automatically as you work on
-  documents, emails, and calls
+  - **Background Tracking**: Automatically captures time spent on documents,
+  emails, and research
 
-  - **Matter Management**: Centralized case management with document
-  organization
+  - **Matter-Based Recording**: Time is automatically assigned to the correct
+  matter
 
-  - **Document Automation**: Create legal documents with built-in templates and
-  automation
+  - **No Manual Timers**: Eliminates need to start/stop timers
 
-  - **Billing & Invoicing**: Generate invoices based on automatically tracked
-  time
+  - **Activity Recognition**: Detects when work begins and ends
 
-  - **Email Integration**: Track time spent on emails within Outlook
+  - **One-Click Billing**: Convert tracked time to invoices instantly
 
-  - **Calendar Management**: Manage appointments and court dates
 
-  - **Task Management**: Create and assign tasks with deadline tracking
+  ## Practice Management Features
 
-  - **Client Portal**: Secure portal for client communication and document
-  sharing
 
-  - **Reporting**: Track billable vs. non-billable time and firm productivity
+  - **Matter Management**: Complete case and matter organization
 
-  - **Mobile App**: Access matters and track time on mobile devices
+  - **Document Automation**: Template-based document generation
+
+  - **Calendar & Deadlines**: Court date and deadline tracking
+
+  - **Task Management**: Workflows and task assignments
+
+  - **Contact Management**: Client and contact database
+
+  - **Email Integration**: Outlook integration with automatic filing
+
+
+  ## Billing Features
+
+
+  - **Automated Billing**: Generate invoices from auto-tracked time
+
+  - **Trust Accounting**: IOLTA-compliant trust management
+
+  - **Expense Tracking**: Bill expenses to matters
+
+  - **Payment Processing**: Online payment acceptance
+
+  - **Billing Rate Management**: Multiple rates per attorney
 
 
   ## Key Benefits
 
 
-  - Captures billable hours that would otherwise be lost
+  - According to Smokeball data, lawyers capture an average of 64 additional
+  billable hours per year with automatic tracking
 
-  - Eliminates manual time entry and timer management
+  - Eliminates time leakage from forgotten or unbilled work
 
-  - Provides accurate records for billing and compliance
+  - Reduces administrative time spent on manual time entry
 
-  - Improves overall firm profitability
+  - Improves billing accuracy and client satisfaction
+
+
+  ## Integrations
+
+
+  - Microsoft Outlook (deep integration)
+
+  - QuickBooks for accounting
+
+  - LawPay for payments
+
+  - Various legal research platforms
 
 
   ## Pricing
 
 
-  Smokeball offers tiered pricing based on firm size and features, with plans
-  designed for solo practitioners through mid-size firms. Pricing details
-  available upon request.
+  Smokeball offers tiered pricing based on firm size:
+
+  - Boost: Essential features for solo practitioners
+
+  - Grow: Advanced features for small firms
+
+  - Prosper: Complete features for growing firms
+
+
+  Contact for detailed pricing. Free demo and trial available.
 brand: Smokeball
-updated_at: 2026-03-19 18:16
+updated_at: 2026-03-20 05:06

@@ -1,54 +1,86 @@
 name: TMetric
-description: Professional time tracking software for teams with billable hours
-  tracking, project budgeting, and comprehensive reporting capabilities
-  integrated with popular project management tools.
-source_url: https://tmetric.com/
+description: Time tracking software for creative agencies and marketing teams
+  that enables efficient project planning, task duration estimation, and
+  realistic deadline setting. Offers 100+ app integrations for seamless
+  workflow.
+source_url: https://tmetric.com
 category: Time Tracking Software
 tags:
-  - billable-hours
-  - project-management
+  - agencies
   - integrations
-featured: false
+  - project-management
 markdown: >-
   ## Overview
 
 
-  TMetric is time tracking software designed for professional teams that need
-  accurate billing, project budgeting, and productivity insights. It provides
-  detailed tracking capabilities while maintaining simplicity for end users.
+  TMetric enables teams to efficiently plan projects, estimate task durations,
+  and set realistic deadlines. The platform is particularly popular with
+  creative agencies and marketing teams, offering 100+ app integrations.
 
 
   ## Features
 
 
-  - **Time Tracking**: Manual and automatic time tracking with one-click timers
+  - **Time Tracking**: Start/stop timers, manual entry, or calendar-based
+  tracking
 
-  - **Billable Hours**: Track billable and non-billable time with customizable
-  rates
+  - **Project Management**: Organize work by projects, tasks, and tags
 
-  - **Project Budgeting**: Set and monitor project budgets in real-time
+  - **Billable Hours**: Track billable vs non-billable time
 
-  - **Integrations**: Connects with 50+ tools including Jira, Asana, Trello,
-  GitHub, and more
+  - **Team Collaboration**: Shared projects and time visibility
 
-  - **Reporting**: Comprehensive reports on time usage, costs, and productivity
+  - **Automated Time Tracking**: AI-powered suggestions for time entries
 
-  - **Invoicing**: Generate invoices based on tracked time
+  - **Productivity Monitoring**: Track app and website usage (optional)
 
-  - **Team Management**: Monitor team workload and productivity
+  - **Budgets & Estimates**: Set time budgets and compare against actuals
 
-  - **Mobile Apps**: Available on iOS and Android
+  - **Invoicing**: Generate invoices from tracked time
 
-  - **Screenshots**: Optional screenshot monitoring for remote teams
+  - **Reporting**: Detailed time reports and analytics
 
-  - **Timesheet Approvals**: Workflow for reviewing and approving timesheets
+  - **Mobile Apps**: Full-featured iOS and Android apps
+
+  - **Browser Extensions**: Quick time tracking from Chrome, Firefox, Edge
+
+  - **100+ Integrations**: Connect with project management and productivity
+  tools
+
+
+  ## Key Integrations
+
+
+  - Project management: Asana, Trello, Jira, Monday.com, ClickUp
+
+  - Development: GitHub, GitLab, Bitbucket
+
+  - Design: Figma, Adobe XD
+
+  - Communication: Slack, Microsoft Teams
+
+  - CRM: Salesforce, HubSpot
+
+
+  ## Benefits
+
+
+  - Comprehensive integration ecosystem reduces app switching
+
+  - Accurate time estimates improve project planning
+
+  - Better resource allocation through time insights
+
+  - Streamlined billing with automatic invoice generation
+
+  - Flexible enough for various workflows and industries
 
 
   ## Pricing
 
 
-  Free plan available for unlimited users with basic features. Paid plans start
-  at $5/user/month (Professional) and $7/user/month (Business) with advanced
-  features.
+  TMetric offers a free plan for individuals and small teams, with paid plans
+  starting at $5 per user per month for professional features. Free trial
+  available on paid plans.
 brand: TMetric
-updated_at: 2026-03-20 01:09
+updated_at: 2026-03-20 05:06

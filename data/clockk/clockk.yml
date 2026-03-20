@@ -1,55 +1,72 @@
 name: Clockk
-description: AI-powered automatic time tracker designed specifically for
-  professionals who multitask across projects. Captures time usage by monitoring
-  activity and provides intelligent time tracking without manual timers.
-source_url: https://clockk.com/
+description: AI-powered automatic time tracking software for professionals that
+  runs in the background and automatically tracks time spent on projects.
+  Designed for consultants, freelancers, and agencies who need accurate billable
+  hour tracking without manual timers.
+source_url: https://clockk.com
 category: AI Powered Time Tracking
 tags:
   - ai-powered
   - automatic
-  - professionals
-featured: false
+  - freelancers
 markdown: >-
   ## Overview
 
 
-  Clockk is an AI-powered automatic time tracking tool built for busy
-  professionals who work on multiple projects simultaneously. It intelligently
-  tracks time in the background and categorizes work automatically, eliminating
-  the need for manual timers.
+  Clockk is an AI-powered automatic time tracker designed for professionals who
+  bill by the hour. The software runs in the background and automatically tracks
+  time spent on projects without requiring manual start/stop timers.
 
 
   ## Features
 
 
-  - Fully automatic time tracking
+  - **Automatic Activity Tracking**: Monitors computer activity and
+  automatically assigns time to projects
 
-  - AI-powered project and task detection
+  - **AI Project Assignment**: Machine learning algorithms automatically
+  categorize work by project and client
 
-  - Multi-project tracking without switching timers
+  - **Offline Tracking**: Continues tracking even without internet connection
 
-  - Background activity monitoring
+  - **Privacy Controls**: Full control over what data is tracked and shared
 
-  - Intelligent time categorization
+  - **One-Click Timesheets**: Review and approve automatically generated
+  timesheets
 
-  - Privacy-focused (no screenshots)
+  - **Project-Based Organization**: Organize time entries by client, project,
+  and task
 
-  - Client and project reporting
+  - **Billable Hour Reporting**: Generate accurate reports for client billing
 
-  - Billable hours tracking
+  - **Time Insights**: Visualize how time is spent across projects and
+  activities
 
-  - Invoice-ready reports
+  - **Calendar Integration**: Syncs with calendars to capture meeting time
 
-  - Integration with calendars and apps
+  - **Manual Adjustments**: Edit and refine automatically tracked time as needed
 
-  - Detailed activity timeline
 
-  - Customizable project rules
+  ## Benefits
+
+
+  - Never lose billable time to forgotten timers
+
+  - Eliminates manual time tracking overhead
+
+  - Increases billing accuracy with complete activity records
+
+  - Recovers 15-25% more billable hours on average
+
+  - Provides insights into productivity patterns
+
+  - Reduces time tracking stress and interruptions
 
 
   ## Pricing
 
 
-  Subscription-based model with monthly or annual billing options. Free trial
-  available to test AI tracking capabilities.
-updated_at: 2026-03-20 03:48
+  Clockk offers a subscription model starting at $21 per month per user. Free
+  trial available to test the automatic tracking features.
+brand: Clockk
+updated_at: 2026-03-20 05:06
