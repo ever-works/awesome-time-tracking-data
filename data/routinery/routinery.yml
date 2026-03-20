@@ -1,119 +1,128 @@
 name: Routinery
-description: Visual routine and habit tracking app that helps build and maintain
-  morning, evening, and custom routines through timer-based guidance and
-  progress tracking.
-source_url: https://www.routinery.app
-category: Productivity Tools
+description: Routine building app that lets users create timed routines by
+  listing out steps with attached timers. Sends reminders when it's time to
+  start routines or change steps, helping users stay on track with morning,
+  work, and evening routines.
+source_url: https://routinery.com/
+category: Productivity App
 tags:
-  - habits
   - routines
-  - mobile
-featured: false
+  - timers
+  - habits
 markdown: >-
   ## Overview
 
 
-  Routinery is a mobile app designed to help you build and stick to daily
-  routines through visual timers, progress tracking, and habit stacking. It's
-  particularly effective for morning and evening routines, helping you establish
-  consistent patterns that improve productivity and well-being.
+  Routinery is a routine building app designed to help users create, time, and
+  track structured routines throughout the day. Unlike simple habit trackers,
+  Routinery provides step-by-step guidance with timers for each action.
 
 
-  ## Features
+  ## Core Features
 
 
-  - **Visual Routine Timers**: See progress through each routine step
-
-  - **Custom Routines**: Create morning, evening, work, or any custom routine
-
-  - **Habit Stacking**: Link habits together in sequences
-
-  - **Time Estimates**: Set duration for each routine step
-
-  - **Progress Tracking**: Monitor routine completion over time
-
-  - **Streak Counting**: Build momentum with consistency tracking
-
-  - **Routine Templates**: Pre-built routines to get started quickly
-
-  - **Flexible Scheduling**: Different routines for different days
-
-  - **Notification Reminders**: Prompts to start your routine
-
-  - **Dark Mode**: Easy on the eyes for evening routines
-
-  - **Simple Interface**: Clean, distraction-free design
-
-  - **Offline Functionality**: Works without internet
+  ### Step-by-Step Routines
 
 
-  ## Common Routines
+  - List out individual steps/actions for each routine
+
+  - Attach specific timers to how long each step should take
+
+  - Visual progress through routine completion
+
+  - Sequential flow keeps users on track
 
 
-  ### Morning Routine
-
-  - Wake up at consistent time
-
-  - Hydration
-
-  - Exercise or stretching
-
-  - Meditation
-
-  - Healthy breakfast
-
-  - Planning the day
-
-  - Skincare/grooming
+  ### Smart Reminders
 
 
-  ### Evening Routine
+  - Notifications when it's time to start a routine
 
-  - Review the day
+  - Alerts to move to the next step
 
-  - Prepare for tomorrow
+  - Customizable reminder settings
 
-  - Skincare/hygiene
-
-  - Reading
-
-  - Gratitude practice
-
-  - Screen-free wind down
-
-  - Consistent bedtime
+  - Helps maintain consistency
 
 
-  ### Work Start Routine
+  ## Popular Routine Types
 
-  - Review priorities
 
-  - Clear workspace
+  ### Morning Routines
 
-  - Check calendar
 
-  - Deep breathing
+  - Wake-up sequence (5 min)
 
-  - Focus time block
+  - Exercise/stretching (15 min)
+
+  - Shower and grooming (10 min)
+
+  - Breakfast preparation (10 min)
+
+  - Daily planning (5 min)
+
+
+  ### Work Routines
+
+
+  - Workday startup (10 min)
+
+  - Mid-morning break (5 min)
+
+  - Lunch routine (30 min)
+
+  - End-of-day shutdown (15 min)
+
+
+  ### Evening Routines
+
+
+  - Dinner preparation (20 min)
+
+  - Family time (30 min)
+
+  - Personal care (15 min)
+
+  - Bedtime wind-down (20 min)
 
 
   ## Benefits
 
 
-  - Reduces decision fatigue in mornings
+  - Reduces decision fatigue
 
-  - Builds healthy habits through consistency
+  - Maintains consistent timing
 
-  - Improves sleep with evening routines
+  - Prevents routine drift
 
-  - Creates structure in flexible schedules
+  - Builds automatic behaviors
 
-  - Visual progress provides motivation
+  - Provides structure to chaotic days
+
+
+  ## Use Cases
+
+
+  - Establishing morning routines
+
+  - ADHD time management support
+
+  - Parent-child routine coordination
+
+  - Fitness and wellness routines
+
+  - Professional productivity workflows
+
+
+  ## Platform
+
+
+  Available on iOS and Android devices.
 
 
   ## Pricing
 
 
-  Free version with basic features. Premium subscription for advanced tracking
-  and unlimited routines.
-updated_at: 2026-03-14 15:32
+  Offers both free and premium versions with additional features and
+  customization options.
+updated_at: 2026-03-20 17:39
