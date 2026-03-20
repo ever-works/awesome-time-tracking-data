@@ -1,111 +1,198 @@
 name: Tempo Timesheets for Jira
-description: AI-integrated timesheet app for Jira that automates time tracking,
-  enhances compliance, and provides powerful reporting for agile software
-  development teams.
-source_url: https://www.tempo.io/
-category: Time Tracking Software
+description: "The #1 time tracking app for Jira, launched in 2009, providing
+  AI-powered timesheet management with seamless Jira integration. Tempo enables
+  teams to track time directly within Jira issues, manage CapEx/OpEx spending,
+  generate certified payroll reports, and achieve 235% ROI according to
+  Forrester research."
+source_url: https://marketplace.atlassian.com/apps/6572/timesheets-by-tempo-jira-time-tracking
+category: Developer Tools
 tags:
-  - jira
-  - agile
+  - jira-integration
   - software-development
+  - compliance
+featured: false
 markdown: >-
   ## Overview
 
 
-  Tempo Timesheets is the leading time tracking and reporting solution for Jira,
-  seamlessly integrating with Atlassian's project management platform. It's
-  designed specifically for agile teams and software development organizations
-  that need accurate time tracking for accounting, payroll, client billing,
-  compliance, and forecasting.
+  Tempo Timesheets is the #1 AI Jira Time Tracking App for Project Management &
+  Billing, providing comprehensive time tracking integrated directly into the
+  Jira ecosystem. Launched in 2009, it has become the most popular time tracking
+  solution for Jira users.
 
 
   ## Key Features
 
 
-  - **AI-integrated timesheets** - Staff log time entries with a click while
-  automation boosts compliance and simplifies tracking
+  ### AI-Powered Automation
 
-  - **Automatic time tracking** - Integrates with calendars and IDEs to
-  eliminate manual entry and reduce errors
+  Tempo's AI-integrated timesheet app enables:
 
-  - **Weekly calendar view** - Time records fit into a visual weekly calendar on
-  the My Work page
+  - One-click time entry logging
 
-  - **Jira integration** - Each time record associates with existing Jira issues
-  for seamless workflow
+  - Automation for compliance
 
-  - **CapEx & OpEx tracking** - Easily classify and track capital vs.
-  operational spending
+  - Simplified tracking workflows
 
-  - **Billable hours management** - Leverage Tempo Accounts and Time Reports to
-  classify billable and non-billable hours
-
-  - **Compliance** - Automated tracking helps ensure timesheet compliance and
-  accuracy
-
-  - **Customizable workflows** - Adapt time tracking to fit team-specific
-  processes
+  - Smart suggestions for time entry
 
 
-  ## Reporting & Analytics
+  ### Financial Tracking
+
+  - Track CapEx & OpEx spending
+
+  - Employee timesheet management
+
+  - Overtime monitoring
+
+  - Billable vs. non-billable hour classification
+
+  - Cost allocation and budgeting
 
 
-  - **Pre-built reports** - Straightforward time tracking reports across Jira
-  programs, projects, and portfolios
+  ### Calendar Integration
 
-  - **Highly configurable** - Customize reports to meet specific business needs
+  Sync your calendar with Tempo Timesheets to automatically:
 
-  - **Integration with Tempo suite** - Works with other Tempo products for
-  powerful cross-product reporting
+  - Fill timesheets with listed meetings
 
-  - **General ledger alignment** - Companies achieve 99% alignment between
-  Timesheets data and their general ledger
+  - Import calendar events as time entries
 
-
-  ## Agile Team Benefits
+  - Reduce manual timesheet entry
 
 
-  Time tracking is essential for developing agile workflows. Tempo helps
-  transformation leads, agile program directors, and coaches scale agility with:
+  ### Multiple Tracking Methods
 
-  - Clarity on where time is spent
+  More than seven ways to track time within Jira:
 
-  - Context for sprint planning and estimation
+  - Direct issue time logging
 
-  - Coordination across teams and projects
+  - Calendar-based entry
 
+  - Weekly timesheet view
 
-  ## Use Cases
+  - Mobile app tracking
 
+  - Browser extension
 
-  - Software development teams tracking story points and sprints
-
-  - IT departments managing internal and client projects
-
-  - Professional services tracking billable consulting work
-
-  - Enterprises needing compliance and financial reporting
-
-  - Agile teams optimizing velocity and capacity planning
+  - And more
 
 
-  ## Integration
+  ## Business Value
 
 
-  Tempo extends Jira's native capabilities with enterprise-grade time tracking,
-  available as an Atlassian Marketplace app for both Jira Cloud and Data Center
-  deployments.
+  ### ROI According to Forrester
+
+  A Forrester report revealed Tempo Timesheets could help companies achieve:
+
+  - **235% ROI**
+
+  - Ability to capture and analyze time-related data
+
+  - Significant cost savings through better visibility
 
 
-  ## Pricing
+  ### SiriusXM Success Story
+
+  SiriusXM aligned Timesheets data directly to their general ledger:
+
+  - Virtually eliminated manual reconciliation work
+
+  - Achieved 60-70% faster R&D tax compliance
+
+  - Improved quarterly close processes
 
 
-  Available through Atlassian Marketplace with pricing based on number of users
-  and deployment type (Cloud vs. Data Center).
+  ## Compliance & Reporting
 
 
-  Tempo Timesheets is the #1 time tracking solution for Jira users, particularly
-  valuable for organizations using agile methodologies and requiring detailed
-  time reporting for financial and compliance purposes.
+  ### Certified Payroll
+
+  Generate certified payroll reports for:
+
+  - Government contracts
+
+  - Prevailing wage compliance
+
+  - Regulatory requirements
+
+
+  ### Audit Support
+
+  Detailed time records support:
+
+  - Financial audits
+
+  - R&D tax credit claims
+
+  - Client billing justification
+
+  - Project cost analysis
+
+
+  ## Platform Compatibility
+
+
+  ### Deployment Options
+
+  - **Cloud**: Jira Cloud integration
+
+  - **Server**: On-premise Jira Server support
+
+  - **Data Center**: Enterprise Jira Data Center deployment
+
+
+  ## Availability
+
+
+  Purchase through:
+
+  - Atlassian Marketplace
+
+  - Local Tempo partners
+
+  - Direct from Tempo
+
+
+  Free trial available through the Atlassian Marketplace.
+
+
+  ## Integration with Jira
+
+
+  Seamless integration provides:
+
+  - Time tracking directly on Jira issues
+
+  - Automatic project and issue linking
+
+  - Native Jira workflow integration
+
+  - Report generation from Jira data
+
+  - Synchronization with Jira permissions
+
+
+  ## Target Users
+
+
+  - Software development teams using Jira
+
+  - Project managers tracking development time
+
+  - Finance teams needing CapEx/OpEx tracking
+
+  - Organizations requiring certified payroll
+
+  - Companies pursuing R&D tax credits
+
+
+  ## Key Advantage
+
+
+  Tempo eliminates the friction of switching between tools by embedding time
+  tracking directly into Jira, where development teams already work, while
+  providing the financial reporting and compliance features that finance and
+  management need.
 brand: Tempo
-updated_at: 2026-03-16 23:57
+updated_at: 2026-03-20 22:40

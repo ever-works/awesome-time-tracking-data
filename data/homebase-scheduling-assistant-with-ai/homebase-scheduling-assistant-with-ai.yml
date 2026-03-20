@@ -1,75 +1,79 @@
 name: Homebase Scheduling Assistant with AI
-description: AI-powered shift scheduling feature launched by Homebase in
-  December 2025. Automatically optimizes shift creation, resolves scheduling
-  conflicts, and reduces manual scheduling work for teams in hospitality,
-  retail, and service industries.
-source_url: https://www.parim.co/articles/best-time-tracking-app
-category: Time Tracking Software
+description: AI-powered scheduling feature launched in December 2025 that helps
+  managers create optimal work schedules for hourly teams based on labor costs,
+  sales forecasts, and employee availability. Part of Homebase's all-in-one
+  platform for managing hourly workers, used by 100,000+ small businesses.
+source_url: https://www.joinhomebase.com
+category: AI Powered Time Tracking
 tags:
-  - ai-powered
-  - scheduling
-  - automation
+  - ai-scheduling
+  - hourly-workers
+  - shift-planning
 featured: false
 markdown: >-
   ## Overview
 
 
-  In December 2025, Homebase introduced Scheduling Assistant, a new AI-powered
-  feature that automates shift creation and conflict resolution. This feature
-  reduces manual scheduling work while keeping teams aligned and properly
-  staffed.
+  Homebase is an all-in-one team management platform for small businesses with
+  hourly workers, combining scheduling, time tracking, payroll, HR, messaging,
+  and hiring. The Scheduling Assistant with AI, launched in December 2025, uses
+  artificial intelligence to optimize work schedules.
 
 
   ## Key Features
 
 
-  - **AI-Optimized Shift Creation**: Automatically generates optimal shift
-  schedules based on business needs, employee availability, and historical data
+  ### AI-Powered Schedule Optimization
 
-  - **Automated Conflict Resolution**: Identifies and resolves scheduling
-  conflicts without manual intervention
+  The AI Scheduling Assistant helps create optimal schedules based on:
 
-  - **Team Alignment**: Ensures proper coverage and maintains fairness in shift
-  distribution
+  - Labor cost constraints
 
-  - **Reduced Administrative Time**: Significantly decreases the time managers
-  spend on scheduling tasks
+  - Sales forecasts and busy periods
 
+  - Employee availability and preferences
 
-  ## Target Industries
+  - Historical staffing patterns
 
-
-  Designed specifically for:
-
-  - Hospitality businesses
-
-  - Retail stores
-
-  - Service industry companies
-
-  - Any business with shift-based workforces
+  - Compliance requirements
 
 
-  ## Launch Context
+  ### Time Tracking
+
+  - Employees clock in/out on smartphones, tablets, computers, and POS devices
+
+  - Hours automatically flow into timesheets
+
+  - Managers review for compliant payroll data
+
+  - GPS verification and photo verification available
 
 
-  Released in December 2025 as part of the broader trend toward AI-enhanced
-  workforce management tools, representing one of the first mainstream
-  applications of AI in employee scheduling for small to medium-sized
-  businesses.
+  ### Payroll Integration
+
+  - Seamless flow from time clock to payroll-ready timesheets
+
+  - Auto-calculated wages, taxes, and tips
+
+  - Go from timesheets to paychecks in a few clicks
 
 
-  ## Benefits
+  ## Business Impact
 
 
-  - Reduces scheduling errors and conflicts
+  - 100,000+ small businesses use Homebase
 
-  - Saves manager time on administrative tasks
+  - 3.5 million employees rely on the platform
 
-  - Improves employee satisfaction through fairer scheduling
+  - 1.2 billion hours worked tracked in the last year
 
-  - Maintains optimal staffing levels
+  - Managers save 20 hours per month on average
 
-  - Adapts to changing business needs
+
+  ## Pricing
+
+
+  Free plan available with core features. Premium plans add advanced
+  capabilities like advanced scheduling, team communication, and hiring tools.
 brand: Homebase
-updated_at: 2026-03-20 10:10
+updated_at: 2026-03-20 22:40

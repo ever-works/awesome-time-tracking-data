@@ -1,148 +1,144 @@
 name: Attention Residue Effect
-description: Cognitive phenomenon researched by Sophie Leroy showing that when
-  switching between tasks, attention remains partially focused on the previous
-  task, reducing performance on the new task until the residue clears.
-source_url: https://www.sciencedirect.com/science/article/abs/pii/S0749597809000399
-category: Time Management Research
+description: Cognitive phenomenon identified by researcher Sophie Leroy in 2009
+  where part of our attention remains focused on a previous task even after
+  switching to a new one. This residue impairs performance on the current task,
+  with studies showing it takes an average of 23 minutes to fully regain focus
+  after distractions. The ready-to-resume plan technique can mitigate this
+  effect.
+source_url: https://www.sophieleroy.com/attention-residue
+category: Productivity Concept
 tags:
-  - attention-residue
-  - context-switching
   - cognitive-science
-  - productivity-research
+  - task-switching
+  - focus
+featured: false
 markdown: >-
-  ## The Attention Residue Effect
+  ## Overview
 
 
-  Researched by Sophie Leroy (University of Washington), attention residue
-  describes how part of our attention remains stuck on a previous task even
-  after switching to a new one, degrading performance.
+  Attention residue is the cognitive remnant that persists when you switch from
+  one task to another. First identified by researcher Sophie Leroy in 2009, it
+  explains why your brain feels scrambled after task switching.
+
+
+  ## The Phenomenon
+
+
+  When we switch between tasks, part of our attention stays with the prior task
+  instead of fully transferring to the next one. This is attention residue -
+  when part of our attention is focused on another task instead of being fully
+  devoted to the current task.
 
 
   ## The Research
 
 
-  ### Study Design
+  Leroy's research showed that people need to stop thinking about one task to
+  fully transition their attention and perform well on another. Yet results
+  indicate it's difficult for people to transition their attention away from an
+  unfinished task, causing subsequent task performance to suffer.
 
-  - Participants given two tasks
 
-  - Group A: Complete Task 1, then Task 2
+  ## When It Occurs
 
-  - Group B: Interrupt Task 1, switch to Task 2
 
+  Attention residue easily occurs when:
 
-  ### Findings
+  - We leave tasks unfinished
 
-  Group B (interrupted) performed significantly worse on Task 2 because:
+  - We get interrupted
 
-  - Attention remained partially on incomplete Task 1
+  - We anticipate having to rush through pending work later
 
-  - Cognitive resources split
+  - We frequently switch between projects
 
-  - Reduced capacity for new task
 
-  - Lower quality work
+  ## Impact on Productivity
 
 
-  ## Why It Happens
+  ### Significant Effects
 
+  - The American Psychological Association reports that even brief mental blocks
+  from task switching can cost up to 40% of productive time
 
-  ### Incomplete Tasks
+  - Studies reveal it takes an average of 23 minutes to fully regain focus after
+  a distraction
 
-  - Brain wants to finish what it started
+  - Performance on the new task suffers due to divided attention
 
-  - Unresolved problems create mental tension
 
-  - Attention pulls back to incomplete work
+  ## The Ready-to-Resume Plan
 
-  - Harder to fully engage new task
 
+  An effective mitigation strategy:
 
-  ### Cognitive Load
+  - Before being interrupted, create a quick plan for resuming the original task
 
-  - Working memory holds multiple contexts
+  - Write down where you left off and what to do next
 
-  - Each context requires resources
+  - This allows better attention transfer to the interrupting task
 
-  - Switching adds load from residue
+  - Makes it easier to resume the original task later
 
-  - Performance degrades
 
+  Research shows people who create ready-to-resume plans:
 
-  ## Practical Implications
+  - Switch their attention more fully to new tasks
 
+  - Make better decisions on the interrupting task
 
-  ### Task Switching Costs
+  - Recall more information
 
-  - Not just time to switch
+  - Return to original tasks more efficiently
 
-  - Also performance degradation from residue
 
-  - Can last 20+ minutes
+  ## Solutions
 
-  - Compounds with frequent switching
 
+  ### Minimize Context Switching
 
-  ### Strategies to Minimize
+  The single best approach is actively focusing on one important task for a
+  prolonged period to simulate flow states.
 
 
-  **1. Complete Tasks When Possible**
+  ### Deep Work Methodology
 
-  - Finish before switching
+  Schedule regular 90-minute periods of uninterrupted work:
 
-  - Reach clear stopping point
+  - Dedicate time to one complex task
 
-  - Document progress for incomplete
+  - Gradually increase session length
 
+  - Build attentional stamina over time
 
-  **2. Transition Rituals**
 
-  - 2-min review of task just left
+  ### Task Batching
 
-  - Write quick notes on status
+  Group similar tasks together to minimize the cognitive cost of switching
+  between different types of work.
 
-  - Explicit mental close
 
-  - Clears some residue
+  ### Communication Boundaries
 
+  Set specific times for checking email and messages rather than responding
+  immediately to every notification.
 
-  **3. Minimize Context Switches**
 
-  - Batch similar tasks
+  ## Connection to Time Tracking
 
-  - Time block by project
 
-  - Protect deep work time
+  Attention residue affects time tracking accuracy:
 
+  - Switching between tasks creates overlapping attention periods
 
-  **4. Strategic Breaks**
+  - Actual productive time is less than clock time due to residue
 
-  - Physical movement between tasks
+  - Frequent task-switching inflates apparent time requirements
 
-  - Clear workspace
+  - Time tracking data should account for switching costs
 
-  - Brief meditation
 
-  - Helps clear residue
-
-
-  ## Related Findings
-
-
-  - **Zeigarnik Effect**: Better memory for incomplete tasks
-
-  - **Context Switching Cost**: 23-minute recovery time
-
-  - **Deep Work**: Extended focus without switching
-
-
-  ## Measuring Impact
-
-
-  Self-experiment:
-
-  - Day 1: Switch tasks frequently
-
-  - Day 2: Complete tasks before switching
-
-  - Compare output quality and quantity
-updated_at: 2026-03-19 21:12
+  Understanding attention residue helps interpret time tracking data more
+  accurately and design better work schedules that protect sustained focus
+  periods.
+updated_at: 2026-03-20 22:40
