@@ -31,7 +31,7 @@
 - id: timesheets
   name: Timesheets
 - id: gps
-  name: GPS
+  name: Gps
 - id: field-service
   name: Field Service
 - id: construction
@@ -1746,3 +1746,9 @@
   name: Third Party
 - id: hipaa
   name: Hipaa
+- id: adoption
+  name: Adoption
+- id: humor
+  name: Humor
+- id: user-experience
+  name: User Experience
