@@ -1,57 +1,107 @@
 name: Pomofocus
-description: Free customizable Pomodoro timer web app with task tracking.
-  Simple, clean interface for managing Pomodoro sessions with stats and
-  customization options.
+description: Free online Pomodoro timer with built-in task tracking and time
+  tracking features. Provides visual reports showing daily, weekly, and monthly
+  focus time with project categorization.
 source_url: https://pomofocus.io
 category: Productivity Tool
 tags:
   - pomodoro
   - free
-  - web
-featured: false
+  - web-based
 markdown: >-
   ## Overview
 
 
-  Pomofocus is a free, browser-based Pomodoro timer with task management and
-  customization features. It provides a clean, distraction-free interface for
-  managing focus sessions without requiring installation or registration.
+  Pomofocus is a simple, web-based Pomodoro timer that helps you stay focused
+  and productive. It combines the traditional Pomodoro Technique with task
+  management and time tracking capabilities.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Customizable Timers**: Adjust pomodoro, short break, and long break
-  durations
+  ### Pomodoro Timer
 
-  - **Task List**: Create and track tasks
+  - 25-minute focus sessions (customizable)
 
-  - **Pomodoro Tracking**: Count pomodoros per task
+  - 5-minute short breaks
 
-  - **Progress Stats**: View daily and weekly statistics
+  - 15-minute long breaks after 4 Pomodoros
 
-  - **Custom Intervals**: Set your own work/break lengths
+  - Visual countdown display
 
-  - **Audio Notifications**: Customizable alarm sounds
+  - Audio notifications when sessions complete
 
-  - **Dark Mode**: Eye-friendly dark theme
 
-  - **No Login Required**: Use immediately without signup
+  ### Task Management
 
-  - **Keyboard Shortcuts**: Control with keyboard
+  - Create and manage your task list directly in the app
 
-  - **Desktop Notifications**: Browser notifications for breaks
+  - Track how much time you spend on each project
+
+  - Estimate number of Pomodoros needed per task
+
+  - Mark tasks as complete
+
+
+  ### Time Tracking & Reports
+
+
+  - **Visual Reports**: See how much time you've focused each day, week, and
+  month
+
+  - **Project Tracking**: Categorize tasks by project to see time allocation
+
+  - **Historical Data**: Track your productivity patterns over time
+
+  - **Progress Visualization**: Charts and graphs showing focus trends
+
+
+  ## Customization Options
+
+
+  - Adjust timer lengths for focus sessions and breaks
+
+  - Customize alarm sounds
+
+  - Choose from different color themes
+
+  - Dark mode available
+
+
+  ## Accessibility
+
+
+  - **100% Free**: No premium tiers or hidden costs
+
+  - **Web-Based**: No installation required, works in any browser
+
+  - **No Account Needed**: Start using immediately without registration
+
+  - **Cross-Platform**: Access from desktop, laptop, tablet, or phone
+
+
+  ## Use Cases
+
+
+  - Students managing study sessions
+
+  - Remote workers maintaining focus
+
+  - Writers tracking writing time
+
+  - Anyone using the Pomodoro Technique
+
+
+  ## Privacy
+
+
+  All data stored locally in your browser. No personal information collected or
+  sent to servers.
 
 
   ## Pricing
 
 
-  - Completely free
-
-  - No ads
-
-  - No registration required
-
-  - Works in any browser
-brand: Pomofocus
-updated_at: 2026-03-17 15:16
+  Completely free with no ads or premium features.
+updated_at: 2026-03-20 08:56

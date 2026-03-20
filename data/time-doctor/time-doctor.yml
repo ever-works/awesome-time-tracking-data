@@ -1,117 +1,260 @@
 name: Time Doctor
-description: Employee time tracking and productivity monitoring software with
-  screenshots, website tracking, and detailed analytics for remote and
-  distributed teams.
+description: Comprehensive time tracking and productivity monitoring software
+  for remote teams. Features automatic time tracking, optional screenshots,
+  website and app monitoring, and detailed productivity analytics.
 source_url: https://www.timedoctor.com
-category: Employee Monitoring
+category: Time Tracking Software
 tags:
-  - productivity-monitoring
   - remote-teams
+  - productivity-monitoring
   - screenshots
 markdown: >-
   ## Overview
 
 
-  Time Doctor is a comprehensive time tracking and productivity monitoring
-  solution designed for managing remote and distributed teams with detailed
-  activity tracking.
+  Time Doctor is a time tracking and productivity monitoring platform designed
+  for remote and distributed teams. It provides detailed insights into how time
+  is spent while offering various privacy controls and monitoring options.
 
 
-  ## Time Tracking
+  ## Time Tracking Features
 
 
-  - Desktop and mobile tracking
+  ### Automatic Time Tracking
 
-  - Start/stop timers
+  - Tracks time automatically as you work
 
-  - Manual time entry
+  - Manual time entry also available
 
-  - Project and task tracking
+  - Idle time detection (keyboard and mouse activity)
 
-  - Real-time tracking
+  - Automatic pause when computer is idle
 
-  - Offline tracking
-
-
-  ## Productivity Monitoring
+  - Mobile time tracking for field workers
 
 
-  **Activity Tracking:**
+  ### Activity Monitoring (Optional)
 
-  - Screenshots at intervals
+  - Screenshot capture at customizable intervals
 
-  - Application monitoring
+  - Application and website usage tracking
 
-  - Website tracking
+  - Active window titles
 
-  - Active vs. idle time
+  - Productivity categorization of apps and sites
 
-  - Keystroke and mouse tracking (optional)
-
-  - Productivity ratings
+  - All monitoring features can be disabled for privacy
 
 
-  **Distraction Alerts:**
-
-  - Unproductive site notifications
-
-  - Excessive idle time alerts
-
-  - Configurable productivity rules
+  ## Productivity Analytics
 
 
-  ## Team Management
+  ### Individual Insights
+
+  - Time spent on productive vs unproductive sites
+
+  - Most used applications
+
+  - Productivity percentage calculations
+
+  - Distraction alerts
+
+  - Focus time tracking
 
 
-  - Team dashboards
+  ### Team Analytics
 
-  - Real-time monitoring
+  - Team productivity dashboards
+
+  - Time spent by project and client
+
+  - Billable vs non-billable time
+
+  - Department productivity comparisons
 
   - Attendance tracking
 
-  - Break tracking
 
-  - Shift scheduling
+  ## Project & Client Tracking
 
-  - Payroll integration
+
+  - Track time by project, client, and task
+
+  - Unlimited projects and tasks
+
+  - Time budgets and alerts
+
+  - Project profitability tracking
+
+  - Task prioritization
+
+
+  ## Reports & Exports
+
+
+  ### Pre-Built Reports
+
+  - Timeline reports showing minute-by-minute activity
+
+  - Web and app usage reports
+
+  - Projects and tasks reports
+
+  - Attendance and absence reports
+
+  - Poor time use reports
+
+  - Custom date range reports
+
+
+  ### Export Options
+
+  - CSV and Excel export
+
+  - PDF reports
+
+  - API access for custom integrations
+
+  - Scheduled automated reports via email
+
+
+  ## Payroll & Billing
+
+
+  - Automatic payroll calculations
+
+  - Multiple pay rates per employee
+
+  - Overtime tracking
+
+  - Invoice generation from tracked time
+
+  - Integration with payment processors
+
+  - Currency conversion support
 
 
   ## Integrations
 
 
-  - Project management (Asana, Jira, Trello)
+  - Asana, Jira, Trello, Basecamp (project management)
 
-  - Communication (Slack, Zoom)
+  - Slack (communication)
 
-  - Payroll (Gusto, ADP, PayPal)
+  - QuickBooks, Xero (accounting)
 
-  - 60+ integrations
+  - Zapier (connect to 1000+ apps)
 
+  - Chrome extension for easy access
 
-  ## Reporting
-
-
-  - Time and activity reports
-
-  - Productivity scores
-
-  - Project reports
-
-  - Client reports
-
-  - Custom reports
-
-  - Exportable data
+  - And 60+ other integrations
 
 
-  ## Pricing
+  ## Privacy & Transparency
 
 
-  Basic: $5.90/user/month
+  ### Employee Privacy Options
 
-  Standard: $8.40/user/month
+  - **Blurred Screenshots Mode**: Screenshots blurred by default
 
-  Premium: $16.70/user/month
+  - **Monitoring Toggle**: Employees can pause tracking
 
-  14-day free trial
-updated_at: 2026-03-17 08:54
+  - **Transparent Monitoring**: Employees see when they're being tracked
+
+  - **Data Access**: Employees can view their own data
+
+  - **Delete Options**: Ability to delete specific time entries
+
+
+  ### Compliance
+
+  - GDPR compliant
+
+  - SOC 2 Type II certified
+
+  - Data encryption in transit and at rest
+
+  - Regular security audits
+
+
+  ## Mobile Apps
+
+
+  - iOS and Android apps
+
+  - GPS tracking for field workers
+
+  - Offline time tracking
+
+  - Clock in/out functionality
+
+  - View schedules and tasks
+
+
+  ## Advanced Features
+
+
+  ### Distraction Management
+
+  - Alerts for excessive social media use
+
+  - Website blocking during work hours
+
+  - Focus mode to minimize distractions
+
+
+  ### Productivity Coaching
+
+  - AI-powered productivity insights
+
+  - Suggestions for improving work habits
+
+  - Goal setting and tracking
+
+
+  ### Video Proof of Work (VPoW)
+
+  - Optional screen recording for specific tasks
+
+  - Useful for client verification
+
+  - Time-stamped video segments
+
+
+  ## Pricing Tiers
+
+
+  - **Basic**: ~$7/user/month - Time tracking only
+
+  - **Standard**: ~$10/user/month - Adds screenshots and activity tracking
+
+  - **Premium**: ~$20/user/month - Adds video proof of work and advanced
+  features
+
+
+  Annual plans offer significant discounts. 14-day free trial available.
+
+
+  ## Best For
+
+
+  - Remote and distributed teams
+
+  - Agencies billing by the hour
+
+  - BPO and outsourcing companies
+
+  - Companies requiring activity verification
+
+  - Businesses with compliance requirements
+
+  - Growing teams needing productivity insights
+
+
+  ## Alternative Use: Privacy-Focused Mode
+
+
+  Time Doctor can be configured without screenshots or activity monitoring,
+  functioning as a simple time tracker for teams that value privacy while still
+  needing time tracking for billing or project management.
+updated_at: 2026-03-20 08:56

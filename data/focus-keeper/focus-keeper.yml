@@ -1,86 +1,115 @@
 name: Focus Keeper
-description: A simple Pomodoro timer app that helps maintain focus through
-  structured work intervals and break periods, featuring minimalist design and
-  productivity tracking.
-source_url: https://focuskeeper.co/
+description: Pomodoro timer app with comprehensive history tracking and focus
+  session analytics. Available on iOS, macOS, Android, and web, helping users
+  build better work habits through structured focus time.
+source_url: https://focuskeeper.co
 category: Productivity Tool
 tags:
   - pomodoro
-  - focus
-  - timer
-  - minimalist
-  - productivity-tracking
+  - mobile
+  - habit-tracking
 markdown: >-
   ## Overview
 
 
-  Focus Keeper is a straightforward Pomodoro technique timer that helps users
-  maintain focus through 25-minute work intervals followed by short breaks, with
-  minimalist design and session tracking.
+  Focus Keeper is a Pomodoro timer application designed to help you maintain
+  concentration and create a better work-life balance. It tracks your focus
+  sessions over time to help you build sustainable productivity habits.
 
 
-  ## Features
+  ## Key Features
 
 
-  - Classic 25-minute Pomodoro intervals
+  ### Pomodoro Timer
 
-  - 5-minute short breaks
+  - Traditional 25/5 minute work/break intervals
 
-  - 15-minute long breaks after 4 sessions
+  - Customizable session lengths
 
-  - Customizable timer durations
+  - Long break after every 4 Pomodoros
 
-  - Session tracking and history
-
-  - Daily goal setting
-
-  - Productivity statistics
-
-  - Minimalist, distraction-free interface
+  - Pleasant alarm sounds to signal transitions
 
 
-  ## Pomodoro Technique Support
+  ### History & Analytics
 
 
-  - Standard Pomodoro timing (25/5/15)
+  - **Pomodoro Timer with History**: Track all your focus sessions over time
 
-  - Automatic break transitions
+  - **Daily Statistics**: See how many Pomodoros you completed each day
 
-  - Long break after every 4 pomodoros
+  - **Weekly & Monthly Views**: Visualize productivity patterns
 
-  - Audio notifications
-
-  - Visual timer display
+  - **Streak Tracking**: Maintain motivation with consecutive day streaks
 
 
-  ## Tracking & Analytics
+  ### Progress Tracking
 
 
-  - Daily completed sessions
+  - Visual charts showing focus time trends
 
-  - Weekly productivity trends
+  - Compare productivity across different time periods
 
-  - Goal achievement tracking
+  - Identify your most productive days and times
 
-  - Focus time summaries
-
-
-  ## Platform
+  - Set daily Pomodoro goals
 
 
-  iOS, Android, Web
+  ## Platform Availability
+
+
+  - **iOS**: Native iPhone and iPad app
+
+  - **macOS**: Desktop app for Mac
+
+  - **Android**: Native Android app
+
+  - **Web**: Browser-based version
+
+  - **Sync**: Data syncs across all platforms
+
+
+  ## Time Management Benefits
+
+
+  - Overcome procrastination with structured work intervals
+
+  - Reduce mental fatigue through regular breaks
+
+  - Increase awareness of time spent on tasks
+
+  - Build consistent work habits
+
+  - Improve focus and concentration
+
+
+  ## ADHD-Friendly Features
+
+
+  - Simple, distraction-free interface
+
+  - Visual and audio cues for session transitions
+
+  - Helps with time blindness through structured intervals
+
+  - Regular breaks prevent hyperfocus exhaustion
+
+
+  ## Premium Features
+
+
+  - Ad-free experience
+
+  - Advanced analytics
+
+  - Custom goals and targets
+
+  - Cloud backup
 
 
   ## Pricing
 
 
-  Free with basic features
-
-  Pro version available
-
-
-  ## Target Users
-
-
-  Students, knowledge workers, anyone practicing Pomodoro technique
-updated_at: 2026-03-19 02:22
+  Free version with core Pomodoro functionality. Premium subscription for
+  advanced features and analytics.
+updated_at: 2026-03-20 08:56
