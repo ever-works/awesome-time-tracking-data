@@ -1,0 +1,95 @@
+name: Earned Value Management (EVM) Time Tracking
+description: A project management methodology that integrates time tracking with
+  budget and schedule data to measure project performance by comparing planned
+  value, earned value, and actual costs, providing early warning indicators of
+  schedule or cost overruns through metrics like Schedule Performance Index
+  (SPI) and Cost Performance Index (CPI).
+source_url: https://www.deltek.com/en/government-contracting/guide/dcaa/timekeeping
+category: Time Tracking Analytics
+tags:
+  - project-management
+  - metrics
+  - government-contracting
+markdown: >-
+  ## Overview
+
+
+  Earned Value Management integrates time tracking, cost accounting, and
+  schedule management to provide objective performance measurement, commonly
+  required for government contracts and large projects.
+
+
+  ## Core Metrics
+
+
+  ### Planned Value (PV)
+
+  Budgeted cost of work scheduled to be completed by a specific date.
+
+
+  ### Earned Value (EV)
+
+  Budgeted cost of work actually completed.
+
+
+  ### Actual Cost (AC)
+
+  Actual cost incurred for completed work (from time tracking × labor rates).
+
+
+  ## Key Performance Indicators
+
+
+  **Schedule Performance Index (SPI)**:
+
+  - SPI = EV / PV
+
+  - SPI > 1.0: Ahead of schedule
+
+  - SPI < 1.0: Behind schedule
+
+
+  **Cost Performance Index (CPI)**:
+
+  - CPI = EV / AC
+
+  - CPI > 1.0: Under budget
+
+  - CPI < 1.0: Over budget
+
+
+  ## Time Tracking Requirements
+
+
+  EVM requires:
+
+  - Accurate daily time tracking
+
+  - Proper allocation to work packages
+
+  - Consistent labor rate application
+
+  - Regular progress updates
+
+  - Baseline schedule maintenance
+
+
+  ## Benefits
+
+
+  - Early detection of problems
+
+  - Objective performance measurement
+
+  - Forecast project completion
+
+  - Support change order justification
+
+  - Meet government contract requirements
+
+
+  ## Pricing
+
+
+  N/A - This is a project management methodology.
+updated_at: 2026-03-20 19:58

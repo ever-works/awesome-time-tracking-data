@@ -1,0 +1,80 @@
+name: Cost-Plus Billing
+description: A pricing model where clients are billed for actual labor costs
+  (tracked time × labor rates) plus a markup percentage or fixed fee to cover
+  overhead and profit, requiring accurate time tracking and transparent cost
+  documentation to justify billings and maintain client trust.
+source_url: https://www.deltek.com/en/time-tracking/replicon
+category: Time Tracking Practice
+tags:
+  - billing
+  - pricing
+  - government-contracting
+markdown: >-
+  ## Overview
+
+
+  Cost-Plus Billing charges clients based on actual costs incurred plus an
+  agreed-upon margin, making accurate time tracking essential for both billing
+  and profitability.
+
+
+  ## Common Structures
+
+
+  **Cost Plus Fixed Fee (CPFF)**:
+
+  - Reimburse all costs
+
+  - Add fixed dollar amount
+
+  - Example: Costs + $50,000
+
+
+  **Cost Plus Percentage (CPP)**:
+
+  - Reimburse all costs
+
+  - Add percentage markup
+
+  - Example: Costs × 1.15 (15% markup)
+
+
+  **Cost Plus Incentive Fee (CPIF)**:
+
+  - Base fee + performance bonus
+
+  - Rewards efficiency
+
+  - Common in government contracts
+
+
+  ## Time Tracking Requirements
+
+
+  ### Accuracy Essential
+
+  - Daily time entry
+
+  - Proper project allocation
+
+  - Contemporaneous documentation
+
+  - Audit trail maintenance
+
+
+  ### Cost Justification
+
+  - Fully loaded rates documented
+
+  - Overhead calculations transparent
+
+  - Expenses properly allocated
+
+  - Regular reporting to client
+
+
+  ## Pricing
+
+
+  N/A - This is a billing methodology.
+updated_at: 2026-03-20 19:58
