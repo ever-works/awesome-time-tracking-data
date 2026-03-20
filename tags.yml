@@ -441,7 +441,7 @@
 - id: action
   name: Action
 - id: ai
-  name: AI
+  name: Ai
 - id: coworking
   name: Coworking
 - id: balance
@@ -1652,3 +1652,31 @@
   name: Video Conferencing
 - id: workplace-wellness
   name: Workplace Wellness
+- id: productivity-loss
+  name: Productivity Loss
+- id: recovery-time
+  name: Recovery Time
+- id: sentiment-analysis
+  name: Sentiment Analysis
+- id: performance-metrics
+  name: Performance Metrics
+- id: self-assessment
+  name: Self Assessment
+- id: workplace-metrics
+  name: Workplace Metrics
+- id: cognitive-assessment
+  name: Cognitive Assessment
+- id: brain-based
+  name: Brain Based
+- id: organizational-development
+  name: Organizational Development
+- id: workplace-trends
+  name: Workplace Trends
+- id: distractions
+  name: Distractions
+- id: scrum
+  name: Scrum
+- id: burnout-recovery
+  name: Burnout Recovery
+- id: hr
+  name: Hr
