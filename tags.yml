@@ -1998,3 +1998,107 @@
   name: Bluetooth
 - id: visual-planning
   name: Visual Planning
+- id: rounding
+  name: Rounding
+- id: artificial-intelligence
+  name: Artificial Intelligence
+- id: kiosk-mode
+  name: Kiosk Mode
+- id: tablet
+  name: Tablet
+- id: photo-capture
+  name: Photo Capture
+- id: continuous
+  name: Continuous
+- id: comprehensive
+  name: Comprehensive
+- id: "1099"
+  name: "1099"
+- id: w-2
+  name: W 2
+- id: employee-rights
+  name: Employee Rights
+- id: hotkeys
+  name: Hotkeys
+- id: manual
+  name: Manual
+- id: mece
+  name: Mece
+- id: data-quality
+  name: Data Quality
+- id: badge
+  name: Badge
+- id: contactless
+  name: Contactless
+- id: overtime
+  name: Overtime
+- id: project-phases
+  name: Project Phases
+- id: lifecycle
+  name: Lifecycle
+- id: margins
+  name: Margins
+- id: retainer
+  name: Retainer
+- id: prepaid
+  name: Prepaid
+- id: scope-creep
+  name: Scope Creep
+- id: sprint
+  name: Sprint
+- id: story-points
+  name: Story Points
+- id: wcag
+  name: Wcag
+- id: disability
+  name: Disability
+- id: inclusive-design
+  name: Inclusive Design
+- id: developer
+  name: Developer
+- id: law-firms
+  name: Law Firms
+- id: ledes
+  name: Ledes
+- id: grants
+  name: Grants
+- id: volunteers
+  name: Volunteers
+- id: impact-measurement
+  name: Impact Measurement
+- id: distributed-teams
+  name: Distributed Teams
+- id: lean
+  name: Lean
+- id: chat
+  name: Chat
+- id: onboarding
+  name: Onboarding
+- id: training
+  name: Training
+- id: change-management
+  name: Change Management
+- id: reports
+  name: Reports
+- id: widget
+  name: Widget
+- id: quick-access
+  name: Quick Access
+- id: user-interface
+  name: User Interface
+- id: time-zones
+  name: Time Zones
+- id: global-teams
+  name: Global Teams
+- id: distributed
+  name: Distributed
+- id: client-facing
+  name: Client Facing
+- id: volunteer
+  name: Volunteer
+- id: role-based
+  name: Role Based
+- id: expert-judgment
+  name: Expert Judgment
+- id: consensus
+  name: Consensus

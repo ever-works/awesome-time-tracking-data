@@ -160,3 +160,35 @@
   name: Workplace Trend
 - id: time-management-researcher
   name: Time Management Researcher
+- id: resource-management
+  name: Resource Management
+- id: client-relations
+  name: Client Relations
+- id: time-tracking-comparison
+  name: Time Tracking Comparison
+- id: business-intelligence
+  name: Business Intelligence
+- id: agile-practice
+  name: Agile Practice
+- id: time-tracking-integration
+  name: Time Tracking Integration
+- id: compliance-feature
+  name: Compliance Feature
+- id: accessibility
+  name: Accessibility
+- id: work-life-balance
+  name: Work Life Balance
+- id: industry-practice
+  name: Industry Practice
+- id: nonprofit-practice
+  name: Nonprofit Practice
+- id: remote-work-practice
+  name: Remote Work Practice
+- id: startup-practice
+  name: Startup Practice
+- id: integration
+  name: Integration
+- id: time-tracking-process
+  name: Time Tracking Process
+- id: global-team-practice
+  name: Global Team Practice
