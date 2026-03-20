@@ -1752,3 +1752,11 @@
   name: Humor
 - id: user-experience
   name: User Experience
+- id: productivity-technique
+  name: Productivity Technique
+- id: hotels
+  name: Hotels
+- id: labor-forecasting
+  name: Labor Forecasting
+- id: hourly-workers
+  name: Hourly Workers
