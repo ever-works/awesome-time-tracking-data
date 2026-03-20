@@ -1911,7 +1911,7 @@
 - id: digital-distraction
   name: Digital Distraction
 - id: dcaa
-  name: Dcaa
+  name: DCAA
 - id: government-compliance
   name: Government Compliance
 - id: extreme-focus
@@ -2124,3 +2124,27 @@
   name: Auto Snooze
 - id: list-making
   name: List Making
+- id: biometrics
+  name: Biometrics
+- id: client-relations
+  name: Client Relations
+- id: germany
+  name: Germany
+- id: european-law
+  name: European Law
+- id: geolocation
+  name: Geolocation
+- id: overhead
+  name: Overhead
+- id: meeting-scheduling
+  name: Meeting Scheduling
+- id: tax-reporting
+  name: Tax Reporting
+- id: data-management
+  name: Data Management
+- id: browser
+  name: Browser
+- id: apps
+  name: Apps
+- id: administration
+  name: Administration
