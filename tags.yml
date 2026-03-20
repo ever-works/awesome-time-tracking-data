@@ -1696,3 +1696,53 @@
   name: Equipment Tracking
 - id: sprint-planning
   name: Sprint Planning
+- id: cost
+  name: Cost
+- id: startups
+  name: Startups
+- id: keyboard-shortcuts
+  name: Keyboard Shortcuts
+- id: speed
+  name: Speed
+- id: power-users
+  name: Power Users
+- id: market-trends
+  name: Market Trends
+- id: capex
+  name: Capex
+- id: reminders
+  name: Reminders
+- id: awards
+  name: Awards
+- id: recognition
+  name: Recognition
+- id: market-forecast
+  name: Market Forecast
+- id: growth
+  name: Growth
+- id: rebrand
+  name: Rebrand
+- id: ui-innovation
+  name: Ui Innovation
+- id: norway
+  name: Norway
+- id: funded
+  name: Funded
+- id: funding
+  name: Funding
+- id: multilingual
+  name: Multilingual
+- id: dropbox
+  name: Dropbox
+- id: shutdown
+  name: Shutdown
+- id: startup
+  name: Startup
+- id: keywords
+  name: Keywords
+- id: toggl
+  name: Toggl
+- id: third-party
+  name: Third Party
+- id: hipaa
+  name: Hipaa
