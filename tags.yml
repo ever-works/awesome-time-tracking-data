@@ -2148,3 +2148,11 @@
   name: Apps
 - id: administration
   name: Administration
+- id: content-creation
+  name: Content Creation
+- id: flat-fee
+  name: Flat Fee
+- id: flexible-scheduling
+  name: Flexible Scheduling
+- id: pomodoro-alternative
+  name: Pomodoro Alternative
