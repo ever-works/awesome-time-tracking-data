@@ -2120,3 +2120,7 @@
   name: Information Architecture
 - id: timers
   name: Timers
+- id: auto-snooze
+  name: Auto Snooze
+- id: list-making
+  name: List Making
