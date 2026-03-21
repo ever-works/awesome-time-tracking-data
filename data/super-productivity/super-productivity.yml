@@ -1,232 +1,259 @@
 name: Super Productivity
-description: Open-source todo list and time tracking app for developers
-  combining task management with automatic time tracking integrations for Jira,
-  GitHub, and GitLab. Focuses on privacy with all data stored locally, offering
-  distraction-free work sessions.
+description: Open-source task manager and time tracking app for Linux, macOS,
+  Windows, Android, and iOS that combines tasks, timeboxing, automatic time
+  tracking, and integrations with Jira, GitHub, and GitLab, with complete
+  offline functionality and zero data collection.
 source_url: https://super-productivity.com/
-category: Time Tracking Software
+category: Open Source
 tags:
   - open-source
-  - developers
+  - timeboxing
   - privacy
+  - cross-platform
 markdown: >-
   ## Overview
 
 
-  Super Productivity is an open-source personal productivity tool designed
-  specifically for developers, combining todo list management with automatic
-  time tracking. It integrates directly with development tools like Jira,
-  GitHub, and GitLab while maintaining strong privacy principles through
-  local-only data storage.
+  Super Productivity is an advanced open-source todo list app with integrated
+  timeboxing and time tracking capabilities, specifically built for makers,
+  developers, and deep work. The latest version (17.2.4) was updated on March 1,
+  2026.
 
 
   ## Key Features
 
 
-  - **Task Management**: Advanced todo list with subtasks, tags, and priorities
-
-  - **Time Tracking**: Built-in time tracking with task-level detail
-
-  - **Jira Integration**: Sync tasks and track time against Jira issues
-
-  - **GitHub Integration**: Import GitHub issues as tasks
-
-  - **GitLab Integration**: Connect to GitLab projects and issues
-
-  - **Local Storage**: All data stored locally, never in the cloud
-
-  - **Cross-Platform**: Available for Windows, Mac, Linux, Android, and web
-
-  - **Offline First**: Works without internet connection
-
-  - **Pomodoro Timer**: Built-in Pomodoro technique support
-
-  - **Anti-Procrastination**: Features to combat procrastination
-
-  - **Open Source**: Free and transparent, community-driven development
-
-  - **No Vendor Lock-in**: Export data anytime
-
-  - **Privacy-Focused**: No tracking, no analytics, no data collection
+  ### Time Tracking & Timeboxing
 
 
-  ## Developer-Specific Features
+  **Automatic Time Tracking**: Start or pause timers from any task or subtask,
+  with time tracking, notes, and checklists staying together
 
 
-  ### Issue Tracking Integration
-
-  - Import tasks from Jira, GitHub, GitLab
-
-  - Automatically sync status and updates
-
-  - Track time directly against development issues
-
-  - View issue details without leaving the app
+  **Professional Timeboxing**: Allocate specific time slots to tasks and pick
+  the length of focus blocks and breaks, with the app reminding you when to
+  pause
 
 
-  ### Workflow Optimization
+  **Reports & Analytics**:
 
-  - Keyboard shortcuts for efficiency
+  - See exactly where hours went each day or week
 
-  - Quick task capture
+  - Export clean summaries for reports, invoices, or personal reflection
 
-  - Context switching support
+  - Plan vs. Actual insights: add time estimates, compare with reality
 
-  - Deep work sessions
+  - Learn how long work really takes
+
+
+  ### Task Management
+
+
+  **Advanced Todo Features**:
+
+  - Tasks and subtasks with notes and checklists
+
+  - Drag-and-drop organization
+
+  - Recurring tasks
+
+  - Task prioritization
+
+  - Project organization
+
+  - Customizable workflows
+
+
+  **Timeboxing & Pomodoro**:
+
+  - Built-in Pomodoro timer support
+
+  - Custom focus block lengths
 
   - Break reminders
 
-
-  ## Time Tracking Capabilities
-
-
-  - Manual time entry
-
-  - Automatic timer tracking
-
-  - Pomodoro-based tracking
-
-  - Task and subtask time allocation
-
-  - Daily and weekly summaries
-
-  - Time estimates vs actual tracking
-
-  - Idle time detection
+  - Flexible time allocation
 
 
-  ## Anti-Procrastination Features
+  ### Privacy & Data
 
 
-  - Task breakdown reminders
+  **Complete Privacy**:
 
-  - "Take a break" notifications
+  - **Zero tracking**
 
-  - Focus mode (distraction blocking)
+  - **Zero accounts required**
 
-  - Motivational messages
+  - **Maximum privacy**
 
-  - Progress visualization
+  - All data stored locally
 
-  - Streak tracking
-
-
-  ## Privacy Advantages
+  - Data never leaves your device
 
 
-  - **No Cloud**: All data stored locally
+  **Offline Functionality**:
 
-  - **No Accounts**: No registration required
+  - Works completely offline
 
-  - **No Tracking**: Zero telemetry or analytics
+  - Keep working on planes, in cafés, or anywhere
 
-  - **Open Source**: Code is auditable
+  - No internet connection required
 
-  - **Self-Hosted**: Can run on your own servers
-
-  - **Data Ownership**: Full control over your data
+  - Perfect for privacy-conscious users
 
 
-  ## Integrations
+  ### Integrations
 
 
-  - Jira (Cloud and Server)
+  **Developer-Focused Connections**:
 
-  - GitHub
+  - **Jira**: Sync issues and track time
 
-  - GitLab
+  - **GitHub**: Import issues and pull requests
 
-  - Redmine
+  - **GitLab**: Project and issue integration
 
-  - Gitea
+  - **Calendars**: Calendar synchronization
 
-  - Caldav (calendar sync)
+  - Slack integration
+
+
+  **Time Tracking Export**:
 
   - Export to various formats
 
+  - Compatible with invoicing tools
 
-  ## Use Cases
+  - CSV and JSON export
 
-
-  ### Solo Developers
-
-  - Personal task and time management
-
-  - GitHub issue tracking
-
-  - Pomodoro-based work sessions
-
-  - Daily planning and review
+  - Custom report generation
 
 
-  ### Freelance Developers
-
-  - Client project time tracking
-
-  - Jira integration for client systems
-
-  - Billable hours documentation
-
-  - Project switching workflows
+  ## Platform Support
 
 
-  ### Team Members
+  - **Desktop**: Linux, macOS, Windows
 
-  - Synchronize with team issue trackers
+  - **Mobile**: Android (updated March 13, 2026), iOS
 
-  - Personal time tracking for sprint work
+  - **Web**: Browser-based access
 
-  - Task breakdown and estimation
+  - **Snap**: Available on Linux Snap Store
 
-  - Focus session management
-
-
-  ## Benefits
+  - **Microsoft Store**: Windows installation
 
 
-  - Free forever (open source)
-
-  - Complete privacy and data ownership
-
-  - Works offline
-
-  - No vendor dependency
-
-  - Designed by developers for developers
-
-  - Keyboard-driven efficiency
-
-  - Integrates with existing workflows
+  ## Target Audience
 
 
-  ## Platforms
+  ### Perfect For:
+
+  - Developers and software engineers
+
+  - Freelancers needing time tracking
+
+  - Privacy-conscious professionals
+
+  - Remote workers
+
+  - People who work offline frequently
+
+  - Open-source enthusiasts
+
+  - Users of Jira, GitHub, or GitLab
 
 
-  - **Desktop**: Windows, macOS, Linux (Electron-based)
+  ### Use Cases:
 
-  - **Mobile**: Android
+  - Software development projects
 
-  - **Web**: Browser-based version available
+  - Freelance client work
 
-  - **Progressive Web App**: Install from browser
+  - Personal productivity
+
+  - Academic research
+
+  - Any work requiring time tracking and task management
 
 
-  ## Data Management
+  ## Key Differentiators
 
 
-  - JSON-based local storage
+  **Open Source**: Complete transparency, community-driven development
 
-  - Easy backup and restore
 
-  - Export to multiple formats
+  **Privacy-First**: Zero data collection, fully offline capability
 
-  - Sync options (via file sync like Dropbox, not cloud service)
 
-  - Migration between devices through file copy
+  **Cross-Platform**: Works everywhere - desktop, mobile, web
+
+
+  **Developer-Friendly**: Native integrations with dev tools
+
+
+  **Timeboxing Built-In**: Not an add-on, core functionality
+
+
+  **No Vendor Lock-In**: Own your data, export anytime
+
+
+  ## 2026 Updates
+
+
+  - Windows version 17.2.4 released March 1, 2026
+
+  - Android app updated March 13, 2026
+
+  - Continued active development and community support
+
+  - Regular feature additions and bug fixes
+
+
+  ## Technical Details
+
+
+  **Open Source**: Available on GitHub (johannesjo/super-productivity)
+
+
+  **License**: Free and open-source
+
+
+  **Technologies**: Modern web technologies, Electron for desktop
+
+
+  **Data Storage**: Local storage, user-controlled
+
+
+  ## Community & Support
+
+
+  - Active GitHub community
+
+  - Regular updates and improvements
+
+  - Community-driven feature requests
+
+  - Comprehensive documentation
+
+  - User guides and tutorials
 
 
   ## Pricing
 
 
-  Completely free and open source. Available on GitHub.
-updated_at: 2026-03-17 22:21
+  **Completely FREE**
+
+  - No subscription fees
+
+  - No premium tiers
+
+  - No feature limitations
+
+  - No account required
+
+  - No hidden costs
+
+
+  As open-source software, Super Productivity is free forever with optional
+  donations to support development.
+updated_at: 2026-03-21 03:18
