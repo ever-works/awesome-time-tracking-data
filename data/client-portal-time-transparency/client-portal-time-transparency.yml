@@ -1,59 +1,55 @@
 name: Client Portal Time Transparency
-description: Practice of providing clients with real-time access to time
-  tracking data through secure portals, improving trust, reducing billing
-  disputes, and enabling better project collaboration.
-source_url: https://www.harvest.com/features/client-access
-category: Practices
+description: Feature allowing clients to view time entries, project progress,
+  and budget consumption in real-time through a dedicated portal, building trust
+  through transparency and reducing billing disputes through ongoing visibility.
+source_url: https://www.kimai.org/documentation/plugin-customer-portal.html
+category: Client Relations
 tags:
-  - client-management
   - transparency
-  - portal
+  - client-portal
+  - trust
 featured: false
 markdown: >-
   ## Overview
 
 
-  Client portal time transparency gives clients secure, real-time access to time
-  tracking data, project progress, and budget consumption, fostering trust and
-  reducing billing surprises.
+  Client portals provide clients with real-time visibility into time tracking,
+  project progress, and budget consumption, replacing surprise invoices with
+  ongoing transparency that builds trust and prevents disputes.
 
 
-  ## What Clients Can See
+  ## Portal Features
 
 
-  ### Time Data
+  ### Time Entry Visibility
 
-  - Hours logged by team member
+  - View logged time entries
 
-  - Daily/weekly activity summaries
+  - See task descriptions and notes
 
-  - Task descriptions and notes
+  - Filter by date range, person, task
 
-  - Time by project phase
-
-  - Historical time trends
+  - Export time reports
 
 
-  ### Budget Information
+  ### Budget Tracking
 
-  - Hours used vs. budgeted
+  - Real-time budget consumption
 
-  - Remaining budget
+  - Hours used vs remaining
 
-  - Burn rate projections
+  - Projected final cost
 
-  - Cost estimates
-
-  - Invoice history
+  - Burn rate visualization
 
 
-  ### Project Progress
+  ### Project Status
 
-  - Milestone completion
+  - Milestone progress
 
-  - Task status
+  - Deliverable status
 
-  - Deliverable tracking
+  - Team allocation
 
   - Timeline updates
 
@@ -61,135 +57,75 @@ markdown: >-
   ## Benefits
 
 
+  ### For Clients
+
+  - Ongoing visibility (no invoice surprises)
+
+  - Confidence in value received
+
+  - Ability to course-correct early
+
+  - Informed budget decisions
+
+
   ### For Service Providers
 
-  - Fewer billing disputes
+  - Reduced billing disputes
 
-  - Reduced invoice questions
+  - Faster payment (no surprises)
 
   - Stronger client relationships
 
-  - Faster payment
+  - Differentiation from competitors
 
-  - Competitive advantage
 
+  ## Implementation Considerations
 
-  ### For Clients
 
-  - Real-time project visibility
+  ### Privacy
 
-  - Budget control
+  - Control what clients see (aggregate vs detailed)
 
-  - Trust in billing accuracy
+  - Hide internal notes and costs
 
-  - Early warning of issues
+  - Show time but not rates (optionally)
 
-  - Better planning
+  - Team member privacy
 
 
-  ## Implementation Best Practices
+  ### Customization
 
+  - Branded portal experience
 
-  ### Access Control
+  - Client-specific views
 
-  - Secure login credentials
+  - Configurable permissions
 
-  - Client sees only their projects
+  - Custom reporting
 
-  - Customizable visibility levels
 
-  - Role-based permissions
+  ## Tools Offering Client Portals
 
-  - Audit logging
 
+  - Kimai (Customer Portal plugin)
 
-  ### Data Presentation
+  - Scoro, Productive.io
 
-  - Clean, intuitive interface
+  - Harvest (client access)
 
-  - Mobile-responsive design
+  - Teamwork.com
 
-  - Export capabilities
 
-  - Clear terminology
+  ## Best Practices
 
-  - Visual dashboards
 
+  - Set expectations upfront about portal access
 
-  ### Communication
+  - Provide portal training to clients
 
-  - Introduce portal benefits
+  - Regular reminders to check portal
 
-  - Provide training/demos
+  - Proactive communication about budget status
 
-  - Set expectations
-
-  - Encourage regular use
-
-  - Gather feedback
-
-
-  ## Features to Include
-
-
-  - Real-time time entry viewing
-
-  - Budget consumption tracking
-
-  - Invoice access and history
-
-  - Payment capabilities
-
-  - Document sharing
-
-  - Project updates/notes
-
-  - Report generation
-
-  - Email notifications
-
-
-  ## Privacy Considerations
-
-
-  ### What to Show
-
-  ✅ Hours per task/phase
-
-  ✅ Total team hours
-
-  ✅ Project progress
-
-  ✅ Budget status
-
-
-  ### What to Hide
-
-  ❌ Individual employee rates (usually)
-
-  ❌ Internal team communications
-
-  ❌ Profit margins
-
-  ❌ Other clients' data
-
-
-  ## Tools with Client Portals
-
-
-  - Harvest
-
-  - Scoro
-
-  - Productive
-
-  - TeamWork
-
-  - FreshBooks
-
-  - Zoho Projects
-
-
-  Key features: secure login, customizable access, mobile support, real-time
-  data
-updated_at: 2026-03-16 19:07
+  - Use as tool for partnership, not just reporting
+updated_at: 2026-03-21 01:09

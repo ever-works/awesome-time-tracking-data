@@ -1,0 +1,54 @@
+name: Bulk Time Entry Editing
+description: Time tracking feature that allows users to edit multiple time
+  entries simultaneously, essential for corrections, category changes, and
+  efficient timesheet management. Bulk editing significantly reduces
+  administrative overhead when adjustments are needed across multiple entries.
+source_url: https://www.scoro.com/blog/time-tracking-best-practices/
+category: Time Tracking Feature
+tags:
+  - efficiency
+  - bulk-operations
+  - admin
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bulk time entry editing enables users to select and modify multiple time
+  entries at once, dramatically reducing the time required for corrections,
+  recategorizations, and other timesheet adjustments.
+
+
+  ## Common Use Cases
+
+
+  - Recategorize all entries for a project
+
+  - Change billing status across multiple days
+
+  - Update client assignment for mistagged work
+
+  - Apply rate changes to past entries
+
+  - Delete test or duplicate entries
+
+  - Move time between projects
+
+
+  ## Benefits
+
+
+  - Seconds instead of minutes for mass updates
+
+  - Reduced admin burden
+
+  - Fewer errors from repetitive manual edits
+
+  - Quick corrections before submission
+
+  - Efficient end-of-month cleanup
+
+
+  ## Essential for maintaining sub-2-minute time entry when corrections are
+  needed
+updated_at: 2026-03-21 01:09

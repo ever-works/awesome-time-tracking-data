@@ -1,197 +1,92 @@
 name: Keyboard Shortcuts for Time Tracking
-description: Hotkey combinations that enable instant timer start/stop, project
-  switching, and time entry without using mouse or opening full application.
-  Shortcuts reduce time tracking overhead from 30 seconds to under 2 seconds per
-  entry, improving adoption.
-source_url: https://toggl.com/track/keyboard-shortcuts
+description: Hotkeys and keyboard commands that enable power users to log time
+  without touching the mouse, dramatically reducing entry time and supporting
+  the two-minute rule. Keyboard shortcuts transform time tracking from a slow,
+  click-heavy process into a rapid, flow-state-friendly activity.
+source_url: https://www.scoro.com/blog/time-tracking-best-practices/
 category: Time Tracking Feature
 tags:
   - keyboard-shortcuts
-  - productivity
+  - power-users
   - efficiency
-  - hotkeys
 featured: false
 markdown: >-
   ## Overview
 
 
-  Keyboard shortcuts eliminate the friction of time tracking by enabling timer
-  control without breaking focus or reaching for the mouse.
+  Keyboard shortcuts for time tracking enable experienced users to log time
+  entirely via keyboard commands, eliminating mouse clicks and navigation that
+  slow down entry, critical for achieving sub-two-minute daily time logging.
 
 
   ## Common Shortcuts
 
 
-  ### Universal Actions
+  ### Entry Creation
 
-  - `Ctrl/Cmd + Alt + S`: Start/Stop timer
+  - `N` or `Ctrl/Cmd + N`: New time entry
 
-  - `Ctrl/Cmd + Alt + N`: New time entry
+  - `T`: Start/stop timer
 
-  - `Ctrl/Cmd + Alt + D`: Show today's entries
+  - `Tab`: Navigate between fields
 
-  - `Ctrl/Cmd + Alt + R`: Restart last timer
+  - `Enter`: Save entry
 
-  - `Ctrl/Cmd + Alt + P`: Quick project selector
+  - `Esc`: Cancel
 
 
   ### Navigation
 
-  - `Tab`: Move between fields
+  - `↑/↓`: Move between entries
 
-  - `Enter`: Confirm/Save
+  - `Ctrl/Cmd + D`: Duplicate last entry
 
-  - `Esc`: Cancel/Close
+  - `Ctrl/Cmd + E`: Edit selected entry
 
-  - `Arrow Keys`: Navigate entries
+  - `Delete`: Remove entry
 
 
-  ## Power User Workflows
+  ### Quick Actions
 
+  - `Ctrl/Cmd + S`: Save all entries
 
-  ### Instant Start
+  - `Ctrl/Cmd + F`: Search entries
 
-  1. `Ctrl+Alt+S` (start timer)
+  - `/`: Focus search box
 
-  2. Type project name
+  - `?`: Show shortcuts help
 
-  3. `Enter` (confirm)
 
-  **Total: 3 seconds**
+  ## Power User Benefits
 
 
-  ### Quick Switch
+  - 5-10 second entry time (vs 30-60 seconds)
 
-  1. `Ctrl+Alt+S` (stop current)
+  - No context switching to mouse
 
-  2. `Ctrl+Alt+R` (restart recent)
+  - Maintains coding/writing flow
 
-  3. Select from list
+  - Reduced friction = better compliance
 
-  **Total: 2 seconds**
+  - Can log time while on calls
 
 
-  ### Batch Entry
+  ## Adoption Strategy
 
-  1. `Ctrl+Alt+D` (show today)
 
-  2. `Arrow keys` (navigate)
+  - Include shortcut cheat sheet in training
 
-  3. Edit as needed
+  - Display shortcuts in UI tooltips
 
-  4. `Enter` (save each)
+  - Offer "power user" mode
 
+  - Celebrate fast entry times
 
-  ## Time Savings
 
+  ## Impact on Two-Minute Rule
 
-  **Without Shortcuts**:
 
-  - Click app icon (2 sec)
-
-  - Find start button (2 sec)
-
-  - Click start (1 sec)
-
-  - Select project dropdown (3 sec)
-
-  - Click project (2 sec)
-
-  - **Total: 10 seconds per entry**
-
-  - 20 entries/day = 3.3 minutes
-
-
-  **With Shortcuts**:
-
-  - `Ctrl+Alt+S` (1 sec)
-
-  - Type project (1 sec)
-
-  - **Total: 2 seconds per entry**
-
-  - 20 entries/day = 40 seconds
-
-  - **Saves 2.7 minutes daily = 11 hours/year**
-
-
-  ## Customization
-
-
-  ### User-Defined Shortcuts
-
-  Most tools allow custom hotkey assignment:
-
-  - Assign personal preferences
-
-  - Avoid conflicts with other software
-
-  - Muscle memory development
-
-
-  ### Application-Specific
-
-  - Different shortcuts per IDE
-
-  - Browser extension hotkeys
-
-  - Operating system global hotkeys
-
-
-  ## Tools with Best Shortcuts
-
-
-  - **Toggl Track**: Comprehensive global hotkeys
-
-  - **Clockify**: Desktop app shortcuts
-
-  - **Harvest**: Timer control hotkeys
-
-  - **Time Doctor**: Quick start/stop
-
-  - **RescueTime**: Minimal (auto-tracking focus)
-
-
-  ## Learning Curve
-
-
-  ### Week 1: Discovery
-
-  - Print shortcut cheat sheet
-
-  - Keep visible on desk
-
-  - Try one shortcut daily
-
-
-  ### Week 2-3: Practice
-
-  - Force yourself to use shortcuts
-
-  - Slower initially, faster soon
-
-  - Muscle memory developing
-
-
-  ### Week 4+: Automatic
-
-  - No thinking required
-
-  - Faster than mouse
-
-  - Integrated into workflow
-
-
-  ## Best Practices
-
-
-  1. **Start with One**: Master start/stop first
-
-  2. **Use Consistently**: Build muscle memory
-
-  3. **Avoid Conflicts**: Check existing shortcuts
-
-  4. **Create Cheat Sheet**: Until memorized
-
-  5. **Share with Team**: Standardize across organization
-updated_at: 2026-03-20 15:16
+  Keyboard shortcuts can reduce daily time entry from 3-5 minutes to under 1
+  minute for power users, making time tracking nearly invisible in daily
+  workflow.
+updated_at: 2026-03-21 01:09

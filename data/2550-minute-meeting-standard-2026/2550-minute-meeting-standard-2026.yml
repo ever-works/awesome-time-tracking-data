@@ -1,111 +1,109 @@
-name: 25/50-Minute Meeting Standard (2026)
-description: A modern meeting scheduling convention where default meeting
-  lengths are 25 minutes (instead of 30) and 50 minutes (instead of 60),
-  automatically building in 5-10 minute buffers between consecutive meetings for
-  transitions, bathroom breaks, and context switching, increasingly adopted in
-  2026 calendar tools.
+name: 25/50-Minute Meeting Standard 2026
+description: Calendar practice of defaulting meetings to 25 or 50 minutes
+  instead of 30 or 60 minutes, providing buffer time between meetings and
+  reducing back-to-back scheduling fatigue. This 2026 standard is increasingly
+  built into calendar tools as default setting.
 source_url: https://reclaim.ai/blog/time-blocking-guide
 category: Time Management Practice
 tags:
   - meetings
-  - calendar
-  - productivity
+  - calendar-management
+  - wellbeing
+featured: true
 markdown: >-
   ## Overview
 
 
-  The 25/50-Minute Meeting Standard is a calendaring convention that shortens
-  standard meeting lengths by 5-10 minutes, creating automatic buffers between
-  meetings and reducing meeting fatigue.
+  The 25/50-minute meeting standard replaces traditional 30 and 60-minute
+  defaults with slightly shorter durations, automatically creating 5-10 minute
+  buffers between meetings to prevent burnout, allow preparation, and provide
+  bio-breaks.
 
 
-  ## The Standard
+  ## The Problem with Back-to-Back Meetings
 
 
-  **Instead of 30-minute meetings**: Schedule 25 minutes
+  - No time for breaks, bathroom, or water
 
-  **Instead of 60-minute meetings**: Schedule 50 minutes
+  - No preparation time for next meeting
 
+  - No time to process or take notes
 
-  ## Built-In Benefits
+  - Accumulating fatigue throughout day
 
-
-  ### Automatic Buffers
-
-
-  With back-to-back meetings:
-
-  - 25-min meeting → 5-min buffer before next
-
-  - 50-min meeting → 10-min buffer before next
+  - Increased stress and reduced effectiveness
 
 
-  ### Time for Transitions
+  ## How 25/50-Minute Standard Works
 
 
-  - Bathroom breaks
+  ### Calendar Defaults
 
-  - Coffee/water
+  - 30-minute meetings → 25 minutes
 
-  - Stretch and move
+  - 1-hour meetings → 50 minutes
 
-  - Check urgent messages
+  - Creates automatic 5-10 minute gaps
 
-  - Review next meeting agenda
-
-  - Mental context switch
+  - Built-in buffer time
 
 
-  ## 2026 Adoption
+  ### Benefits of Built-In Buffers
+
+  - Bio-breaks between meetings
+
+  - Time to grab coffee/water
+
+  - Review notes from previous meeting
+
+  - Prepare for upcoming meeting
+
+  - Reduced meeting fatigue
+
+  - Better meeting quality
 
 
-  Major calendar platforms added support:
-
-  - Google Calendar: "Speedy meetings" setting
-
-  - Outlook: Configurable default durations
-
-  - Reclaim.ai: Enforces shortened meetings
-
-  - Motion: AI scheduling respects standard
+  ## Implementation in 2026
 
 
-  ## Research Foundation
+  ### Calendar Tool Support
+
+  - Google Calendar: Speedy meetings setting
+
+  - Outlook: Shorten events option
+
+  - Calendly: Custom duration defaults
+
+  - Reclaim.ai: Automatic buffer insertion
 
 
-  **Meeting Recovery Syndrome**: Studies show 45 minutes needed to fully recover
-  focus after meetings. Built-in buffers help mitigate this.
+  ### Organization Adoption
+
+  - Set as company-wide default
+
+  - Include in meeting best practices
+
+  - Respect the shortened durations
+
+  - Use extra time intentionally
 
 
-  **Parkinson's Law**: Work expands to fill available time. Shorter meetings
-  often accomplish same goals as longer ones.
+  ## Research Support
 
 
-  ## Implementation
+  Studies show that brief breaks between meetings reduce fatigue and improve
+  focus, with the 25/50-minute standard gaining widespread adoption in 2026 as
+  awareness of meeting fatigue grows.
 
 
-  ### Individual Level
+  ## Related Practices
 
 
-  1. Enable in calendar settings
+  - No-meeting blocks for focus time
 
-  2. Default new meetings to 25/50 min
+  - Meeting-free Fridays
 
-  3. Communicate standard to colleagues
+  - Async-first communication
 
-
-  ### Team Level
-
-
-  1. Establish as team norm
-
-  2. Update recurring meetings
-
-  3. Respect buffer time (don't schedule over it)
-
-
-  ## Pricing
-
-
-  N/A - This is a meeting scheduling practice, free to implement.
-updated_at: 2026-03-20 19:58
+  - Time blocking methodologies
+updated_at: 2026-03-21 01:09

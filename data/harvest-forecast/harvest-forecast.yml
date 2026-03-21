@@ -1,162 +1,60 @@
 name: Harvest Forecast
-description: Team scheduling and resource planning tool with color-coded
-  capacity graphs and real-time availability tracking. Integrates with Harvest
-  time tracking to compare scheduled hours versus actual tracked time for better
-  project staffing decisions.
+description: Resource planning and scheduling tool from Harvest that helps teams
+  visualize capacity, schedule projects, and forecast workload. Harvest Forecast
+  integrates with Harvest time tracking to compare planned vs actual time,
+  enabling data-driven resource allocation decisions.
 source_url: https://www.getharvest.com/forecast
-category: Resource Scheduling
+category: Resource Management
 tags:
   - resource-planning
+  - scheduling
   - capacity-management
-  - project-scheduling
 featured: false
 markdown: >-
   ## Overview
 
 
-  Harvest Forecast is a team scheduling and resource planning tool that helps
-  teams manage availability and allows users to look further ahead to better
-  staff teams and ease workload. The platform works seamlessly with Harvest time
-  tracking to provide visibility into where projects are headed.
+  Harvest Forecast is a visual resource planning tool that integrates with
+  Harvest time tracking, helping teams schedule people and projects, track
+  capacity, and make informed staffing decisions based on actual time data.
 
 
-  ## Capacity Planning Features
+  ## Key Features
 
 
-  ### Real-Time Capacity Monitoring
+  - Visual resource scheduling with drag-and-drop interface
 
-  - Monitor capacity in real time to track resource use
+  - Team capacity planning and workload balancing
 
-  - Identify bottlenecks before they impact projects
+  - Project timeline and milestone tracking
 
-  - Color-coded capacity graphs for visual clarity
+  - Integration with Harvest for planned vs actual comparison
 
-  - Quick identification of who has availability
+  - Real-time availability visibility
 
-  - Instant visibility into who's overbooked
+  - Skill-based resource allocation
 
+  - Mobile apps for on-the-go planning
 
-  ### Resource Allocation
 
-  - Match capacity and demand effectively
+  ## Integration with Harvest Time Tracking
 
-  - Allocate resources by project, team, or department
 
-  - Skills-based resource matching
+  - Seamless data flow between planning and actuals
 
-  - Balance workload across team members
+  - Compare estimated vs tracked time
 
-  - Optimize resource utilization
+  - Identify planning accuracy issues
 
+  - Improve future resource estimates
 
-  ## Resource Management Capabilities
+  - Unified billing and capacity view
 
 
-  ### Core Features
+  ## Pricing
 
-  - Capacity planning and forecasting
 
-  - Project timelines and scheduling
-
-  - Resource allocation management
-
-  - Availability tracking and management
-
-  - Real-time updates across the platform
-
-
-  ### Team Coordination
-
-  - See who has capacity for new work
-
-  - Prevent team member burnout through workload visibility
-
-  - Improve project staffing decisions
-
-  - Better balance team workloads
-
-
-  ## Integration with Harvest
-
-
-  ### Time Tracking Integration
-
-  - Brings scheduled hours into Harvest time tracking system
-
-  - Compare scheduled time versus actual tracked time
-
-  - Identify variances between planning and execution
-
-  - Improve future project estimates
-
-  - Learn from actual time data
-
-
-  ### Workflow Benefits
-
-  - Seamless data flow between planning and tracking
-
-  - Unified view of project progress
-
-  - Consolidated time and resource data
-
-  - Better project visibility
-
-
-  ## Benefits
-
-
-  - Make smarter resourcing decisions
-
-  - Reduce scheduling conflicts
-
-  - Prevent resource overallocation
-
-  - Improve project delivery timelines
-
-  - Better workload distribution
-
-  - Enhanced team capacity visibility
-
-
-  ## Target Users
-
-
-  - Project managers
-
-  - Resource managers
-
-  - Team leads and department heads
-
-  - Consulting firms
-
-  - Creative agencies
-
-  - Professional services teams
-
-
-  ## Use Cases
-
-
-  - Multi-project resource allocation
-
-  - Team capacity planning
-
-  - Project staffing decisions
-
-  - Workload balancing
-
-  - Resource availability forecasting
-
-  - Project timeline planning
-
-
-  ## 2026 Considerations
-
-
-  While Harvest Forecast is a solid resource scheduling tool, growing consulting
-  firms may benefit from more advanced capabilities such as capacity
-  forecasting, skills-based matching, and comprehensive reporting features
-  available in alternative platforms.
+  Part of Harvest subscription or available as standalone product with pricing
+  based on number of users.
 brand: Harvest
-updated_at: 2026-03-15 14:02
+updated_at: 2026-03-21 01:09
