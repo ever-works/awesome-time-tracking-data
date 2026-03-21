@@ -2336,3 +2336,31 @@
   name: Physician Tracking
 - id: workflow-management
   name: Workflow Management
+- id: mid-market
+  name: Mid Market
+- id: tax-software
+  name: Tax Software
+- id: cognitive-work
+  name: Cognitive Work
+- id: hr-software
+  name: Hr Software
+- id: grc
+  name: Grc
+- id: deadline-management
+  name: Deadline Management
+- id: qsr
+  name: Qsr
+- id: browser-tracking
+  name: Browser Tracking
+- id: website-monitoring
+  name: Website Monitoring
+- id: email-tracking
+  name: Email Tracking
+- id: contract-management
+  name: Contract Management
+- id: payroll-integration
+  name: Payroll Integration
+- id: gusto
+  name: Gusto
+- id: cloud-native
+  name: Cloud Native
