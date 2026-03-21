@@ -2256,3 +2256,57 @@
   name: Activity Monitoring
 - id: swiss-security
   name: Swiss Security
+- id: reclaim
+  name: Reclaim
+- id: algorithms
+  name: Algorithms
+- id: predictive-analytics
+  name: Predictive Analytics
+- id: async
+  name: Async
+- id: bulk-operations
+  name: Bulk Operations
+- id: admin
+  name: Admin
+- id: ai-automation
+  name: Ai Automation
+- id: capacity-management
+  name: Capacity Management
+- id: iris-scan
+  name: Iris Scan
+- id: high-security
+  name: High Security
+- id: framework
+  name: Framework
+- id: meeting-cost
+  name: Meeting Cost
+- id: maintenance
+  name: Maintenance
+- id: governance
+  name: Governance
+- id: resource-allocation
+  name: Resource Allocation
+- id: conference
+  name: Conference
+- id: networking
+  name: Networking
+- id: task-scheduling
+  name: Task Scheduling
+- id: calendar-automation
+  name: Calendar Automation
+- id: skills-matching
+  name: Skills Matching
+- id: palm-vein
+  name: Palm Vein
+- id: budget-management
+  name: Budget Management
+- id: import
+  name: Import
+- id: migration
+  name: Migration
+- id: audit-trail
+  name: Audit Trail
+- id: user-adoption
+  name: User Adoption
+- id: voice-commands
+  name: Voice Commands
