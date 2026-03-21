@@ -196,3 +196,5 @@
   name: Privacy Feature
 - id: payroll-integration
   name: Payroll Integration
+- id: productivity-research
+  name: Productivity Research

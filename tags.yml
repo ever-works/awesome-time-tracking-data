@@ -2318,3 +2318,21 @@
   name: Javascript
 - id: project-based
   name: Project Based
+- id: adoption-rate
+  name: Adoption Rate
+- id: 2026-trends
+  name: 2026 Trends
+- id: productivity-cost
+  name: Productivity Cost
+- id: task-sync
+  name: Task Sync
+- id: paper-management
+  name: Paper Management
+- id: medical-staff
+  name: Medical Staff
+- id: evidence-based
+  name: Evidence Based
+- id: physician-tracking
+  name: Physician Tracking
+- id: workflow-management
+  name: Workflow Management
