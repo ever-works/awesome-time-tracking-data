@@ -1,89 +1,86 @@
 name: Factorial
-description: All-in-one HR software with integrated time tracking, attendance
-  management, and biometric time clock capabilities. Provides comprehensive HR
-  management including time off, payroll, recruiting, and performance
-  management.
+description: All-in-one HR software combining time tracking, attendance
+  management, payroll, document management, and employee self-service for small
+  and medium businesses across Europe and Latin America.
 source_url: https://factorialhr.com
 category: Workforce Management
 tags:
-  - hr-management
-  - biometric
-  - attendance-tracking
+  - hr-software
+  - time-tracking
+  - payroll
+featured: false
 markdown: >-
   ## Overview
 
 
   Factorial is an all-in-one HR software platform that combines time tracking,
-  attendance management, and comprehensive HR tools in a single system. The
-  platform supports biometric time clocks and provides full workforce management
-  capabilities.
+  attendance management, payroll, document management, and employee self-service
+  capabilities designed for small and medium businesses, particularly popular in
+  Europe and Latin America.
 
 
-  ## Time & Attendance Features
+  ## Features
 
 
-  - **Biometric Time Clocks**: Support for fingerprint and facial recognition
-  time tracking
+  - **Time & Attendance**: Digital time clock with multiple check-in methods
 
-  - **Mobile Time Tracking**: Clock in/out from mobile devices with GPS
-  verification
+  - **Leave Management**: PTO, vacation, and sick leave tracking
 
-  - **Shift Scheduling**: Create and manage employee schedules
+  - **Payroll**: Automated payroll processing and compliance
 
-  - **Time Off Management**: Track PTO, vacation, and sick leave with approval
-  workflows
+  - **Document Management**: Digital storage for employee documents
 
-  - **Attendance Reports**: Comprehensive reporting on hours worked, absences,
-  and overtime
+  - **Employee Self-Service**: Portal for employees to manage their own data
 
-  - **Multiple Clock-In Methods**: Support for web, mobile, kiosk, and biometric
-  devices
+  - **Recruitment**: Applicant tracking and hiring workflows
 
-  - **Geofencing**: Location-based restrictions for clock-in/out
+  - **Performance Reviews**: 360-degree performance management
 
-  - **Overtime Tracking**: Automatic calculation of overtime hours
+  - **Org Charts**: Visual organization structure
 
+  - **Reports & Analytics**: HR metrics and insights dashboards
 
-  ## Additional HR Capabilities
+  - **Mobile Apps**: iOS and Android for on-the-go access
 
+  - **Integrations**: Connect with accounting and productivity tools
 
-  - Employee database and information management
-
-  - Payroll integration with time data
-
-  - Performance management with goal setting and reviews
-
-  - Recruitment and applicant tracking
-
-  - Document management for HR files
-
-  - Onboarding workflows for new employees
-
-  - Company portal and internal communication
-
-  - HR analytics and reporting
+  - **Multi-Country Support**: Compliance for multiple countries
 
 
-  ## Benefits
+  ## Time Tracking Capabilities
 
 
-  - Eliminates buddy punching with biometric verification
+  - Biometric time tracking options
 
-  - Reduces HR administrative workload by up to 80%
+  - Geolocation for field workers
 
-  - Centralizes all HR functions in one platform
+  - Project time allocation
 
-  - Improves compliance with labor laws and regulations
+  - Shift scheduling
 
-  - Provides real-time visibility into attendance and hours
+  - Break tracking
 
-  - Streamlines payroll processing with accurate time data
+  - Overtime calculations
+
+
+  ## Target Market
+
+
+  Small to medium-sized businesses (10-500 employees) in Europe and Latin
+  America looking for comprehensive HR management.
+
+
+  ## Geographic Focus
+
+
+  Particularly strong in Spain, Mexico, Brazil, and other European and Latin
+  American markets with localized compliance features.
 
 
   ## Pricing
 
 
-  Factorial offers tiered pricing based on number of employees and features.
-  Free trial available for 14 days.
+  Tiered pricing starting around €3-8 per employee per month depending on
+  features and region.
 brand: Factorial
-updated_at: 2026-03-20 05:06
+updated_at: 2026-03-21 04:30

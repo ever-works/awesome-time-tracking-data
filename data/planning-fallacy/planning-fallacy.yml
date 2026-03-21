@@ -1,138 +1,107 @@
 name: Planning Fallacy
-description: Cognitive bias where people underestimate time needed for tasks
-  despite past evidence of delays. Understanding this helps create realistic
-  schedules by accounting for typical optimistic time estimates.
+description: Cognitive bias where people underestimate the time, costs, and
+  risks of future actions while overestimating the benefits. Related to
+  Hofstadter's Law and critical for accurate time estimation in project
+  management.
 source_url: https://en.wikipedia.org/wiki/Planning_fallacy
 category: Time Management Concept
 tags:
   - cognitive-bias
-  - time-estimation
-  - planning
+  - project-planning
+  - estimation
 featured: false
 markdown: >-
   ## Overview
 
 
-  The Planning Fallacy is a cognitive bias discovered by Daniel Kahneman and
-  Amos Tversky where people systematically underestimate the time needed to
-  complete tasks, even when they have extensive experience with similar tasks
-  taking longer.
+  The Planning Fallacy is a cognitive bias in which people underestimate the
+  time, costs, and risks of future actions while overestimating the benefits.
+  This phenomenon was first proposed by Daniel Kahneman and Amos Tversky in 1979
+  and is closely related to Hofstadter's Law.
 
 
-  ## The Phenomenon
+  ## Key Characteristics
 
 
-  We predict task completion based on:
+  - Persistent tendency to underestimate task completion time
 
-  - **Best-case scenarios**
+  - Occurs even when people have experience with similar tasks
 
-  - **Ideal conditions**
+  - Affects individuals and teams alike
 
-  - **No interruptions**
+  - Strengthens with optimism bias and wishful thinking
 
-  - **Everything going right**
+  - Often leads to missed deadlines and budget overruns
 
 
-  But reality includes:
+  ## Causes
 
-  - Interruptions and distractions
 
-  - Unexpected complications
+  - **Optimism Bias**: Overly optimistic about one's own abilities
 
-  - Dependencies on others
+  - **Outside View Neglect**: Ignoring historical data from similar projects
 
-  - Hidden complexity
+  - **Singular Focus**: Focusing on best-case scenarios
 
-  - Competing priorities
+  - **Motivation**: Desire to please stakeholders with shorter timelines
 
+  - **Lack of Detail**: Not breaking down tasks sufficiently
 
-  ## Why It Happens
 
+  ## Impact on Time Tracking
 
-  **Optimism Bias:**
 
-  Natural tendency to expect positive outcomes.
+  - Leads to inaccurate time estimates in project planning
 
+  - Causes chronic underestimation of task duration
 
-  **Inside View:**
+  - Results in overcommitment and deadline pressure
 
-  Focus on specific plan ignoring statistical base rates.
+  - Affects resource allocation and capacity planning
 
+  - Creates unrealistic client expectations
 
-  **Anchoring:**
 
-  Initial estimate anchors all subsequent thinking.
+  ## Mitigation Strategies
 
 
-  **Motivated Reasoning:**
+  - **Reference Class Forecasting**: Use historical data from similar projects
 
-  Wanting task to take less time influences estimate.
+  - **Break Down Tasks**: Divide large projects into smaller components
 
+  - **Track Actuals**: Compare estimated vs actual time consistently
 
-  **Availability Bias:**
+  - **Add Buffers**: Build contingency time into estimates
 
-  Recent quick completions more mentally available than typical delays.
+  - **Seek Outside View**: Get estimates from uninvolved parties
 
+  - **Use Data**: Leverage time tracking data for evidence-based estimation
 
-  ## Consequences
 
+  ## Role of Time Tracking Software
 
-  - Chronic schedule overruns
 
-  - Missed deadlines
+  Time tracking tools help combat the Planning Fallacy by:
 
-  - Overcommitment
+  - Providing historical data on actual task duration
 
-  - Stress and burnout
+  - Revealing patterns in estimation errors
 
-  - Damaged credibility
+  - Enabling data-driven estimation
 
-  - Rushed, lower-quality work
+  - Supporting continuous improvement in planning accuracy
 
 
-  ## Combating Planning Fallacy
+  ## Related Concepts
 
 
-  **Reference Class Forecasting:**
+  - Hofstadter's Law
 
-  Look at similar past projects, not idealized plans.
+  - Optimism Bias
 
+  - Student Syndrome
 
-  **Add Buffer Time:**
+  - Parkinson's Law
 
-  Multiply estimates by 1.5-2x based on historical data.
-
-
-  **Break Down Tasks:**
-
-  Estimate smaller components (harder to be optimistic about details).
-
-
-  **Track Actual Time:**
-
-  Compare estimates to reality to calibrate future estimates.
-
-
-  **Assume Interruptions:**
-
-  Plan for typical disruptions, not perfect conditions.
-
-
-  **Outside View:**
-
-  Ask others for estimates based on similar work.
-
-
-  ## Improvement Strategies
-
-
-  - Keep estimate vs actual log
-
-  - Review past project timelines
-
-  - Build in contingency time
-
-  - Use historical data for similar tasks
-
-  - Get input from experienced team members
-updated_at: 2026-03-20 03:48
+  - Scope Creep
+updated_at: 2026-03-21 04:30
