@@ -793,7 +793,7 @@
 - id: payments
   name: Payments
 - id: macos
-  name: Macos
+  name: MacOS
 - id: "2026"
   name: "2026"
 - id: knowledge-management
@@ -2310,3 +2310,11 @@
   name: User Adoption
 - id: voice-commands
   name: Voice Commands
+- id: video-editing
+  name: Video Editing
+- id: time-saving
+  name: Time Saving
+- id: javascript
+  name: Javascript
+- id: project-based
+  name: Project Based
