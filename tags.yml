@@ -2364,3 +2364,31 @@
   name: Gusto
 - id: cloud-native
   name: Cloud Native
+- id: work-rest-ratio
+  name: Work Rest Ratio
+- id: eat-that-frog
+  name: Eat That Frog
+- id: ide-plugin
+  name: Ide Plugin
+- id: context-management
+  name: Context Management
+- id: executive-productivity
+  name: Executive Productivity
+- id: self-control
+  name: Self Control
+- id: memory-assistant
+  name: Memory Assistant
+- id: research-tool
+  name: Research Tool
+- id: beautiful-design
+  name: Beautiful Design
+- id: case-study
+  name: Case Study
+- id: built-in
+  name: Built In
+- id: outliner
+  name: Outliner
+- id: intentional-scheduling
+  name: Intentional Scheduling
+- id: priority-alignment
+  name: Priority Alignment
