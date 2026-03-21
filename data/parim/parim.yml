@@ -1,51 +1,101 @@
 name: Parim
-description: European workforce management platform with time tracking, shift
-  scheduling, and absence management designed for businesses with hourly workers
-  and shift-based teams.
-source_url: https://www.parim.co/
+description: Shift-based workforce time tracking and scheduling software
+  designed for event staffing and industries managing multiple locations,
+  featuring GPS geofencing and real-time attendance monitoring.
+source_url: https://www.parim.co
 category: Workforce Management
 tags:
-  - shift-management
-  - european
-  - scheduling
-featured: false
+  - shift-work
+  - gps
+  - event-staffing
 markdown: >-
   ## Overview
 
 
-  Parim is a workforce management platform popular in Europe that combines time
-  tracking, shift scheduling, and team communication. It's designed for
-  businesses with hourly workers, shift-based teams, and multiple locations.
+  Parim is a time tracking and scheduling platform built specifically for
+  shift-based workforces in industries like event staffing, with GPS geofencing
+  features for managing employees across multiple locations.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Time Clock**: Mobile time tracking with GPS verification
+  ### Time Tracking
 
-  - **Shift Scheduling**: Drag-and-drop shift planning and assignment
+  - **Mobile time clock** with GPS location stamps
 
-  - **Shift Marketplace**: Employees can pick up available shifts
+  - **Geofencing**: Ensures employees are at the correct location when clocking
+  in
 
-  - **Absence Management**: Request and approve time off
+  - **Real-time attendance**: Live view of who's working where
 
-  - **Team Communication**: Built-in messaging and announcements
+  - **Break tracking**: Automatic monitoring of rest periods
 
-  - **Labor Cost Control**: Real-time visibility into labor costs
+  - **Overtime calculation**: Built-in labor law compliance
 
-  - **Compliance**: Supports European labor laws and regulations
 
-  - **Payroll Export**: Export timesheets to payroll systems
+  ### Scheduling
 
-  - **Mobile Apps**: iOS and Android apps for employees and managers
+  - **Shift templates**: Create and reuse common shift patterns
 
-  - **Multi-Location**: Manage teams across multiple sites
+  - **Multi-location support**: Manage teams across different sites
+
+  - **Drag-and-drop interface**: Quick schedule adjustments
+
+  - **Employee availability**: Workers can set when they can work
+
+  - **Shift notifications**: Automatic alerts for new assignments
+
+
+  ### GPS & Location Features
+
+  - **Geofencing zones**: Define acceptable clock-in areas
+
+  - **Location verification**: Confirm employees are on-site
+
+  - **Multi-site management**: Track workers at various venues
+
+  - **Route optimization**: For field service teams
+
+
+  ### Workforce Management
+
+  - **Qualification tracking**: Ensure properly skilled staff for each shift
+
+  - **Certification management**: Monitor license and training expiration
+
+  - **Team communication**: In-app messaging for shift updates
+
+  - **Shift marketplace**: Open shifts for employees to claim
+
+
+  ## Industry Focus
+
+
+  - Event staffing companies
+
+  - Security services
+
+  - Hospitality and catering
+
+  - Retail with multiple locations
+
+  - Healthcare facilities
+
+  - Cleaning services
 
 
   ## Pricing
 
 
-  Starts at €2.50/user/month for basic features. Custom pricing for enterprise
-  features. Free trial available.
+  Budget per scheduled hour pricing model, making costs predictable based on
+  workforce size.
+
+
+  ## Best For
+
+
+  Businesses managing shift workers across multiple locations who need GPS
+  verification and real-time visibility into their workforce.
 brand: Parim
-updated_at: 2026-03-20 01:09
+updated_at: 2026-03-21 05:48

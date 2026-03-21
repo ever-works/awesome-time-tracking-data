@@ -1,73 +1,100 @@
 name: Freedom
-description: Cross-device distraction blocker that syncs blocking sessions
-  across all devices including iPhone, iPad, Mac, Windows, Android, and Chrome,
-  blocking apps and websites simultaneously.
-source_url: https://freedom.to/
+description: Cross-platform internet and app blocker that helps maintain focus
+  by blocking distracting websites and applications across all devices
+  simultaneously, supporting scheduled blocking sessions and locked mode.
+source_url: https://freedom.to
 category: Productivity Tool
 tags:
+  - focus
   - distraction-blocking
-  - website-blocker
-  - app-blocker
-featured: true
+  - self-control
 markdown: >-
   ## Overview
 
 
-  Freedom is the only distraction blocker that can sync blocking sessions across
-  all your devices, making it ideal for multi-device users.
-
-
-  ## Platform Support
-
-
-  - **iPhones & iPads**: iOS app blocking
-
-  - **Mac Computers**: macOS app and website blocking
-
-  - **Windows Computers**: Windows app and website blocking
-
-  - **Android Devices**: Android app blocking
-
-  - **Chrome Devices**: Browser-based blocking
+  Freedom is a powerful distraction-blocking app that helps you stay focused by
+  blocking websites and applications across all your devices simultaneously.
 
 
   ## Key Features
 
 
-  - **Cross-Device Sync**: Block on all devices simultaneously
+  ### Cross-Device Blocking
 
-  - **Scheduled Sessions**: Pre-schedule blocking times
+  - Block on all devices at once
 
-  - **Locked Mode**: Make blocks unbreakable during sessions
+  - Sync block sessions across platforms
 
-  - **Website Lists**: Create custom block lists
+  - Unified control from any device
 
-  - **App Blocking**: Block distracting applications
-
-  - **Full Internet Block**: Block entire internet if needed
-
-  - **Session Analytics**: Track blocking patterns
+  - Consistent focus environment
 
 
-  ## Use Cases
+  ### Flexible Blocking
+
+  - **Website blocking**: Specific sites or categories
+
+  - **App blocking**: Desktop and mobile apps
+
+  - **Entire internet**: Nuclear option for deep focus
+
+  - **Custom blocklists**: Create personalized lists
 
 
-  - **Consultants & Managers**: Work spanning multiple devices
+  ### Scheduling
 
-  - **Students**: Study sessions without distractions
+  - Schedule recurring block sessions
 
-  - **Writers & Creatives**: Deep focus work periods
+  - Daily routines (e.g., 9 AM - 12 PM)
 
-  - **Remote Workers**: Maintain productivity at home
+  - Different schedules for different days
+
+  - Set it and forget it automation
+
+
+  ### Locked Mode
+
+  - Can't disable during session
+
+  - Ensures commitment
+
+  - Prevents weak moments
+
+  - Scheduled unlock time
+
+
+  ## Platform Availability
+
+
+  - Mac desktop
+
+  - Windows desktop
+
+  - iOS (iPhone, iPad)
+
+  - Android
+
+  - Chrome Extension
+
+
+  ## Best For
+
+
+  - People with serious distraction issues
+
+  - Deep work practitioners
+
+  - Students during study sessions
+
+  - Writers and creators
+
+  - Anyone wanting digital boundaries
 
 
   ## Pricing
 
 
-  - Monthly: $8.99/month
-
-  - Annual: $3.33/month (billed annually)
-
-  - Lifetime: $199 one-time payment
+  Subscription-based with monthly and annual plans. Offers free trial to test
+  effectiveness.
 brand: Freedom
-updated_at: 2026-03-20 13:52
+updated_at: 2026-03-21 05:48

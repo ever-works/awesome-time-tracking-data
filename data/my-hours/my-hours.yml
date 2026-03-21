@@ -1,47 +1,114 @@
 name: My Hours
-description: Time tracking software offering insightful reports including
-  activity reports, economy reports, and pivot tables, with generous
-  free-forever plans and low-cost paid upgrades.
-source_url: https://myhours.com/
+description: Free time tracking software that excels at simple employee time
+  tracking with advanced reporting, offering unlimited tracking, users, and
+  projects on the free plan with strong billing and invoicing features.
+source_url: https://myhours.com
 category: Time Tracking Software
 tags:
+  - free
+  - invoicing
   - reporting
-  - free-plan
-  - project-management
-featured: false
 markdown: >-
   ## Overview
 
 
-  My Hours is a comprehensive time tracking solution that emphasizes powerful
-  reporting capabilities and affordability.
+  My Hours is a time tracking tool that excels at simple employee time tracking
+  with advanced but clear reporting. It's highlighted as one of the top time
+  tracking apps for 2026, particularly noted for its generous free plan.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Activity Reports**: Detailed breakdowns of time spent on activities
+  ### Time Tracking
 
-  - **Economy Reports**: Financial analysis of tracked time
+  - **Start/stop timer** for real-time tracking
 
-  - **Pivot Tables**: Advanced data analysis and visualization
+  - **Manual time entry** for retrospective logging
 
-  - **Project Tracking**: Organize time by projects and tasks
+  - **Task-level tracking** for detailed project insights
 
-  - **Team Collaboration**: Track team time and productivity
+  - **Mobile apps** for iOS and Android
 
-  - **Invoicing**: Generate invoices from tracked hours
-
-  - **Budget Management**: Track project budgets and time allocation
-
-  - **Free Forever Plan**: Generous free plan with core features
+  - **Browser extensions** for quick access
 
 
-  ## Pricing
+  ### Project Management
+
+  - **Unlimited projects** even on free plan
+
+  - **Unlimited clients** on free plan
+
+  - **Task organization** within projects
+
+  - **Project budgets** and time estimates
+
+  - **Team collaboration** features
 
 
-  - Free Forever Plan: Available with essential features
+  ### Reporting & Analytics
 
-  - Paid Plans: Low-cost upgrades for additional features and users
+  - **Advanced reporting** with clear visualizations
+
+  - **Customizable reports** by project, client, or team member
+
+  - **Export capabilities** to various formats
+
+  - **Dashboard overview** of time allocation
+
+  - **Billable vs. non-billable** time separation
+
+
+  ### Billing & Invoicing
+
+  - **Invoicing integration** to convert tracked time to invoices
+
+  - **Multiple billing rates** support
+
+  - **Client-specific rates** configuration
+
+  - **Invoice generation** from timesheets
+
+
+  ## Free Plan Benefits
+
+
+  Unlike many competitors, My Hours offers:
+
+  - Unlimited time tracking
+
+  - Unlimited users
+
+  - Unlimited projects
+
+  - Unlimited reports
+
+  - Core features available at no cost
+
+
+  ## Best For
+
+
+  - Freelancers tracking billable hours
+
+  - Small teams needing robust reporting
+
+  - Agencies managing multiple client projects
+
+  - Businesses wanting to try full-featured time tracking without commitment
+
+  - Teams prioritizing simplicity with powerful reporting
+
+
+  ## Platform Availability
+
+
+  - Web application
+
+  - iOS mobile app
+
+  - Android mobile app
+
+  - Browser extensions for Chrome and Firefox
 brand: My Hours
-updated_at: 2026-03-20 13:52
+updated_at: 2026-03-21 05:48

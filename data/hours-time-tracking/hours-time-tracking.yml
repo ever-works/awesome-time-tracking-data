@@ -1,58 +1,105 @@
 name: Hours Time Tracking
-description: Simple and intuitive time tracking app for iPhone designed for
-  freelancers, developers, and contractors. Features a very fast and easy-to-use
-  interface for logging personal time and hours with seamless project tracking.
-  Available on the App Store for iOS devices.
-source_url: https://apps.apple.com/us/app/hours-time-tracking/id895933956
-category: Mobile Time Tracking
+description: Simple, beautiful time tracking app for freelancers and small teams
+  with elegant interface, detailed reporting, and team collaboration features
+  focused on ease of use without complexity.
+source_url: https://hourstimetracking.com
+category: Time Tracking Software
 tags:
-  - ios
-  - freelancers
+  - freelancer
   - simple
+  - beautiful-design
 markdown: >-
-  ## Hours Time Tracking
+  ## Overview
 
 
-  The Hours app is ideal for tracking personal time or hours as a freelancer,
-  developer, or contractor, and users praise its very fast and extremely easy to
-  use interface. The app is available on the App Store.
+  Hours is a time tracking application designed with simplicity and beautiful
+  design at its core, making time tracking feel effortless rather than
+  burdensome.
 
 
   ## Key Features
 
 
-  - **Simple Interface**: Very fast and extremely easy to use
+  ### Simple Time Tracking
 
-  - **Project Tracking**: Track time across multiple projects and clients
+  - **Visual timeline**: See your day at a glance
 
-  - **Mobile-First**: Optimized for iPhone with intuitive design
+  - **One-tap tracking**: Start tracking with single tap
 
-  - **Timer Functionality**: Quick start/stop timer for accurate time capture
+  - **Smart suggestions**: Learns your patterns
+
+  - **Offline capable**: Track without internet
+
+  - **Background tracking**: Continues when app closed
 
 
-  ## Best For
+  ### Elegant Design
+
+  - **Beautiful interface**: Award-winning design
+
+  - **Intuitive gestures**: Natural interaction
+
+  - **Visual reports**: Information presented clearly
+
+  - **Minimal clutter**: Focus on what matters
+
+  - **Delightful experience**: Makes tracking enjoyable
 
 
-  Hours is perfect for:
+  ### Reporting & Insights
 
-  - Freelancers who need quick time logging
+  - **Detailed timesheets**: Comprehensive time breakdowns
 
-  - Developers tracking billable hours
+  - **Visual reports**: Charts and graphs
 
-  - Contractors managing multiple projects
+  - **Export options**: CSV, PDF for clients
 
-  - Anyone looking for a straightforward time tracking solution
+  - **Earnings calculations**: Track revenue
+
+  - **Project summaries**: Quick overviews
+
+
+  ### Team Features
+
+  - **Team tracking**: See what team is working on
+
+  - **Shared projects**: Collaborate on client work
+
+  - **Team reports**: Consolidated view
+
+  - **Permission controls**: Manage access
 
 
   ## Platform Availability
 
 
-  Available exclusively on iOS through the App Store.
+  - iOS (iPhone and iPad)
+
+  - macOS
+
+  - Apple Watch
+
+  - Web app
 
 
-  ## User Feedback
+  ## Best For
 
 
-  Users consistently praise Hours for its simplicity and speed, making it one of
-  the most user-friendly time tracking apps for iPhone.
-updated_at: 2026-03-15 00:34
+  - Freelance designers and creatives
+
+  - Small agencies
+
+  - Consultants
+
+  - Anyone valuing beautiful, simple tools
+
+  - Apple ecosystem users
+
+
+  ## Pricing
+
+
+  Paid app with one-time purchase or subscription options. Premium for advanced
+  features and team capabilities.
+brand: Hours
+updated_at: 2026-03-21 05:48

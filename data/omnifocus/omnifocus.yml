@@ -1,259 +1,141 @@
 name: OmniFocus
-description: Advanced GTD task management system for Apple platforms with
-  powerful perspectives, contexts, and project management. Designed for
-  professionals managing complex workflows with support for start dates,
-  contexts, review cycles, and sophisticated filtering.
+description: Powerful GTD task management app for Mac and iOS featuring
+  perspectives, defer dates, sequential projects, and advanced filtering,
+  designed specifically for David Allen's Getting Things Done methodology.
 source_url: https://www.omnigroup.com/omnifocus
-category: Productivity Tool
+category: GTD Software
 tags:
-  - apple
   - gtd
-  - advanced
-featured: false
+  - mac
+  - ios
 markdown: >-
   ## Overview
 
 
-  OmniFocus is a sophisticated task management application for Apple platforms
-  that implements the Getting Things Done (GTD) methodology in depth. Known for
-  its power and flexibility, it's designed for professionals managing complex
-  projects and workflows who need advanced features like perspectives, contexts,
-  review cycles, and intricate filtering.
+  OmniFocus is a comprehensive task management application built specifically
+  for Mac and iOS that implements David Allen's Getting Things Done (GTD)
+  methodology with powerful organizational features.
 
 
-  ## Core GTD Implementation
+  ## Key GTD Features
 
 
-  ### Inbox
+  ### Inbox Processing
 
   - Quick capture from anywhere
 
-  - Process regularly
+  - Process inbox methodically
 
-  - Clarify and organize
+  - Clarify next actions
 
-  - Batch processing
+  - Organize into projects
 
 
-  ### Projects & Single Actions
+  ### Projects and Actions
 
-  - Sequential projects (steps in order)
+  - **Sequential projects**: Tasks must be done in order
 
-  - Parallel projects (steps independent)
+  - **Parallel projects**: Tasks can be done anytime
 
-  - Single action lists
+  - **Single-action lists**: Unrelated tasks grouped
 
-  - Project templates
-
-  - On Hold status
+  - **Project hierarchy**: Nested projects and folders
 
 
   ### Contexts
 
-  - Where/when/with tasks can be done
+  - Location-based contexts (@office, @home)
 
-  - @Computer, @Home, @Calls, @Errands
+  - Tool-based contexts (@computer, @phone)
 
-  - Nested contexts
+  - People contexts (@boss, @assistant)
 
-  - Context-based views
-
-
-  ### Perspectives
-
-  - Custom views of tasks
-
-  - Saved filters and groupings
-
-  - Quick access to workflows
-
-  - Pro feature, highly powerful
+  - Energy contexts (@high-energy, @low-energy)
 
 
-  ### Review
+  ### Advanced Filtering
 
-  - Scheduled review cycles
+  - **Perspectives**: Custom views of tasks
 
-  - Project-level review dates
+  - **Forecast view**: Calendar integration
 
-  - Review mode for batch processing
+  - **Flagged items**: Priority markers
 
-  - Next review tracking
+  - **Defer dates**: Hide until relevant
 
-
-  ## Advanced Features
-
-
-  ### Start Dates & Defer
-
-  - Hide tasks until ready
-
-  - Future planning
-
-  - Reduce current overwhelm
-
-  - Sequential dependencies
+  - **Due dates**: Deadline tracking
 
 
-  ### Estimated Duration
-
-  - Time needed per task
-
-  - Planning capacity
-
-  - Finding quick wins
-
-  - Realistic scheduling
+  ## Powerful Features
 
 
-  ### Forecast View
+  ### Review System
 
-  - Calendar integration
+  - Built-in weekly review
 
-  - Deadlines visualization
+  - Project review scheduling
 
-  - Today's schedule
+  - Review frequency per project
 
-  - Week ahead planning
-
-
-  ### Flagging
-
-  - Mark important tasks
-
-  - Quick filter to flagged
-
-  - Temporary priority
-
-  - Review attention items
-
-
-  ### Tags (OmniFocus 3)
-
-  - Multiple tags per task
-
-  - Replaces/extends contexts
-
-  - More flexible categorization
-
-  - Tag combinations
-
-
-  ## Power User Features
-
-
-  ### Custom Perspectives (Pro)
-
-  - Build complex filters
-
-  - Save for quick access
-
-  - Share with team
-
-  - Automate workflows
+  - Completion tracking
 
 
   ### Automation
 
+  - Repeating tasks
+
+  - Template projects
+
+  - Automation shortcuts
+
   - URL schemes
 
-  - Shortcuts integration
-
-  - AppleScript support (Mac)
-
-  - Task templates
+  - AppleScript support
 
 
-  ### Repeating Tasks
+  ### Sync & Integration
 
-  - Complex recurrence patterns
+  - OmniSync for cloud sync
 
-  - Due vs defer-based
+  - Siri integration
 
-  - Skip occurrences
+  - Mail to OmniFocus
 
-  - Template-based repeats
+  - Calendar integration
 
-
-  ## Sync & Platforms
-
-
-  ### Omni Sync Server
-
-  - Free sync service
-
-  - End-to-end encryption
-
-  - Real-time sync
-
-  - Conflict resolution
+  - Third-party app integration
 
 
-  ### Alternative Sync
-
-  - WebDAV support
-
-  - Local network sync
-
-  - Third-party servers
+  ## Platform Availability
 
 
-  ### Platforms
+  - macOS desktop app
 
-  - macOS (desktop)
-
-  - iPhone
-
-  - iPad
+  - iOS (iPhone and iPad)
 
   - Apple Watch
 
-  - Web (read-only)
+  - Cross-device sync
+
+
+  ## Best For
+
+
+  - Serious GTD practitioners
+
+  - Power users needing complexity
+
+  - Mac/iOS ecosystem users
+
+  - People managing many projects
+
+  - Those valuing powerful filtering
 
 
   ## Pricing
 
 
-  Two options:
-
-  - **Subscription**: All platforms, all updates
-
-  - **One-Time Purchase**: Single platform, major version
-
-
-  Pro features (Perspectives) available in both.
-
-
-  ## Learning Curve
-
-
-  ### Complexity
-
-  - Steep learning curve
-
-  - Many features to master
-
-  - Requires GTD understanding
-
-  - Investment in setup
-
-
-  ### Power
-
-  - Handles any workflow
-
-  - Scales to complex needs
-
-  - Professional-grade
-
-  - Worth the learning
-
-
-  ## Ideal For
-
-
-  GTD purists, professionals with complex workflows, Apple ecosystem power
-  users, people managing 100+ active tasks, individuals wanting total control,
-  and those willing to invest time in setup for long-term power.
+  Premium pricing with separate purchases for Mac and iOS, or subscription
+  option for all platforms. One-time purchase or subscription available.
 brand: The Omni Group
-updated_at: 2026-03-18 18:45
+updated_at: 2026-03-21 05:48

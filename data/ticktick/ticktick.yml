@@ -1,85 +1,102 @@
 name: TickTick
-description: Cross-platform task manager combining to-do lists, calendar, and
-  Pomodoro timer. Offers comprehensive features at affordable pricing with GTD
-  support, habit tracking, and collaboration.
-source_url: https://ticktick.com/
-category: Productivity Tool
+description: All-in-one task manager with built-in Pomodoro timer, calendar,
+  habit tracker, and time blocking features, offering robust cross-platform task
+  management with generous free tier.
+source_url: https://ticktick.com
+category: Productivity Software
 tags:
-  - cross-platform
-  - gtd
+  - task-management
   - pomodoro
-  - habit-tracking
-featured: false
+  - cross-platform
 markdown: >-
   ## Overview
 
 
-  TickTick is a feature-rich task management app available on all major
-  platforms. It combines traditional to-do list functionality with calendar
-  integration, Pomodoro timer, habit tracking, and collaboration features at a
-  competitive price point.
+  TickTick is a comprehensive productivity app combining task management,
+  calendar, Pomodoro timer, and habit tracking in one integrated platform.
 
 
-  ## Features
+  ## Key Features
 
 
-  - **Cross-Platform**: Windows, Mac, iOS, Android, web, browser extensions,
-  Apple Watch, Wear OS
+  ### Task Management
 
-  - **Smart Lists**: Dynamic lists based on dates, priorities, and custom
-  filters
+  - Multiple lists and folders
 
-  - **Calendar View**: Integrated calendar showing tasks and events
+  - Subtasks and checklists
 
-  - **Pomodoro Timer**: Built-in focus timer with statistics
+  - Tags and priorities
 
-  - **Habit Tracking**: Track daily habits with streak counters
+  - Smart date parsing
 
-  - **Sub-tasks**: Unlimited checklists within tasks
-
-  - **Tags**: Flexible tagging and filtering
-
-  - **Folders**: Organize lists into folders
-
-  - **Duration**: Set time estimates for tasks
-
-  - **Priority Levels**: Multiple priority options
-
-  - **Reminders**: Location-based and time-based reminders
-
-  - **Collaboration**: Share lists and assign tasks to others
-
-  - **Attachments**: Add files, images, and audio to tasks
-
-  - **Natural Language**: Type "tomorrow 3pm" to set due date
-
-  - **Widgets**: Home screen widgets for quick access
-
-  - **Integrations**: Calendar sync (Google, Outlook), Siri, Alexa
-
-  - **Themes**: Light and dark modes with custom themes
+  - Recurring tasks
 
 
-  ## Unique Features
+  ### Built-in Pomodoro
+
+  - Focus timer for each task
+
+  - Track focused time
+
+  - Customizable work/break intervals
+
+  - White noise options
+
+  - Focus statistics
 
 
-  - **Eisenhower Matrix**: Built-in view based on urgency/importance
+  ### Calendar Integration
 
-  - **Summary**: Weekly email summarizing completed tasks
+  - Calendar view of tasks
 
-  - **Timeline View**: Visual timeline of upcoming tasks
+  - Google Calendar sync
 
-  - **Duration Tracking**: Optional time tracking for completed tasks
+  - Time blocking on calendar
 
-  - **Focus Mode**: Distraction-free task view
+  - Agenda view
+
+
+  ### Habit Tracking
+
+  - Daily habit checkboxes
+
+  - Streak tracking
+
+  - Habit analytics
+
+  - Reminders
+
+
+  ## Platform Availability
+
+
+  - Web app
+
+  - iOS (iPhone, iPad, Apple Watch)
+
+  - Android (phone, tablet, Wear OS)
+
+  - Desktop (Mac, Windows, Linux)
+
+  - Browser extensions
 
 
   ## Pricing
 
 
-  - **Free**: Up to 2 lists per folder, basic features
+  Generous free tier with premium subscription for advanced features like
+  calendar view, custom smart lists, and themes.
 
-  - **Premium**: $27.99/year or $2.99/month - Unlimited features, calendar view,
-  habit tracker, premium themes
-brand: Appest Inc.
-updated_at: 2026-03-18 05:22
+
+  ## Best For
+
+
+  - Users wanting all-in-one solution
+
+  - Cross-platform productivity seekers
+
+  - Pomodoro + task management combo
+
+  - Budget-conscious users (free tier)
+brand: TickTick
+updated_at: 2026-03-21 05:48

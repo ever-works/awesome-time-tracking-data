@@ -1,193 +1,215 @@
 name: Getting Things Done (GTD)
-description: Productivity methodology created by David Allen that uses a
-  five-step process to capture, clarify, organize, reflect, and engage with
-  tasks. Emphasizes external systems to free mental capacity and reduce stress.
+description: Comprehensive productivity methodology by David Allen featuring
+  five-step workflow (Capture, Clarify, Organize, Reflect, Engage) and
+  stress-free productivity through trusted external system for task management.
 source_url: https://gettingthingsdone.com
 category: Time Management Methodology
 tags:
   - productivity-system
+  - workflow
   - david-allen
-  - task-management
 markdown: >-
-  ## Overview
+  ## Getting Things Done (GTD)
 
 
-  Getting Things Done (GTD) is a productivity methodology created by David Allen
-  that uses a five-step process to capture, clarify, organize, reflect, and
-  engage with tasks. The system emphasizes using external systems to free mental
-  capacity and reduce stress.
+  A comprehensive productivity methodology developed by David Allen that
+  provides a systematic approach to managing tasks, projects, and commitments
+  through a trusted external system.
 
 
   ## The Five Steps
 
 
-  1. **Capture**: Collect everything that has your attention in an inbox
+  ### 1. Capture
 
-  2. **Clarify**: Process what each item means and what to do about it
+  Collect what has your attention—tasks, ideas, commitments—into a trusted
+  system outside your head.
 
-  3. **Organize**: Put items in appropriate categories and lists
 
-  4. **Reflect**: Review your system regularly to stay current
+  **Capture tools:**
 
-  5. **Engage**: Use your system to make informed decisions about what to do
+  - Inbox (physical and digital)
+
+  - Note-taking apps
+
+  - Voice memos
+
+  - Email
+
+  - Notebooks
+
+
+  ### 2. Clarify
+
+  Process what each item means and what to do about it.
+
+
+  **Key questions:**
+
+  - Is it actionable?
+
+  - What's the next action?
+
+  - What's the desired outcome?
+
+
+  ### 3. Organize
+
+  Put items where they belong in your system.
+
+
+  **Organization categories:**
+
+  - **Next Actions**: Tasks you can do now
+
+  - **Projects**: Multi-step outcomes
+
+  - **Waiting For**: Items delegated or pending
+
+  - **Someday/Maybe**: Future possibilities
+
+  - **Reference**: Information to keep
+
+
+  ### 4. Reflect
+
+  Review your system regularly to keep it current and complete.
+
+
+  **Review frequency:**
+
+  - **Daily**: Check calendar and next actions
+
+  - **Weekly**: Comprehensive review of all lists
+
+  - **Monthly/Quarterly**: Higher-level reviews
+
+
+  ### 5. Engage
+
+  Choose what to do based on context, time, energy, and priority.
+
+
+  **Decision factors:**
+
+  - Context (where you are, tools available)
+
+  - Time available
+
+  - Energy level
+
+  - Priority
 
 
   ## Core Principles
 
 
-  - **Mind Like Water**: Achieve a clear, calm state by getting thoughts out of
-  your head
+  ### Mind Like Water
 
-  - **Two-Minute Rule**: If something takes less than 2 minutes, do it
-  immediately
-
-  - **Next Actions**: Define concrete next steps for every project
-
-  - **Contexts**: Organize tasks by location or tool required (@computer,
-  @phone, @errands)
-
-  - **Weekly Review**: Regular review to keep system current and trustworthy
+  Achieve a state of mental clarity where you respond appropriately to inputs
+  without overreacting or underreacting.
 
 
-  ## Key Lists
+  ### Trusted System
+
+  Your external system must be complete and current, so your mind trusts it and
+  can let go of trying to remember everything.
 
 
-  - **Inbox**: Capture bucket for everything new
+  ### Next Action Thinking
 
-  - **Next Actions**: Specific, concrete next steps
-
-  - **Projects**: Anything requiring more than one action
-
-  - **Waiting For**: Items delegated or awaiting response
-
-  - **Someday/Maybe**: Ideas for future consideration
-
-  - **Calendar**: Time-specific and day-specific items only
+  Always define the very next physical action required to move something
+  forward.
 
 
-  ## Processing Workflow
+  ### Two-Minute Rule
+
+  If an action takes less than two minutes, do it immediately rather than
+  organizing it.
 
 
-  When clarifying items from inbox:
+  ## The Weekly Review
 
-  - Is it actionable? If no → Trash, Someday/Maybe, or Reference
 
-  - If yes → What's the next action?
+  Critical practice for maintaining system:
 
-  - Will it take < 2 minutes? If yes → Do it now
+  1. Get clear: Process all inboxes
 
-  - If no → Delegate it or Defer it to Next Actions list
+  2. Get current: Review lists and calendar
 
-  - Is it part of a project? Add to Projects list
+  3. Get creative: Capture new ideas
+
+
+  ## Common GTD Lists
+
+
+  - **Inbox**: Unprocessed items
+
+  - **Next Actions**: Specific, actionable tasks
+
+  - **Projects**: Desired outcomes requiring multiple steps
+
+  - **Waiting For**: Delegated items
+
+  - **Someday/Maybe**: Future possibilities
+
+  - **Calendar**: Time and day-specific items
+
+  - **Reference**: Non-actionable information
+
+
+  ## Software for GTD
+
+
+  Popular GTD apps:
+
+  - **Todoist**: Flexible task management
+
+  - **OmniFocus**: Powerful Mac/iOS GTD tool
+
+  - **Things**: Beautiful Mac/iOS app
+
+  - **Nirvana**: Built specifically for GTD
+
+  - **Notion**: Customizable GTD system
 
 
   ## Benefits
 
 
-  - **Reduced Mental Stress**: External system removes burden of remembering
+  - **Reduced stress**: Nothing falls through cracks
 
-  - **Increased Productivity**: Clear next actions eliminate decision paralysis
+  - **Mental clarity**: Mind freed from remembering
 
-  - **Better Focus**: Work from trusted system rather than reactive mode
+  - **Better decisions**: Clear view of commitments
 
-  - **Improved Reliability**: Nothing falls through cracks with complete capture
+  - **Increased productivity**: Focus on right things
 
-  - **Enhanced Perspective**: Regular reviews maintain high-level awareness
-
-
-  ## Weekly Review
+  - **Greater control**: Systematic approach to work and life
 
 
-  The cornerstone of GTD - a regular review to:
-
-  - Collect and process loose papers and materials
-
-  - Review previous week's calendar
-
-  - Review upcoming calendar
-
-  - Review Next Actions lists
-
-  - Review Projects list
-
-  - Review Waiting For list
-
-  - Review Someday/Maybe list
+  ## Time Investment
 
 
-  ## Digital Tools for GTD
+  - **Initial setup**: 2-4 hours
+
+  - **Daily processing**: 15-30 minutes
+
+  - **Weekly review**: 1-2 hours
+
+  - **Ongoing maintenance**: Part of workflow
 
 
-  - Dedicated GTD apps: OmniFocus, Nirvana, FacileThings
-
-  - General tools adapted for GTD: Todoist, Things, Notion, Asana
-
-  - Traditional tools: Paper notebook, filing system
+  ## Integration with Time Tracking
 
 
-  ## Time Blocking Integration
+  GTD complements time tracking:
 
+  - Track time on "Next Actions"
 
-  While GTD focuses on capturing and organizing, it can be combined with time
-  blocking:
+  - Use two-minute rule during processing
 
-  - Use GTD to decide WHAT to do
+  - Review time data during weekly review
 
-  - Use time blocking to decide WHEN to do it
-
-  - Schedule time for Weekly Reviews
-
-  - Block time for deep work on key projects
-
-
-  ## Best For
-
-
-  - Knowledge workers with diverse responsibilities
-
-  - People feeling overwhelmed by commitments
-
-  - Those who want comprehensive life management system
-
-  - Anyone juggling multiple projects and roles
-
-
-  ## Not Ideal For
-
-
-  - Single-focus work (e.g., production line work)
-
-  - Those preferring simpler systems
-
-  - People who resist regular reviews
-
-
-  ## Common Pitfalls
-
-
-  - Skipping weekly reviews (system becomes stale)
-
-  - Making lists too complex
-
-  - Not defining true next actions
-
-  - Trying to implement everything at once
-
-  - Using calendar for task lists
-
-
-  ## Getting Started
-
-
-  1. Read "Getting Things Done" book by David Allen
-
-  2. Do a complete brain dump of everything on your mind
-
-  3. Process your inbox completely
-
-  4. Set up your lists and filing system
-
-  5. Schedule your first Weekly Review
-
-  6. Start small and build the habit
-updated_at: 2026-03-20 05:06
+  - Apply context-based decisions to time allocation
+updated_at: 2026-03-21 05:48
