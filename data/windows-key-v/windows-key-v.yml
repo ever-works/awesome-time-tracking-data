@@ -1,0 +1,54 @@
+name: Windows Key + V
+description: Built-in clipboard manager feature in Windows that stores multiple
+  copied items and allows pasting from clipboard history across multiple PCs.
+  Enables users to access previously copied text, pin frequently used clips, and
+  insert special symbols, emojis, and GIFs.
+source_url: https://support.microsoft.com/en-us/windows/get-the-most-out-of-your-clipboard-in-windows-a88314b2-486e-4532-a4e8-35c3a7b3948f
+category: Productivity Tool
+tags:
+  - windows
+  - clipboard-manager
+  - built-in
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Windows Key + V (Win+V) is a built-in clipboard manager included with Windows
+  10 and later. It allows users to maintain a history of copied items rather
+  than just the most recent clipboard entry, making it easier to paste
+  previously copied content without having to re-copy it.
+
+
+  ## Features
+
+
+  - Stores up to 25 items in clipboard history
+
+  - Syncs clipboard history across multiple Windows PCs
+
+  - Pin frequently used clips to keep them permanently accessible
+
+  - Quick access to special symbols, emojis, and GIFs
+
+  - Activated by pressing Win+V keyboard shortcut
+
+  - No additional software installation required
+
+
+  ## Limitations
+
+
+  - Limited to 25 items in history
+
+  - Cannot copy large images or files
+
+  - More basic than dedicated clipboard manager applications
+
+
+  ## Pricing
+
+
+  Free and included with Windows. No additional cost.
+brand: Microsoft
+updated_at: 2026-04-04 22:53

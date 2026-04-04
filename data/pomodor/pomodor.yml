@@ -1,0 +1,47 @@
+name: Pomodor
+description: Web-based Pomodoro timer application that provides customizable
+  work and break periods for focused productivity sessions. Simple and easy to
+  use, available directly in the browser without installation.
+source_url: https://pomodor.app
+category: Productivity App
+tags:
+  - pomodoro-timer
+  - focus
+  - web-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Pomodor is a straightforward Pomodoro timer application available on the web.
+  It implements the Pomodoro Technique by providing customizable work and break
+  intervals to structure focused productivity sessions.
+
+
+  ## Features
+
+
+  - Web-based, no installation required
+
+  - Customizable work period durations
+
+  - Customizable break period durations
+
+  - Simple, easy-to-use interface
+
+  - Available on any device with a web browser
+
+
+  ## Pricing
+
+
+  Free to use; donations are recommended.
+
+
+  ## Limitations
+
+
+  - Primarily functions as a basic timer without advanced productivity
+  management features
+brand: Pomodor
+updated_at: 2026-04-04 22:53

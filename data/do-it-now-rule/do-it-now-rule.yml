@@ -1,0 +1,34 @@
+name: Do It Now Rule
+description: A simple productivity rule stating that if a task takes less than 3
+  minutes, you should do it immediately without any thinking or planning. This
+  eliminates the overhead of scheduling, tracking, or remembering quick tasks
+  and keeps small items from accumulating.
+source_url: https://www.productivityist.com/the-three-minute-rule/
+category: Time Management Technique
+tags:
+  - quick-tasks
+  - immediate-action
+  - decision-rule
+markdown: >-
+  ## Overview
+
+
+  The Do It Now Rule is a straightforward time management principle designed to
+  prevent small tasks from accumulating and cluttering your to-do list.
+
+
+  ## The Rule
+
+
+  If a task takes **less than 3 minutes**, do it now, without any thinking or
+  planning.
+
+
+  ## Rationale
+
+
+  The cognitive overhead of deciding to later, scheduling, recording, and
+  remembering a 3-minute task far exceeds the actual time it takes to complete
+  the task. By doing it immediately, you eliminate this overhead and keep your
+  mental workspace clear.
+updated_at: 2026-04-04 22:53

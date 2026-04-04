@@ -1,0 +1,44 @@
+name: Microsoft Lens
+description: Mobile scanning app from Microsoft that digitizes documents using
+  optical character recognition (OCR). Allows users to scan documents using
+  their phone camera, extract text, and convert scanned content into editable
+  formats.
+source_url: https://www.microsoft.com/en-us/microsoft-365/microsoft-lens
+category: Productivity Tool
+tags:
+  - document-scanning
+  - ocr
+  - mobile-app
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Microsoft Lens is a mobile scanning app that uses optical character
+  recognition (OCR) to digitize documents captured via a phone's camera. It
+  extracts text from scanned documents, making them searchable and editable.
+
+
+  ## Features
+
+
+  - Scan documents, whiteboards, and business cards using a phone camera
+
+  - Optical character recognition (OCR) to digitize text
+
+  - Convert scanned documents into editable and searchable formats
+
+  - Mobile accessibility for scanning on the go
+
+
+  ## Use Cases
+
+
+  - Digitizing paper documents for digital storage and search
+
+  - Extracting text from whiteboards after meetings
+
+  - Converting business cards into digital contact information
+brand: Microsoft
+brand_logo_url: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31
+updated_at: 2026-04-04 22:53

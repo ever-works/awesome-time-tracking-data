@@ -1,0 +1,62 @@
+name: Notion
+description: AI-assisted workspace platform that combines project management,
+  knowledge bases, and team collaboration into a single unified tool. Notion's
+  AI agents automate time-consuming tasks, organize scattered information into
+  searchable databases, and generate project roadmaps to improve team
+  efficiency.
+source_url: https://www.notion.so
+category: Task and project management
+tags:
+  - ai-powered
+  - knowledge-management
+  - workspace
+markdown: >-
+  ## Overview
+
+
+  Notion is a powerful AI-assisted platform that helps manage projects,
+  knowledge bases, and teams. Its AI agents perform time-consuming tasks,
+  freeing users to focus on productive work.
+
+
+  ## Features
+
+
+  - AI-assisted platform for content generation and information organization
+
+  - Email with automatic organization
+
+  - Calendar with built-in scheduling and project timelines
+
+  - Project roadmaps with timeline views
+
+  - Document organization and searchable databases
+
+  - Customizable Kanban-style boards with tailored data views
+
+  - Tag-based task tracking for status, priority, and type
+
+  - Onboarding guide generation from workspace content
+
+
+  ## Pricing
+
+
+  - Free: 1 user
+
+  - Paid Monthly: $10 - $20 per user
+
+  - Paid Annually: $12 - $24 per user per month
+
+  - Enterprise pricing available
+
+
+  ## Platform Availability
+
+
+  Desktop, Web, Android, iOS
+brand: Notion Labs
+brand_logo_url: https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png
+images:
+  - https://www.notion.so/cdn-cgi/image/format=webp,width=1728/front-static/sections/product-use-cases-2x.png
+updated_at: 2026-04-04 22:53
