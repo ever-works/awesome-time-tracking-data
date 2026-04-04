@@ -171,7 +171,7 @@
 - id: quick-tasks
   name: Quick Tasks
 - id: gtd
-  name: Gtd
+  name: GTD
 - id: enterprise
   name: Enterprise
 - id: work-management
@@ -2392,3 +2392,363 @@
   name: Intentional Scheduling
 - id: priority-alignment
   name: Priority Alignment
+- id: task-prioritization
+  name: Task Prioritization
+- id: micro-tasks
+  name: Micro Tasks
+- id: task-breakdown
+  name: Task Breakdown
+- id: task-start
+  name: Task Start
+- id: password-management
+  name: Password Management
+- id: structured-planning
+  name: Structured Planning
+- id: productivity-framework
+  name: Productivity Framework
+- id: evening-review
+  name: Evening Review
+- id: productivity-coach
+  name: Productivity Coach
+- id: podcast
+  name: Podcast
+- id: freelancer-focussed
+  name: Freelancer Focussed
+- id: business-management
+  name: Business Management
+- id: performance-research
+  name: Performance Research
+- id: recovery-science
+  name: Recovery Science
+- id: location-based
+  name: Location Based
+- id: unified-messaging
+  name: Unified Messaging
+- id: organizational-psychology
+  name: Organizational Psychology
+- id: productivity-strategies
+  name: Productivity Strategies
+- id: blockchain
+  name: Blockchain
+- id: tamper-proof
+  name: Tamper Proof
+- id: binaural-beats
+  name: Binaural Beats
+- id: rapid-logging
+  name: Rapid Logging
+- id: software-directory
+  name: Software Directory
+- id: user-reviews
+  name: User Reviews
+- id: working-styles
+  name: Working Styles
+- id: speaker
+  name: Speaker
+- id: ai-chatbot
+  name: Ai Chatbot
+- id: generative-ai
+  name: Generative Ai
+- id: openai
+  name: Openai
+- id: process
+  name: Process
+- id: complexity-management
+  name: Complexity Management
+- id: app-platform
+  name: App Platform
+- id: mind-mapping
+  name: Mind Mapping
+- id: brainstorming
+  name: Brainstorming
+- id: blogger
+  name: Blogger
+- id: tools
+  name: Tools
+- id: multi-entity
+  name: Multi Entity
+- id: switchingcosts
+  name: Switchingcosts
+- id: focus-areas
+  name: Focus Areas
+- id: pomodoro-variation
+  name: Pomodoro Variation
+- id: personal-productivity
+  name: Personal Productivity
+- id: workflow-optimization
+  name: Workflow Optimization
+- id: immediate-action
+  name: Immediate Action
+- id: decision-rule
+  name: Decision Rule
+- id: meta-analysis
+  name: Meta Analysis
+- id: keynote-speaker
+  name: Keynote Speaker
+- id: shared-inbox
+  name: Shared Inbox
+- id: gmail-integration
+  name: Gmail Integration
+- id: automatic-time-tracking
+  name: Automatic Time Tracking
+- id: leadership-coaching
+  name: Leadership Coaching
+- id: certified-organizing
+  name: Certified Organizing
+- id: document-management
+  name: Document Management
+- id: web-clipper
+  name: Web Clipper
+- id: rss-reader
+  name: Rss Reader
+- id: content-aggregation
+  name: Content Aggregation
+- id: news
+  name: News
+- id: personal-organizer
+  name: Personal Organizer
+- id: analog-productivity
+  name: Analog Productivity
+- id: meaning
+  name: Meaning
+- id: imperfectionism
+  name: Imperfectionism
+- id: values-based
+  name: Values Based
+- id: task-matching
+  name: Task Matching
+- id: slack-integration
+  name: Slack Integration
+- id: digital-notebook
+  name: Digital Notebook
+- id: handwriting
+  name: Handwriting
+- id: cloud-collaboration
+  name: Cloud Collaboration
+- id: real-time-editing
+  name: Real Time Editing
+- id: ai-meeting-assistant
+  name: Ai Meeting Assistant
+- id: transcription
+  name: Transcription
+- id: meeting-notes
+  name: Meeting Notes
+- id: behavioral-psychology
+  name: Behavioral Psychology
+- id: measurement-effect
+  name: Measurement Effect
+- id: hipaa-compliant
+  name: Hipaa Compliant
+- id: shift-scheduling
+  name: Shift Scheduling
+- id: industry-specific
+  name: Industry Specific
+- id: multi-location
+  name: Multi Location
+- id: erp-integration
+  name: Erp Integration
+- id: rule-of-thumb
+  name: Rule Of Thumb
+- id: self-reporting
+  name: Self Reporting
+- id: time-management-history
+  name: Time Management History
+- id: foundational
+  name: Foundational
+- id: monthly-review
+  name: Monthly Review
+- id: student-time-management
+  name: Student Time Management
+- id: academic-performance
+  name: Academic Performance
+- id: cross-sectional-study
+  name: Cross Sectional Study
+- id: read-it-later
+  name: Read It Later
+- id: content-curation
+  name: Content Curation
+- id: offline-reading
+  name: Offline Reading
+- id: metaphor-based
+  name: Metaphor Based
+- id: hall-of-fame
+  name: Hall Of Fame
+- id: brain-based-coaching
+  name: Brain Based Coaching
+- id: business-coaching
+  name: Business Coaching
+- id: digital-organization
+  name: Digital Organization
+- id: entrepreneurship
+  name: Entrepreneurship
+- id: organizing
+  name: Organizing
+- id: cross-functional
+  name: Cross Functional
+- id: entrepreneur
+  name: Entrepreneur
+- id: team-performance
+  name: Team Performance
+- id: spokesperson
+  name: Spokesperson
+- id: timesheet-export
+  name: Timesheet Export
+- id: marketing-automation
+  name: Marketing Automation
+- id: email-marketing
+  name: Email Marketing
+- id: analog-digital-hybrid
+  name: Analog Digital Hybrid
+- id: focus-analytics
+  name: Focus Analytics
+- id: document-scanning
+  name: Document Scanning
+- id: ocr
+  name: Ocr
+- id: mobile-app
+  name: Mobile App
+- id: email-client
+  name: Email Client
+- id: personal-tasks
+  name: Personal Tasks
+- id: outlook-sync
+  name: Outlook Sync
+- id: time-crafting
+  name: Time Crafting
+- id: workshops
+  name: Workshops
+- id: legacy
+  name: Legacy
+- id: boundary-setting
+  name: Boundary Setting
+- id: distraction-elimination
+  name: Distraction Elimination
+- id: anti-productivity
+  name: Anti Productivity
+- id: workspace
+  name: Workspace
+- id: anti-procrastination
+  name: Anti Procrastination
+- id: knowledge-base
+  name: Knowledge Base
+- id: markdown
+  name: Markdown
+- id: team-visibility
+  name: Team Visibility
+- id: employee-self-service
+  name: Employee Self Service
+- id: all-in-one-hcm
+  name: All In One Hcm
+- id: executive-coach
+  name: Executive Coach
+- id: facilitator
+  name: Facilitator
+- id: text-expansion
+  name: Text Expansion
+- id: typing-automation
+  name: Typing Automation
+- id: pomodoro-timer
+  name: Pomodoro Timer
+- id: needs-hierarchy
+  name: Needs Hierarchy
+- id: life-balance
+  name: Life Balance
+- id: blog
+  name: Blog
+- id: daily-review
+  name: Daily Review
+- id: profit-management
+  name: Profit Management
+- id: time-reports
+  name: Time Reports
+- id: responsibility-assignment
+  name: Responsibility Assignment
+- id: clarity
+  name: Clarity
+- id: tony-robbins
+  name: Tony Robbins
+- id: organizer
+  name: Organizer
+- id: operations
+  name: Operations
+- id: local-first
+  name: Local First
+- id: mindful-usage
+  name: Mindful Usage
+- id: team-based
+  name: Team Based
+- id: iterative
+  name: Iterative
+- id: worklife-balance
+  name: Worklife Balance
+- id: therapy
+  name: Therapy
+- id: goal-oriented
+  name: Goal Oriented
+- id: messaging
+  name: Messaging
+- id: self-management
+  name: Self Management
+- id: certified-coach
+  name: Certified Coach
+- id: program-management
+  name: Program Management
+- id: high-performance
+  name: High Performance
+- id: business-coach
+  name: Business Coach
+- id: systematic-review
+  name: Systematic Review
+- id: higher-education
+  name: Higher Education
+- id: decision-fatigue
+  name: Decision Fatigue
+- id: taoism
+  name: Taoism
+- id: interviews
+  name: Interviews
+- id: education
+  name: Education
+- id: content-creator
+  name: Content Creator
+- id: student-productivity
+  name: Student Productivity
+- id: desktop-agent
+  name: Desktop Agent
+- id: project-budgeting
+  name: Project Budgeting
+- id: development-teams
+  name: Development Teams
+- id: lifestyle-design
+  name: Lifestyle Design
+- id: team-productivity
+  name: Team Productivity
+- id: survey-instrument
+  name: Survey Instrument
+- id: validated-scale
+  name: Validated Scale
+- id: planning-assessment
+  name: Planning Assessment
+- id: retroactive-tracking
+  name: Retroactive Tracking
+- id: solo-practitioner
+  name: Solo Practitioner
+- id: communications-tracking
+  name: Communications Tracking
+- id: reverse-todo
+  name: Reverse Todo
+- id: goal-prioritization
+  name: Goal Prioritization
+- id: task-sorting
+  name: Task Sorting
+- id: emergency
+  name: Emergency
+- id: harvard-business-review
+  name: Harvard Business Review
+- id: clipboard-manager
+  name: Clipboard Manager
+- id: hris
+  name: Hris
+- id: ethical-monitoring
+  name: Ethical Monitoring
+- id: gdpr-compliant
+  name: Gdpr Compliant
