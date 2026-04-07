@@ -793,7 +793,7 @@
 - id: payments
   name: Payments
 - id: macos
-  name: MacOS
+  name: Macos
 - id: "2026"
   name: "2026"
 - id: knowledge-management
@@ -2752,3 +2752,5 @@
   name: Ethical Monitoring
 - id: gdpr-compliant
   name: Gdpr Compliant
+- id: developer-focused
+  name: Developer Focused

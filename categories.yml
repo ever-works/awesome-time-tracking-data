@@ -200,3 +200,7 @@
   name: Productivity Research
 - id: task-and-project-management
   name: Task And Project Management
+- id: open-source-time-trackers
+  name: Open Source Time Trackers
+- id: cross-platform-time-tracking
+  name: Cross Platform Time Tracking
