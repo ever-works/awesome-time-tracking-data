@@ -4,7 +4,7 @@ description: Native iOS and macOS automation capability that enables custom time
   entries, start timers, calculate durations, and integrate with calendars,
   notes, or spreadsheets.
 source_url: https://support.apple.com/guide/shortcuts/welcome/ios
-category: Time Tracking Tool
+category: Time Tracking Software
 tags:
   - ios
   - macos
@@ -109,11 +109,11 @@ markdown: >-
 
   **Voice Commands**:
 
-  - "Hey Siri, start working on Client A"
+  - \"Hey Siri, start working on Client A\"
 
-  - "Hey Siri, stop tracking"
+  - \"Hey Siri, stop tracking\"
 
-  - "Hey Siri, show my time this week"
+  - \"Hey Siri, show my time this week\"
 
   - Hands-free time logging
 
@@ -235,7 +235,7 @@ markdown: >-
 
   **Complete Workflow**:
 
-  1. Morning: "Start workday" shortcut
+  1. Morning: \"Start workday\" shortcut
 
   2. Switch projects: Quick project picker
 
@@ -407,7 +407,7 @@ markdown: >-
 
   1. Open Shortcuts app
 
-  2. Start with "Gallery" templates
+  2. Start with \"Gallery\" templates
 
   3. Modify existing shortcuts
 
@@ -427,7 +427,7 @@ markdown: >-
 
   - **Repeat actions**: Loop through lists
 
-  - **Error handling**: Add "If" checks
+  - **Error handling**: Add \"If\" checks
 
   - **Notifications**: Confirm actions completed
 
@@ -511,4 +511,4 @@ markdown: >-
 
   - Platform agnostic needs
 brand: Apple
-updated_at: 2026-03-20 11:27
+updated_at: 2026-04-07 10:43

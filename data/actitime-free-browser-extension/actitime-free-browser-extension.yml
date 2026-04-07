@@ -3,7 +3,7 @@ description: Complimentary browser extension offered by actiTIME that enables
   convenient time tracking directly from the browser without switching to the
   main application, reducing friction in time capture.
 source_url: https://www.actitime.com
-category: Time Tracking Tool
+category: Time Tracking Software
 tags:
   - browser-extension
   - convenience
@@ -184,4 +184,4 @@ markdown: >-
   at every point of user interaction, making the desired behavior (time
   tracking) as easy as possible to encourage consistent usage.
 brand: actiTIME
-updated_at: 2026-03-20 07:40
+updated_at: 2026-04-07 10:43

@@ -1,0 +1,34 @@
+name: Honor System Method
+description: A time tracking approach relying on employee self-reported
+  estimates of time spent on projects, also known as rule-of-thumb estimation.
+  It is the easiest and cheapest method but suffers from inaccuracy and lack of
+  detailed records.
+source_url: https://clockify.me/time-tracking-methods
+category: Time Tracking Practice
+tags:
+  - self-reporting
+  - estimation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Employees estimate and report time spent on projects to managers, who then
+  calculate pay based on hourly rates.
+
+
+  ## Pros
+
+
+  - Easiest method
+
+  - Most affordable, no tools needed
+
+
+  ## Cons
+
+
+  - Inaccurate due to under/overestimation
+
+  - Lacks detailed reports for clients or managers
+updated_at: 2026-04-07 10:43

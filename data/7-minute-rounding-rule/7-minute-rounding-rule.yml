@@ -4,7 +4,7 @@ description: A DOL-approved time rounding practice for 15-minute intervals where
   and 8-14 minutes are rounded up, ensuring neutral impact on employee
   compensation when applied consistently.
 source_url: https://hubstaff.com/time-tracking/time-clock-rounding
-category: Time Tracking Practice
+category: Time Tracking Best Practice
 tags:
   - compliance
   - payroll
@@ -117,4 +117,4 @@ markdown: >-
 
 
   N/A - This is a time tracking methodology, not a paid service.
-updated_at: 2026-03-20 19:58
+updated_at: 2026-04-07 10:43

@@ -1,7 +1,11 @@
 name: Jibble
-description: Free time tracking and attendance software with unlimited users.
-  Features GPS tracking, facial recognition, kiosk mode, and automated timesheet
-  generation. Recognized by Forbes as Best Time Clock Software of 2025.
+description: Jibble enables free unlimited attendance and time tracking with
+  biometric face ID, GPS geofencing, kiosk terminals, and offline mode for any
+  team size. Features include Slack/Payroll integrations, auto-generated
+  timesheets with overtime, compliance reports, and AI-powered verification for
+  accuracy. Suited for freelance field service unlike basic Toggl, enterprise
+  compliance exceeding Hubstaff's optional monitoring costs, and nonprofits
+  enjoying Forbes-praised free scalability over paid Clockify upgrades.
 source_url: https://www.jibble.io
 category: Time Tracking Software
 tags:
@@ -92,4 +96,7 @@ markdown: >-
   FREE forever for unlimited users with core time tracking features. Premium
   features available in paid plans for advanced reporting, GPS tracking, and
   integrations.
-updated_at: 2026-03-20 08:56
+brand_logo_url: https://www.jibble.io/assets/images/jibble-logo.svg
+images:
+  - https://www.jibble.io/assets/images/product-dashboard.png
+updated_at: 2026-04-07 10:43

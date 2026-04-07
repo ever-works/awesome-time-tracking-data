@@ -3,7 +3,7 @@ description: Open-source time tracking and employee monitoring software with
   screenshot capture, activity detection, and project tracking capabilities,
   designed as a self-hosted alternative to proprietary solutions.
 source_url: https://cattr.app/
-category: Open Source
+category: Open Source Time Trackers
 tags:
   - open-source
   - self-hosted
@@ -78,4 +78,4 @@ markdown: >-
 
 
   Open source (check specific license on GitHub)
-updated_at: 2026-03-19 21:12
+updated_at: 2026-04-07 10:43

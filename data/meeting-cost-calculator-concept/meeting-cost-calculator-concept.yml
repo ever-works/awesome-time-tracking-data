@@ -3,7 +3,7 @@ description: Tool or practice that calculates the actual cost of meetings by
   multiplying hourly rates by attendee count and duration, making meeting
   expenses visible and promoting more selective scheduling.
 source_url: https://hbr.org/2022/04/the-case-for-finally-cleaning-up-your-calendar
-category: Time Tracking Tool
+category: Time Tracking Software
 tags:
   - meetings
   - cost-analysis
@@ -124,4 +124,4 @@ markdown: >-
   - Shorter meeting durations
 
   - Better preparation and outcomes
-updated_at: 2026-03-19 20:45
+updated_at: 2026-04-07 10:43

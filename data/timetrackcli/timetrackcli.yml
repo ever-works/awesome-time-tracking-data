@@ -1,0 +1,28 @@
+name: timetrackcli
+description: Privacy-Focused Time Tracker - Lightweight, privacy-focused
+  command-line time tracking tool built in Go. Features automatic productivity
+  monitoring with beautiful terminal dashboard, smart reports, and configurable
+  goals. All data stays local with no cloud synchronization, ensuring complete
+  privacy and data ownership.
+source_url: https://github.com/rezmoss/timetrackcli
+category: Open Source Time Trackers
+tags:
+  - cli
+  - privacy
+  - golang
+  - open-source
+  - Developer Focused
+featured: false
+markdown: |-
+  ## Features
+
+  - Automatic productivity monitoring
+  - Terminal dashboard
+  - Smart reports
+  - Configurable goals
+  - Local data only
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-07 10:43

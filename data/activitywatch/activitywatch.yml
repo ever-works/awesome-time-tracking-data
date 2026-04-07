@@ -3,7 +3,7 @@ description: An open-source automatic time tracker that monitors application
   usage, website visits, and computer activity with complete privacy, storing
   all data locally without cloud dependency.
 source_url: https://activitywatch.net/
-category: Open Source
+category: Open Source Time Trackers
 tags:
   - open-source
   - privacy-first
@@ -183,4 +183,4 @@ markdown: >-
 
   Since all data is local, ActivityWatch is inherently self-hosted. Advanced
   users can sync data between devices using their own infrastructure if desired.
-updated_at: 2026-03-19 02:22
+updated_at: 2026-04-07 10:43

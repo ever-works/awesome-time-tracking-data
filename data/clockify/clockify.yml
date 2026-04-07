@@ -1,7 +1,12 @@
 name: Clockify
-description: Free time tracker and timesheet app for unlimited users and
-  projects. Track productivity, attendance, and billable hours with a simple
-  interface and powerful reporting features.
+description: Clockify delivers free, unlimited time tracking across unlimited
+  users and projects through intuitive timers, manual logs, kiosk clocks, and
+  GPS-enabled mobile tracking. It integrates with 80+ platforms such as Asana,
+  Jira, Trello, and offers robust reporting for billables, productivity trends,
+  and automation including reminders, approvals, and invoicing generation.
+  Freelancers leverage its cost-free advanced features over Toggl's restricted
+  free tier, teams handle capacity planning superior to Harvest's paid
+  budgeting, and enterprises scale effortlessly without per-user charges.
 source_url: https://clockify.me/
 category: Time Tracking Software
 tags:
@@ -79,4 +84,8 @@ markdown: >-
   Clockify is particularly popular among freelancers, agencies, and growing
   teams looking for a cost-effective time tracking solution.
 brand: CAKE.com Inc.
-updated_at: 2026-03-16 23:57
+brand_logo_url: https://clockify.me/assets/images/clockify-logo.svg
+images:
+  - https://clockify.me/assets/images/tracker-timer.png
+  - https://clockify.me/assets/images/timesheets.png
+updated_at: 2026-04-07 10:43
