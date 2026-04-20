@@ -1,12 +1,9 @@
 name: Clockify
-description: Clockify delivers free, unlimited time tracking across unlimited
-  users and projects through intuitive timers, manual logs, kiosk clocks, and
-  GPS-enabled mobile tracking. It integrates with 80+ platforms such as Asana,
-  Jira, Trello, and offers robust reporting for billables, productivity trends,
-  and automation including reminders, approvals, and invoicing generation.
-  Freelancers leverage its cost-free advanced features over Toggl's restricted
-  free tier, teams handle capacity planning superior to Harvest's paid
-  budgeting, and enterprises scale effortlessly without per-user charges.
+description: Clockify is a free unlimited time tracker for teams and
+  individuals. Features offline tracking, timesheets, reporting, invoicing, and
+  50+ integrations including QuickBooks and Trello. Suited for small businesses
+  and freelancers seeking cost-free alternative to Toggl with unlimited users
+  and projects.
 source_url: https://clockify.me/
 category: Time Tracking Software
 tags:
@@ -88,4 +85,4 @@ brand_logo_url: https://clockify.me/assets/images/clockify-logo.svg
 images:
   - https://clockify.me/assets/images/tracker-timer.png
   - https://clockify.me/assets/images/timesheets.png
-updated_at: 2026-04-07 10:43
+updated_at: 2026-04-20 20:01
