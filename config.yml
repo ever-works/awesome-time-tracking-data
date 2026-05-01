@@ -83,7 +83,10 @@ metadata:
     priority_categories: []
     target_keywords: []
     providers:
-      pipeline: claude-code
+      pipeline: agent-pipeline
+      search: tavily
+      ai: openrouter
+      contentExtractor: local-content-extractor
     pluginConfig:
       target_items: 50
       capture_screenshots: false
@@ -103,4 +106,4 @@ custom_footer:
     path: /pages/privacy-policy
   - label: footer.COOKIES
     path: /pages/cookies
-version: 0.2.28
+version: 0.2.29

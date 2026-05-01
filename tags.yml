@@ -2754,3 +2754,13 @@
   name: Gdpr Compliant
 - id: developer-focused
   name: Developer Focused
+- id: web-app
+  name: Web App
+- id: mobile-friendly
+  name: Mobile Friendly
+- id: weather
+  name: Weather
+- id: forecast
+  name: Forecast
+- id: add-on
+  name: Add On
