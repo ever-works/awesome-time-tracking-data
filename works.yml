@@ -3,8 +3,8 @@ initial_prompt: Time Tracking - Software, Methodologies and Practices
 providers:
   pipeline: agent-pipeline
   search: tavily
-  ai: openrouter
   contentExtractor: local-content-extractor
+  ai: openrouter
 website_repo: ever-works/awesome-time-tracking-website
 schedule:
   enabled: true
