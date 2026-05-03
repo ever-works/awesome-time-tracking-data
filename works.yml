@@ -2,9 +2,9 @@ name: Awesome Time Tracking
 initial_prompt: Time Tracking - Software, Methodologies and Practices
 providers:
   pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-  ai: openrouter
   search: tavily
+  ai: openrouter
+  contentExtractor: local-content-extractor
 website_repo: ever-works/awesome-time-tracking-website
 schedule:
   enabled: true
