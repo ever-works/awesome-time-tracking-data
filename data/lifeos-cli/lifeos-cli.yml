@@ -1,0 +1,53 @@
+name: lifeos-cli
+description: Lifeos-cli is a terminal-native application that helps users manage
+  their intentions, habits, and time logs through an agent-friendly interface.
+  It uses a PostgreSQL backend for data storage and is designed for productivity
+  tracking via command line.
+source_url: https://github.com/liujuanjuan1984/lifeos-cli
+category: Time Tracking Tool
+tags:
+  - open-source
+  - command-line
+  - productivity
+featured: false
+markdown: >-
+  ## Overview
+
+
+  lifeos-cli is a terminal-native LifeOS application for managing intentions,
+  habits, and timelogs.
+
+
+  ## Features
+
+
+  - Terminal-native interface
+
+  - Manage intentions, habits, and time logs
+
+  - Agent-friendly interface
+
+  - PostgreSQL backend for data storage
+
+  - Open source
+
+  - Command line interface
+
+
+  ## Use Cases
+
+
+  - Personal productivity tracking
+
+  - Habit formation tracking
+
+  - Intentions setting and review
+
+  - Time logging for projects or activities
+
+
+  ## Pricing
+
+
+  Free and open-source. No pricing information available.
+updated_at: 2026-05-03 20:41
