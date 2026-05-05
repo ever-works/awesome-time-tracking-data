@@ -107,3 +107,13 @@ custom_footer:
   - label: footer.COOKIES
     path: /pages/cookies
 version: 0.2.30
+name: Awesome Time Tracking
+providers:
+  contentExtractor: local-content-extractor
+  pipeline: agent-pipeline
+  search: tavily
+  ai: openrouter
+website_repo: ever-works/awesome-time-tracking-website
+schedule:
+  enabled: true
+  cadence: daily
