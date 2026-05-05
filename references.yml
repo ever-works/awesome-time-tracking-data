@@ -1,0 +1,125 @@
+- url: https://activitywatch.net/
+  normalized_url: https://activitywatch.net/
+  first_seen_at: 2026-05-05T21:18:42.644Z
+  last_attempted_at: 2026-05-05T21:18:42.644Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://clockify.me/
+  normalized_url: https://clockify.me/
+  first_seen_at: 2026-05-05T21:21:56.915Z
+  last_attempted_at: 2026-05-05T21:21:56.915Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://en.wikipedia.org/wiki/Time-tracking_software
+  normalized_url: https://en.wikipedia.org/wiki/Time-tracking_software
+  first_seen_at: 2026-05-05T21:37:00.289Z
+  last_attempted_at: 2026-05-05T21:37:00.289Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://hive.com/blog/time-tracking-tools/
+  normalized_url: https://hive.com/blog/time-tracking-tools
+  first_seen_at: 2026-05-05T21:03:44.666Z
+  last_attempted_at: 2026-05-05T21:03:44.666Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://kangaruu.io/best-time-tracking-apps/
+  normalized_url: https://kangaruu.io/best-time-tracking-apps
+  first_seen_at: 2026-05-05T21:06:51.768Z
+  last_attempted_at: 2026-05-05T21:06:51.768Z
+  last_success_at: 2026-05-05T21:06:51.768Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://timeanalyticssoftware.com/best-task-time-tracker-apps/
+  normalized_url: https://timeanalyticssoftware.com/best-task-time-tracker-apps
+  first_seen_at: 2026-05-05T21:15:41.573Z
+  last_attempted_at: 2026-05-05T21:15:41.573Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://toggl.com/
+  normalized_url: https://toggl.com/
+  first_seen_at: 2026-05-05T21:30:55.713Z
+  last_attempted_at: 2026-05-05T21:30:55.713Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.capterra.com/time-tracking-software/
+  normalized_url: https://www.capterra.com/time-tracking-software
+  first_seen_at: 2026-05-05T21:15:57.105Z
+  last_attempted_at: 2026-05-05T21:15:57.105Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Content extraction failed for URL:
+    https://www.capterra.com/time-tracking-software/"
+- url: https://www.capterra.com/time-tracking-software/shortlist/
+  normalized_url: https://www.capterra.com/time-tracking-software/shortlist
+  first_seen_at: 2026-05-05T21:16:08.145Z
+  last_attempted_at: 2026-05-05T21:16:08.145Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Content extraction failed for URL:
+    https://www.capterra.com/time-tracking-software/shortlist/"
+- url: https://www.g2.com/categories/time-tracking
+  normalized_url: https://www.g2.com/categories/time-tracking
+  first_seen_at: 2026-05-05T21:29:39.062Z
+  last_attempted_at: 2026-05-05T21:29:39.062Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Content extraction failed for URL:
+    https://www.g2.com/categories/time-tracking"
+- url: https://www.jibble.io/best-software/best-time-tracking-software
+  normalized_url: https://www.jibble.io/best-software/best-time-tracking-software
+  first_seen_at: 2026-05-05T21:13:34.530Z
+  last_attempted_at: 2026-05-05T21:13:34.530Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.kimai.org/en/
+  normalized_url: https://www.kimai.org/en
+  first_seen_at: 2026-05-05T21:29:14.139Z
+  last_attempted_at: 2026-05-05T21:29:14.139Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.paymoapp.com/blog/employee-time-tracking/
+  normalized_url: https://www.paymoapp.com/blog/employee-time-tracking
+  first_seen_at: 2026-05-05T21:35:11.644Z
+  last_attempted_at: 2026-05-05T21:35:11.644Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://zapier.com/blog/best-time-tracking-apps/
+  normalized_url: https://zapier.com/blog/best-time-tracking-apps
+  first_seen_at: 2026-05-05T21:40:02.686Z
+  last_attempted_at: 2026-05-05T21:40:02.686Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted

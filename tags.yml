@@ -2764,3 +2764,7 @@
   name: Forecast
 - id: add-on
   name: Add On
+- id: chatbot
+  name: Chatbot
+- id: project-management-integration
+  name: Project Management Integration
