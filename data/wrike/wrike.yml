@@ -1,59 +1,57 @@
 name: Wrike
-description: Enterprise-grade work management platform with built-in time
-  tracking, resource management, and advanced analytics. Offers customizable
-  workflows, automation, and extensive integration capabilities for large teams.
-source_url: https://www.wrike.com
+description: "Wrike is a robust project management suite that includes advanced
+  time tracking. Teams can record hours using a live timer or by manual entry on
+  tasks. Wrike then ties those hours to project schedules and lets managers
+  review and approve timesheets as needed. This level of control supports
+  accurate billing and payroll. In use, Wrike displays real-time utilization
+  charts and budget vs. actual comparisons. It also offers powerful resource
+  management: you can see exactly where team time is spent, balance workloads,
+  and forecast capacity."
+source_url: https://www.wrike.com/
 category: Project Management
 tags:
-  - enterprise
+  - project-management
+  - time-tracking
   - resource-management
-  - analytics
 markdown: >-
+  # Wrike
+
+
   ## Overview
 
 
-  Wrike is a versatile work management platform trusted by over 20,000
-  organizations worldwide. Combines project management, collaboration, and time
-  tracking in an enterprise-ready solution.
-
-
-  ## Time Tracking
-
-
-  - Built-in time tracking with timers
-
-  - Time estimates vs actual tracking
-
-  - Resource workload management
-
-  - Billable hours tracking
-
-  - Time reports and analytics
-
-  - Mobile time tracking
+  Wrike is a robust project management suite that includes advanced time
+  tracking. Teams can record hours using a live timer or by manual entry on
+  tasks. Wrike then ties those hours to project schedules and lets managers
+  review and approve timesheets as needed.
 
 
   ## Features
 
 
-  - Custom workflows and automation
+  - Live and manual tracking: Log time with built-in timers or add hours
+  manually to any task.
 
-  - Gantt charts and timelines
+  - Workload analytics: View team availability and workload distribution;
+  reassign tasks to avoid bottlenecks.
 
-  - Kanban boards and calendars
+  - Timesheet approvals: Create, review, lock, or restrict timesheets
+  (weekly/monthly) for accurate accounting.
 
-  - Real-time collaboration
+  - Advanced reports: Drill into billable vs. non-billable tasks, and automate
+  custom reports/invoices for clients.
 
-  - Advanced reporting and analytics
-
-  - Workload view and resource management
-
-  - 400+ integrations
+  - Project-level insights: Use built-in dashboards to track hours per project,
+  ensuring projects stay on schedule and within budget.
 
 
   ## Pricing
 
 
-  Starts at $9.80/user/month. Enterprise plans available with advanced features,
-  security, and support.
-updated_at: 2026-03-20 08:56
+  Wrike has a free plan for small teams (basic task management). Its paid tiers
+  start at $9.80/user/month for the Team plan and $24.80/user/month for the
+  Business plan, both billed annually. Higher tiers (Enterprise, Pinnacle) add
+  unlimited automation, BI reporting, and advanced security; pricing for those
+  is custom.
+brand: Wrike
+updated_at: 2026-05-07 21:59
