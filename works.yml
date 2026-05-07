@@ -109,10 +109,10 @@ custom_footer:
 version: 0.2.32
 name: Awesome Time Tracking
 providers:
+  contentExtractor: local-content-extractor
   pipeline: agent-pipeline
   search: tavily
   ai: openrouter
-  contentExtractor: local-content-extractor
 website_repo: ever-works/awesome-time-tracking-website
 schedule:
   enabled: true
