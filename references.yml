@@ -6,7 +6,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL: https://activitywatch.net/"
 - url: https://blog.orangescrum.com/top-10-time-tracking-software-to-boost-productivity-in-2026/
   normalized_url: https://blog.orangescrum.com/top-10-time-tracking-software-to-boost-productivity-in-2026
   first_seen_at: 2026-05-06T21:14:40.892Z
@@ -15,7 +15,9 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://blog.orangescrum.com/top-10-time-tracking-software-to-boost-product\
+    ivity-in-2026/"
 - url: https://clockify.me/
   normalized_url: https://clockify.me/
   first_seen_at: 2026-05-05T21:21:56.915Z
@@ -24,7 +26,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://clockify.me/"
 - url: https://en.wikipedia.org/wiki/Category:Time-tracking_software
   normalized_url: https://en.wikipedia.org/wiki/Category:Time-tracking_software
   first_seen_at: 2026-05-06T21:31:16.311Z
@@ -33,7 +35,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://en.wikipedia.org/wiki/Category:Time-tracking_software"
 - url: https://en.wikipedia.org/wiki/Comparison_of_time-tracking_software
   normalized_url: https://en.wikipedia.org/wiki/Comparison_of_time-tracking_software
   first_seen_at: 2026-05-06T21:21:21.597Z
@@ -42,7 +45,17 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://en.wikipedia.org/wiki/Comparison_of_time-tracking_software"
+- url: https://en.wikipedia.org/wiki/Time_tracking
+  normalized_url: https://en.wikipedia.org/wiki/Time_tracking
+  first_seen_at: 2026-05-07T21:04:37.790Z
+  last_attempted_at: 2026-05-07T21:04:37.790Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://en.wikipedia.org/wiki/Time_tracking"
 - url: https://en.wikipedia.org/wiki/Time-tracking_software
   normalized_url: https://en.wikipedia.org/wiki/Time-tracking_software
   first_seen_at: 2026-05-05T21:37:00.289Z
@@ -51,7 +64,17 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://en.wikipedia.org/wiki/Time-tracking_software"
+- url: https://en.wikipedia.org/wiki/Toggl
+  normalized_url: https://en.wikipedia.org/wiki/Toggl
+  first_seen_at: 2026-05-07T21:05:38.842Z
+  last_attempted_at: 2026-05-07T21:05:38.842Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://en.wikipedia.org/wiki/Toggl"
 - url: https://hive.com/blog/time-tracking-tools/
   normalized_url: https://hive.com/blog/time-tracking-tools
   first_seen_at: 2026-05-05T21:03:44.666Z
@@ -60,7 +83,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://hive.com/blog/time-tracking-tools/"
 - url: https://kangaruu.io/best-time-tracking-apps/
   normalized_url: https://kangaruu.io/best-time-tracking-apps
   first_seen_at: 2026-05-05T21:06:51.768Z
@@ -77,7 +100,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://timeanalyticssoftware.com/best-task-time-tracker-apps/"
 - url: https://toggl.com/
   normalized_url: https://toggl.com/
   first_seen_at: 2026-05-05T21:30:55.713Z
@@ -86,7 +110,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://toggl.com/"
 - url: https://trackingtime.co/
   normalized_url: https://trackingtime.co/
   first_seen_at: 2026-05-06T21:15:47.928Z
@@ -95,7 +119,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://trackingtime.co/"
 - url: https://www.capterra.com/time-tracking-software/
   normalized_url: https://www.capterra.com/time-tracking-software
   first_seen_at: 2026-05-05T21:15:57.105Z
@@ -103,8 +127,7 @@
   status: error
   items_created: 0
   pipeline: agent-pipeline
-  error: "Content extraction failed for URL:
-    https://www.capterra.com/time-tracking-software/"
+  error: "Processing failed for URL: https://www.capterra.com/time-tracking-software/"
 - url: https://www.capterra.com/time-tracking-software/shortlist/
   normalized_url: https://www.capterra.com/time-tracking-software/shortlist
   first_seen_at: 2026-05-05T21:16:08.145Z
@@ -112,8 +135,17 @@
   status: error
   items_created: 0
   pipeline: agent-pipeline
-  error: "Content extraction failed for URL:
+  error: "Processing failed for URL:
     https://www.capterra.com/time-tracking-software/shortlist/"
+- url: https://www.clockify.me
+  normalized_url: https://www.clockify.me/
+  first_seen_at: 2026-05-07T21:12:07.134Z
+  last_attempted_at: 2026-05-07T21:12:07.134Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.clockify.me"
 - url: https://www.g2.com/categories/time-tracking
   normalized_url: https://www.g2.com/categories/time-tracking
   first_seen_at: 2026-05-05T21:29:39.062Z
@@ -121,8 +153,7 @@
   status: error
   items_created: 0
   pipeline: agent-pipeline
-  error: "Content extraction failed for URL:
-    https://www.g2.com/categories/time-tracking"
+  error: "Processing failed for URL: https://www.g2.com/categories/time-tracking"
 - url: https://www.getharvest.com/
   normalized_url: https://www.getharvest.com/
   first_seen_at: 2026-05-06T21:18:20.250Z
@@ -131,7 +162,26 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://www.getharvest.com/"
+- url: https://www.getharvest.com/blog/what-are-the-methods-of-time-tracking
+  normalized_url: https://www.getharvest.com/blog/what-are-the-methods-of-time-tracking
+  first_seen_at: 2026-05-07T21:02:27.007Z
+  last_attempted_at: 2026-05-07T21:02:27.007Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.getharvest.com/blog/what-are-the-methods-of-time-tracking"
+- url: https://www.harvest.com/
+  normalized_url: https://www.harvest.com/
+  first_seen_at: 2026-05-07T21:08:47.597Z
+  last_attempted_at: 2026-05-07T21:08:47.597Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.harvest.com/"
 - url: https://www.jibble.io/best-software/best-time-tracking-software
   normalized_url: https://www.jibble.io/best-software/best-time-tracking-software
   first_seen_at: 2026-05-05T21:13:34.530Z
@@ -140,7 +190,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.jibble.io/best-software/best-time-tracking-software"
 - url: https://www.kimai.org/en/
   normalized_url: https://www.kimai.org/en
   first_seen_at: 2026-05-05T21:29:14.139Z
@@ -149,7 +200,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://www.kimai.org/en/"
 - url: https://www.paymoapp.com/blog/employee-time-tracking/
   normalized_url: https://www.paymoapp.com/blog/employee-time-tracking
   first_seen_at: 2026-05-05T21:35:11.644Z
@@ -158,7 +209,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.paymoapp.com/blog/employee-time-tracking/"
 - url: https://www.rescuetime.com/
   normalized_url: https://www.rescuetime.com/
   first_seen_at: 2026-05-06T21:26:59.304Z
@@ -167,7 +219,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://www.rescuetime.com/"
 - url: https://www.teamwork.com/blog/employee-time-tracking-software/
   normalized_url: https://www.teamwork.com/blog/employee-time-tracking-software
   first_seen_at: 2026-05-06T21:09:25.987Z
@@ -176,7 +228,17 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.teamwork.com/blog/employee-time-tracking-software/"
+- url: https://www.trackingtime.co/
+  normalized_url: https://www.trackingtime.co/
+  first_seen_at: 2026-05-07T21:14:31.952Z
+  last_attempted_at: 2026-05-07T21:14:31.952Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.trackingtime.co/"
 - url: https://zapier.com/blog/best-time-tracking-apps/
   normalized_url: https://zapier.com/blog/best-time-tracking-apps
   first_seen_at: 2026-05-05T21:40:02.686Z
@@ -185,4 +247,5 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://zapier.com/blog/best-time-tracking-apps/"
