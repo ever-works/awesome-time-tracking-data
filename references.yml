@@ -56,6 +56,16 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: "No items retrieved from URL: https://en.wikipedia.org/wiki/Time_tracking"
+- url: https://en.wikipedia.org/wiki/Time_tracking_software
+  normalized_url: https://en.wikipedia.org/wiki/Time_tracking_software
+  first_seen_at: 2026-05-07T21:30:30.895Z
+  last_attempted_at: 2026-05-07T21:30:30.895Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://en.wikipedia.org/wiki/Time_tracking_software"
 - url: https://en.wikipedia.org/wiki/Time-tracking_software
   normalized_url: https://en.wikipedia.org/wiki/Time-tracking_software
   first_seen_at: 2026-05-05T21:37:00.289Z
@@ -92,6 +102,16 @@
   status: success
   items_created: 1
   pipeline: agent-pipeline
+- url: https://tcpsoftware.com/articles/best-time-tracking-software/
+  normalized_url: https://tcpsoftware.com/articles/best-time-tracking-software
+  first_seen_at: 2026-05-07T21:22:15.076Z
+  last_attempted_at: 2026-05-07T21:22:15.076Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://tcpsoftware.com/articles/best-time-tracking-software/"
 - url: https://timeanalyticssoftware.com/best-task-time-tracker-apps/
   normalized_url: https://timeanalyticssoftware.com/best-task-time-tracker-apps
   first_seen_at: 2026-05-05T21:15:41.573Z
@@ -111,6 +131,15 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: "No items retrieved from URL: https://toggl.com/"
+- url: https://toggl.com/track/
+  normalized_url: https://toggl.com/track
+  first_seen_at: 2026-05-07T21:26:00.662Z
+  last_attempted_at: 2026-05-07T21:26:00.662Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://toggl.com/track/"
 - url: https://trackingtime.co/
   normalized_url: https://trackingtime.co/
   first_seen_at: 2026-05-06T21:15:47.928Z
@@ -128,6 +157,15 @@
   items_created: 0
   pipeline: agent-pipeline
   error: "Processing failed for URL: https://www.capterra.com/time-tracking-software/"
+- url: https://www.capterra.com/time-tracking-software/s/free/
+  normalized_url: https://www.capterra.com/time-tracking-software/s/free
+  first_seen_at: 2026-05-07T21:26:25.919Z
+  last_attempted_at: 2026-05-07T21:26:25.919Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Processing failed for URL:
+    https://www.capterra.com/time-tracking-software/s/free/"
 - url: https://www.capterra.com/time-tracking-software/shortlist/
   normalized_url: https://www.capterra.com/time-tracking-software/shortlist
   first_seen_at: 2026-05-05T21:16:08.145Z
@@ -154,6 +192,15 @@
   items_created: 0
   pipeline: agent-pipeline
   error: "Processing failed for URL: https://www.g2.com/categories/time-tracking"
+- url: https://www.g2.com/categories/time-tracking-software
+  normalized_url: https://www.g2.com/categories/time-tracking-software
+  first_seen_at: 2026-05-07T21:26:37.894Z
+  last_attempted_at: 2026-05-07T21:26:37.894Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Processing failed for URL:
+    https://www.g2.com/categories/time-tracking-software"
 - url: https://www.getharvest.com/
   normalized_url: https://www.getharvest.com/
   first_seen_at: 2026-05-06T21:18:20.250Z
@@ -173,6 +220,17 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://www.getharvest.com/blog/what-are-the-methods-of-time-tracking"
+- url: https://www.getharvest.com/time-tracking/best-automatic-time-tracking-software-2026
+  normalized_url: https://www.getharvest.com/time-tracking/best-automatic-time-tracking-software-2026
+  first_seen_at: 2026-05-07T21:25:23.725Z
+  last_attempted_at: 2026-05-07T21:25:23.725Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.getharvest.com/time-tracking/best-automatic-time-tracking-softw\
+    are-2026"
 - url: https://www.harvest.com/
   normalized_url: https://www.harvest.com/
   first_seen_at: 2026-05-07T21:08:47.597Z
