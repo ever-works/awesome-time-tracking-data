@@ -2768,3 +2768,9 @@
   name: Chatbot
 - id: project-management-integration
   name: Project Management Integration
+- id: paid
+  name: Paid
+- id: synchronization
+  name: Synchronization
+- id: multi-user
+  name: Multi User

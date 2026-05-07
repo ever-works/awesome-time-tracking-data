@@ -7,6 +7,15 @@
   pipeline: agent-pipeline
   provider: Tavily
   error: "No items retrieved from URL: https://activitywatch.net/"
+- url: https://alternativeto.net/software/time-tracking/
+  normalized_url: https://alternativeto.net/software/time-tracking
+  first_seen_at: 2026-05-07T21:51:27.756Z
+  last_attempted_at: 2026-05-07T21:51:27.756Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Processing failed for URL:
+    https://alternativeto.net/software/time-tracking/"
 - url: https://blog.orangescrum.com/top-10-time-tracking-software-to-boost-productivity-in-2026/
   normalized_url: https://blog.orangescrum.com/top-10-time-tracking-software-to-boost-productivity-in-2026
   first_seen_at: 2026-05-06T21:14:40.892Z
@@ -47,6 +56,14 @@
   provider: Local (Readability)
   error: "No items retrieved from URL:
     https://en.wikipedia.org/wiki/Comparison_of_time-tracking_software"
+- url: https://en.wikipedia.org/wiki/Grindstone_(time-tracking_software)
+  normalized_url: https://en.wikipedia.org/wiki/Grindstone_(time-tracking_software)
+  first_seen_at: 2026-05-07T21:59:13.265Z
+  last_attempted_at: 2026-05-07T21:59:13.265Z
+  last_success_at: 2026-05-07T21:59:13.265Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://en.wikipedia.org/wiki/Time_tracking
   normalized_url: https://en.wikipedia.org/wiki/Time_tracking
   first_seen_at: 2026-05-07T21:04:37.790Z
@@ -85,6 +102,16 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: "No items retrieved from URL: https://en.wikipedia.org/wiki/Toggl"
+- url: https://github.com/ever-works/awesome-time-tracking
+  normalized_url: https://github.com/ever-works/awesome-time-tracking
+  first_seen_at: 2026-05-07T21:50:22.270Z
+  last_attempted_at: 2026-05-07T21:50:22.270Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://github.com/ever-works/awesome-time-tracking"
 - url: https://hive.com/blog/time-tracking-tools/
   normalized_url: https://hive.com/blog/time-tracking-tools
   first_seen_at: 2026-05-05T21:03:44.666Z
@@ -102,6 +129,17 @@
   status: success
   items_created: 1
   pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/ever-works/awesome-time-tracking/develop/details/awesome-time-tracking.md
+  normalized_url: https://raw.githubusercontent.com/ever-works/awesome-time-tracking/develop/details/awesome-time-tracking.md
+  first_seen_at: 2026-05-07T21:55:35.772Z
+  last_attempted_at: 2026-05-07T21:55:35.772Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/ever-works/awesome-time-tracking/develop/\
+    details/awesome-time-tracking.md"
 - url: https://tcpsoftware.com/articles/best-time-tracking-software/
   normalized_url: https://tcpsoftware.com/articles/best-time-tracking-software
   first_seen_at: 2026-05-07T21:22:15.076Z
@@ -175,6 +213,16 @@
   pipeline: agent-pipeline
   error: "Processing failed for URL:
     https://www.capterra.com/time-tracking-software/shortlist/"
+- url: https://www.celoxis.com/article/best-time-tracking-software
+  normalized_url: https://www.celoxis.com/article/best-time-tracking-software
+  first_seen_at: 2026-05-07T21:46:33.228Z
+  last_attempted_at: 2026-05-07T21:46:33.228Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.celoxis.com/article/best-time-tracking-software"
 - url: https://www.clockify.me
   normalized_url: https://www.clockify.me/
   first_seen_at: 2026-05-07T21:12:07.134Z
@@ -259,6 +307,16 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: "No items retrieved from URL: https://www.kimai.org/en/"
+- url: https://www.larksuite.com/en_us/blog/time-tracking-software
+  normalized_url: https://www.larksuite.com/en_us/blog/time-tracking-software
+  first_seen_at: 2026-05-07T21:39:24.141Z
+  last_attempted_at: 2026-05-07T21:39:24.141Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.larksuite.com/en_us/blog/time-tracking-software"
 - url: https://www.paymoapp.com/blog/employee-time-tracking/
   normalized_url: https://www.paymoapp.com/blog/employee-time-tracking
   first_seen_at: 2026-05-05T21:35:11.644Z
