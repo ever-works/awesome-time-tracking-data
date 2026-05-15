@@ -110,12 +110,11 @@ version: 0.2.33
 name: Awesome Time Tracking
 providers:
   pipeline: agent-pipeline
-  search: tavily
   ai: openrouter
-  contentExtractor: local-content-extractor
+  search: tavily
+  contentExtractor: tavily
 website_repo: ever-works/awesome-time-tracking-website
-schedule:
-  enabled: true
-  cadence: daily
 initial_prompt: Time Tracking - Software, Methodologies and Practices
 deployProvider: vercel
+activity_sync:
+  mode: pull
