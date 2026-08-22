@@ -56,8 +56,8 @@ settings:
   monetization:
     sponsor_ads:
       currency: USD
-      weekly_price: 300
-      monthly_price: 1000
+      weekly_price: 100
+      monthly_price: 300
   comparisons_enabled: true
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-time-tracking-data/master/pages/logo-light.png
