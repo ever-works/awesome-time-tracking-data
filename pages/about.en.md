@@ -1,98 +1,25 @@
 ---
-title: About Time Tracking Directory
-description: Discover the best time tracking software, tools, and resources. Our comprehensive directory helps you find the perfect time tracking solution for your needs.
-lastUpdated: 2025-11-06
+title: About Awesome Time Tracking
+description: Awesome Time Tracking is a curated directory of time tracking software, timesheet and billing tools, time management methodologies and productivity practices.
+lastUpdated: 2026-08-22
 ---
 
-# About Us
+# About Awesome Time Tracking
 
-## We Help You Stop Wasting Time Looking for Time Tracking Tools
+Awesome Time Tracking is a curated, continuously updated directory of the whole time-tracking landscape: time tracking and timesheet software, billing, invoicing and payroll tools, employee and workforce monitoring, automatic and mobile time capture — and the methodologies, practices, research and thinking behind them, from Pomodoro and time blocking to Deep Work and the Eisenhower Matrix. Alongside the trackers you will also find the project management, productivity and business tools teams use next to them.
 
-Here's the problem: there are over 200 time tracking apps out there. Some are amazing. Most are mediocre. A few are downright terrible. And figuring out which is which? That's a full-time job nobody has time for.
+## What you'll find here
 
-That's why we built this directory.
+- **Time tracking software** — desktop, mobile, browser and open-source trackers for freelancers, agencies and enterprises.
+- **Practices, methodologies and research** — proven techniques for planning, focusing and measuring how time is spent.
+- **Adjacent tools** — project management, payroll, accounting and productivity software that pairs with a tracker.
+- **Comparisons** — side-by-side breakdowns of selected tools and approaches.
+- **Categories and tags** — browse by category (Time Tracking Software, Open Source, Employee Monitoring, Mobile Time Tracking, Time Management Methodology, Industry Specific Time Tracking and more) or filter by tags such as platform, pricing model, features and use case.
 
-We've spent years testing, comparing, and organizing these tools so you don't have to. Whether you're a freelancer tracking billable hours, a team lead managing projects, or a productivity nerd optimizing your day—we'll help you find your perfect match in minutes, not weeks.
+## How the directory is maintained
 
-## What Makes Us Different
+The directory is built and maintained with the [Ever Works](https://ever.works) platform. Every listing is researched from official documentation and reputable sources, summarized with AI assistance, organized into categories and tags, and kept current by the Ever Works pipeline; each listing links back to its original source so you can verify details yourself.
 
-### We Actually Test These Tools
+Sponsored placements are available through the Pricing page and are always clearly labelled — sponsorship never changes how a tool is described. You can leave comments on any listing.
 
-We're not just scraping data from company websites. Our team uses these tools, explores their features, and keeps our listings current. When pricing changes or new features launch, we update our directory. When a tool shuts down, we remove it.
-
-Real reviews. Real testing. Real information.
-
-### We're Time Tracking Obsessed
-
-While other directories list everything from accounting software to project management platforms, we focus exclusively on one thing: helping you track your time better.
-
-This specialization means deeper insights, better comparisons, and actually understanding what matters—like whether a tool has reliable offline mode, clean invoicing, or won't drain your phone's battery.
-
-### No BS, No Bias
-
-We list both the $200/month enterprise platforms and the free indie apps. Popular tools and hidden gems. If it's quality software, it belongs here.
-
-We don't take payments for better placement. We don't hide the alternatives. We just show you what's out there and help you decide.
-
-## What You'll Find Here
-
-**Smart Filtering** - Find tools by features (automatic tracking, GPS, integrations), platforms (iOS, Android, Windows, Mac, Linux), pricing (free, freemium, subscription), or use case (freelancing, teams, billing, productivity).
-
-**Honest Comparisons** - See pros, cons, pricing, and what users actually think. No marketing fluff.
-
-**Time Tracking Resources** - Guides, best practices, and strategies for better productivity and time management.
-
-**Active Community** - Real reviews from freelancers, agencies, and teams who've actually used these tools.
-
-## How It Works
-
-### Finding Your Tool
-
-1. Browse by category (freelance tools, team trackers, billing software)
-2. Filter by what matters to you (features, price, platform)
-3. Read detailed breakdowns and real user reviews
-4. Make an informed decision
-
-### Listing Your Software
-
-Building a tool? List it here and reach people actively searching for solutions like yours.
-
-1. Submit your listing with details, features, and pricing
-2. We review it (usually within 48 hours)
-3. It goes live in our directory
-4. Keep it updated as you ship new features
-
-## Our Principles
-
-**Accuracy First** - We verify information, test tools, and update listings regularly. If we don't know something, we say so.
-
-**Users Win** - Our loyalty is to people searching for tools, not companies selling them. We succeed when you find the right fit.
-
-**Embrace Variety** - One person's perfect tool is another's dealbreaker. We celebrate the diversity of solutions and help you find yours.
-
-**Respect Privacy** - We don't sell your data. We don't spam you. We follow the rules and do the right thing.
-
-## Get Started
-
-**Looking for a tool?** Start browsing by category or use our filters to narrow down your options.
-
-**Built something awesome?** Submit your tool and get in front of thousands of users actively searching for solutions.
-
-**Have feedback?** We're always improving. Tell us what would make this directory more useful.
-
-## Contact
-
-Questions? Partnership ideas? Found outdated info? We're here to help.
-
-- Support and general inquiries
-- Listing submissions and updates
-- Partnership opportunities
-- Media and press requests
-
-Check our [Privacy Policy](/privacy-policy) for how we handle your data.
-
----
-
-Thanks for being here. We're building this directory for people like you—folks who value their time enough to track it well.
-
-*Last Updated: November 6, 2025*
+Spotted something missing or out of date? Use the **Submit** page to suggest an addition or a correction.
