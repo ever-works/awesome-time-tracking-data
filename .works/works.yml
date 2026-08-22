@@ -1,11 +1,11 @@
 pagination:
   type: standard
   itemsPerPage: 12
-company_name: Ever
+company_name: Awesome Time Tracking
 content_table: true
 item_name: Item
 items_name: Items
-copyright_year: 2025
+copyright_year: 2026
 generation_method: create-update
 max_search_queries: 10
 max_results_per_query: 20
@@ -45,6 +45,10 @@ settings:
     search_enabled: true
     default_view: classic
     default_sort: popularity
+    hero_badge_text: Time Tracking Software, Methodologies & Practices
+    hero_title: Find the Right Way to
+    hero_title_gradient: Track Your Time
+    hero_description: A curated directory of time tracking apps, timesheet and billing tools, employee monitoring software, time management methodologies and productivity practices — organized by category, compared side by side and kept up to date.
   footer:
     subscribe_enabled: true
     version_enabled: true
@@ -60,7 +64,7 @@ logo:
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-time-tracking-data/master/pages/logo-dark.png
 custom_hero:
   enabled: false
-  source: /pages/blocks/hero.md
+  source: blocks/hero.md
 metadata:
   last_request_data:
     source_urls: []
@@ -118,3 +122,4 @@ initial_prompt: Time Tracking - Software, Methodologies and Practices
 deployProvider: vercel
 activity_sync:
   mode: pull
+company_website: https://timetrack.ever.works

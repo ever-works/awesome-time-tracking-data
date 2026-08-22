@@ -4,9 +4,9 @@ alignment: center
 min_height: auto
 ---
 
-# Discover the Best Tools
+# Find the Right Way to Track Your Time
 
-Find the perfect solutions to boost your productivity and streamline your workflow.
+A curated directory of time tracking apps, timesheet and billing tools, employee monitoring software, time management methodologies and productivity practices — organized by category, compared side by side and kept up to date.
 
-[Get Started](/discover/1)
-[Learn More](/about)
+[Browse the directory](/discover/1)
+[About](/about)
