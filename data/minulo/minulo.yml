@@ -1,0 +1,51 @@
+name: minulo
+description: App for iPhone, Android and Mac that hides Instagram Reels and
+  YouTube Shorts while messages, search, posts and regular videos keep working.
+  It also hides short-video feeds on TikTok, Snapchat, Facebook and other
+  services. Free to use, with an optional Pro subscription.
+source_url: https://minulo.app/en/
+category: Digital Wellness
+tags:
+  - screen-time
+  - app-blocker
+  - digital-wellbeing
+  - mindful-usage
+  - free-tier
+  - ios
+  - android
+  - macos
+featured: false
+markdown: |-
+  ## Overview
+
+  minulo is an app for iPhone, Android and Mac that hides Instagram Reels and YouTube Shorts. You keep using Instagram and YouTube for messages, search, posts and regular videos, but the short-video feeds are gone.
+
+  ## Features
+
+  - Hides Instagram Reels and YouTube Shorts, plus the short-video feeds on TikTok, X, Threads, Facebook, Reddit, Snapchat, Pinterest and LinkedIn
+  - Choose what to hide on each service
+  - A Reel someone sends you in a message stops before the Reels feed starts
+  - On iPhone, the official apps can be locked with Screen Time while a block is on
+  - You sign in on each service's own page, so minulo never sees your password
+  - The Mac app hides Reels and Shorts in Safari and Chrome
+
+  ## Platforms
+
+  - iPhone: [App Store](https://apps.apple.com/us/app/id6809352229)
+  - Android: [Google Play](https://play.google.com/store/apps/details?id=app.feedminus)
+  - Mac
+
+  ## Pricing
+
+  - **Free**: hiding Reels, Shorts and suggested posts, with no time limit
+  - **Pro (subscription)**: US $9.99 per month or $39.99 per year on the App Store, with a 7-day free trial on the yearly plan for first-time subscribers
+
+  ## Use Cases
+
+  - People who lose time to Reels and Shorts but still need Instagram and YouTube
+  - Students who want to stop scrolling short videos while studying or at night
+brand: minulo
+brand_logo_url: https://minulo.app/icon-180.png
+images:
+  - https://minulo.app/en/og.png
+updated_at: 2026-11-25 09:30
